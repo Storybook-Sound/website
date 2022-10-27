@@ -1,6 +1,6 @@
 # Markdown-based Website
 
-## will run using Jekyl
+## will run using Jekyll
 [notes](https://github.com/gsarchive/markdown/blob/master/README.md)
 
 Files in this repository are considered authoritative. The corresponding HTML
