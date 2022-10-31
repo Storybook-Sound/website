@@ -2,8 +2,12 @@
 import {choc, set_content, on, DOM, fix_dialogs} from "https://rosuav.github.io/choc/factory.js";
 const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P} = choc; //autoimport
 
+let selected_item = 0;
+
 document.body.appendChild(DIALOG({id: "gallerydlg"}, [
-  DIV({id: "dialog_header"}, BUTTON({type: "button", class: "dialog_cancel"}, 'x')),
+  DIV({id: "dialog_header"}, [
+    DIV([BUTTON({id: "prev"}, "previous"), BUTTON({id: "next"}, "next")]),
+    BUTTON({type: "button", class: "dialog_cancel"}, 'x')]),
   FIGURE([
     IMG(),
     FIGCAPTION()
@@ -20,10 +24,11 @@ function image_cover(item) {
 
 set_content("#gallery",
   gallery.map((item, idx) => DIV({"data-idx": idx}, image_cover(item) )
-  ));
+));
 
-on("click", "#gallery > div", e => {
-  const idx = e.match.closest("[data-idx]").dataset.idx;
+function display_item(idx) {
+  selected_item = +idx; // cast as number
+  console.log(selected_item);
   const item = gallery[idx];
   DOM("#gallerydlg img").src = item.image;
   set_content("#gallerydlg figcaption", [
@@ -31,8 +36,21 @@ on("click", "#gallery > div", e => {
     item.artist && H2(item.artist),
     item.roles && P(item.roles.join(", ")),
     item.notes && item.notes.split("\n\n").map(p => P(p)),
+    // TODO LINK
   ]);
+}
+
+on("click", "#gallery > div", e => {
+  display_item(e.match.closest("[data-idx]").dataset.idx);
   DOM("#gallerydlg").showModal();
+});
+
+on("click", "#prev", e => {
+  display_item(selected_item ? selected_item - 1 : gallery.length - 1);
+});
+
+on("click", "#next", e => {
+  display_item((selected_item + 1) % gallery.length);
 });
 
 /*
