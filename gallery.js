@@ -1,6 +1,6 @@
 // --------------------- Created By InCoder ---------------------
 import {choc, set_content, on, DOM, fix_dialogs} from "https://rosuav.github.io/choc/factory.js";
-const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON} = choc; //autoimport
+const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P} = choc; //autoimport
 
 document.body.appendChild(DIALOG({id: "gallerydlg"}, [
   DIV({id: "dialog_header"}, BUTTON({type: "button", class: "dialog_cancel"}, 'x')),
@@ -26,6 +26,12 @@ on("click", "#gallery > div", e => {
   const idx = e.match.closest("[data-idx]").dataset.idx;
   const item = gallery[idx];
   DOM("#gallerydlg img").src = item.image;
+  set_content("#gallerydlg figcaption", [
+    item.project && H1(item.project),
+    item.artist && H2(item.artist),
+    item.roles && P(item.roles.join(", ")),
+    item.notes && item.notes.split("\n\n").map(p => P(p)),
+  ]);
   DOM("#gallerydlg").showModal();
 });
 

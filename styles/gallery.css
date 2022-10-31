@@ -8,6 +8,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  max-width: 90%;
 }
 
 #gallery>div {
@@ -18,6 +19,11 @@
   max-width: 100%;
   vertical-align: middle;
   border: 0;
+}
+
+#gallerydlg figure {
+  display: flex;
+  gap: 1em;
 }
 
 /* Close Button */
