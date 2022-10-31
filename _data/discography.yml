@@ -1,33 +1,3985 @@
-- project: Human Indictive/Live
-  artist: OPTO S
+- project: Mixing Console
   roles:
-    - mastering
-  image: https://storybooksound.com/app/uploads/2020/11/ED53DFA4-33E6-41D5-820E-42E15A55690D.jpeg
-  notes:
-    "ESP-Disk
-    Mastered by Scott Anthony at Storybook Sound"
-  year: 2020
-  link: https://en.wikipedia.org/wiki/ESP-Disk
-- project: TEST
-  artist: Chris and Mike
+    - What did I do here again?
+  image: http://www.storybooksound.com/wp-content/uploads/2013/02/MixingConsole2_feat.jpg
+- project: Stained Glass
   roles:
-    - engineering
-    - mastering
-    - producing
+    - What did I do here again?
+  image: http://www.storybooksound.com/wp-content/uploads/2013/02/Stained-Glass-feat.jpg
+- project: Livingrm_left2_Feature
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/wp-content/uploads/2014/02/Livingrm_left2_Feature.jpg
+- project: Illtet "Live C.B.G.B.'S"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/03/Front1.jpg
+- project: Stranger Things
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/The-Swales.jpg
+- project: Shabbat Shaboom
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/image9.jpg
+- project: Under A Shady Tree
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/image8.jpg
+- project: Disco Dance Party 2000
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/disco-dance.jpg
+- project: Boz Metzdorf "Green And Blue"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/cdcover_5_greenandblue.jpg
+- project: Sit Down At The Table
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Prof-Louie-SitDownAtTheTable-Front_1_1024x1024.jpg
+- project: Right Here Right Now
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/JustinTUrk.jpg
+- project: One Dog Town
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Elena.png
+- project: Uptown, Alive And Well
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Dirty-Water-Dogs.jpg
+- project: Page 18
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Bush-Tetras-Page-18.jpg
+- project: Monstrous
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Brothers-Gethway.jpg
+- project: Randy Noojin "Hard Travelin' With Woody and The Hobos"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/woody.jpeg
+- project: Oh Joy!
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/shitbirds.jpg
+- project: High Wide and Handsome
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/pinamonti.jpg
+- project: "Over The Moon"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/over-the-moon.jpg
+- project: Andiamo
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/malarkies.jpg
+- project: Land Of My Baby
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/land-of-my-baby.jpg
+- project: The Chymical Vegas Wedding
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/joe-cassady.jpg
+- project: Snowblind
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/image11.jpg
+- project: Above The Stinkin' Law!
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/con-artists.jpg
+- project: Cities Filled With Lights
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/cities_filled_with_lights_import-schickele_matt-3482332-frnt.jpg
+- project: Beastie Boys "The Sounds Of Science"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/beastie-anth.jpg
+- project: Past & Gone
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/549370_10151312872731527_848402580_n.jpg
+- project: Summer's Going By
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/jeffcohen.jpg
+- project: Black Coffee Blues
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Henry-Rollins.jpg
+- project: Blue Sky Lullaby
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Blue-Sky-Lullaby.jpg
+- project: I Have Some Language
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/wobblies.jpg
+- project: Welcome To The Dollhouse - Soundtrack
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Welcome-To-The-Dollhouse-Soundtrack-Front.jpg
+- project: Togetherness
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/togetherness.jpg
+- project: All Secrets Fade
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/stevelee.jpg
+- project: 1943
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/soltero.jpg
+- project: Snake Road
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/snake-road.jpg
+- project: Sodden Psalms
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/skel.jpg
+- project: Skanatra
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/skanatra.jpg
+- project: Sinsanity "The Machine"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/sinsanity.jpg
+- project: Morning Becomes Electric
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/rob-norris.jpg
+- project: Redemption
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/redemption-tj-swan-music.jpg
+- project: Karen Ramos
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/ramos.jpg
+- project: JP3
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/pinamonti2.jpg
+- project: Pigeons "The Helpless and The Hopeless"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/pigeons.jpg
+- project: Luckiest Boy in the World 
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/oren.jpg
+- project: Kiss Me
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/mzi.gxrvvieh.170x170-75.jpg
+- project: Mimi Cross "Monkey Trap"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Monkey-Trap-Cover.jpg
+- project: The Seduction of Sarah Sahonie
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/mike-ill.jpg
+- project: Marco Ranieri "Heartbroken Radio"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/marco.jpg
+- project: Cleaning Out The Ashtrays
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/lloyd.jpg
+- project: Live! Live! Live!
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/live.jpg
+- project: Li'l Mo and The Monicats "Whole Lotta Love"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/lil-mo.jpg
+- project: Semi-Blue
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/kito.jpg
+- project: Take Me Home
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/KGrHqMOKnE5-fnvtvBOvdJBgUOQ60_35.jpg
+- project: Ecstatic
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/kevin-salem.jpg
+- project: Them Keener Boys
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/keener.jpg
+- project: Release
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/kate.jpg
+- project: Together In Time
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/julianjenifer.jpg
+- project: Slowly Bright
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/jeniferj2.jpg
+- project: Jack Brag
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/jackbrag.jpg
+- project: From Out Of Big Blue
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/image7.jpg
+- project: The Shitbirds
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/image4.jpg
+- project: Shitbirds
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/image3.jpg
+- project: Sweet Lizard Illtet "2 Rare"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/illtet-2-rare.jpg
+- project: Homage - lots of bands doing Descendants songs
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Homage.jpg
+- project: Simply
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/grace.jpg
+- project: Electric Goddess
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/GODDESScovercrop.jpg
+- project: The Demo Anthology
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/gef.jpg
+- project: Another Gay Movie Soundtrack
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/gay-movie.jpg
+- project: Creatured
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/gambees.jpg
+- project: One Thing Right
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/galoots.jpg
+- project: Amber Waves
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/flint.jpg
+- project: We Are The World
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/family-of-god.jpg
+- project: English 101
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/english-101.jpg
+- project: What A Beautiful Child
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/ella.jpg
+- project: Night Time
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/driver-quartet.jpg
+- project: Chris Butler "Easy Life"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/chrisbutler1.jpg
+- project: Improvising
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/CDOmuImprovising.jpg
+- project: Bridge
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/bridge-jake-cd-cover-art.jpg
+- project: Bob Evans "Pipeline on WMBR"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/bob.jpg
+- project: In & Out
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/bloodsugar.jpg
+- project: Blastula
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/blastula.jpg
+- project: Beastie Boys "Hello Nasty"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/beastieboys_nasty_cover.jpg
+- project: Beastie Boys "Aglio e Olio"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Beastie_Boys_-_Aglio_e_Olio.jpg
+- project: Barefoot Tramps "Wheels On Fire"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Barefoot.jpg
+- project: Digital Retro
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/badge.jpg
+- project: Driving You Insane
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/ann-klein.jpg
+- project: Alegria
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/alegria.jpg
+- project: Charlie the Symbolic Dog
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/627279.jpg
+- project: Too Many Spirits
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/51YpDrxKs1L._SL500_AA280_.jpg
+- project: David Poe
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/3981858849-1.jpg
+- project: Kneel
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/sheehan_kneel.jpg
+- project: Tragico Magico
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/tragico-magico.jpg
+- project: For You
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Yooj.png
+- project: Slowpokes
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/slowpokes.jpg
+- project: Pretty Town
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/pretty-town.jpeg
+- project: You Are My Flower
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/mitchell.jpeg
+- project: Sweet Lizard Illtet "Illtet Live & Rarities"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/illtet-live.png
+- project: Hocus Pocus
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/dechand.png
+- project: You And Me Are We
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/daniel.jpeg
+- project: Chromium Dub
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/67044_10151202252332912_1798014794_n.jpg
+- project: "Superhits Of The Seventies"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/WFMU_SUPER_HITS.jpg
+- project: Thunk
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Thunk2.png
+- project: The Art Of Navigation
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/regia.jpg
+- project: The Plunk Brothers
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Plunk2.png
+- project: I Love You
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Leif2.png
+- project: The New INTERface Trio
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/John-Fischer.png
+- project: Holding Back The Years
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Jimmy-Scott1.jpg
+- project: Open On Sunday
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/image1.jpg
+- project: AntiFolk Road Manual
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/AntiFolk.png
+- project: Gypsy 83 Soundtrack
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/Gypsy-83-Soundtrack.jpg
+- project: Anywhere Will Do
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/beekeeper.png
+- project: Out Of Order "Hey Pussycat!"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/OOO.jpeg
+- project: Receding Choir
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/receding.jpeg
+- project: Love Lane
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/love-lane.jpeg
+- project: Live at Sunny's
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/jp.jpeg
+- project: End of Smith
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/jp-smith.jpeg
+- project: Famous Recording Artists
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/famous.jpeg
+- project: Friend or Foe
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/erica.jpeg
+- project: Chris Butler "The Museum of Me"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/cb.jpeg
+- project: Fable
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/speace.jpeg
+- project: Kilopop
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/kilopop.jpeg
+- project: John Wolfington
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/wolfington.jpeg
+- project: Chris Butler "I Feel A Bit Normal Today"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/cb2.jpeg
+- project: Needles
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/needles.jpeg
+- project: Each Day Blues
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/each-day.jpeg
+- project: Jeff Now
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/jeff.jpeg
+- project: 2 Nice Girls
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/two-nice.jpeg
+- project: Pop Another Cork
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/pop.jpg
+- project: Ostrich
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2014/01/beekeeper-ostrich.jpg
+- project: Dangerous
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2015/12/IMG_5061.jpg
+- project: Glenn Mercer "Incidental Hum"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2015/12/Glenn-Mercer_Incidental-Hum.jpg
+- project: Girls on Grass "Girls on Grass"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2015/12/GirlsOnGrass.jpg
+- project: Dead Cowgirl
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/Muerto.jpg
+- project: Unicorn "One More Tomorrow: Remastered & Expanded Edition"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/UNICORN-One-More-Tomorrow.jpg
+- project: Eugene Chrysler "Hillbilly Fun Park"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/index.jpg
+- project: The Feelies "In Between"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/The-Feelies-In-Between.jpg
+- project: Viva DeConcini "Living Well is the Best Revenge"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/rel_17.10.13_Viva.jpg
+- project: Yarn "This Is The Year"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/album-cover-tity.jpg
+- project: Allos Musica Ensemble "Gnossienne"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/AllosMusicaEnsemble_Gnossienne.jpg
+- project: Elena & Boo "I Wait For The Light"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/a3436751216_10.jpg
+- project: Monica Passin "Monette"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/monicapassin.jpg
+- project: The Feelies "Uncovered"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/032862024016.jpg
+- project: Michael Shelley "Jimmy's Corner"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/a3233213209_10.jpg
+- project: The Feelies "Only Life"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/Feelies_Only_mini236.jpeg.jpg
+- project: The Feelies "Time For A Witness"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/Feelies_Time_mini237.jpeg.jpg
+- project: Andy Lamy "The New Blackthorn Stick"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/61Ndby9LfUL._SS500.jpg
+- project: Jonas Friddle & The Majority
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/jfatm.png
+- project: Jane Lee Hooker "No B!"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/no-b.jpg
+- project: East Of Venus "Memory Box"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/East-Of-Venus-Memory-Box-OV-167.jpg
+- project: Men & Volts "Honeymoon Luggage"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/HoneymoonLuggageBoxLid5k15y10m.jpg
+- project: Various Artists, David Greenberger "7MAY17"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/7May17-cover.jpg
+- project: Monica Passin "Li’l Mo & The Monicats’ Country & Rockabilly Sampler"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/21427225_1532122473502034_5846884187785515552_o.jpg
+- project: Allied Chemical "Sword Soup"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/a3835975820_10.jpg
+- project: The Cucumbers "The Fake Doom Years (1983-1986)"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/Fake-Doom-Years-cover-art.jpg
+- project: George Taylor & Eric Kivnick "Bach String Drum C Major Cello Suite" by J.S. Bach
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/bach-string-drum.jpg
+- project: ex->tension "The Kiss"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/a3236035658_16.jpg
+- project: Wayfaring "I Move, You Move"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/a2479292939_16.jpg
+- project: Jam Alker "Sophrosyne"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/Jam-Alker-Sophrosyne-2017.jpg
+- project: Zenizen "AUSTRALIA" (Deluxe Edition)
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/DG-151Zenizen1400cover-300x300.jpg
+- project: Animal Masks "Animal Masks"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/a1974372485_16.jpg
+- project: Frank Migliorelli & The Dirt Nappers "Bass, Drums, Guitars, Organs"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/a0873663743_10.jpg
+- project: "A Winding Road, A Ramble With Richard Thompson"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/09/A-Winding-Road-A-Ramble-With-Richard-Thompson.jpg
+- project: "More Superhits Of The Seventies"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/More_Super_Hits_WFMU_front_cover.jpg
+- project: "Even More Superhits Of The Seventies"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/frontB.jpg
+- project: "Superhits Of The Seventies Hit Explosion!"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/Hit_Explosion_500.jpg
+- project: "Superhits Of The Seventies Pure DYN-O-MITE"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/coverLG.jpg
+- project: Brian Kelly "Released"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/thumbnail.jpg
+- project: Eric Kivnick "Music For Martha"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/original.jpeg.jpg
+- project: Michael Kroll "Clamorous"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/clamorous300.png
+- project: Buddy Toth "Sodium Flares"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/a4133106848_10.jpg
+- project: Cartoon Spirits "Crustacean EP"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/0006983216_10.jpg
+- project: Jason Didner and the Jungle Gym Jam "Everyone's Invited"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/everyones-invited-cover-artwork-300x300.jpg
+- project: Jason Didner and the Jungle Gym Jam "Lollipop Motel"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/maxresdefault.jpg
+- project: Terry McCarthy "Go Fourth"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/terrymccarthy2.jpg
+- project: Alice Despard Group "Mosaic"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/alicedespardgroup_large.jpg
+- project: Aliah Rosenthal "Slick Bowery Sell Out"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/aliahrosenthal.jpg
+- project: The Dayhikers "Don't Want To"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/49186abcb7c40f72e7d2e6c190a1e1a86e92d848.jpg
+- project: Emily Hurd "Landmark"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/album-cover-new.jpg
+- project: Peter Hutchison "Empire of Light"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/peterhutchison_large.jpg
+- project: Regular Einstein "Chimp Haven"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/a3527765269_10.jpg
+- project: Re/ly "Bilateral"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/1200x630bb.jpg
+- project: Frank Ippolito "The Watermark Project"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/s-l300.jpg
+- project: Adam Bernstein "The DnA Singles"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/a2417722435_10.jpg
+- project: Mama Doni
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/bible-stories-I-NEW.jpg
+- project: Tracy Island "War No More"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/a1132546816_10.jpg
+- project: "Cut Pieces: A Tribute To Yoko Ono"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/MI0003808926.jpg
+- project: Bob Evans "Jersey Barrier"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/41YTErN-V0L._SL500_SY355_.jpg
+- project: Deena "Rock River"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/deena2_large.jpg
+- project: Soltero "Jamming The Gaydar"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/a2553163188_16.jpg
+- project: Love Henry "Rowdy Lotion"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/lovehenry_large.jpg
+- project: The Nu-Sonics "We're Not Happy 'Til You're Not Happy"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/we-re-not-happy-til-you-re-not-happy.jpg
+- project: 4th St. NiteOwls "From the Boneyard"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/a1841937923_16.jpg
+- project: Steve Holtje "A Man Full Of Days"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/81OmtUEDL._SY355_.jpg
+- project: Ed Stengel "Legacy"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/edstengel.jpg
+- project: Michael William Levine "Just Down The Road"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/a0977830165_10.jpg
+- project: Tom Warnick & the World's Fair "Side Effects"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/71OEoVk3Z9L._SY355_.jpg
+- project: Joe Lozito "Wasteland"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/joelozito.jpg
+- project: Jack Brag "Kiss At Midnight"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/MI0003944546.jpg
+- project: Heather Hardy "Blue Silhouette"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/cd-cover-for-digital-sales.jpeg.jpg
+- project: Hallow Dog "Change In Luck"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/hallowdog12.jpg
+- project: Emily Duff "Go Tell Your Friends"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/a1603614223_10.jpg
+- project: Jeff Slate "Secret Poetry"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/910Wvnne22L._SL1500_.jpg
+- project: Bhujanga Sangha "Naad Your Heart"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/naadyourheartcover.jpg
+- project: Miss Nina & The Jumping Jacks "Every Day's Your Birthday"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2017/10/61y7MAv8lPL._SY355_.jpg
+- project: Rebecca Turner "The New Wrong Way"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/Rebecca-Turner-The-New-Wrong-Way.jpg
+- project: Karen Dahlstrom "When Will I Be Loved"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/Karen-Dahlstrom-When-Will-I-Be-Loved.jpg
+- project: Roger C. Reale "The Collection"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/Roger-C.-Reale-The-Collection.jpg
+- project: Unicorn "Laughing Up Your Sleeve"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/Unicorn-Laughing-Up-Your-Sleeve-OV-302.jpg
+- project: Alex Chilton "From Memphis To New Orleans"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/AlexChltonMemphisminiBRNLP258.jpg
+- project: Alex Chilton "Songs From Robin Hood Lane"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/AChiltonRobinmini259.jpg
+- project: Chris Butler "Got It Togehter !"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/Chris-Butler-Got-It-Together-New-CD.jpg
+- project: Jim Higgins "Yestermorrow"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2302804362_10.jpg
+- project: Bob Perry "American Standardsville"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a0372908768_10.jpg
+- project: Stephanie Seymour "There Are Birds"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a1242019964_10.jpg
+- project: Thollem/Parker/Cline "Gowanus Sessions II"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/ESPDISK5038LP_CU.jpg
+- project: "The Unexplainable Disappearance Of Mars Patel"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/cropped-mars-sitecover.jpg
+- project: Allied Chemical "So Sudden"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2428527589_10.jpg
+- project: Betwixt "The Salty Tang"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a3434241139_10.jpg
+- project: Ryan Herrick "Heal Your Bones"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/l1alb01781235_large.jpg
+- project: The Campfire Flies "Sparks Like Little Stars"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/tpalb01558634_large.jpg
+- project: Bill Bressler "Normal Boy"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2169546794_10.jpg
+- project: Yung Wu "Shore Leave"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/yung_wu_mini.jpg
+- project: Julia Greenberg "Greenland"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/JG_Greenland_Cover.jpg
+- project: Yarn "Lucky 13 Vol. 1"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/81egJqPDL._SL1500_.jpg
+- project: Adam Bernstein "I Remember All Your Dreams"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2712122063_10.jpg
+- project: Tyranny Of Dave "The Decline Of America Part 3: Silence In Brooklyn"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2414837606_10.jpg
+- project: Bobtown "Chasing The Sun"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a1585712335_10.jpg
+- project: Karen Dahlstrom "No Man's Land"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a1698171087_10.jpg
+- project: "Superhits of the Seventies Super Hit Tsunami"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/frontfinal.jpg
+- project: Allied Chemical "This Isn't Working Out"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a3280276155_10.jpg
+- project: Western Caravan "Honky Tonk"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/p8alb01302911_large.jpg
+- project: Evan Hause "Plastic Island Pentecost"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2255215353_10.jpg
+- project: Jim Allen "Where the Sunshine Bit You"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a4213123763_10.jpg
+- project: Frank Bango "Christmas in Bed with My Baby"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2996221471_10.jpg
+- project: Tiokasin Ghosthorse "Somewhere In There"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/61GD172QUoL._SS500_.jpg
+- project: Uta Habbig "Windward"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/81I1kuGdpqL._SS500_.jpg
+- project: John Pinamonti "The Usual"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/The-Usual-Cover.jpg
+- project: Tulula! "Singing Songs In The Dark"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2176663352_10.jpg
+- project: Juniper "Boys! Boys! Boys!" single
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/index.png
+- project: Wire Troop "Trio Power"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a0172694111_10.jpg
+- project: The Second Take "Just Let It Happen"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/lpalb01696115_large.jpg
+- project: The Poor Man's Opera "Barstool Confessional"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/52287144_2227745563950010_7141804583386349568_o.jpg
+- project: Tom Shape "Tom Shape"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a1886271816_10.jpg
+- project: Frank Migliorelli & The Dirt Nappers "The Things You Left Behind"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a4201811960_10.jpg
+- project: Luke Tuchscherer "Carousel"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a3598181515_10.jpg
+- project: Mike Daly and The Planets (single)
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a3929898019_10.jpg
+- project: Sad About Girls (single)
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a3761727695_10.jpg
+- project: Radical Empathy Trio "Reality And Other Imaginary Places"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/ESP5035-front-small-750x750.jpg
+- project: The neithernors "Pleasant Valley Fun House"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2943096172_10.jpg
+- project: June Cleaver and the Steak Knives "A Place Where Nobody Goes"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/cd-june-cleaver-_-the-steak-knives.jpg
+- project: Caroline De Schryver "Telling Stories"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/910YpzybbzL._SS500_.jpg
+- project: Evergreen "Do The Needful"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a1957058005_10.jpg
+- project: The Missing Suns "Shut Up And Deal"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a3675703686_10.jpg
+- project:  
+  roles:
+    - What did I do here again?
   image: https://storybooksound.com/app/uploads/2020/02/a3783403906_10.jpg
-  notes:
-    "MZOO-Disk
-    Engineered and Mastered by Scott Anthony at Storybook Sound"
-  year: 2020
-  link: https://en.wikipedia.org/wiki/ESP-Disk
-- project: TEST TWO
-  artist: Chris and Mike Also
+- project: Carnival Crash "It Is A Happy Man"
   roles:
-    - engineering
-    - mastering
-    - producing
-  notes:
-    "MZOO-Disk
-    Engineered and Mastered by Scott Anthony at Storybook Sound"
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/R-13762123-1560570385-1502.jpeg.jpg
+- project: Coconut Email "When The Sun Sets"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a1070961729_10.jpg
+- project: Dada Paradox "Mobile Flight"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a1633520577_10.jpg
+- project: Michael J. Miles "A-sides"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/michaeljmiles16_large.jpg
+- project: Saturday Afternoon Song Swap "Swap Thing: Part 1"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/71dRyXzXGqL._SS500_.jpg
+- project: Saturday Afternoon Song Swap "Swap Thing: Part 2"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/61Gd48C-6mL._SS500_.jpg
+- project: Lizzie & The Makers "Meanwhile..."
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/02/a2773344258_10.jpg
+- project: Nation Beat "The Royal Chase"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/The-Royal-Chase.jpg
+- project: Blanc Du Blanc "The Blanc Album"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Blanc-Du-Blanc.jpg
+- project: Chris Harford "Songs for the Antediluvian"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Songs-for-the-Ant.jpg
+- project: Sad About Girls "She Walks In Beauty"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/She-Walks-In-Beauty.jpg
+- project: The Reducers "Live In Montville"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Live-In-Montville.jpg
+- project: Paula Carino "Door" b/w "Welcome, Spiders"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Door.jpg
+- project: Juniper "Juniper"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Juniper.jpg
+- project: Naughty Clouds "Live Your Life"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Live-Your-Life.jpg
+- project: Girls on Grass "Spill Your Guts" b/w "Who's Gonna Cry"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Spill-Your-guts.jpg
+- project: Heartbreak Lullabye
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Heartbreak-Lullabye.jpg
+- project: Bob Perry & Edward Rogers "Broken Sides"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Broken-Sides.jpg
+- project: Petey & the True Mongrel Hearts "Turning of the Wheel" b/w "Little Leeway"Turning of the Wheel
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Turning-of-the-Wheel.jpg
+- project: Petey & the True Mongrel Hearts  "Home In The Wind"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Home-In-The-Wind.jpg
+- project: Speed the Plough "Just Because You Can"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Just-Because-You-Can.jpg
+- project: Speed the Plough "Rush Hour"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Rush-Hour.jpg
+- project: "Omniana"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Omniana.jpg
+- project: Emily Hurd "Nightshades"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/10/Nightshades.jpg
+- project: David Greenberger & Tyson Rogers "Smaller Scale"
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/11/Smaller-Scale.jpg
+- project: Carole_King_-_Tapestry
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2016/02/Carole_King_-_Tapestry.jpg
+- project: Speed the Plough "Now"
+  roles:
+    - What did I do here again?
+  image: http://www.storybooksound.com/app/uploads/2016/02/nowcover.jpg
+- project: OPTO S “Human Indictive/Live”
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/app/uploads/2020/11/ED53DFA4-33E6-41D5-820E-42E15A55690D.jpeg
+- project: OPTO S “Human Indictive/Live”
+  artist: OPTO S
   year: 2020
-  link: https://en.wikipedia.org/wiki/ESP-Disk
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/opto-s-human-indictive-live/
+- project: David Greenberger & Tyson Rogers "Smaller Scale"
+  artist: David Greenberger &amp; Tyson Rogers
+  year: 2020
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/david-greenberger-tyson-rogers-smaller-scale/
+- project: Emily Hurd "Nightshades"
+  artist: Emily Hurd
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/emily-hurd-nightshades/
+- project: "Omniana"
+  year: 2020
+  roles:
+    - Production
+  image: https://storybooksound.com/recording_project/omniana/
+- project: Speed the Plough "Rush Hour"
+  artist: Speed the Plough
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/speed-the-plough-rush-hour/
+- project: Speed the Plough "Just Because You Can"
+  artist: Speed the Plough
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/speed-the-plough-just-because-you-can/
+- project: Petey & the True Mongrel Hearts  "Home In The Wind"
+  artist: Petey &amp; the True Mongrel Hearts
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/petey-the-true-mongrel-hearts-home-in-the-wind/
+- project: Petey & the True Mongrel Hearts "Turning of the Wheel" b/w "Little Leeway"Turning of the Wheel
+  artist: Petey &amp; the True Mongrel Hearts
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/petey-the-true-mongrel-hearts-turning-of-the-wheel-b-w-little-leewayturning-of-the-wheel/
+- project: Bob Perry & Edward Rogers "Broken Sides"
+  artist: Bob Perry &amp; Edward Rogers
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bob-perry-edward-rogers-broken-sides/
+- project: Heartbreak Lullabye
+  artist: Heartbreak Lullabye
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/heartbreak-lullabye/
+- project: Girls on Grass "Spill Your Guts" b/w "Who's Gonna Cry"
+  artist: Girls on Grass
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/girls-on-grass-spill-your-guts-b-w-whos-gonna-cry/
+- project: Naughty Clouds "Live Your Life"
+  artist: Naughty Clouds
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/naughty-clouds-live-your-life/
+- project: Juniper "Juniper"
+  artist: Juniper
+  year: 2020
+  roles:
+    - Recording
+  image: https://storybooksound.com/recording_project/juniper-juniper/
+- project: Paula Carino "Door" b/w "Welcome, Spiders"
+  artist: Paula Carino
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/paula-carino-door-b-w-welcome-spiders/
+- project: The Reducers "Live In Montville"
+  artist: The Reducers
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-reducers-live-in-montville/
+- project: Sad About Girls "She Walks In Beauty"
+  artist: Sad About Girls
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/sad-about-girls-she-walks-in-beauty/
+- project: Chris Harford "Songs for the Antediluvian"
+  artist: Chris Harford
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/chris-harford-songs-for-the-antediluvian/
+- project: Blanc Du Blanc "The Blanc Album"
+  artist: Blanc Du Blanc
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/blanc-du-blanc-the-blanc-album/
+- project: Nation Beat "The Royal Chase"
+  artist: Nation Beat
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/nation-beat-the-royal-chase/
+- project: Lizzie & The Makers "Meanwhile..."
+  artist: Lizzie &amp; The Makers
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/lizzie-the-makers-meanwhile/
+- project: Saturday Afternoon Song Swap "Swap Thing: Part 2"
+  artist: Saturday Afternoon Song Swap
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/saturday-afternoon-song-swap-swap-thing-part-2/
+- project: Saturday Afternoon Song Swap "Swap Thing: Part 1"
+  artist: Saturday Afternoon Song Swap
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/saturday-afternoon-song-swap-swap-thing-part-1/
+- project: Michael J. Miles "A-sides"
+  artist: Michael J. Miles
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/michael-j-miles-a-sides/
+- project: Dada Paradox "Mobile Flight"
+  artist: Dada Paradox
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/dada-paradox-mobile-flight/
+- project: Coconut Email "When The Sun Sets"
+  artist: Coconut Email
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/coconut-email-when-the-sun-sets/
+- project: Carnival Crash "It Is A Happy Man"
+  artist: Carnival Crash
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/carnival-crash-it-is-a-happy-man/
+- project:  
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/3622/
+- project: The Missing Suns "Shut Up And Deal"
+  artist: The Missing Suns
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-missing-suns-shut-up-and-deal/
+- project: Evergreen "Do The Needful"
+  artist: Evergreen
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/evergreen-do-the-needful/
+- project: Caroline De Schryver "Telling Stories"
+  artist: Caroline De Schryver
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/caroline-de-schryver-telling-stories/
+- project: June Cleaver and the Steak Knives "A Place Where Nobody Goes"
+  artist: June Cleaver and the Steak Knives
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/june-cleaver-and-the-steak-knives-a-place-where-nobody-goes/
+- project: The neithernors "Pleasant Valley Fun House"
+  artist: The neithernors
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-neithernors-pleasant-valley-fun-house/
+- project: Radical Empathy Trio "Reality And Other Imaginary Places"
+  artist: Radical Empathy Trio
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/radical-empathy-trio-reality-and-other-imaginary-places/
+- project: Sad About Girls (single)
+  artist: Sad About Girls (single)
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/sad-about-girls-single/
+- project: Mike Daly and The Planets (single)
+  artist: Mike Daly and The Planets (single)
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/mike-daly-and-the-planets-single/
+- project: Luke Tuchscherer "Carousel"
+  artist: Luke Tuchscherer
+  year: 2019
+  roles:
+    - Recording
+  image: https://storybooksound.com/recording_project/luke-tuchscherer-carousel/
+- project: Frank Migliorelli & The Dirt Nappers "The Things You Left Behind"
+  artist: Frank Migliorelli &amp; The Dirt Nappers
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/frank-migliorelli-the-dirt-nappers-the-things-you-left-behind/
+- project: Tom Shape "Tom Shape"
+  artist: Tom Shape
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/tom-shape-tom-shape/
+- project: The Poor Man's Opera "Barstool Confessional"
+  artist: The Poor Man's Opera
+  year: 2019
+  roles:
+    - Mastering
+    - Mixing
+    - Recording
+  image: https://storybooksound.com/recording_project/the-poor-mans-opera-barstool-confessional/
+- project: The Second Take "Just Let It Happen"
+  artist: The Second Take
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-second-take-just-let-it-happen/
+- project: Wire Troop "Trio Power"
+  artist: Wire Troop
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/wire-troop-trio-power/
+- project: Juniper "Boys! Boys! Boys!" single
+  artist: Juniper
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/juniper-boys-boys-boys-single/
+- project: Tulula! "Singing Songs In The Dark"
+  artist: Tulula!
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/tulula-singing-songs-in-the-dark/
+- project: John Pinamonti "The Usual"
+  artist: John Pinamonti
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/john-pinamonti-the-usual/
+- project: Uta Habbig "Windward"
+  artist: Uta Habbig
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/uta-habbig-windward/
+- project: Tiokasin Ghosthorse "Somewhere In There"
+  artist: Tiokasin Ghosthorse
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/tiokasin-ghosthorse-somewhere-in-there/
+- project: Frank Bango "Christmas in Bed with My Baby"
+  artist: Frank Bango
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/frank-bango-christmas-in-bed-with-my-baby/
+- project: Jim Allen "Where the Sunshine Bit You"
+  artist: Jim Allen
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jim-allen-where-the-sunshine-bit-you/
+- project: Evan Hause "Plastic Island Pentecost"
+  artist: Evan Hause
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/evan-hause-plastic-island-pentecost/
+- project: Western Caravan "Honky Tonk"
+  artist: Western Caravan
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/western-caravan-honky-tonk/
+- project: Allied Chemical "This Isn't Working Out"
+  artist: Allied Chemical
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/allied-chemical-this-isnt-working-out/
+- project: "Superhits of the Seventies Super Hit Tsunami"
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/superhits-of-the-seventies-super-hit-tsunami/
+- project: Karen Dahlstrom "No Man's Land"
+  artist: Karen Dahlstrom
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/karen-dahlstrom-no-mans-land/
+- project: Bobtown "Chasing The Sun"
+  artist: Bobtown
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bobtown-chasing-the-sun/
+- project: Tyranny Of Dave "The Decline Of America Part 3: Silence In Brooklyn"
+  artist: Tyranny Of Dave
+  year: 2018
+  roles:
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/tyranny-of-dave-the-decline-of-america-part-3-silence-in-brooklyn/
+- project: Adam Bernstein "I Remember All Your Dreams"
+  artist: Adam Bernstein
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/adam-bernstein-i-remember-all-your-dreams/
+- project: Yarn "Lucky 13 Vol. 1"
+  artist: Yarn
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/yarn-lucky-13-vol-1/
+- project: Julia Greenberg "Greenland"
+  artist: Julia Greenberg
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/julia-greenberg-greenland/
+- project: Yung Wu "Shore Leave"
+  artist: Yung Wu
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/yung-wu-shore-leave/
+- project: Bill Bressler "Normal Boy"
+  artist: Bill Bressler
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bill-bressler-normal-boy/
+- project: The Campfire Flies "Sparks Like Little Stars"
+  artist: The Campfire Flies
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-campfire-flies-sparks-like-little-stars/
+- project: Ryan Herrick "Heal Your Bones"
+  artist: Ryan Herrick
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/ryan-herrick-heal-your-bones/
+- project: Betwixt "The Salty Tang"
+  artist: Betwixt
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/betwixt-the-salty-tang/
+- project: Allied Chemical "So Sudden"
+  artist: Allied Chemical
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/allied-chemical-so-sudden/
+- project: "The Unexplainable Disappearance Of Mars Patel"
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-unexplainable-disappearance-of-mars-patel/
+- project: Thollem/Parker/Cline "Gowanus Sessions II"
+  artist: Thollem/Parker/Cline
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/thollem-parker-cline-gowanus-sessions-ii/
+- project: Stephanie Seymour "There Are Birds"
+  artist: Stephanie Seymour
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/stephanie-seymour-there-are-birds/
+- project: Bob Perry "American Standardsville"
+  artist: Bob Perry
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bob-perry-american-standardsville/
+- project: Jim Higgins "Yestermorrow"
+  artist: Jim Higgins
+  year: 2019
+  roles:
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/jim-higgins-yestermorrow/
+- project: Chris Butler "Got It Togehter !"
+  artist: Chris Butler
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/chris-butler-got-it-togehter/
+- project: Alex Chilton "Songs From Robin Hood Lane"
+  artist: Alex Chilton
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/alex-chilton-songs-from-robin-hood-lane/
+- project: Alex Chilton "From Memphis To New Orleans"
+  artist: Alex Chilton
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/alex-chilton-from-memphis-to-new-orleans/
+- project: Unicorn "Laughing Up Your Sleeve"
+  artist: Unicorn
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/unicorn-laughing-up-your-sleeve/
+- project: Roger C. Reale "The Collection"
+  artist: Roger C. Reale
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/roger-c-reale-the-collection/
+- project: Karen Dahlstrom "When Will I Be Loved"
+  artist: Karen Dahlstrom
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/karen-dahlstrom-when-will-i-be-loved/
+- project: Rebecca Turner "The New Wrong Way"
+  artist: Rebecca Turner
+  year: 2019
+  roles:
+    - Production
+  image: https://storybooksound.com/recording_project/rebecca-turner-the-new-wrong-way/
+- project: Miss Nina & The Jumping Jacks "Every Day's Your Birthday"
+  artist: Miss Nina &amp; The Jumping Jacks
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/miss-nina-the-jumping-jacks-every-days-your-birthday/
+- project: Bhujanga Sangha "Naad Your Heart"
+  artist: Bhujanga Sangha
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bhujanga-sangha-naad-your-heart/
+- project: Jeff Slate "Secret Poetry"
+  artist: Jeff Slate
+  year: 2016
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/jeff-slate-secret-poetry/
+- project: Emily Duff "Go Tell Your Friends"
+  artist: Emily Duff
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/emily-duff-go-tell-your-friends/
+- project: Hallow Dog "Change In Luck"
+  artist: Hallow Dog
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/hallow-dog-change-in-luck/
+- project: Heather Hardy "Blue Silhouette"
+  artist: Heather Hardy
+  year: 2015
+  roles:
+    - Mastering
+    - Production
+  image: https://storybooksound.com/recording_project/heather-hardy-blue-silhouette/
+- project: Jack Brag "Kiss At Midnight"
+  artist: Jack Brag
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jack-brag-kiss-at-midnight/
+- project: Joe Lozito "Wasteland"
+  artist: Joe Lozito
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/joe-lozito-wasteland/
+- project: Tom Warnick & the World's Fair "Side Effects"
+  artist: Tom Warnick &amp; the World's Fair
+  year: 2017
+  roles:
+    - Bass
+  image: https://storybooksound.com/recording_project/tom-warnick-the-worlds-fair-side-effects/
+- project: Michael William Levine "Just Down The Road"
+  artist: Michael William Levine
+  year: 2017
+  roles:
+    - Mastering
+    - Mixing
+    - Recording
+  image: https://storybooksound.com/recording_project/michael-william-levine-just-down-the-road/
+- project: Ed Stengel "Legacy"
+  artist: Ed Stengel
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/ed-stengel-legacy/
+- project: Steve Holtje "A Man Full Of Days"
+  artist: Steve Holtje
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/steve-holtje-a-man-full-of-days/
+- project: 4th St. NiteOwls "From the Boneyard"
+  artist: 4th St. NiteOwls
+  year: 2017
+  roles:
+    - Mastering
+    - Recording
+  image: https://storybooksound.com/recording_project/4th-st-niteowls-from-the-boneyard/
+- project: The Nu-Sonics "We're Not Happy 'Til You're Not Happy"
+  artist: The Nu-Sonics
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-nu-sonics-were-not-happy-til-youre-not-happy/
+- project: Love Henry "Rowdy Lotion"
+  artist: Love Henry
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/love-henry-rowdy-lotion/
+- project: Soltero "Jamming The Gaydar"
+  artist: Soltero
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/soltero-jamming-the-gaydar/
+- project: Deena "Rock River"
+  artist: Deena
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/deena-rock-river/
+- project: Bob Evans "Jersey Barrier"
+  artist: Bob Evans
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bob-evans-jersey-barrier/
+- project: "Cut Pieces: A Tribute To Yoko Ono"
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/cut-pieces-a-tribute-to-yoko-ono/
+- project: Tracy Island "War No More"
+  artist: Tracy Island
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/tracy-island-war-no-more/
+- project: Mama Doni
+  artist: Mama Doni
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/mama-doni/
+- project: Adam Bernstein "The DnA Singles"
+  artist: Adam Bernstein
+  year: 2017
+  roles:
+    - Mastering
+    - Production
+    - Recording
+  image: https://storybooksound.com/recording_project/adam-bernstein-the-dna-singles/
+- project: Frank Ippolito "The Watermark Project"
+  artist: Frank Ippolito
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/frank-ippolito-the-watermark-project/
+- project: Re/ly "Bilateral"
+  artist: Re/ly
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/re-ly-bilateral/
+- project: Regular Einstein "Chimp Haven"
+  artist: Regular Einstein
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/regular-einstein-chimp-haven/
+- project: Peter Hutchison "Empire of Light"
+  artist: Peter Hutchison
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/peter-hutchison-empire-of-light/
+- project: Emily Hurd "Landmark"
+  artist: Emily Hurd
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/emily-hurd-landmark/
+- project: The Dayhikers "Don't Want To"
+  artist: The Dayhikers
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-dayhikers-dont-want-to/
+- project: Aliah Rosenthal "Slick Bowery Sell Out"
+  artist: Aliah Rosenthal
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/aliah-rosenthal-slick-bowery-sell-out/
+- project: Alice Despard Group "Mosaic"
+  artist: Alice Despard Group
+  year: 2015
+  roles:
+    - Guitar
+    - Mastering
+    - Production
+  image: https://storybooksound.com/recording_project/alice-despard-group-mosaic/
+- project: Terry McCarthy "Go Fourth"
+  artist: Terry McCarthy
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/terry-mccarthy-go-fourth/
+- project: Jason Didner and the Jungle Gym Jam "Everyone's Invited"
+  artist: Jason Didner and the Jungle Gym Jam
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jason-didner-and-the-jungle-gym-jam-everyones-invited/
+- project: Jason Didner and the Jungle Gym Jam "Lollipop Motel"
+  artist: Jason Didner and the Jungle Gym Jam
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jason-didner-and-the-jungle-gym-jam-lollipop-motel/
+- project: Cartoon Spirits "Crustacean EP"
+  artist: Cartoon Spirits
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/cartoon-spirits-crustacean-ep/
+- project: Buddy Toth "Sodium Flares"
+  artist: Buddy Toth
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/buddy-toth-sodium-flares/
+- project: Michael Kroll "Clamorous"
+  artist: Michael Kroll
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/michael-kroll-clamorous/
+- project: Eric Kivnick "Music For Martha"
+  artist: Eric Kivnick
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/eric-kivnick-music-for-martha/
+- project: Brian Kelly "Released"
+  artist: Brian Kelly
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/brian-kelly-released/
+- project: "Superhits Of The Seventies Pure DYN-O-MITE"
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/superhits-of-the-seventies-pure-dyn-o-mite/
+- project: "Superhits Of The Seventies Hit Explosion!"
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/superhits-of-the-seventies-hit-explosion/
+- project: "Even More Superhits Of The Seventies"
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/even-more-superhits-of-the-seventies/
+- project: "More Superhits Of The Seventies"
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/more-superhits-of-the-seventies/
+- project: "A Winding Road, A Ramble With Richard Thompson"
+  year: 2017
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/a-winding-road-a-ramble-with-richard-thompson/
+- project: Frank Migliorelli & The Dirt Nappers "Bass, Drums, Guitars, Organs"
+  artist: Frank Migliorelli &amp; The Dirt Nappers
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/frank-migliorelli-the-dirt-nappers-bass-drums-guitars-organs/
+- project: Zenizen "AUSTRALIA" (Deluxe Edition)
+  artist: Zenizen
+  year: 2017
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/zenizen-australia-deluxe-edition/
+- project: Animal Masks "Animal Masks"
+  artist: Animal Masks
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/animal-masks-animal-masks/
+- project: Jam Alker "Sophrosyne"
+  artist: Jam Alker
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jam-alker-sophrosyne/
+- project: Wayfaring "I Move, You Move"
+  artist: Wayfaring
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/wayfaring-i-move-you-move/
+- project: ex->tension "The Kiss"
+  artist: ex-&gt;tension
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/ex-tension-the-kiss/
+- project: George Taylor & Eric Kivnick "Bach String Drum C Major Cello Suite" by J.S. Bach
+  artist: George Taylor &amp; Eric Kivnick
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/george-taylor-eric-kivnick-bach-string-drum-c-major-cello-suite-by-j-s-bach/
+- project: The Cucumbers "The Fake Doom Years (1983-1986)"
+  artist: The Cucumbers
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-cucumbers-the-fake-doom-years-1983-1986/
+- project: Allied Chemical "Sword Soup"
+  artist: Allied Chemical
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/allied-chemical-sword-soup/
+- project: Monica Passin "Li’l Mo & The Monicats’ Country & Rockabilly Sampler"
+  artist: Monica Passin
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/monica-passin-lil-mo-the-monicats-country-rockabilly-sampler/
+- project: Various Artists, David Greenberger "7MAY17"
+  artist: David Greenberger
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/various-artists-david-greenberger-7may17/
+- project: Men & Volts "Honeymoon Luggage"
+  artist: Men &amp; Volts
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/men-volts-honeymoon-luggage/
+- project: East Of Venus "Memory Box"
+  artist: East Of Venus
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/east-of-venus-memory-box/
+- project: Jane Lee Hooker "No B!"
+  artist: Jane Lee Hooker
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jane-lee-hooker-no-b/
+- project: Jonas Friddle & The Majority
+  artist: Jonas Friddle &amp; The Majority
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jonas-friddle-the-majority/
+- project: Andy Lamy "The New Blackthorn Stick"
+  artist: Andy Lamy
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/andy-lamy-the-new-blackthorn-stick/
+- project: The Feelies "Time For A Witness"
+  artist: The Feelies
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-feelies-time-for-a-witness/
+- project: The Feelies "Only Life"
+  artist: The Feelies
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-feelies-only-life/
+- project: Michael Shelley "Jimmy's Corner"
+  artist: Michael Shelley
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/michael-shelley-jimmys-corner/
+- project: The Feelies "Uncovered"
+  artist: The Feelies
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-feelies-uncovered/
+- project: Monica Passin "Monette"
+  artist: Monica Passin
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/monica-passin-monette/
+- project: Elena & Boo "I Wait For The Light"
+  artist: Elena &amp; Boo
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/elena-boo-i-wait-for-the-light/
+- project: Allos Musica Ensemble "Gnossienne"
+  artist: Allos Musica Ensemble
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/allos-musica-ensemble-gnossienne/
+- project: Yarn "This Is The Year"
+  artist: Yarn
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/yarn-this-is-the-year/
+- project: Viva DeConcini "Living Well is the Best Revenge"
+  artist: Viva DeConcini
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/viva-deconcini-living-well-is-the-best-revenge/
+- project: The Feelies "In Between"
+  artist: The Feelies
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-feelies-in-between/
+- project: Eugene Chrysler "Hillbilly Fun Park"
+  artist: Eugene Chrysler
+  year: 2017
+  roles:
+    - Mastering
+    - Mixing
+    - Recording
+  image: https://storybooksound.com/recording_project/eugene-chrysler-hillbilly-fun-park/
+- project: Unicorn "One More Tomorrow: Remastered & Expanded Edition"
+  artist: Unicorn
+  year: 2017
+  roles:
+    - Mixing
+  image: https://storybooksound.com/recording_project/unicorn-one-more-tomorrow-remastered-expanded-edition/
+- project: Dead Cowgirl
+  artist: Dead Cowgirl
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/dead-cowgirl/
+- project: Girls on Grass "Girls on Grass"
+  artist: Girls on Grass
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/girls-on-grass-girls-on-grass/
+- project: Glenn Mercer "Incidental Hum"
+  artist: Glenn Mercer
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/glenn-mercer-incidental-hum/
+- project: Dangerous
+  artist: Dangerous
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/dangerous/
+- project: Ostrich
+  artist: Ostrich
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/ostrich/
+- project: Pop Another Cork
+  artist: Pop Another Cork
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/pop-another-cork/
+- project: 2 Nice Girls
+  artist: 2 Nice Girls
+  year: 2004
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/2-nice-girls/
+- project: Jeff Now
+  artist: Jeff Now
+  year: 2004
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/jeff-now/
+- project: Each Day Blues
+  artist: Each Day Blues
+  year: 1995
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/each-day-blues/
+- project: Needles
+  artist: Needles
+  year: 2000
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/needles/
+- project: Chris Butler "I Feel A Bit Normal Today"
+  artist: Chris Butler
+  year: 1997
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/chris-butler-i-feel-a-bit-normal-today/
+- project: John Wolfington
+  artist: John Wolfington
+  year: 2001
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/john-wolfington/
+- project: Kilopop
+  artist: Kilopop
+  year: 2001
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/kilopop/
+- project: Fable
+  artist: Fable
+  year: 2002
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/fable/
+- project: Chris Butler "The Museum of Me"
+  artist: Chris Butler
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/chris-butler-the-museum-of-me/
+- project: Friend or Foe
+  artist: Friend or Foe
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/friend-or-foe/
+- project: Famous Recording Artists
+  artist: Famous Recording Artists
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/famous-recording-artists/
+- project: End of Smith
+  artist: End of Smith
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/end-of-smith/
+- project: Live at Sunny's
+  artist: Live at Sunny's
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/live-at-sunnys/
+- project: Love Lane
+  artist: Love Lane
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/love-lane/
+- project: Receding Choir
+  artist: Receding Choir
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/receding-choir/
+- project: Out Of Order "Hey Pussycat!"
+  artist: Out Of Order
+  year: 2014
+  roles:
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/out-of-order-hey-pussycat/
+- project: Anywhere Will Do
+  artist: Anywhere Will Do
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/anywhere-will-do/
+- project: Gypsy 83 Soundtrack
+  artist: Gypsy 83 Soundtrack
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/gypsy-83-soundtrack/
+- project: AntiFolk Road Manual
+  artist: AntiFolk Road Manual
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/antifolk-road-manual/
+- project: Open On Sunday
+  artist: Open On Sunday
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/open-on-sunday/
+- project: Holding Back The Years
+  artist: Holding Back The Years
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/holding-back-the-years/
+- project: The New INTERface Trio
+  artist: The New INTERface Trio
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/the-new-interface-trio/
+- project: I Love You
+  artist: I Love You
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/i-love-you/
+- project: The Plunk Brothers
+  artist: The Plunk Brothers
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/the-plunk-brothers/
+- project: The Art Of Navigation
+  artist: The Art Of Navigation
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/the-art-of-navigation/
+- project: Thunk
+  artist: Thunk
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/thunk/
+- project: "Superhits Of The Seventies"
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/superhits-of-the-seventies/
+- project: Chromium Dub
+  artist: Chromium Dub
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/chromium-dub/
+- project: You And Me Are We
+  artist: You And Me Are We
+  year: 2007
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/you-and-me-are-we/
+- project: Hocus Pocus
+  artist: Hocus Pocus
+  year: 2000
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/hocus-pocus/
+- project: Sweet Lizard Illtet "Illtet Live & Rarities"
+  artist: Sweet Lizard Illtet
+  year: 2011
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/sweet-lizard-illtet-illtet-live-rarities/
+- project: You Are My Flower
+  artist: You Are My Flower
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/you-are-my-flower/
+- project: Pretty Town
+  artist: Pretty Town
+  year: 2002
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/pretty-town/
+- project: Slowpokes
+  artist: Slowpokes
+  year: 2010
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/slowpokes/
+- project: For You
+  artist: For You
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/for-you/
+- project: Tragico Magico
+  artist: Tragico Magico
+  year: 1997
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/tragico-magico/
+- project: Kneel
+  artist: Kneel
+  year: 1997
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/kneel/
+- project: David Poe
+  artist: David Poe
+  year: 1997
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/david-poe/
+- project: Too Many Spirits
+  artist: Too Many Spirits
+  year: 1999
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/too-many-spirits/
+- project: Charlie the Symbolic Dog
+  artist: Charlie the Symbolic Dog
+  year: 1995
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/charlie-the-symbolic-dog/
+- project: Alegria
+  artist: Alegria
+  year: 2009
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/alegria/
+- project: Driving You Insane
+  artist: Driving You Insane
+  year: 1997
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/driving-you-insane/
+- project: Digital Retro
+  artist: Digital Retro
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/digital-retro/
+- project: Barefoot Tramps "Wheels On Fire"
+  artist: Barefoot Tramps
+  year: 2011
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/barefoot-tramps-wheels-on-fire/
+- project: Beastie Boys "Aglio e Olio"
+  artist: Beastie Boys
+  year: 1996
+  roles:
+    - Asst. Engineering
+  image: https://storybooksound.com/recording_project/beastie-boys-aglio-e-olio/
+- project: Beastie Boys "Hello Nasty"
+  artist: Beastie Boys
+  year: 1998
+  roles:
+    - Asst. Engineering
+  image: https://storybooksound.com/recording_project/beastie-boys-hello-nasty/
+- project: Blastula
+  artist: Blastula
+  year: 1996
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/blastula/
+- project: In & Out
+  artist: In &amp; Out
+  year: 1994
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/in-out/
+- project: Bob Evans "Pipeline on WMBR"
+  artist: Bob Evans
+  year: 2012
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bob-evans-pipeline-on-wmbr/
+- project: Bridge
+  artist: Bridge
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bridge/
+- project: Improvising
+  artist: Improvising
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/improvising/
+- project: Chris Butler "Easy Life"
+  artist: Chris Butler
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/chris-butler-easy-life/
+- project: Night Time
+  artist: Night Time
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/night-time/
+- project: What A Beautiful Child
+  artist: What A Beautiful Child
+  year: 2000
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/what-a-beautiful-child/
+- project: English 101
+  artist: English 101
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/english-101/
+- project: We Are The World
+  artist: We Are The World
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/we-are-the-world/
+- project: Amber Waves
+  artist: Amber Waves
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/amber-waves/
+- project: One Thing Right
+  artist: One Thing Right
+  year: 2000
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/one-thing-right/
+- project: Creatured
+  artist: Creatured
+  year: 2009
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/creatured/
+- project: Another Gay Movie Soundtrack
+  artist: Another Gay Movie Soundtrack
+  year: 2006
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/another-gay-movie-soundtrack/
+- project: The Demo Anthology
+  artist: The Demo Anthology
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/the-demo-anthology/
+- project: Electric Goddess
+  artist: Electric Goddess
+  year: 2003
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/electric-goddess/
+- project: Simply
+  artist: Simply
+  year: 2003
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/simply/
+- project: Homage - lots of bands doing Descendants songs
+  artist: Homage - lots of bands doing Descendants songs
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/homage-lots-of-bands-doing-descendants-songs/
+- project: Sweet Lizard Illtet "2 Rare"
+  artist: Sweet Lizard Illtet
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/sweet-lizard-illtet-2-rare/
+- project: Shitbirds
+  artist: Shitbirds
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/shitbirds/
+- project: The Shitbirds
+  artist: The Shitbirds
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/the-shitbirds/
+- project: From Out Of Big Blue
+  artist: From Out Of Big Blue
+  year: 2010
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/from-out-of-big-blue/
+- project: Jack Brag
+  artist: Jack Brag
+  year: 2008
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/jack-brag/
+- project: Slowly Bright
+  artist: Slowly Bright
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/slowly-bright/
+- project: Together In Time
+  artist: Together In Time
+  year: 2001
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/together-in-time/
+- project: Release
+  artist: Release
+  year: 2001
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/release/
+- project: Them Keener Boys
+  artist: Them Keener Boys
+  year: 1997
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/them-keener-boys/
+- project: Ecstatic
+  artist: Ecstatic
+  year: 2001
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/ecstatic/
+- project: Take Me Home
+  artist: Take Me Home
+  year: 2003
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/take-me-home/
+- project: Semi-Blue
+  artist: Semi-Blue
+  year: 2003
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/semi-blue/
+- project: Li'l Mo and The Monicats "Whole Lotta Love"
+  artist: Li'l Mo and The Monicats
+  year: 2012
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/lil-mo-and-the-monicats-whole-lotta-love/
+- project: Live! Live! Live!
+  artist: Live! Live! Live!
+  year: 1997
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/live-live-live/
+- project: Cleaning Out The Ashtrays
+  artist: Cleaning Out The Ashtrays
+  year: 2009
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/cleaning-out-the-ashtrays/
+- project: Marco Ranieri "Heartbroken Radio"
+  artist: Marco Ranieri
+  year: 2012
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/marco-ranieri-heartbroken-radio/
+- project: The Seduction of Sarah Sahonie
+  artist: The Seduction of Sarah Sahonie
+  year: 1999
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/the-seduction-of-sarah-sahonie/
+- project: Mimi Cross "Monkey Trap"
+  artist: Mimi Cross
+  year: 1998
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/mimi-cross-monkey-trap/
+- project: Kiss Me
+  artist: Kiss Me
+  year: 2010
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/kiss-me/
+- project: Luckiest Boy in the World
+  artist: Luckiest Boy in the World
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/luckiest-boy-in-the-world/
+- project: Pigeons "The Helpless and The Hopeless"
+  artist: Pigeons
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/pigeons-the-helpless-and-the-hopeless/
+- project: JP3
+  artist: JP3
+  year: 2003
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/jp3/
+- project: Karen Ramos
+  artist: Karen Ramos
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/karen-ramos/
+- project: Redemption
+  artist: Redemption
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/redemption/
+- project: Morning Becomes Electric
+  artist: Morning Becomes Electric
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/morning-becomes-electric/
+- project: Sinsanity "The Machine"
+  artist: Sinsanity
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/sinsanity-the-machine/
+- project: Skanatra
+  artist: Skanatra
+  year: 1999
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/skanatra/
+- project: Sodden Psalms
+  artist: Sodden Psalms
+  year: 2011
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/sodden-psalms/
+- project: Snake Road
+  artist: Snake Road
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/snake-road/
+- project: 1943
+  artist: 1943
+  year: 2011
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/1943/
+- project: All Secrets Fade
+  artist: All Secrets Fade
+  year: 2001
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/all-secrets-fade/
+- project: Togetherness
+  artist: Togetherness
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/togetherness/
+- project: Welcome To The Dollhouse - Soundtrack
+  artist: Welcome To The Dollhouse - Soundtrack
+  year: 1996
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/welcome-to-the-dollhouse-soundtrack/
+- project: I Have Some Language
+  artist: I Have Some Language
+  year: 1998
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/i-have-some-language/
+- project: Blue Sky Lullaby
+  artist: Blue Sky Lullaby
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/blue-sky-lullaby/
+- project: Black Coffee Blues
+  artist: Black Coffee Blues
+  year: 1997
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/black-coffee-blues/
+- project: Summer's Going By
+  artist: Summer's Going By
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/summers-going-by/
+- project: Past & Gone
+  artist: Past &amp; Gone
+  year: 2001
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/past-gone/
+- project: Beastie Boys "The Sounds Of Science"
+  artist: Beastie Boys
+  year: 1999
+  roles:
+    - Asst. Engineering
+  image: https://storybooksound.com/recording_project/beastie-boys-the-sounds-of-science/
+- project: Cities Filled With Lights
+  artist: Cities Filled With Lights
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/cities-filled-with-lights/
+- project: Above The Stinkin' Law!
+  artist: Above The Stinkin' Law!
+  year: 1992
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/above-the-stinkin-law/
+- project: Snowblind
+  artist: Snowblind
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/snowblind/
+- project: The Chymical Vegas Wedding
+  artist: The Chymical Vegas Wedding
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/the-chymical-vegas-wedding/
+- project: Land Of My Baby
+  artist: Land Of My Baby
+  year: 2005
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/land-of-my-baby/
+- project: Andiamo
+  artist: Andiamo
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/andiamo/
+- project: "Over The Moon"
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/over-the-moon/
+- project: High Wide and Handsome
+  artist: High Wide and Handsome
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/high-wide-and-handsome/
+- project: Oh Joy!
+  artist: Oh Joy!
+  year: 2014
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/oh-joy/
+- project: Randy Noojin "Hard Travelin' With Woody and The Hobos"
+  artist: Randy Noojin
+  year: 2014
+  roles:
+    - Mastering
+    - Mixing
+    - Recording
+  image: https://storybooksound.com/recording_project/randy-noojin-hard-travelin-with-woody-and-the-hobos/
+- project: Monstrous
+  artist: Monstrous
+  year: 2009
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/monstrous/
+- project: Page 18
+  artist: Page 18
+  year: 1996
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/page-18/
+- project: Uptown, Alive And Well
+  artist: Alive And Well
+  year: 2011
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/uptown-alive-and-well/
+- project: One Dog Town
+  artist: One Dog Town
+  year: 1999
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/one-dog-town/
+- project: Right Here Right Now
+  artist: Right Here Right Now
+  year: 2011
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/right-here-right-now/
+- project: Sit Down At The Table
+  artist: Sit Down At The Table
+  year: 1990
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/sit-down-at-the-table/
+- project: Boz Metzdorf "Green And Blue"
+  artist: Boz Metzdorf
+  year: 2012
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/boz-metzdorf-green-and-blue/
+- project: Disco Dance Party 2000
+  artist: Disco Dance Party 2000
+  year: 2010
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/disco-dance-party-2000/
+- project: Under A Shady Tree
+  artist: Under A Shady Tree
+  year: 2002
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/under-a-shady-tree/
+- project: Shabbat Shaboom
+  artist: Shabbat Shaboom
+  year: 2011
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/shabbat-shaboom/
+- project: Stranger Things
+  artist: Stranger Things
+  year: 2010
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/stranger-things/
+- project: Illtet "Live C.B.G.B.'S"
+  artist: Illtet
+  year: 2012
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/illtet-live-c-b-g-b-s/
+- project: Livingrm_left2_Feature
+  artist: Livingrm_left2_Feature
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/livingrm_left2_feature/
+- project: Stained Glass
+  artist: Stained Glass
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/stained-glass/
+- project: Mixing Console
+  artist: Mixing Console
+  roles:
+    - What did I do here again?
+  image: https://storybooksound.com/recording_project/mixing-console/
+- project: Deena Dance "The Night Away b/w Thursday"
+  artist: Deena Dance
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/deena-dance-the-night-away-b-w-thursday/
+- project: Jon Fried "Confessions of a Coronavirus"
+  artist: Jon Fried
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jon-fried-confessions-of-a-coronavirus/
+- project: Keith Kenny "A Lifetime Ago"
+  artist: Keith Kenny
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/keith-kenny-a-lifetime-ago/
+- project: Electraluxx "Buzzz-O-Ramma"
+  artist: Electraluxx
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/electraluxx-buzzz-o-ramma/
+- project: David Greenberger &amp; The Huckleberries "Universal Preservation"
+  artist: David Greenberger &amp; The Huckleberries
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/david-greenberger-the-huckleberries-universal-preservation/
+- project: Halse "The Sleep That Rounds the Edges"
+  artist: Halse
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/halse-the-sleep-that-rounds-the-edges/
+- project: Hani "Hani"
+  artist: Hani
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/hani-hani/
+- project: Ivan Nahem "No Goodbye!"
+  artist: Ivan Nahem
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/ivan-nahem-no-goodbye/
+- project: Unicorn "Can’t Move On"
+  artist: Unicorn
+  year: 2020
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/unicorn-cant-move-on/
+- project: John Foster ""
+  artist: John Foster
+  year: 2020
+  roles:
+    - Bass
+    - Engineer
+  image: https://storybooksound.com/recording_project/john-foster/
+- project: Shannon Brown &amp; John Pinamonti "reel"
+  artist: Shannon Brown &amp; John Pinamonti
+  year: 2020
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/shannon-brown-john-pinamonti-reel/
+- project: Fond Farewells ""
+  artist: Fond Farewells
+  year: 2020
+  roles:
+    - Bass
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/fond-farewells/
+- project: Oblique Orchestra "Oblique Glitch"
+  artist: Oblique Orchestra
+  year: 2020
+  roles:
+    - Bass
+    - Writing
+  image: https://storybooksound.com/recording_project/oblique-orchestra-oblique-glitch/
+- project: Jamie Fried Sextet "Welcome"
+  artist: Jamie Fried Sextet
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jamie-fried-sextet-welcome/
+- project: No Accidents "You Created The Problem, You Solve It Vol. 1"
+  artist: No Accidents
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/no-accidents-you-created-the-problem-you-solve-it-vol-1/
+- project: Mark and the Message "Where we go"
+  artist: Mark and the Message
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/mark-and-the-message-where-we-go/
+- project: Deena "Sisters"
+  artist: Deena
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/deena-sisters/
+- project: Goodness Gracious "Awful"
+  artist: Goodness Gracious
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/goodness-gracious-awful/
+- project: a "Live In the Basement – Summer ’78"
+  artist: a
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/a-live-in-the-basement-summer-78/
+- project: The Cucumbers "Love and Joy"
+  artist: The Cucumbers
+  year: 2019
+  roles:
+    - Engineer
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-cucumbers-love-and-joy/
+- project: Mark and the Message "Residue Effect"
+  artist: Mark and the Message
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/mark-and-the-message-residue-effect/
+- project: Chel Hill "Classic Love Story"
+  artist: Chel Hill
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/chel-hill-classic-love-story/
+- project: Joey Ray "Break Us"
+  artist: Joey Ray
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/joey-ray-break-us/
+- project: Joey Ray "Break Us Away"
+  artist: Joey Ray
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/joey-ray-break-us-away/
+- project: Deena "The Meuller Report"
+  artist: Deena
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/deena-the-meuller-report/
+- project: Dirty Harry "3 Singles"
+  artist: Dirty Harry
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/dirty-harry-3-singles/
+- project: John Sharples "The Reality Of The Situation"
+  artist: John Sharples
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/john-sharples-the-reality-of-the-situation/
+- project: Deena "Skating On Melting Ice"
+  artist: Deena
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/deena-skating-on-melting-ice/
+- project: Cartoon Spirits "Clark Gable"
+  artist: Cartoon Spirits
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/cartoon-spirits-clark-gable/
+- project: Peter Lerner Quintet "Son of Local Colour"
+  artist: Peter Lerner Quintet
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/peter-lerner-quintet-son-of-local-colour/
+- project: Andy Lamy "Al Cneasu Creachtai"
+  artist: Andy Lamy
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/andy-lamy-al-cneasu-creachtai/
+- project: Various Artists "New Improvised Music From Buenos Aires"
+  artist: Various Artists
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/various-artists-new-improvised-music-from-buenos-aires/
+- project: John Paris "Baby"
+  artist: John Paris
+  year: 2019
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/john-paris-baby/
+- project: 4th Street NiteOwls "Holiday single"
+  artist: 4th Street NiteOwls
+  year: 2019
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/4th-street-niteowls-holiday-single/
+- project: Marshall Crenshaw "What The Hell I Got"
+  artist: Marshall Crenshaw
+  year: 2018
+  roles:
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/marshall-crenshaw-what-the-hell-i-got/
+- project: DC and the Desperados "Landmine"
+  artist: DC and the Desperados
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/dc-and-the-desperados-landmine/
+- project: Demolition String Band "A Taste of Grass"
+  artist: Demolition String Band
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/demolition-string-band-a-taste-of-grass/
+- project: Deena "Moonlight"
+  artist: Deena
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/deena-moonlight/
+- project: Frank Bango "When A Man Is Not A Man"
+  artist: Frank Bango
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/frank-bango-when-a-man-is-not-a-man/
+- project: Stephen Dydo &amp; Alan Sondheim "Dragon and Phoenix"
+  artist: Stephen Dydo &amp; Alan Sondheim
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/stephen-dydo-alan-sondheim-dragon-and-phoenix/
+- project: Thollem/DuRoche/St James Trio "Live In Our Time"
+  artist: Thollem/DuRoche/St James Trio
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/thollem-duroche-st-james-trio-live-in-our-time/
+- project: PinkLips "Pink Is the New F&amp;*k You!"
+  artist: PinkLips
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/pinklips-pink-is-the-new-fk-you/
+- project: Thursday "Habit EP"
+  artist: Thursday
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/thursday-habit-ep/
+- project: Ellen Foley "Fighting Words"
+  artist: Ellen Foley
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/ellen-foley-fighting-words/
+- project: NoName James &amp; ButterBall "Orange"
+  artist: NoName James &amp; ButterBall
+  year: 2018
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/noname-james-butterball-orange/
+- project: The Feelies "Velvet Underground at White Eagle Hall"
+  artist: The Feelies
+  year: 2018
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/the-feelies-velvet-underground-at-white-eagle-hall/
+- project: Wygalator "Sunshine Out"
+  artist: Wygalator
+  year: 2017
+  roles:
+    - Mixing
+  image: https://storybooksound.com/recording_project/wygalator-sunshine-out/
+- project: The Marconis "Tuesday"
+  artist: The Marconis
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-marconis-tuesday/
+- project: The Ghost of Jessica Majors "Serialized podcast"
+  artist: The Ghost of Jessica Majors
+  year: 2017
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/the-ghost-of-jessica-majors-serialized-podcast/
+- project: Deena "Get Your Head on Street Put Your Feet On The Ground"
+  artist: Deena
+  year: 2017
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/deena-get-your-head-on-street-put-your-feet-on-the-ground/
+- project: The Cucumbers "The Fake Doom Years (1983-1986) Instrumentals"
+  artist: The Cucumbers
+  year: 2016
+  roles:
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/the-cucumbers-the-fake-doom-years-1983-1986-instrumentals/
+- project: Sesame Studios "We Say Night Night"
+  artist: Sesame Studios
+  year: 2016
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/sesame-studios-we-say-night-night/
+- project: The Marconis "Monster In Me"
+  artist: The Marconis
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-marconis-monster-in-me/
+- project: Songs of Winter Hours "Live @ CDC Theater"
+  artist: Songs of Winter Hours
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/songs-of-winter-hours-live-cdc-theater/
+- project: EJS "Double Single"
+  artist: EJS
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/ejs-double-single/
+- project: Campfire Flies "We Can See America From Here"
+  artist: Campfire Flies
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/campfire-flies-we-can-see-america-from-here/
+- project: Soltero "Wisterians / I Want To Have A Baby"
+  artist: Soltero
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/soltero-wisterians-i-want-to-have-a-baby/
+- project: Dave Lippman "Hands Up"
+  artist: Dave Lippman
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/dave-lippman-hands-up/
+- project: Sad About Girls "Can’t Break A Heart"
+  artist: Sad About Girls
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/sad-about-girls-cant-break-a-heart/
+- project: Rebecca Farnham and Kat De Bari "String or Thread"
+  artist: Rebecca Farnham and Kat De Bari
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/rebecca-farnham-and-kat-de-bari-string-or-thread/
+- project: Various Artists "Children’s Tumor Foundation"
+  artist: Various Artists
+  year: 2016
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/various-artists-childrens-tumor-foundation/
+- project: Andy Westley and Friends "It’s Not About Me"
+  artist: Andy Westley and Friends
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/andy-westley-and-friends-its-not-about-me/
+- project: Big Mamou "Big Mamou"
+  artist: Big Mamou
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/big-mamou-big-mamou/
+- project: Rebecca Turner "Idiot"
+  artist: Rebecca Turner
+  year: 2015
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/rebecca-turner-idiot/
+- project: Demolition String Band "Get Waxed – Live At The Thomas Edison Museum"
+  artist: Demolition String Band
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/demolition-string-band-get-waxed-live-at-the-thomas-edison-museum/
+- project: Metrodome "Metrodome"
+  artist: Metrodome
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/metrodome-metrodome/
+- project: Napoleon "Napoleon"
+  artist: Napoleon
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/napoleon-napoleon/
+- project: Lanes Narrow "Runt Of The Litter"
+  artist: Lanes Narrow
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/lanes-narrow-runt-of-the-litter/
+- project: Tri-State "New Minuits / Titanic Bros."
+  artist: Tri-State
+  year: 2015
+  roles:
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/tri-state-new-minuits-titanic-bros/
+- project: Jason Didner "Summertime Santa / My Super Power"
+  artist: Jason Didner
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jason-didner-summertime-santa-my-super-power/
+- project: Albert Ayler "Bells &amp; Prophecy: Expanded Edition"
+  artist: Albert Ayler
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/albert-ayler-bells-prophecy-expanded-edition/
+- project: Food On You "Food On You"
+  artist: Food On You
+  year: 2015
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/food-on-you-food-on-you/
+- project: The Kuhl Kats "Little RocknRollers"
+  artist: The Kuhl Kats
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-kuhl-kats-little-rocknrollers/
+- project: Various Artists "Rent Party 5th Anniversary Collection"
+  artist: Various Artists
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/various-artists-rent-party-5th-anniversary-collection/
+- project: Emily Duff Band "Me I Just Want Some/Maybe In The Morning single"
+  artist: Emily Duff Band
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/emily-duff-band-me-i-just-want-some-maybe-in-the-morning-single/
+- project: Rich Kivnik ""
+  artist: Rich Kivnik
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/rich-kivnik/
+- project: Mama Doni "Bible Stories"
+  artist: Mama Doni
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/mama-doni-bible-stories/
+- project: Rebecca Turner "Nobody Sees Me Like You Do single"
+  artist: Rebecca Turner
+  year: 2014
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/rebecca-turner-nobody-sees-me-like-you-do-single/
+- project: Michael Kroll "Clamor"
+  artist: Michael Kroll
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/michael-kroll-clamor/
+- project: Merv Barton "Soundtracks"
+  artist: Merv Barton
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/merv-barton-soundtracks/
+- project: Living With Elephants "Home"
+  artist: Living With Elephants
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/living-with-elephants-home/
+- project: Justin Turk "Down To The Bone"
+  artist: Justin Turk
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/justin-turk-down-to-the-bone/
+- project: Dalilah "E.P."
+  artist: Dalilah
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/dalilah-e-p/
+- project: Bevy "E.P."
+  artist: Bevy
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bevy-e-p/
+- project: Demolition String Band "21: The Best of Demolition String Band"
+  artist: Demolition String Band
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/demolition-string-band-21-the-best-of-demolition-string-band/
+- project: Mama Doni "single"
+  artist: Mama Doni
+  year: 2014
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/mama-doni-single/
+- project: Bob Carr "EP"
+  artist: Bob Carr
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bob-carr-ep/
+- project: Chris P. Cauley "El Dorado"
+  artist: Chris P. Cauley
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/chris-p-cauley-el-dorado/
+- project: Maxwell’s Last Night "feat. The Bongos, The Individuals, “a”, Delicate Steve"
+  artist: Maxwell’s Last Night
+  year: 2013
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/maxwells-last-night-feat-the-bongos-the-individuals-a-delicate-steve/
+- project: Tri-State "Tri-State"
+  artist: Tri-State
+  year: 2013
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+    - Recording
+  image: https://storybooksound.com/recording_project/tri-state-tri-state/
+- project: Rebecca Turner "Nobody Sees Me Like You Do (single)"
+  artist: Rebecca Turner
+  year: 2013
+  roles:
+    - Engineer
+    - Mixing
+    - Recording
+  image: https://storybooksound.com/recording_project/rebecca-turner-nobody-sees-me-like-you-do-single-2/
+- project: The Poor Man’s Opera "We’re All Water (single)"
+  artist: The Poor Man's Opera
+  year: 2013
+  roles:
+    - Engineer
+    - Mixing
+    - Recording
+  image: https://storybooksound.com/recording_project/the-poor-mans-opera-were-all-water-single/
+- project: The Cucumbers "Rent Party (single)"
+  artist: The Cucumbers
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-cucumbers-rent-party-single/
+- project: Ruby On The Vine "One Track Mind (single)"
+  artist: Ruby On The Vine
+  year: 2013
+  roles:
+    - Mixing
+  image: https://storybooksound.com/recording_project/ruby-on-the-vine-one-track-mind-single/
+- project: Bob Cannon "single"
+  artist: Bob Cannon
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bob-cannon-single/
+- project: Small Town Sound "Now Or Never"
+  artist: Small Town Sound
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/small-town-sound-now-or-never/
+- project: Beast "single"
+  artist: Beast
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/beast-single/
+- project: Bear Republic "EP"
+  artist: Bear Republic
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/bear-republic-ep/
+- project: Saturday Afternoon Song Swap Radio ""
+  artist: Saturday Afternoon Song Swap Radio
+  year: 2013
+  roles:
+    - Engineer
+    - Supervising Engineer
+  image: https://storybooksound.com/recording_project/saturday-afternoon-song-swap-radio/
+- project: Chris Butler "The Major Glitch"
+  artist: Chris Butler
+  year: 2013
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/chris-butler-the-major-glitch/
+- project: Elena &amp; Boo "Sailor Girl​/​Loving Cup (single)"
+  artist: Elena &amp; Boo
+  year: 2013
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/elena-boo-sailor-girl%e2%80%8b-%e2%80%8bloving-cup-single/
+- project: Lanes Narrow (with Bob Carr) "4-Way Stop"
+  artist: Lanes Narrow (with Bob Carr)
+  year: 2012
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/lanes-narrow-with-bob-carr-4-way-stop/
+- project: Erica Smith And The 99 Cent "Dreams One for My Baby"
+  artist: Erica Smith And The 99 Cent
+  year: 2012
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/erica-smith-and-the-99-cent-dreams-one-for-my-baby/
+- project: Boz Metzdorf "Tin Pan Alley"
+  artist: Boz Metzdorf
+  year: 2012
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/boz-metzdorf-tin-pan-alley/
+- project: Jason Didner "Jackals On The Prowl"
+  artist: Jason Didner
+  year: 2012
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jason-didner-jackals-on-the-prowl/
+- project: Bob Carr "Scarabs For Arabs (single)"
+  artist: Bob Carr
+  year: 2011
+  roles:
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/bob-carr-scarabs-for-arabs-single/
+- project: Josh Herman "Life’s a Long Road"
+  artist: Josh Herman
+  year: 2011
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/josh-herman-lifes-a-long-road/
+- project: Chris Skel "You Ruined Christmas (single)"
+  artist: Chris Skel
+  year: 2011
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/chris-skel-you-ruined-christmas-single/
+- project: CBI String Band "Mizmor Shir L’Yom HaShabbat"
+  artist: CBI String Band
+  year: 2011
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/cbi-string-band-mizmor-shir-lyom-hashabbat/
+- project: Brainfood ""
+  artist: Brainfood
+  year: 2010
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/brainfood/
+- project: Lance Doss "All I Am Left With"
+  artist: Lance Doss
+  year: 2010
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/lance-doss-all-i-am-left-with/
+- project: Flutterbox ""
+  artist: Flutterbox
+  year: 2010
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/flutterbox/
+- project: 4th Street Nite Owls ""
+  artist: 4th Street Nite Owls
+  year: 2010
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/4th-street-nite-owls/
+- project: The Nu-Sonics ""
+  artist: The Nu-Sonics
+  year: 2010
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/the-nu-sonics/
+- project: Brian O’Neill ""
+  artist: Brian O’Neill
+  year: 2010
+  roles:
+    - Bass
+    - Engineer
+  image: https://storybooksound.com/recording_project/brian-oneill/
+- project: The Mudlarks "A Tender Age"
+  artist: The Mudlarks
+  year: 2009
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-mudlarks-a-tender-age/
+- project: Silverado "Silverado Favorites"
+  artist: Silverado
+  year: 2009
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/silverado-silverado-favorites/
+- project: Mike Hayden "Dead Dogs Wag No Tails"
+  artist: Mike Hayden
+  year: 2008
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/mike-hayden-dead-dogs-wag-no-tails/
+- project: Battle-Axe Camera "Battle-Axe Camera"
+  artist: Battle-Axe Camera
+  year: 2008
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/battle-axe-camera-battle-axe-camera/
+- project: The Nu-Sonics "Eureka"
+  artist: The Nu-Sonics
+  year: 2007
+  roles:
+    - Bass
+    - Engineer
+    - Mastering
+    - Mixing
+    - Sonics
+  image: https://storybooksound.com/recording_project/the-nu-sonics-eureka/
+- project: Aveda "industrial"
+  artist: Aveda
+  year: 2006
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/aveda-industrial/
+- project: Mimi Cross "I Slept"
+  artist: Mimi Cross
+  year: 2005
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/mimi-cross-i-slept/
+- project: The Bohemian Quartet ""
+  artist: The Bohemian Quartet
+  year: 2005
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/the-bohemian-quartet/
+- project: Jeff Keithline "Jeff Now Is Mr. Positive"
+  artist: Jeff Keithline
+  year: 2004
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/jeff-keithline-jeff-now-is-mr-positive/
+- project: Marie Frank ""
+  artist: Marie Frank
+  year: 2004
+  roles:
+    - Mixing
+  image: https://storybooksound.com/recording_project/marie-frank/
+- project: The Badge "Calling Generation Mojo"
+  artist: The Badge
+  year: 2003
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/the-badge-calling-generation-mojo/
+- project: Burn Barrell ""
+  artist: Burn Barrell
+  year: 2003
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/burn-barrell/
+- project: Skycamefalling To Forever "Embrace the Sun"
+  artist: Skycamefalling To Forever
+  year: 2002
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/skycamefalling-to-forever-embrace-the-sun/
+- project: Debra DeSalvo "True Nature"
+  artist: Debra DeSalvo
+  year: 2001
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/debra-desalvo-true-nature/
+- project: Tim Beattie ""
+  artist: Tim Beattie
+  year: 2000
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/tim-beattie/
+- project: The Whatnots "Snug (unreleased)"
+  artist: The Whatnots
+  year: 2000
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/the-whatnots-snug-unreleased/
+- project: Greg Ribot &amp; Cumbia del Norte "International Conspiracy"
+  artist: Greg Ribot &amp; Cumbia del Norte
+  year: 1999
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/greg-ribot-cumbia-del-norte-international-conspiracy/
+- project: Lloyd Cole ""
+  artist: Lloyd Cole
+  year: 1999
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/lloyd-cole/
+- project: Various Artists "Christmas to Remember [Velvel]"
+  artist: Various Artists
+  year: 1998
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/various-artists-christmas-to-remember-velvel/
+- project: Reiss "Joying on the Vibe of Life"
+  artist: Reiss
+  year: 1998
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/reiss-joying-on-the-vibe-of-life/
+- project: W.A. Atwell III "Elements"
+  artist: W.A. Atwell III
+  year: 1998
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/w-a-atwell-iii-elements/
+- project: W.A. Atwell III "Borganica"
+  artist: W.A. Atwell III
+  year: 1998
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/w-a-atwell-iii-borganica/
+- project: Fickle Musheads ""
+  artist: Fickle Musheads
+  year: 1998
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/fickle-musheads/
+- project: pbsg "Fail (unreleased)"
+  artist: pbsg
+  year: 1998
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/pbsg-fail-unreleased/
+- project: Deborah Gibson "My Girlfriend’s Boyfriend, soundtrack"
+  artist: Deborah Gibson
+  year: 1998
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/deborah-gibson-my-girlfriends-boyfriend-soundtrack/
+- project: Those Bleeding Tulips ""
+  artist: Those Bleeding Tulips
+  year: 1998
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/those-bleeding-tulips/
+- project: Milla Jovovich "pre-production, unreleased"
+  artist: Milla Jovovich
+  year: 1998
+  roles:
+    - Bass
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/milla-jovovich-pre-production-unreleased/
+- project: Amy Correia "single"
+  artist: Amy Correia
+  year: 1997
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/amy-correia-single/
+- project: Seal "pre-production, unreleased"
+  artist: Seal
+  year: 1997
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/seal-pre-production-unreleased/
+- project: Fleshtest ""
+  artist: Fleshtest
+  year: 1997
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/fleshtest/
+- project: Ted Houghton "Smalltime"
+  artist: Ted Houghton
+  year: 1997
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/ted-houghton-smalltime/
+- project: Big Hug "Blame It On The Years"
+  artist: Big Hug
+  year: 1997
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/big-hug-blame-it-on-the-years/
+- project: Patrick McGuinn &amp; The Blue Ravens ""
+  artist: Patrick McGuinn &amp; The Blue Ravens
+  year: 1997
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/patrick-mcguinn-the-blue-ravens/
+- project: Allen Ginsberg "unreleased"
+  artist: Allen Ginsberg
+  year: 1996
+  roles:
+    - Engineer
+    - Recording
+  image: https://storybooksound.com/recording_project/allen-ginsberg-unreleased/
+- project: Chris Butler "The Devil Giltch"
+  artist: Chris Butler
+  year: 1996
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/chris-butler-the-devil-giltch/
+- project: Grind "film score"
+  artist: Grind
+  year: 1996
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/grind-film-score/
+- project: Joel Golden "Astronaut"
+  artist: Joel Golden
+  year: 1996
+  roles:
+    - Mastering
+  image: https://storybooksound.com/recording_project/joel-golden-astronaut/
+- project: David Poe "The Glass Suit E.P."
+  artist: David Poe
+  year: 1996
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/david-poe-the-glass-suit-e-p/
+- project: Leif Arntzen "Eventide"
+  artist: Leif Arntzen
+  year: 1996
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/leif-arntzen-eventide/
+- project: Buffalo Daughter ""
+  artist: Buffalo Daughter
+  year: 1996
+  roles:
+    - Digital Editing
+  image: https://storybooksound.com/recording_project/buffalo-daughter/
+- project: Nancy Boy ""
+  artist: Nancy Boy
+  year: 1996
+  roles:
+    - Digital Editing
+  image: https://storybooksound.com/recording_project/nancy-boy/
+- project: Black Rain "Anarchy"
+  artist: Black Rain
+  year: 1996
+  roles:
+    - Mixing
+  image: https://storybooksound.com/recording_project/black-rain-anarchy/
+- project: Soul Coughing "National Lampoon’s Senior Trip Original Soundtrack"
+  artist: Soul Coughing
+  year: 1995
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/soul-coughing-national-lampoons-senior-trip-original-soundtrack/
+- project: The Four Horsemen ""
+  artist: The Four Horsemen
+  year: 1995
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/the-four-horsemen/
+- project: Daisyhaze "Backwards From 3"
+  artist: Daisyhaze
+  year: 1995
+  roles:
+    - Mastering
+    - Mixing
+  image: https://storybooksound.com/recording_project/daisyhaze-backwards-from-3/
+- project: Dragass ""
+  artist: Dragass
+  year: 1995
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/dragass/
+- project: Gerry Devine and the Hi-Beams "Burning Daylight"
+  artist: Gerry Devine and the Hi-Beams
+  year: 1995
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/gerry-devine-and-the-hi-beams-burning-daylight/
+- project: Preston Smith ""
+  artist: Preston Smith
+  year: 1994
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/preston-smith/
+- project: The Whatnots "Heat Meiser (single)"
+  artist: The Whatnots
+  year: 1994
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/the-whatnots-heat-meiser-single/
+- project: Dog’s Eye View "Happy Nowhere (pre-production, unreleased)"
+  artist: Dog’s Eye View
+  year: 1994
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/dogs-eye-view-happy-nowhere-pre-production-unreleased/
+- project: Ron English "English 101"
+  artist: Ron English
+  year: 1994
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/ron-english-english-101/
+- project: Jason Rabe ""
+  artist: Jason Rabe
+  year: 1994
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/jason-rabe/
+- project: Greg Ribot "El Flete de mi Canto"
+  artist: Greg Ribot
+  year: 1993
+  roles:
+    - Ingeniero de Grabacion
+    - Mezcla
+  image: https://storybooksound.com/recording_project/greg-ribot-el-flete-de-mi-canto/
+- project: The Whatnots "Mrs. Stanwyck"
+  artist: The Whatnots
+  year: 1993
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/the-whatnots-mrs-stanwyck/
+- project: Gimme The Gun "Love American Style"
+  artist: Gimme The Gun
+  year: 1993
+  roles:
+    - Mixing
+  image: https://storybooksound.com/recording_project/gimme-the-gun-love-american-style/
+- project: The Gefkens "Rabbit Punch"
+  artist: The Gefkens
+  year: 1993
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/the-gefkens-rabbit-punch/
+- project: Sound Of Skin ""
+  artist: Sound Of Skin
+  year: 1993
+  roles:
+    - Mixing
+  image: https://storybooksound.com/recording_project/sound-of-skin/
+- project: 17M "Live at CBGBs ’91"
+  artist: 17M
+  year: 1993
+  roles:
+    - Mixing
+  image: https://storybooksound.com/recording_project/17m-live-at-cbgbs-91/
+- project: Lisa Lowell and The Frontier Boys ""
+  artist: Lisa Lowell and The Frontier Boys
+  year: 1992
+  roles:
+    - Recording
+  image: https://storybooksound.com/recording_project/lisa-lowell-and-the-frontier-boys/
+- project: Because, Because, Because "pre-production"
+  artist: Because, Because, Because
+  year: 1992
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/because-because-because-pre-production/
+- project: The Cost Of Living "Comic Book Page"
+  artist: The Cost Of Living
+  year: 1991
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/the-cost-of-living-comic-book-page/
+- project: Sherry Winston "Love Madness"
+  artist: Sherry Winston
+  year: 1991
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/sherry-winston-love-madness/
+- project: The Gift "Wasted Time"
+  artist: The Gift
+  year: 1991
+  roles:
+    - Mixing
+  image: https://storybooksound.com/recording_project/the-gift-wasted-time/
+- project: Danny Stevens ""
+  artist: Danny Stevens
+  year: 1990
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/danny-stevens/
+- project: Tom Russell ""
+  artist: Tom Russell
+  year: 1990
+  roles:
+    - Engineer
+  image: https://storybooksound.com/recording_project/tom-russell/
+- project: Wild Kisses "Music From 23rd Street"
+  artist: Wild Kisses
+  year: 1989
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/wild-kisses-music-from-23rd-street/
+- project: Mindescape "Northfield Skies (unreleased)"
+  artist: Mindescape
+  year: 1989
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/mindescape-northfield-skies-unreleased/
+- project: Nan Warnock "Nan Sings, Live From The Portland Regency"
+  artist: Nan Warnock
+  year: 1988
+  roles:
+    - Engineer
+    - Mixing
+  image: https://storybooksound.com/recording_project/nan-warnock-nan-sings-live-from-the-portland-regency/
