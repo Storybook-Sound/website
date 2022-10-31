@@ -19,3 +19,18 @@
   vertical-align: middle;
   border: 0;
 }
+
+/* Close Button */
+.dialog_cancel {
+  position: relative;
+  right: -8px;
+  top: -8px;
+}
+
+#dialog_header {
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  position: relative;
+  border: 1px solid aliceblue;
+}

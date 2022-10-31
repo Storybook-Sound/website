@@ -1,8 +1,17 @@
 // --------------------- Created By InCoder ---------------------
-import {choc, set_content, on, DOM} from "https://rosuav.github.io/choc/factory.js";
-const {DIV, IMG, H1, H2, A} = choc; //autoimport
+import {choc, set_content, on, DOM, fix_dialogs} from "https://rosuav.github.io/choc/factory.js";
+const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON} = choc; //autoimport
 
+document.body.appendChild(DIALOG({id: "gallerydlg"}, [
+  DIV({id: "dialog_header"}, BUTTON({type: "button", class: "dialog_cancel"}, 'x')),
+  FIGURE([
+    IMG(),
+    FIGCAPTION()
+  ])
+]));
 
+// Support for older browsers
+fix_dialogs({close_selector: ".dialog_cancel,.dialog_close", click_outside: "formless"});
 
 function image_cover(item) {
   if (item.image) return IMG({src: item.image});
@@ -12,6 +21,13 @@ function image_cover(item) {
 set_content("#gallery",
   gallery.map((item, idx) => DIV({"data-idx": idx}, image_cover(item) )
   ));
+
+on("click", "#gallery > div", e => {
+  const idx = e.match.closest("[data-idx]").dataset.idx;
+  const item = gallery[idx];
+  DOM("#gallerydlg img").src = item.image;
+  DOM("#gallerydlg").showModal();
+});
 
 /*
 let image_boxes = document.querySelectorAll('.disc-image'),
