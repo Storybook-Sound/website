@@ -1,0 +1,21 @@
+/* RESET */
+* {
+  box-sizing: border-box;
+}
+
+/* Flexbox Grid Styling */
+#gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+#gallery>div {
+  max-width: 10rem;
+}
+
+#gallery img {
+  max-width: 100%;
+  vertical-align: middle;
+  border: 0;
+}

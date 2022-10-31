@@ -1,0 +1,33 @@
+- project: Human Indictive/Live
+  artist: OPTO S
+  roles:
+    - mastering
+  image: https://storybooksound.com/app/uploads/2020/11/ED53DFA4-33E6-41D5-820E-42E15A55690D.jpeg
+  notes:
+    "ESP-Disk
+    Mastered by Scott Anthony at Storybook Sound"
+  year: 2020
+  link: https://en.wikipedia.org/wiki/ESP-Disk
+- project: TEST
+  artist: Chris and Mike
+  roles:
+    - engineering
+    - mastering
+    - producing
+  image: https://storybooksound.com/app/uploads/2020/02/a3783403906_10.jpg
+  notes:
+    "MZOO-Disk
+    Engineered and Mastered by Scott Anthony at Storybook Sound"
+  year: 2020
+  link: https://en.wikipedia.org/wiki/ESP-Disk
+- project: TEST TWO
+  artist: Chris and Mike Also
+  roles:
+    - engineering
+    - mastering
+    - producing
+  notes:
+    "MZOO-Disk
+    Engineered and Mastered by Scott Anthony at Storybook Sound"
+  year: 2020
+  link: https://en.wikipedia.org/wiki/ESP-Disk
