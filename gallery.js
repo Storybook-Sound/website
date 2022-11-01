@@ -18,7 +18,7 @@ document.body.appendChild(DIALOG({id: "gallerydlg"}, [
 fix_dialogs({close_selector: ".dialog_cancel,.dialog_close", click_outside: "formless"});
 
 function image_cover(item) {
-  if (item.image) return IMG({src: item.image});
+  if (item.image) return IMG({src: item.image.url, title: item.image.title, alt: item.image.title});
   return "coming soon.";
 }
 
