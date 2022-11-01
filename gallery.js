@@ -1,8 +1,11 @@
 // --------------------- Created By InCoder ---------------------
 import {choc, set_content, on, DOM, fix_dialogs} from "https://rosuav.github.io/choc/factory.js";
-const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P} = choc; //autoimport
+const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P, SECTION} = choc; //autoimport
 
 let selected_item = 0;
+
+const sets = Object.keys(galleries);
+sets.sort((a, b) => b.localeCompare(a)); // reverse sort
 
 document.body.appendChild(DIALOG({id: "gallerydlg"}, [
   DIV({id: "dialog_header"}, [
@@ -23,8 +26,11 @@ function image_cover(item) {
 }
 
 set_content("#gallery",
-  gallery.map((item, idx) => DIV({"data-idx": idx}, image_cover(item) )
-));
+  sets.map(set => SECTION([
+    H2(set),
+    DIV({class: "gallery_set"}, galleries[set].map((item, idx) => DIV({"data-idx": idx}, image_cover(item) )))
+  ]))
+);
 
 function display_item(idx) {
   selected_item = +idx; // cast as number

@@ -4,18 +4,18 @@
 }
 
 /* Flexbox Grid Styling */
-#gallery {
+.gallery_set {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
   max-width: 90%;
 }
 
-#gallery>div {
+.gallery_set>div {
   max-width: 10rem;
 }
 
-#gallery img {
+.gallery_set img {
   max-width: 100%;
   vertical-align: middle;
   border: 0;

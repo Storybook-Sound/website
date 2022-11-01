@@ -1,0 +1,49 @@
+- project: 'Each Day Blues'
+  artist: Each Day Blues
+  year: 1995
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    Brian Kelly
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/each-day.jpeg
+    title: 'Each Day Blues'
+- project: 'Charlie the Symbolic Dog'
+  artist: Charlie the Symbolic Dog
+  year: 1995
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    Bone Fiction
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/627279.jpg
+    title: 'Charlie the Symbolic Dog'
+- project: 'Soul Coughing "National Lampoon’s Senior Trip Original Soundtrack"'
+  artist: Soul Coughing
+  year: 1995
+  roles:
+    - Engineer
+- project: 'The Four Horsemen ""'
+  artist: The Four Horsemen
+  year: 1995
+  roles:
+    - Engineer
+- project: 'Daisyhaze "Backwards From 3"'
+  artist: Daisyhaze
+  year: 1995
+  roles:
+    - Mastering
+    - Mixing
+- project: 'Dragass ""'
+  artist: Dragass
+  year: 1995
+  roles:
+    - Engineer
+    - Mixing
+- project: 'Gerry Devine and the Hi-Beams "Burning Daylight"'
+  artist: Gerry Devine and the Hi-Beams
+  year: 1995
+  roles:
+    - Engineer

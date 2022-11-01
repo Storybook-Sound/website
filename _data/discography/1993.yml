@@ -1,0 +1,35 @@
+- project: 'Greg Ribot "El Flete de mi Canto"'
+  artist: Greg Ribot
+  year: 1993
+  roles:
+    - Ingeniero de Grabacion
+    - Mezcla
+- project: 'The Whatnots "Mrs. Stanwyck"'
+  artist: The Whatnots
+  year: 1993
+  roles:
+    - Engineer
+    - Mixing
+  notes: >-
+    Chris Butler, Producer
+- project: 'Gimme The Gun "Love American Style"'
+  artist: Gimme The Gun
+  year: 1993
+  roles:
+    - Mixing
+- project: 'The Gefkens "Rabbit Punch"'
+  artist: The Gefkens
+  year: 1993
+  roles:
+    - Engineer
+    - Mixing
+- project: 'Sound Of Skin ""'
+  artist: Sound Of Skin
+  year: 1993
+  roles:
+    - Mixing
+- project: '17M "Live at CBGBs ’91"'
+  artist: 17M
+  year: 1993
+  roles:
+    - Mixing

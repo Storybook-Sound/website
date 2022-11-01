@@ -1,0 +1,89 @@
+- project: 'Bob Evans "Pipeline on WMBR"'
+  artist: Bob Evans
+  year: 2012
+  roles:
+    - Mastering
+  project_url: 
+    title: Artist site
+    url: https://bobevans.bandcamp.com/album/pipeline-on-wmbr
+    target: _blank
+  notes: >-
+    <b>guitar & vocal - Dave Gloshinski
+    bass - Andrew Kesin
+    drums - Brian O'Neill
+    
+    mastered @ The Viewing Room by Scott Anthony </b>
+    <a href="https://bobevans.bandcamp.com/album/pipeline-on-wmbr" target="_blank" rel="noopener">Artist site</a>
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/bob.jpg
+    title: 'Bob Evans "Pipeline on WMBR"'
+- project: 'Li''l Mo and The Monicats "Whole Lotta Love"'
+  artist: Li'l Mo and The Monicats
+  year: 2012
+  roles:
+    - Mastering
+  project_url: 
+  notes: >-
+    <b>Mastered by Scott Anthony</b>
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/lil-mo.jpg
+    title: 'Li''l Mo and The Monicats "Whole Lotta Love"'
+- project: 'Marco Ranieri "Heartbroken Radio"'
+  artist: Marco Ranieri
+  year: 2012
+  roles:
+    - Mastering
+  project_url: 
+  notes: >-
+    <b>Mastered by Scott Anthony</b>
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/marco.jpg
+    title: 'Marco Ranieri "Heartbroken Radio"'
+- project: 'Boz Metzdorf "Green And Blue"'
+  artist: Boz Metzdorf
+  year: 2012
+  roles:
+    - Mastering
+  project_url: 
+  notes: >-
+    <b>Mastered by Scott Anthony</b>
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/cdcover_5_greenandblue.jpg
+    title: 'Boz Metzdorf "Green And Blue"'
+- project: 'Illtet "Live C.B.G.B.''S"'
+  artist: Illtet
+  year: 2012
+  roles:
+    - Mastering
+  project_url: 
+    title: Artist site
+    url: https://illtet.bandcamp.com/album/live-at-cbgbs
+    target: _blank
+  notes: >-
+    <b>Mastered by Scott Anthony</b>
+    <a href="https://illtet.bandcamp.com/album/live-at-cbgbs" target="_blank" rel="noopener">Artist site</a>
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/03/Front1.jpg
+    title: 'Illtet "Live C.B.G.B.''S"'
+- project: 'Lanes Narrow (with Bob Carr) "4-Way Stop"'
+  artist: Lanes Narrow (with Bob Carr)
+  year: 2012
+  roles:
+    - Mastering
+- project: 'Erica Smith And The 99 Cent "Dreams One for My Baby"'
+  artist: Erica Smith And The 99 Cent
+  year: 2012
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+- project: 'Boz Metzdorf "Tin Pan Alley"'
+  artist: Boz Metzdorf
+  year: 2012
+  roles:
+    - Mastering
+- project: 'Jason Didner "Jackals On The Prowl"'
+  artist: Jason Didner
+  year: 2012
+  roles:
+    - Mastering

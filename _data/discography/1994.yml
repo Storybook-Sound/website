@@ -1,0 +1,39 @@
+- project: 'In & Out'
+  artist: In &amp; Out
+  year: 1994
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    BloodSugar
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/bloodsugar.jpg
+    title: 'In & Out'
+- project: 'Preston Smith ""'
+  artist: Preston Smith
+  year: 1994
+  roles:
+    - Engineer
+- project: 'The Whatnots "Heat Meiser (single)"'
+  artist: The Whatnots
+  year: 1994
+  roles:
+    - Engineer
+    - Mixing
+- project: 'Dog’s Eye View "Happy Nowhere (pre-production, unreleased)"'
+  artist: Dog’s Eye View
+  year: 1994
+  roles:
+    - Engineer
+    - Mixing
+- project: 'Ron English "English 101"'
+  artist: Ron English
+  year: 1994
+  roles:
+    - Engineer
+- project: 'Jason Rabe ""'
+  artist: Jason Rabe
+  year: 1994
+  roles:
+    - Engineer
+    - Mixing

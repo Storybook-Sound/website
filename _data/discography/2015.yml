@@ -1,0 +1,196 @@
+- project: 'John Pinamonti "The Usual"'
+  artist: John Pinamonti
+  year: 2015
+  roles:
+    - Mastering
+  project_url: 
+  notes: >-
+    <b>Mastered by Scott Anthony at Storybook Sound </b>
+  image: 
+    url: https://storybooksound.com/app/uploads/2020/02/The-Usual-Cover.jpg
+    title: 'John Pinamonti "The Usual"'
+- project: 'Tiokasin Ghosthorse "Somewhere In There"'
+  artist: Tiokasin Ghosthorse
+  year: 2015
+  roles:
+    - Mastering
+  project_url: 
+  notes: >-
+    <b>Produced by Alex Alexander
+    Mastered by Scott Anthony at Storybook Sound </b>
+  image: 
+    url: https://storybooksound.com/app/uploads/2020/02/61GD172QUoL._SS500_.jpg
+    title: 'Tiokasin Ghosthorse "Somewhere In There"'
+- project: 'Frank Bango "Christmas in Bed with My Baby"'
+  artist: Frank Bango
+  year: 2015
+  roles:
+    - Mastering
+  project_url: 
+  notes: >-
+    <b>Mastered by Scott Anthony at Storybook Sound </b>
+  image: 
+    url: https://storybooksound.com/app/uploads/2020/02/a2996221471_10.jpg
+    title: 'Frank Bango "Christmas in Bed with My Baby"'
+- project: 'Emily Duff "Go Tell Your Friends"'
+  artist: Emily Duff
+  year: 2015
+  roles:
+    - Mastering
+  project_url: 
+    title: Artist site
+    url: https://emilyduff.bandcamp.com/album/go-tell-your-friends
+    target: _blank
+  notes: >-
+    <b>Engineered and Mixed by Craig Bishop at NY Noise
+    Produced by Craig Bishop & Emily Duff
+    Mastered by Scott Anthony at Storybook Sound</b>
+    <a href="https://emilyduff.bandcamp.com/album/go-tell-your-friends" target="_blank" rel="noopener">Artist site</a>
+  image: 
+    url: https://storybooksound.com/app/uploads/2017/10/a1603614223_10.jpg
+    title: 'Emily Duff "Go Tell Your Friends"'
+- project: 'Hallow Dog "Change In Luck"'
+  artist: Hallow Dog
+  year: 2015
+  roles:
+    - Mastering
+  project_url: 
+  notes: >-
+    <b>Mastered by Scott Anthony at Storybook Sound</b>
+  image: 
+    url: https://storybooksound.com/app/uploads/2017/10/hallowdog12.jpg
+    title: 'Hallow Dog "Change In Luck"'
+- project: 'Heather Hardy "Blue Silhouette"'
+  artist: Heather Hardy
+  year: 2015
+  roles:
+    - Mastering
+    - Production
+  project_url: 
+    title: Artist site
+    url: https://heatherlilmamahardy.bandcamp.com/album/blue-silhouette
+    target: _blank
+  notes: >-
+    <b>Recorded and mixed at Velvet Swan Studios by T. J Swan in NYC
+    Produced by Heather Hardy Mastered by Scott Anthony at Storybook Sound</b>
+    <a href="https://heatherlilmamahardy.bandcamp.com/album/blue-silhouette" target="_blank" rel="noopener">Artist site</a>
+  image: 
+    url: https://storybooksound.com/app/uploads/2017/10/cd-cover-for-digital-sales.jpeg.jpg
+    title: 'Heather Hardy "Blue Silhouette"'
+- project: 'Alice Despard Group "Mosaic"'
+  artist: Alice Despard Group
+  year: 2015
+  roles:
+    - Guitar
+    - Mastering
+    - Production
+  project_url: 
+    title: Artist site
+    url: https://alicedespardgroup.bandcamp.com/album/mosaic-ep
+    target: _blank
+  notes: >-
+    <b>Alice Despard: vocals, guitars, balalaika
+    Evan Pollack: percussion, vocals
+    Les Doerfler: bass guitars
+    Sean O'Brien: keys/synths
+    Grahame Davies: engineer/production, guitar Mastered by Scott Anthony at Storybook Sound</b>
+    <a href="https://alicedespardgroup.bandcamp.com/album/mosaic-ep" target="_blank" rel="noopener">Artist site</a>
+  image: 
+    url: https://storybooksound.com/app/uploads/2017/10/alicedespardgroup_large.jpg
+    title: 'Alice Despard Group "Mosaic"'
+- project: 'Brian Kelly "Released"'
+  artist: Brian Kelly
+  year: 2015
+  roles:
+    - Mastering
+  project_url: 
+  notes: >-
+    <b>Mastered by Scott Anthony at Storybook Sound</b>
+  image: 
+    url: https://storybooksound.com/app/uploads/2017/10/thumbnail.jpg
+    title: 'Brian Kelly "Released"'
+- project: 'Girls on Grass "Girls on Grass"'
+  artist: Girls on Grass
+  year: 2015
+  roles:
+    - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wiretroop.bandcamp.com/album/trio-power
+    target: _blank
+  notes: >-
+    <b>Produced and recorded by Jay Sherman-Godfrey at Able Mobile Recording Lab, Brooklyn, New York
+    Mastering by Scott Anthony at Storybook Sound</b>
+    <a href="https://wiretroop.bandcamp.com/album/trio-power" target="_blank" rel="noopener">Artist site</a>
+  image: 
+    url: https://storybooksound.com/app/uploads/2015/12/GirlsOnGrass.jpg
+    title: 'Girls on Grass "Girls on Grass"'
+- project: 'Glenn Mercer "Incidental Hum"'
+  artist: Glenn Mercer
+  year: 2015
+  roles:
+    - Mastering
+  project_url: 
+  notes: >-
+    <b>Mastered by Scott Anthony at Storybook Sound</b>
+  image: 
+    url: https://storybooksound.com/app/uploads/2015/12/Glenn-Mercer_Incidental-Hum.jpg
+    title: 'Glenn Mercer "Incidental Hum"'
+- project: 'Andy Westley and Friends "It’s Not About Me"'
+  artist: Andy Westley and Friends
+  year: 2015
+  roles:
+    - Mastering
+- project: 'Big Mamou "Big Mamou"'
+  artist: Big Mamou
+  year: 2015
+  roles:
+    - Mastering
+- project: 'Rebecca Turner "Idiot"'
+  artist: Rebecca Turner
+  year: 2015
+  roles:
+    - Engineer
+    - Mastering
+    - Mixing
+- project: 'Demolition String Band "Get Waxed – Live At The Thomas Edison Museum"'
+  artist: Demolition String Band
+  year: 2015
+  roles:
+    - Mastering
+- project: 'Metrodome "Metrodome"'
+  artist: Metrodome
+  year: 2015
+  roles:
+    - Mastering
+- project: 'Napoleon "Napoleon"'
+  artist: Napoleon
+  year: 2015
+  roles:
+    - Mastering
+- project: 'Lanes Narrow "Runt Of The Litter"'
+  artist: Lanes Narrow
+  year: 2015
+  roles:
+    - Mastering
+- project: 'Tri-State "New Minuits / Titanic Bros."'
+  artist: Tri-State
+  year: 2015
+  roles:
+    - Mastering
+    - Mixing
+- project: 'Jason Didner "Summertime Santa / My Super Power"'
+  artist: Jason Didner
+  year: 2015
+  roles:
+    - Mastering
+- project: 'Albert Ayler "Bells &amp; Prophecy: Expanded Edition"'
+  artist: Albert Ayler
+  year: 2015
+  roles:
+    - Mastering
+- project: 'Food On You "Food On You"'
+  artist: Food On You
+  year: 2015
+  roles:
+    - Mastering

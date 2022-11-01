@@ -1,0 +1,55 @@
+- project: 'Alegria'
+  artist: Alegria
+  year: 2009
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    Ioan Harea
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/alegria.jpg
+    title: 'Alegria'
+- project: 'Creatured'
+  artist: Creatured
+  year: 2009
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    The Gambees
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/gambees.jpg
+    title: 'Creatured'
+- project: 'Cleaning Out The Ashtrays'
+  artist: Cleaning Out The Ashtrays
+  year: 2009
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    Lloyd Cole
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/lloyd.jpg
+    title: 'Cleaning Out The Ashtrays'
+- project: 'Monstrous'
+  artist: Monstrous
+  year: 2009
+  roles:
+    - What did I do here again?
+  notes: >-
+    Brothers Gethway
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/Brothers-Gethway.jpg
+    title: 'Monstrous'
+- project: 'The Mudlarks "A Tender Age"'
+  artist: The Mudlarks
+  year: 2009
+  roles:
+    - Mastering
+  notes: >-
+    Paul Carbonara, Producer
+- project: 'Silverado "Silverado Favorites"'
+  artist: Silverado
+  year: 2009
+  roles:
+    - Mastering

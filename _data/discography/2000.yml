@@ -1,0 +1,54 @@
+- project: 'Needles'
+  artist: Needles
+  year: 2000
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    Robert Scheffler
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/needles.jpeg
+    title: 'Needles'
+- project: 'Hocus Pocus'
+  artist: Hocus Pocus
+  year: 2000
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    The Billy Dechand Band
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/dechand.png
+    title: 'Hocus Pocus'
+- project: 'What A Beautiful Child'
+  artist: What A Beautiful Child
+  year: 2000
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    My Dear Ella
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/ella.jpg
+    title: 'What A Beautiful Child'
+- project: 'One Thing Right'
+  artist: One Thing Right
+  year: 2000
+  roles:
+    - What did I do here again?
+  project_url: 
+  notes: >-
+    The Big Galoots
+  image: 
+    url: https://storybooksound.com/app/uploads/2014/01/galoots.jpg
+    title: 'One Thing Right'
+- project: 'Tim Beattie ""'
+  artist: Tim Beattie
+  year: 2000
+  roles:
+    - Mastering
+- project: 'The Whatnots "Snug (unreleased)"'
+  artist: The Whatnots
+  year: 2000
+  roles:
+    - Engineer
