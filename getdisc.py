@@ -10,6 +10,8 @@ def quote_str(str):
 
 with open("_data/discography.yml", "w") as disco:
   for item in soup.find_all("item"):
+    if not (item.find('category', {"domain": "artist"})):
+        continue
     metadata = {}
     for meta in item.find_all('meta_key'):
       for elem in meta.next_siblings:
@@ -17,8 +19,7 @@ with open("_data/discography.yml", "w") as disco:
           metadata[meta.text] = elem.text.strip()
           break
     print('- project: ' + quote_str(item.title.text), file=disco)
-    if (set := item.find('category', {"domain": "artist"})):
-      print('  artist: ' + item.find('category', {"domain": "artist"}).text, file=disco)
+    print('  artist: ' + item.find('category', {"domain": "artist"}).text, file=disco)
     if (set := item.find('category', {"domain": "set"})):
       print('  year: ' + set.text, file=disco)
     print('  roles:', file=disco)
