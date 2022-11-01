@@ -3,6 +3,7 @@ import {choc, set_content, on, DOM, fix_dialogs} from "https://rosuav.github.io/
 const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P, SECTION} = choc; //autoimport
 
 let selected_item = 0;
+let selected_set = 0;
 
 const sets = Object.keys(galleries);
 sets.sort((a, b) => b.localeCompare(a)); // reverse sort
@@ -26,37 +27,48 @@ function image_cover(item) {
 }
 
 set_content("#gallery",
-  sets.map(set => SECTION([
+  sets.map((set, idx )=> SECTION({'data-set': idx}, [
     H2(set),
     DIV({class: "gallery_set"}, galleries[set].map((item, idx) => DIV({"data-idx": idx}, image_cover(item) )))
   ]))
 );
 
-function display_item(idx) {
+function display_item(set, idx) {
   selected_item = +idx; // cast as number
-  console.log(selected_item);
-  const item = gallery[idx];
-  DOM("#gallerydlg img").src = item.image;
+  selected_set = +set;
+  console.log(selected_item, selected_set);
+  const item = galleries[sets[set]][idx];
+  DOM("#gallerydlg img").src = item.image.url;
   set_content("#gallerydlg figcaption", [
     item.project && H1(item.project),
     item.artist && H2(item.artist),
     item.roles && P(item.roles.join(", ")),
-    item.notes && item.notes.split("\n\n").map(p => P(p)),
+    item.notes && item.notes.split("\n\n").map(p => P({".innerHTML": p})),
+    // Using .innerHTML is a cheat that Choc Factory makes "work".
     // TODO LINK
   ]);
 }
 
-on("click", "#gallery > div", e => {
-  display_item(e.match.closest("[data-idx]").dataset.idx);
+on("click", ".gallery_set > div", e => {
+  display_item(e.match.closest("[data-set]").dataset.set, e.match.closest("[data-idx]").dataset.idx);
   DOM("#gallerydlg").showModal();
 });
 
 on("click", "#prev", e => {
-  display_item(selected_item ? selected_item - 1 : gallery.length - 1);
+  if (selected_item) {
+    display_item(selected_set, selected_item - 1);
+  } else {
+    const set = selected_set ? selected_set - 1 : sets.length - 1;
+    display_item(set, galleries[sets[set]].length - 1);
+  }
 });
 
 on("click", "#next", e => {
-  display_item((selected_item + 1) % gallery.length);
+  if (selected_item < galleries[sets[selected_set]].length - 1) {
+    display_item(selected_set, selected_item + 1);
+  } else {
+    display_item((selected_set + 1) % sets.length, 0);
+  }
 });
 
 /*
