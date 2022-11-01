@@ -39,3 +39,73 @@
   border: 1px solid aliceblue;
   justify-content: space-between;
 }
+
+/* Placeholders */
+
+
+.disc-placeholder,
+.disc-placeholder-large {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.disc-placeholder {
+  width: 220px;
+  height: 220px;
+  box-shadow: inset 0 0 10px #888;
+}
+
+.disc-placeholder-large {
+  width: 420px;
+  height: 420px;
+  box-shadow: inset 0 0 10px #888;
+}
+
+.disc-placeholder div,
+.disc-placeholder-large div {
+  border: 2px solid #999;
+  padding: 2em;
+  text-align: center;
+}
+
+.disc-placeholder div {
+  width: 208px;
+  height: 208px;
+}
+
+.disc-placeholder-large div {
+  width: 408px;
+  height: 408px;
+}
+
+.disc-placeholder.red,
+.disc-placeholder-large.red {
+  background-color: #C2756C;
+}
+
+.disc-placeholder.gold,
+.disc-placeholder-large.gold {
+  background-color: #C2A947;
+}
+
+.disc-placeholder.teal,
+.disc-placeholder-large.teal {
+  background-color: #50AE9F;
+}
+
+.disc-placeholder.green,
+.disc-placeholder-large.green {
+  background-color: #94C47B;
+}
+
+.disc-placeholder.blue,
+.disc-placeholder-large.blue {
+  background-color: #4A9CC4;
+}
+
+.disc-placeholder.azure,
+.disc-placeholder-large.azure {
+  background-color: #B2D9F3;
+}
