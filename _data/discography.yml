@@ -534,7 +534,7 @@
   roles:
     - What did I do here again?
   image: http://www.storybooksound.com/app/uploads/2017/09/Muerto.jpg
-- project: Unicorn "One More Tomorrow: Remastered & Expanded Edition"
+- project: Unicorn "One More Tomorrow&#58; Remastered & Expanded Edition"
   roles:
     - What did I do here again?
   image: http://www.storybooksound.com/app/uploads/2017/09/UNICORN-One-More-Tomorrow.jpg
@@ -742,7 +742,7 @@
   roles:
     - What did I do here again?
   image: http://www.storybooksound.com/app/uploads/2017/10/a1132546816_10.jpg
-- project: "Cut Pieces: A Tribute To Yoko Ono"
+- project: "Cut Pieces&#58; A Tribute To Yoko Ono"
   roles:
     - What did I do here again?
   image: http://www.storybooksound.com/app/uploads/2017/10/MI0003808926.jpg
@@ -902,7 +902,7 @@
   roles:
     - What did I do here again?
   image: https://storybooksound.com/app/uploads/2020/02/a2712122063_10.jpg
-- project: Tyranny Of Dave "The Decline Of America Part 3: Silence In Brooklyn"
+- project: Tyranny Of Dave "The Decline Of America Part 3&#58; Silence In Brooklyn"
   roles:
     - What did I do here again?
   image: https://storybooksound.com/app/uploads/2020/02/a2414837606_10.jpg
@@ -1034,11 +1034,11 @@
   roles:
     - What did I do here again?
   image: https://storybooksound.com/app/uploads/2020/02/michaeljmiles16_large.jpg
-- project: Saturday Afternoon Song Swap "Swap Thing: Part 1"
+- project: Saturday Afternoon Song Swap "Swap Thing&#58; Part 1"
   roles:
     - What did I do here again?
   image: https://storybooksound.com/app/uploads/2020/02/71dRyXzXGqL._SS500_.jpg
-- project: Saturday Afternoon Song Swap "Swap Thing: Part 2"
+- project: Saturday Afternoon Song Swap "Swap Thing&#58; Part 2"
   roles:
     - What did I do here again?
   image: https://storybooksound.com/app/uploads/2020/02/61Gd48C-6mL._SS500_.jpg
@@ -1135,226 +1135,498 @@
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Label Wikipedia
+    url: https://en.wikipedia.org/wiki/ESP-Disk
+    target: _blank
+  notes: ESP-Disk
+<b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://en.wikipedia.org/wiki/ESP-Disk" target="_blank" rel="noopener">Label Wikipedia</a>
   image: https://storybooksound.com/recording_project/opto-s-human-indictive-live/
 - project: David Greenberger & Tyson Rogers "Smaller Scale"
   artist: David Greenberger &amp; Tyson Rogers
   year: 2020
   roles:
     - What did I do here again?
+  project_url: 
+    title: Artist site
+    url: https://davidgreenberger.bandcamp.com/audio
+    target: _blank
+  notes: <b>David Greenberger: monologue
+Tyson Rogers: music
+
+An installment from "Everybody's Home"
+
+Text based on a conversation with Scott Anthony
+Cover image uses a detail from "Fecundity 179" by Barbara Price, 2020 (pencil, ink, and collage on book page) </b>
+<a href="https://davidgreenberger.bandcamp.com/audio" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/david-greenberger-tyson-rogers-smaller-scale/
 - project: Emily Hurd "Nightshades"
   artist: Emily Hurd
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://open.spotify.com/album/4aje1xzPwk6yBnE0Pg1xCE
+    target: _blank
+  notes: <b>Recorded at Kingsize Sound Labs by John Abbey.
+John put together a socially-distanced session on July 6th w/ the talented wrecking crew of Gregg Ostrom, Robbie Gjersoe, J.D. Foster (<a href="https://en.wikipedia.org/wiki/J._D._Foster" target="_blank" rel="noopener">Wikipedia</a>), & Gerald Dowd.
+Mastered by Scott Anthony at Storybook Sound.</b>
+<a href="https://open.spotify.com/album/4aje1xzPwk6yBnE0Pg1xCE" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/emily-hurd-nightshades/
 - project: "Omniana"
   year: 2020
   roles:
     - Production
+  project_url: 
+    title: Artist site
+    url: https://www.youtube.com/channel/UCAY0zkFuk2dYSZZ3Qesh94A/featured
+    target: _blank
+  notes: <b>Produced at Storybook Sound by Scott Anthony and Rebecca Turner</b>
+<a href="https://www.youtube.com/channel/UCAY0zkFuk2dYSZZ3Qesh94A/featured" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/omniana/
 - project: Speed the Plough "Rush Hour"
   artist: Speed the Plough
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://speedtheplough1.bandcamp.com/track/rush-hour-inadvertent-meditation-for-a-friend
+    target: _blank
+  notes: <b>Recorded in New Jersey and Beirut
+Mixed by Don Sternecker at Mix-o-lydian Studios
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://speedtheplough1.bandcamp.com/track/rush-hour-inadvertent-meditation-for-a-friend" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/speed-the-plough-rush-hour/
 - project: Speed the Plough "Just Because You Can"
   artist: Speed the Plough
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://speedtheplough1.bandcamp.com/track/just-because-you-can
+    target: _blank
+  notes: <b>Recorded at home studios in NJ and Florida
+Mixed by Don Sternecker at Mix-o-lydian Studios
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://speedtheplough1.bandcamp.com/track/just-because-you-can" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/speed-the-plough-just-because-you-can/
 - project: Petey & the True Mongrel Hearts  "Home In The Wind"
   artist: Petey &amp; the True Mongrel Hearts
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://mongrelhearts.bandcamp.com/album/home-in-the-wind-darkness-of-a-brand-new-day
+    target: _blank
+  notes: <b>Produced by Real Tom Lucas, Pete Cenedella, and Ed Iglewski at Laughing Boys Studio
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://mongrelhearts.bandcamp.com/album/home-in-the-wind-darkness-of-a-brand-new-day" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/petey-the-true-mongrel-hearts-home-in-the-wind/
 - project: Petey & the True Mongrel Hearts "Turning of the Wheel" b/w "Little Leeway"Turning of the Wheel
   artist: Petey &amp; the True Mongrel Hearts
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://mongrelhearts.bandcamp.com/album/turning-of-the-wheel-b-w-little-leeway
+    target: _blank
+  notes: <b>Produced by Real Tom Lucas, Pete Cenedella, and Ed Iglewski at Laughing Boys Studio
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://mongrelhearts.bandcamp.com/album/turning-of-the-wheel-b-w-little-leeway" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/petey-the-true-mongrel-hearts-turning-of-the-wheel-b-w-little-leewayturning-of-the-wheel/
 - project: Bob Perry & Edward Rogers "Broken Sides"
   artist: Bob Perry &amp; Edward Rogers
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://bobperry.bandcamp.com/track/broken-sides
+    target: _blank
+  notes: <b>Bob Perry - bass, guitar, vocals
+Edward Rogers - vocals
+Frank Vilardi - drums
+Don Piper - acoustic guitar, vocals
+Claudia Chopek - violin
+Ray Nissen - keys
+Stephanie Seymour, Rebecca Turner, Paul Moschella, Real Tom Lucas - vocals
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://bobperry.bandcamp.com/track/broken-sides" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/bob-perry-edward-rogers-broken-sides/
 - project: Heartbreak Lullabye
   artist: Heartbreak Lullabye
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://lutherblackandthecoldhardfacts.bandcamp.com/track/heartbreak-lullabye
+    target: _blank
+  notes: <b>Produced by Rick Wagner
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://lutherblackandthecoldhardfacts.bandcamp.com/track/heartbreak-lullabye" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/heartbreak-lullabye/
 - project: Girls on Grass "Spill Your Guts" b/w "Who's Gonna Cry"
   artist: Girls on Grass
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://girlsongrass.bandcamp.com/
+    target: _blank
+  notes: <b>Recorded at Tape Kitchen, Brooklyn, NY in January 2020
+Engineered and mixed by Mark Spencer <a href="https://en.wikipedia.org/wiki/Mark_Spencer_(guitarist)" target="_blank" rel="noopener">Wikipedia</a>
+Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/girls-on-grass-spill-your-guts-b-w-whos-gonna-cry/
 - project: Naughty Clouds "Live Your Life"
   artist: Naughty Clouds
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://naughtyclouds.bandcamp.com/track/live-your-life-single
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://naughtyclouds.bandcamp.com/track/live-your-life-single" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/naughty-clouds-live-your-life/
 - project: Juniper "Juniper"
   artist: Juniper
   year: 2020
   roles:
     - Recording
+  project_url: 
+    title: Artist site
+    url: https://juniperssongs.bandcamp.com/album/juniper
+    target: _blank
+  notes: Confidential Recordings
+Mostly recorded at Storybook Sound by Scott Anthony and Irving Sound Labs by Michael Shelley
+Mastered by Greg Calbi at Sterling Sound
+<a href="https://juniperssongs.bandcamp.com/album/juniper" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/juniper-juniper/
 - project: Paula Carino "Door" b/w "Welcome, Spiders"
   artist: Paula Carino
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://paulacarino.bandcamp.com/album/door-b-w-welcome-spiders
+    target: _blank
+  notes: <b>Produced and recorded by Tyranny of Dave in theaters and basements around Chicago & Brooklyn
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://paulacarino.bandcamp.com/album/door-b-w-welcome-spiders" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/paula-carino-door-b-w-welcome-spiders/
 - project: The Reducers "Live In Montville"
   artist: The Reducers
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://reducers.bandcamp.com/album/live-in-montville
+    target: _blank
+  notes: <b>Recorded Live in Montville, CT. July 6, 1980 by Harold Sperazza
+Mastered April 2020 by Scott Anthony at Storybook Sound</b>
+<a href="https://reducers.bandcamp.com/album/live-in-montville" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/the-reducers-live-in-montville/
 - project: Sad About Girls "She Walks In Beauty"
   artist: Sad About Girls
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://sadaboutgirls1.bandcamp.com/album/she-walks-in-beauty
+    target: _blank
+  notes: <b>Recorded and Mixed by Tom Lucas at Laughing Boys Recording, South Orange, NJ
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://sadaboutgirls1.bandcamp.com/album/she-walks-in-beauty" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/sad-about-girls-she-walks-in-beauty/
 - project: Chris Harford "Songs for the Antediluvian"
   artist: Chris Harford
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chris_Harford
+    target: _blank
+  notes: <b>Recorded and engineered by Mike Terry, Balint Dobozi and Reed Black at
+New Monkey Studios Los Angeles, Ca.,
+Dobozi Studios Zurich, Switzerland,
+ and Vinegar Hill Studios Upstate, New York.
+Mixed by Reed Black, Balint Dobozi and Paul Kolderie.
+Mastered by Scott Anthony for Storybook Sound.</b>
+<a href="https://chrisharford.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
+<a href="https://en.wikipedia.org/wiki/Chris_Harford" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/chris-harford-songs-for-the-antediluvian/
 - project: Blanc Du Blanc "The Blanc Album"
   artist: Blanc Du Blanc
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://blancdublanc.bandcamp.com/
+    target: _blank
+  notes: Soul Selects
+<b>Recorded and engineered by Gabe Monago at Deaner's Studio, Lambertville NJ
+Additional recording by Kevin Salem at Distortion Tank Woodstock, NY and Marco Benevento at Fred Short Recording Studio,Woodstock, NY
+Mixed by Adam Lasus and Fritz Michaud at Studio Red, North Hollywood, CA
+Additional mixing by Fritz Michaud at Shabby Road Studios, Silver Lake, CA
+Joe Harvard Dub recorded and mixed by Kevin Salem at Distortion Tank, Woodstock, New York
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://blancdublanc.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/blanc-du-blanc-the-blanc-album/
 - project: Nation Beat "The Royal Chase"
   artist: Nation Beat
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://nationbeat.bandcamp.com/album/the-royal-chase
+    target: _blank
+  notes: <b>Produced by Scott Kettner & Rob Curto
+Co-Produced and Mixed by Alan Friedman
+Mastered by Scott Anthony at Storybook Sound
+Recorded at Kaleidoscope Sound, NJ by Kyle Cassel
+Additional Recording by Scott Kettner</b>
+<a href="https://nationbeat.bandcamp.com/album/the-royal-chase" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/nation-beat-the-royal-chase/
 - project: Lizzie & The Makers "Meanwhile..."
   artist: Lizzie &amp; The Makers
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://lizzieandthemakers1.bandcamp.com/
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://lizzieandthemakers1.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/lizzie-the-makers-meanwhile/
-- project: Saturday Afternoon Song Swap "Swap Thing: Part 2"
+- project: Saturday Afternoon Song Swap "Swap Thing&#58; Part 2"
   artist: Saturday Afternoon Song Swap
   year: 2018
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/saturday-afternoon-song-swap-swap-thing-part-2/
-- project: Saturday Afternoon Song Swap "Swap Thing: Part 1"
+- project: Saturday Afternoon Song Swap "Swap Thing&#58; Part 1"
   artist: Saturday Afternoon Song Swap
   year: 2018
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/saturday-afternoon-song-swap-swap-thing-part-1/
 - project: Michael J. Miles "A-sides"
   artist: Michael J. Miles
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://michaeljmiles.bandcamp.com/album/a-sides
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://michaeljmiles.bandcamp.com/album/a-sides" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/michael-j-miles-a-sides/
 - project: Dada Paradox "Mobile Flight"
   artist: Dada Paradox
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://dadaparadox.bandcamp.com/album/mobile-flight-2
+    target: _blank
+  notes: <b>Recorded & mixed by Ian Roure at the Sky Palace
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://dadaparadox.bandcamp.com/album/mobile-flight-2" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/dada-paradox-mobile-flight/
 - project: Coconut Email "When The Sun Sets"
   artist: Coconut Email
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://coconutemail.bandcamp.com/track/when-the-sun-sets
+    target: _blank
+  notes: <b>Recorded and produced by Owen Gall
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://coconutemail.bandcamp.com/track/when-the-sun-sets" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/coconut-email-when-the-sun-sets/
 - project: Carnival Crash "It Is A Happy Man"
   artist: Carnival Crash
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://carnivalcrash.bandcamp.com/album/it-is-a-happy-man
+    target: _blank
+  notes: Obelisk Records
+<b>1-4 recorded by Frank Eaton at Noise NY, converted by David Brown; re-engineered by Michael Jung; re-mixed by Michael Jung, Ivan Nahem, Andrew Nahem.
+5-7 recorded by George and Dave Kaufman; converted by Tony Maimone;
+re-engineered and re-mixed by Tony Maimone, Michael Jung, Ivan Nahem.
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://carnivalcrash.bandcamp.com/album/it-is-a-happy-man" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/carnival-crash-it-is-a-happy-man/
 - project:  
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://chrispcauley.bandcamp.com/album/owls
+    target: _blank
+  notes: <b>Produced by Chris P. Cauley
+Mixed at Silo Recording by Bill Hafener
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://chrispcauley.bandcamp.com/album/owls" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/3622/
 - project: The Missing Suns "Shut Up And Deal"
   artist: The Missing Suns
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://themissingsunsofficial.bandcamp.com/album/shut-up-and-deal
+    target: _blank
+  notes: <b>Recorded and mixed by Mick Hargreaves at Lantern Sound Recording Rig
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://themissingsunsofficial.bandcamp.com/album/shut-up-and-deal" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/the-missing-suns-shut-up-and-deal/
 - project: Evergreen "Do The Needful"
   artist: Evergreen
   year: 2018
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/evergreen-do-the-needful/
 - project: Caroline De Schryver "Telling Stories"
   artist: Caroline De Schryver
   year: 2018
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/caroline-de-schryver-telling-stories/
 - project: June Cleaver and the Steak Knives "A Place Where Nobody Goes"
   artist: June Cleaver and the Steak Knives
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://jcsk.bandcamp.com/
+    target: _blank
+  notes: <b>Produced by Christopher and Patrick Bradley
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://jcsk.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/june-cleaver-and-the-steak-knives-a-place-where-nobody-goes/
 - project: The neithernors "Pleasant Valley Fun House"
   artist: The neithernors
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://theneithernors.bandcamp.com/album/pleasant-valley-fun-house
+    target: _blank
+  notes: <b>Recorded at Laughing Boy Studio, South Orange NJ
+Engineered by Real Tom Lucas
+Mixed by Malcolm Marsden & Tom Lucas
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://theneithernors.bandcamp.com/album/pleasant-valley-fun-house" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/the-neithernors-pleasant-valley-fun-house/
 - project: Radical Empathy Trio "Reality And Other Imaginary Places"
   artist: Radical Empathy Trio
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Label Wikipedia
+    url: https://en.wikipedia.org/wiki/ESP-Disk
+    target: _blank
+  notes: ESP-Disk'
+<b>Thollem McDonas, keyboards
+Nels Cline, electric guitars <a href="https://en.wikipedia.org/wiki/Nels_Cline" target="_blank" rel="noopener">Wikipedia</a>
+Michael Wimberly, drums
+Recorded by Justin Frye at Pioneer Works, Brooklyn, NY Sept. 13, 2017
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://open.spotify.com/album/3cCvzR9uxaBOStsuI6SNy0" target="_blank" rel="noopener">Artist site</a>
+<a href="https://en.wikipedia.org/wiki/Thollem_McDonas" target="_blank" rel="noopener">Artist Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/ESP-Disk" target="_blank" rel="noopener">Label Wikipedia</a>
   image: https://storybooksound.com/recording_project/radical-empathy-trio-reality-and-other-imaginary-places/
 - project: Sad About Girls (single)
   artist: Sad About Girls (single)
   year: 2019
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/sad-about-girls-single/
 - project: Mike Daly and The Planets (single)
   artist: Mike Daly and The Planets (single)
   year: 2016
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/mike-daly-and-the-planets-single/
 - project: Luke Tuchscherer "Carousel"
   artist: Luke Tuchscherer
   year: 2019
   roles:
     - Recording
+  project_url: 
+    title: Artist site
+    url: https://luketuchscherer.bandcamp.com/album/carousel
+    target: _blank
+  notes: Clubhouse Records
+<b>Produced by Luke Tuchscherer
+Recorded by Scott Anthony at Storybook Sound, Maplewood, NJ
+Mixed and mastered by Chris Corney </b>
+<a href="https://luketuchscherer.bandcamp.com/album/carousel" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/luke-tuchscherer-carousel/
 - project: Frank Migliorelli & The Dirt Nappers "The Things You Left Behind"
   artist: Frank Migliorelli &amp; The Dirt Nappers
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://dirtnappers.bandcamp.com/album/the-things-you-left-behind"
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
+<a href=https://dirtnappers.bandcamp.com/album/the-things-you-left-behind" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/frank-migliorelli-the-dirt-nappers-the-things-you-left-behind/
 - project: Tom Shape "Tom Shape"
   artist: Tom Shape
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://tomshape.bandcamp.com/releases
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://tomshape.bandcamp.com/releases" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/tom-shape-tom-shape/
 - project: The Poor Man's Opera "Barstool Confessional"
   artist: The Poor Man's Opera
@@ -1363,179 +1635,382 @@
     - Mastering
     - Mixing
     - Recording
+  project_url: 
+    title: Artist site
+    url: https://open.spotify.com/album/77UhFPqD5uAtrwfS1x2DMf
+    target: _blank
+  notes: <b>Produced by Mark Moran
+Recorded, mixed, and mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://open.spotify.com/album/77UhFPqD5uAtrwfS1x2DMf" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/the-poor-mans-opera-barstool-confessional/
 - project: The Second Take "Just Let It Happen"
   artist: The Second Take
   year: 2019
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/the-second-take-just-let-it-happen/
 - project: Wire Troop "Trio Power"
   artist: Wire Troop
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wiretroop.bandcamp.com/album/trio-power
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://wiretroop.bandcamp.com/album/trio-power" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/wire-troop-trio-power/
 - project: Juniper "Boys! Boys! Boys!" single
   artist: Juniper
   year: 2019
   roles:
     - Mastering
+  project_url: 
+  notes: Confidential Recordings
+<b>Chris Geddes - Mellotron, Synthesizer
+Steve Goulding - Drums
+Juniper Shelley - Farfisa Organ, Singing
+Michael Shelley - Bass, Guitar
+Keith Yaun - Baritone Guitar
+Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/juniper-boys-boys-boys-single/
 - project: Tulula! "Singing Songs In The Dark"
   artist: Tulula!
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://tulula.bandcamp.com/album/singing-songs-in-the-dark
+    target: _blank
+  notes: <b>Engineered and recorded by Daniel Weintraub at Art Farm Studios
+Mixed by Daniel Weintraub, Chris Bradley and Tulula!
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://tulula.bandcamp.com/album/singing-songs-in-the-dark" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/tulula-singing-songs-in-the-dark/
 - project: John Pinamonti "The Usual"
   artist: John Pinamonti
   year: 2015
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/john-pinamonti-the-usual/
 - project: Uta Habbig "Windward"
   artist: Uta Habbig
   year: 2020
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/uta-habbig-windward/
 - project: Tiokasin Ghosthorse "Somewhere In There"
   artist: Tiokasin Ghosthorse
   year: 2015
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Produced by Alex Alexander
+Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/tiokasin-ghosthorse-somewhere-in-there/
 - project: Frank Bango "Christmas in Bed with My Baby"
   artist: Frank Bango
   year: 2015
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/frank-bango-christmas-in-bed-with-my-baby/
 - project: Jim Allen "Where the Sunshine Bit You"
   artist: Jim Allen
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://jimallen.bandcamp.com/
+    target: _blank
+  notes: <b>Produced by Jim Allen & Magic Mike Jung
+Jim Allen - lead vocal, acoustic guitar
+Matt Applebaum - acoustic & electric guitars, vocals
+Steve Goulding - drums, vocals
+Joanna Sternberg - double bass, vocals
+Libby Johnson - vocals
+Mike Jung - vocals
+Recorded and mixed at NY Hed by Mike Jung
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://jimallen.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/jim-allen-where-the-sunshine-bit-you/
 - project: Evan Hause "Plastic Island Pentecost"
   artist: Evan Hause
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://hausemusic.bandcamp.com/album/plastic-island-pentecost
+    target: _blank
+  notes: <b>Composed, recorded, and edited by Evan Hause at Hossmosis Oaks, West Orange, NJ
+Mixing and additional tracking by John McEntire at Soma Studios, Nevada City, CA
+Mastered by Scott Anthony at Storybook Sound, Maplewood, NJ</b>
+<a href="https://hausemusic.bandcamp.com/album/plastic-island-pentecost" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/evan-hause-plastic-island-pentecost/
 - project: Western Caravan "Honky Tonk"
   artist: Western Caravan
   year: 2020
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/western-caravan-honky-tonk/
 - project: Allied Chemical "This Isn't Working Out"
   artist: Allied Chemical
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wiretroop.bandcamp.com/album/trio-power
+    target: _blank
+  notes: <b>Produced by Allied Chemical
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://wiretroop.bandcamp.com/album/trio-power" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/allied-chemical-this-isnt-working-out/
 - project: "Superhits of the Seventies Super Hit Tsunami"
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wfmu.org/
+    target: _blank
+  notes: <b>
+WFMU DJ Michael Shelley
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://wfmu.org/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/superhits-of-the-seventies-super-hit-tsunami/
 - project: Karen Dahlstrom "No Man's Land"
   artist: Karen Dahlstrom
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://karendahlstrom.bandcamp.com/album/no-mans-land
+    target: _blank
+  notes: <b>Engineered and mixed by Rich Bennett at Acme Hall Studios, Brooklyn, NY
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://karendahlstrom.bandcamp.com/album/no-mans-land" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/karen-dahlstrom-no-mans-land/
 - project: Bobtown "Chasing The Sun"
   artist: Bobtown
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://bobtownmusic.bandcamp.com/album/chasing-the-sun
+    target: _blank
+  notes: <b>Produced by Katherine Etzel
+Tracking Engineers:
+Rich Bennett, Acme Music Studios, Brooklyn
+Kieran Kelly, The Buddy Project, Queens
+Damon Whittemore, Flux Studio, NYC
+Mixed by Katherine Etzel at Bell & Bear, Brookyn
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://bobtownmusic.bandcamp.com/album/chasing-the-sun" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/bobtown-chasing-the-sun/
-- project: Tyranny Of Dave "The Decline Of America Part 3: Silence In Brooklyn"
+- project: Tyranny Of Dave "The Decline Of America Part 3&#58; Silence In Brooklyn"
   artist: Tyranny Of Dave
   year: 2018
   roles:
     - Mastering
     - Mixing
+  project_url: 
+    title: Artist site
+    url: https://tyrannyofdave.bandcamp.com/album/the-decline-of-america-part-3-silence-in-brooklyn
+    target: _blank
+  notes: <b>Mixed and mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://tyrannyofdave.bandcamp.com/album/the-decline-of-america-part-3-silence-in-brooklyn" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/tyranny-of-dave-the-decline-of-america-part-3-silence-in-brooklyn/
 - project: Adam Bernstein "I Remember All Your Dreams"
   artist: Adam Bernstein
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://adambernstein.bandcamp.com/
+    target: _blank
+  notes: <b>Written, produced and performed by Adam Bernstein
+Additional musicians include:
+Paul Carbonara - acoustic guitar
+David Butler - drums and perc
+Eleanor Norton - cello
+Leon Gruenbaum - samchillian
+Katie Scheele - english horn
+Mary Micari - background vocal
+Adam Bernstein - remainder
+Additional engineering - Ben Cohen
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://adambernstein.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/adam-bernstein-i-remember-all-your-dreams/
 - project: Yarn "Lucky 13 Vol. 1"
   artist: Yarn
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://yarnmusic.net/
+    target: _blank
+  notes: <b>Mixed by Michael Tocci
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://yarnmusic.net/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/yarn-lucky-13-vol-1/
 - project: Julia Greenberg "Greenland"
   artist: Julia Greenberg
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://open.spotify.com/album/49hZgy0KtuXKd2UaLk3JiG
+    target: _blank
+  notes: Umnitsa Records
+<b>Produced by James Mastro
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://open.spotify.com/album/49hZgy0KtuXKd2UaLk3JiG" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/julia-greenberg-greenland/
 - project: Yung Wu "Shore Leave"
   artist: Yung Wu
   year: 2018
   roles:
     - Mastering
+  project_url: 
+  notes: Bar/None Records
+<b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/yung-wu-shore-leave/
 - project: Bill Bressler "Normal Boy"
   artist: Bill Bressler
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://billbressler.bandcamp.com/album/normal-boy-2
+    target: _blank
+  notes: <b>The ARP Synthesizers mentioned in the track credits are an Odyssey and a limping Pro Soloist.
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://billbressler.bandcamp.com/album/normal-boy-2" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/bill-bressler-normal-boy/
 - project: The Campfire Flies "Sparks Like Little Stars"
   artist: The Campfire Flies
   year: 2018
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/the-campfire-flies-sparks-like-little-stars/
 - project: Ryan Herrick "Heal Your Bones"
   artist: Ryan Herrick
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://ryanherrick.bandcamp.com/album/heal-your-bones"
+    target: _blank
+  notes: <b>Produced & Engineered by John Abbey at Kingsize Soundlabs in Chicago, IL (Tracks 1,3,4)
+"Wild Mountain Thyme" Engineered & Mixed by Joel Mongeon at Woolen Mills in Clinton, MA.
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href=https://ryanherrick.bandcamp.com/album/heal-your-bones" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/ryan-herrick-heal-your-bones/
 - project: Betwixt "The Salty Tang"
   artist: Betwixt
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://betwixt1.bandcamp.com/
+    target: _blank
+  notes: <b>Recorded and produced by David Minehan November 1998 at Wooly Mammoth Sound, Boston Ma.
+Also recorded and produced by Joel Hamburger February - May 1999 at Supersonic Studio, Cambridge, Ma.
+Mastered for vinyl by Scott Anthony at Storybook Sound</b>
+<a href="https://betwixt1.bandcamp.com/"  target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/betwixt-the-salty-tang/
 - project: Allied Chemical "So Sudden"
   artist: Allied Chemical
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://alliedchemical.bandcamp.com/album/so-sudden
+    target: _blank
+  notes: <b>Recorded and Mixed by Tom Lucas at Laughing Boy Studios, South Orange, NJ
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://alliedchemical.bandcamp.com/album/so-sudden" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/allied-chemical-so-sudden/
 - project: "The Unexplainable Disappearance Of Mars Patel"
   year: 2019
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Serialized podcast (Peabody Award Winner)
+Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/the-unexplainable-disappearance-of-mars-patel/
 - project: Thollem/Parker/Cline "Gowanus Sessions II"
   artist: Thollem/Parker/Cline
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Label Wikipedia
+    url: https://en.wikipedia.org/wiki/ESP-Disk
+    target: _blank
+  notes: ESP-Disk'
+<b>William Parker, bass <a href="https://en.wikipedia.org/wiki/William_Parker_(musician)" target="_blank" rel="noopener">Wikipedia</a>
+Nels Cline, electric guitar/effects <a href="https://en.wikipedia.org/wiki/Nels_Cline" target="_blank" rel="noopener">Wikipedia</a>
+Thollem McDonas, piano
+All compositions by Thollem McDonas, William Parker, Nels Cline
+Recorded January 3, 2012 at Peter Karl Studios, Gowanus Arts Building, Brooklyn, NY
+Mastering by Scott Anthony at Storybook Sound</b>
+<a href="https://thollemparkercline.bandcamp.com/album/gowanus-sessions-ii" target="_blank" rel="noopener">Artist site</a>
+<a href="https://en.wikipedia.org/wiki/Thollem_McDonas" target="_blank" rel="noopener">Artist Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/ESP-Disk" target="_blank" rel="noopener">Label Wikipedia</a>
   image: https://storybooksound.com/recording_project/thollem-parker-cline-gowanus-sessions-ii/
 - project: Stephanie Seymour "There Are Birds"
   artist: Stephanie Seymour
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://stephanieseymour.bandcamp.com/releases
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound
+Plus: Engineer
+ </b><a href="https://stephanieseymour.bandcamp.com/releases"  target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/stephanie-seymour-there-are-birds/
 - project: Bob Perry "American Standardsville"
   artist: Bob Perry
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://bobperry.bandcamp.com/album/american-standardsville
+    target: _blank
+  notes: <b>Recorded and mixed by Don Sternecker at Mix-O-Lydian
+Additional recording at Chrometop
+Produced by Bob Perry
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://bobperry.bandcamp.com/album/american-standardsville" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/bob-perry-american-standardsville/
 - project: Jim Higgins "Yestermorrow"
   artist: Jim Higgins
@@ -1543,78 +2018,180 @@
   roles:
     - Mastering
     - Mixing
+  project_url: 
+    title: Artist site
+    url: https://higgsongs.bandcamp.com/album/yestermorrow
+    target: _blank
+  notes: <b>Engineered and pre-mixed by Chris Gefken at
+Think Tank Studio - Hoboken, NJ
+
+Additional recording at:
+Chrometop Studio - Ringwood, NJ
+Mockingbird Music - Montclair, NJ
+Wayne Manor - Wayne, NJ
+
+Mixed and mastered by Scott Anthony at
+Storybook Sound, Maplewood, NJ
+
+Additional mix engineer: Max Solomon</b>
+<a href="https://higgsongs.bandcamp.com/album/yestermorrow" target="_blank" rel="noopener">Artist site</a>
+
+"SCOTT ANTHONY (The Shitbirds, Nu-Sonics, Fond Farewells, Rebecca Turner) - When Scott’s not busy being amazing, he spends his off-hours being awesome. He converted his basement into a world-class mixing and mastering studio (www.storybooksound.com) and artists far and wide have called on his considerable skills for years now. It’s one of my favorite rooms ever and I got to spend a lot of time there watching Scott work his magic. He is an expert at his craft, mad fun to hang with, and I could not be more honored or excited that this record wound up in his capable hands for mixing and mastering. We go back a long way. He is a delightful human being and I am so thankful to have worked with him once again. Scott turned me on to the famous Sloppy Joe’s served at the Town Hall Deli in South Orange, NJ. I’m a few pounds heavier now, but forever grateful. Hashtag YUM! He also teaches yoga classes because it’s just so him." -- Jim Higgins
   image: https://storybooksound.com/recording_project/jim-higgins-yestermorrow/
 - project: Chris Butler "Got It Togehter !"
   artist: Chris Butler
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chris_Butler_(musician)
+    target: _blank
+  notes: Future Fossil Music
+<b>All noises by CB, unless otherwise noted.
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://chrisbutler1.bandcamp.com/album/got-it-togehter-2" target="_blank" rel="noopener">Artist site</a>
+<a href="https://en.wikipedia.org/wiki/Chris_Butler_(musician)" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/chris-butler-got-it-togehter/
 - project: Alex Chilton "Songs From Robin Hood Lane"
   artist: Alex Chilton
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/Alex_Chilton
+    target: _blank
+  notes: Bar/None Records
+<b>Mastered by Scott Anthony at Storybook Sound</b>
+ <a href="https://en.wikipedia.org/wiki/Alex_Chilton" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/alex-chilton-songs-from-robin-hood-lane/
 - project: Alex Chilton "From Memphis To New Orleans"
   artist: Alex Chilton
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/Alex_Chilton
+    target: _blank
+  notes: Bar/None Records
+<b>Mastered by Scott Anthony at Storybook Sound</b>
+ <a href="https://en.wikipedia.org/wiki/Alex_Chilton" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/alex-chilton-from-memphis-to-new-orleans/
 - project: Unicorn "Laughing Up Your Sleeve"
   artist: Unicorn
   year: 2018
   roles:
     - Mastering
+  project_url: 
+    title: TapeOp
+    url: https://tapeop.com/interviews/138/david-gilmour/
+    target: _blank
+  notes: Omnivore Records
+<b>Produced by David Gilmour and Patrick Martin
+Mastered by Scott Anthony at Storybook Sound
+Plus: Mixing
+David Gilmour </b><a href="https://en.wikipedia.org/wiki/David_Gilmour" target="_blank" rel="noopener">Wikipedia</a>
+<b>Gilmour & Unicorn interview in </b><a href="https://tapeop.com/interviews/138/david-gilmour/" target="_blank" rel="noopener">TapeOp</a>
   image: https://storybooksound.com/recording_project/unicorn-laughing-up-your-sleeve/
 - project: Roger C. Reale "The Collection"
   artist: Roger C. Reale
   year: 2019
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://rcrrm.bandcamp.com/album/the-collection
+    target: _blank
+  notes: <b>Roger C. Reale, lead vocals, bass
+G.E Smith, guitar <a href="https://en.wikipedia.org/wiki/G._E._Smith" target="_blank" rel="noopener">Wikipedia</a>
+Mick Ronson, guitar <a href="https://en.wikipedia.org/wiki/Mick_Ronson" target="_blank" rel="noopener">Wikipedia</a>
+Jimmy McAllister. guitar, vocals
+Hilly Michaels, drums, vocals
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://rcrrm.bandcamp.com/album/the-collection" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/roger-c-reale-the-collection/
 - project: Karen Dahlstrom "When Will I Be Loved"
   artist: Karen Dahlstrom
   year: 2020
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://karendahlstrom.bandcamp.com/track/when-will-i-be-loved
+    target: _blank
+  notes: <b>Engineered and mixed by Rich Bennett at Acme Hall Studios, Brooklyn, NY
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://karendahlstrom.bandcamp.com/track/when-will-i-be-loved"  target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/karen-dahlstrom-when-will-i-be-loved/
 - project: Rebecca Turner "The New Wrong Way"
   artist: Rebecca Turner
   year: 2019
   roles:
     - Production
+  project_url: 
+    title: Artist site
+    url: https://rebeccaturner.bandcamp.com/album/the-new-wrong-way
+    target: _blank
+  notes: Fred Records
+<b>Produced by Rebecca Turner and Scott Anthony
+Recorded by Scott at Storybook Sound
+and by Mike Wilson at Ardent Studios, Memphis, TN
+Mixed and mastered by Scott at Storybook Sound
+Vinyl cut by Jeff Powell, Take Out Vinyl, Memphis, TN</b>
+<a href="https://rebeccaturner.bandcamp.com/album/the-new-wrong-way" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/rebecca-turner-the-new-wrong-way/
 - project: Miss Nina & The Jumping Jacks "Every Day's Your Birthday"
   artist: Miss Nina &amp; The Jumping Jacks
   year: 2016
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/miss-nina-the-jumping-jacks-every-days-your-birthday/
 - project: Bhujanga Sangha "Naad Your Heart"
   artist: Bhujanga Sangha
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://open.spotify.com/album/2X81Oe7CFwIwBIxPfBp1vA
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
+Plus: Engineer, mixing
+<a href="https://open.spotify.com/album/2X81Oe7CFwIwBIxPfBp1vA" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/bhujanga-sangha-naad-your-heart/
 - project: Jeff Slate "Secret Poetry"
   artist: Jeff Slate
   year: 2016
   roles:
     - What did I do here again?
+  project_url: 
+  notes: <b>Scott Anthony, engineer</b>
   image: https://storybooksound.com/recording_project/jeff-slate-secret-poetry/
 - project: Emily Duff "Go Tell Your Friends"
   artist: Emily Duff
   year: 2015
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://emilyduff.bandcamp.com/album/go-tell-your-friends
+    target: _blank
+  notes: <b>Engineered and Mixed by Craig Bishop at NY Noise
+Produced by Craig Bishop & Emily Duff
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://emilyduff.bandcamp.com/album/go-tell-your-friends" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/emily-duff-go-tell-your-friends/
 - project: Hallow Dog "Change In Luck"
   artist: Hallow Dog
   year: 2015
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/hallow-dog-change-in-luck/
 - project: Heather Hardy "Blue Silhouette"
   artist: Heather Hardy
@@ -1622,24 +2199,37 @@
   roles:
     - Mastering
     - Production
+  project_url: 
+    title: Artist site
+    url: https://heatherlilmamahardy.bandcamp.com/album/blue-silhouette
+    target: _blank
+  notes: <b>Recorded and mixed at Velvet Swan Studios by T. J Swan in NYC
+Produced by Heather Hardy Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://heatherlilmamahardy.bandcamp.com/album/blue-silhouette" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/heather-hardy-blue-silhouette/
 - project: Jack Brag "Kiss At Midnight"
   artist: Jack Brag
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/jack-brag-kiss-at-midnight/
 - project: Joe Lozito "Wasteland"
   artist: Joe Lozito
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/joe-lozito-wasteland/
 - project: Tom Warnick & the World's Fair "Side Effects"
   artist: Tom Warnick &amp; the World's Fair
   year: 2017
   roles:
     - Bass
+  project_url: 
+  notes: <b>Scott Anthony, bass</b>
   image: https://storybooksound.com/recording_project/tom-warnick-the-worlds-fair-side-effects/
 - project: Michael William Levine "Just Down The Road"
   artist: Michael William Levine
@@ -1648,18 +2238,28 @@
     - Mastering
     - Mixing
     - Recording
+  project_url: 
+    title: Artist site
+    url: https://michaelwilliamlevine.bandcamp.com/releases
+    target: _blank
+  notes: <b>Recorded and mixed by Michael William Levine Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://michaelwilliamlevine.bandcamp.com/releases" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/michael-william-levine-just-down-the-road/
 - project: Ed Stengel "Legacy"
   artist: Ed Stengel
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/ed-stengel-legacy/
 - project: Steve Holtje "A Man Full Of Days"
   artist: Steve Holtje
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/steve-holtje-a-man-full-of-days/
 - project: 4th St. NiteOwls "From the Boneyard"
   artist: 4th St. NiteOwls
@@ -1667,53 +2267,100 @@
   roles:
     - Mastering
     - Recording
+  project_url: 
+    title: Artist site
+    url: https://4thstreetniteowls.bandcamp.com/album/from-the-bone-yard
+    target: _blank
+  notes: <b>Songs recorded in two live sessions at The Viewing Room in Springfield, NJ. Engineered with care and painstakingly Mastered by Mr. Scott Anthony.</b>
+<a href="https://4thstreetniteowls.bandcamp.com/album/from-the-bone-yard" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/4th-st-niteowls-from-the-boneyard/
 - project: The Nu-Sonics "We're Not Happy 'Til You're Not Happy"
   artist: The Nu-Sonics
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://nu-sonics.bandcamp.com/album/were-not-happy-til-youre-not-happy
+    target: _blank
+  notes: <b>
+Produced by Alex Sniderman
+Mastered and by Scott Anthony at Storybook Sound
+Plus: Engineer</b>
+<a href="https://nu-sonics.bandcamp.com/album/were-not-happy-til-youre-not-happy" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/the-nu-sonics-were-not-happy-til-youre-not-happy/
 - project: Love Henry "Rowdy Lotion"
   artist: Love Henry
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Produced by Jon Fried
+Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/love-henry-rowdy-lotion/
 - project: Soltero "Jamming The Gaydar"
   artist: Soltero
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://soltero.bandcamp.com/album/jamming-the-gaydar
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at The Viewing Room</b>
+<a href="https://soltero.bandcamp.com/album/jamming-the-gaydar" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/soltero-jamming-the-gaydar/
 - project: Deena "Rock River"
   artist: Deena
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/deena-rock-river/
 - project: Bob Evans "Jersey Barrier"
   artist: Bob Evans
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://bobevans.bandcamp.com/album/jersey-barrier-remastered
+    target: _blank
+  notes: <b>recorded march 16-20 1993 in our basement in
+massachusetts by chris gefken.
+mixed by chris and andrew on July 3rd and 4th
+at the flowershop in jersey.
+Mastered by Scott Anthony at Storybook Sound.</b>
+<a href="https://bobevans.bandcamp.com/album/jersey-barrier-remastered" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/bob-evans-jersey-barrier/
-- project: "Cut Pieces: A Tribute To Yoko Ono"
+- project: "Cut Pieces&#58; A Tribute To Yoko Ono"
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound
+Plus: Engineer, mixing</b>
   image: https://storybooksound.com/recording_project/cut-pieces-a-tribute-to-yoko-ono/
 - project: Tracy Island "War No More"
   artist: Tracy Island
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://tracyisland.bandcamp.com/releases
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://tracyisland.bandcamp.com/releases" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/tracy-island-war-no-more/
 - project: Mama Doni
   artist: Mama Doni
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/mama-doni/
 - project: Adam Bernstein "The DnA Singles"
   artist: Adam Bernstein
@@ -1722,48 +2369,93 @@
     - Mastering
     - Production
     - Recording
+  project_url: 
+    title: Artist site
+    url: https://adambernstein.bandcamp.com/album/the-d-n-a-singles-the-bonus-demos
+    target: _blank
+  notes: <b>Recorded between 10/2011 and 4/2014 at AB Studios, drums recorded at MB studios.
+Composed, arranged, produced, engineered by Adam Bernstein except Always by Adam Bernstein/ Dana Peterson Niles Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://adambernstein.bandcamp.com/album/the-d-n-a-singles-the-bonus-demos" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/adam-bernstein-the-dna-singles/
 - project: Frank Ippolito "The Watermark Project"
   artist: Frank Ippolito
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://frankippolito.bandcamp.com/
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://frankippolito.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/frank-ippolito-the-watermark-project/
 - project: Re/ly "Bilateral"
   artist: Re/ly
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://open.spotify.com/album/0BwT8SgxTf5tcjvE0sVa0U
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://open.spotify.com/album/0BwT8SgxTf5tcjvE0sVa0U" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/re-ly-bilateral/
 - project: Regular Einstein "Chimp Haven"
   artist: Regular Einstein
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://paulacarino.bandcamp.com/album/chimp-haven
+    target: _blank
+  notes: <b>Produced by Dann Baker
+Recorded by Mark Spencer at Tape Kitchen, Brooklyn, NY
+Mixed by Dann Baker at Excello Recording, Brooklyn, NY; Engineered by Bruce Hathaway, Ethan Donaldson, and Charles de Chants
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://paulacarino.bandcamp.com/album/chimp-haven" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/regular-einstein-chimp-haven/
 - project: Peter Hutchison "Empire of Light"
   artist: Peter Hutchison
   year: 2014
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/peter-hutchison-empire-of-light/
 - project: Emily Hurd "Landmark"
   artist: Emily Hurd
   year: 2014
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Engineered by John Abbey
+Mastered by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/emily-hurd-landmark/
 - project: The Dayhikers "Don't Want To"
   artist: The Dayhikers
   year: 2016
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/the-dayhikers-dont-want-to/
 - project: Aliah Rosenthal "Slick Bowery Sell Out"
   artist: Aliah Rosenthal
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://aliahrosenthal.bandcamp.com/
+    target: _blank
+  notes: <b>Recording Engineers: Harry Keithline, Ambrose Bye
+
+Mastered by Scott Anthony at Storybook Sound
+
+Recorded at The New School for Jazz and Fast Speaking Music Studio </b>
+<a href="https://aliahrosenthal.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/aliah-rosenthal-slick-bowery-sell-out/
 - project: Alice Despard Group "Mosaic"
   artist: Alice Despard Group
@@ -1772,235 +2464,468 @@
     - Guitar
     - Mastering
     - Production
+  project_url: 
+    title: Artist site
+    url: https://alicedespardgroup.bandcamp.com/album/mosaic-ep
+    target: _blank
+  notes: <b>Alice Despard: vocals, guitars, balalaika
+Evan Pollack: percussion, vocals
+Les Doerfler: bass guitars
+Sean O'Brien: keys/synths
+Grahame Davies: engineer/production, guitar Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://alicedespardgroup.bandcamp.com/album/mosaic-ep" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/alice-despard-group-mosaic/
 - project: Terry McCarthy "Go Fourth"
   artist: Terry McCarthy
   year: 2016
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/terry-mccarthy-go-fourth/
 - project: Jason Didner and the Jungle Gym Jam "Everyone's Invited"
   artist: Jason Didner and the Jungle Gym Jam
   year: 2013
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://junglegymjam.bandcamp.com/album/everyones-invited
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://junglegymjam.bandcamp.com/album/everyones-invited" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/jason-didner-and-the-jungle-gym-jam-everyones-invited/
 - project: Jason Didner and the Jungle Gym Jam "Lollipop Motel"
   artist: Jason Didner and the Jungle Gym Jam
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://junglegymjam.bandcamp.com/album/lollipop-motel
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://junglegymjam.bandcamp.com/album/lollipop-motel" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/jason-didner-and-the-jungle-gym-jam-lollipop-motel/
 - project: Cartoon Spirits "Crustacean EP"
   artist: Cartoon Spirits
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://cartoonspirits.bandcamp.com/album/crustacean-ep
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://cartoonspirits.bandcamp.com/album/crustacean-ep" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/cartoon-spirits-crustacean-ep/
 - project: Buddy Toth "Sodium Flares"
   artist: Buddy Toth
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://buddytoth.bandcamp.com/album/sodium-flares
+    target: _blank
+  notes: <b>Produced by: Ian Charles for EyeSee Music Productions
+Recorded and Mixed by: Jason Sarubbi at Split Rock Studio, New Paltz, NY.
+Except; Basic tracks for Track #6 recorded by: Jake Subin at: Telefunken Elektroakustik Studio, S. Windsor, CT.
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://buddytoth.bandcamp.com/album/sodium-flares" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/buddy-toth-sodium-flares/
 - project: Michael Kroll "Clamorous"
   artist: Michael Kroll
   year: 2016
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/michael-kroll-clamorous/
 - project: Eric Kivnick "Music For Martha"
   artist: Eric Kivnick
   year: 2016
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/eric-kivnick-music-for-martha/
 - project: Brian Kelly "Released"
   artist: Brian Kelly
   year: 2015
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/brian-kelly-released/
 - project: "Superhits Of The Seventies Pure DYN-O-MITE"
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wfmu.org/
+    target: _blank
+  notes: <b>
+WFMU DJ Michael Shelley
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://wfmu.org/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/superhits-of-the-seventies-pure-dyn-o-mite/
 - project: "Superhits Of The Seventies Hit Explosion!"
   year: 2015
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wfmu.org/
+    target: _blank
+  notes: <b>
+WFMU DJ Michael Shelley
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://wfmu.org/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/superhits-of-the-seventies-hit-explosion/
 - project: "Even More Superhits Of The Seventies"
   year: 2014
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wfmu.org/
+    target: _blank
+  notes: <b>
+WFMU DJ Michael Shelley
+Mastered by Scott Anthony at Storybook Sound
+Plus: Engineer, mixing</b>
+<a href="https://wfmu.org/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/even-more-superhits-of-the-seventies/
 - project: "More Superhits Of The Seventies"
   year: 2014
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wfmu.org/
+    target: _blank
+  notes: <b>
+WFMU DJ Michael Shelley
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://wfmu.org/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/more-superhits-of-the-seventies/
 - project: "A Winding Road, A Ramble With Richard Thompson"
   year: 2017
   roles:
     - What did I do here again?
+  project_url: 
+  notes: <b>Edmond Deraedt, director
+5.1 Surround mix by Scott Anthony at Storybook Sound </b>
   image: https://storybooksound.com/recording_project/a-winding-road-a-ramble-with-richard-thompson/
 - project: Frank Migliorelli & The Dirt Nappers "Bass, Drums, Guitars, Organs"
   artist: Frank Migliorelli &amp; The Dirt Nappers
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://dirtnappers.bandcamp.com/album/bass-drums-guitars-and-organs
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://dirtnappers.bandcamp.com/album/bass-drums-guitars-and-organs" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/frank-migliorelli-the-dirt-nappers-bass-drums-guitars-organs/
 - project: Zenizen "AUSTRALIA" (Deluxe Edition)
   artist: Zenizen
   year: 2017
   roles:
     - What did I do here again?
+  project_url: 
+    title: Artist site
+    url: https://zenizenzenizen.bandcamp.com/album/australia-3
+    target: _blank
+  notes: <b>Recorded in Preston, VIC at The Bank w/ Liam Barton
+Mixed in Preston, VIC and Brooklyn, NY by Liam Barton and BENAMIN
+Mastered by Paul Wilson
+Vinyl master by Scott Anthony at Storybook Sound</b>
+<a href="https://zenizenzenizen.bandcamp.com/album/australia-3" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/zenizen-australia-deluxe-edition/
 - project: Animal Masks "Animal Masks"
   artist: Animal Masks
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/animal-masks-animal-masks/
 - project: Jam Alker "Sophrosyne"
   artist: Jam Alker
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/jam-alker-sophrosyne/
 - project: Wayfaring "I Move, You Move"
   artist: Wayfaring
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://allosdocuments.bandcamp.com/album/i-move-you-move
+    target: _blank
+  notes: Allos Documents
+<b>Katie Ernst: double bass and voice
+James Falzone: Bb clarinet, Eb clarinet, bass clarinet, shruti box, voice, percussion, Paiute flute
+Recorded by John Abbey on August 26, 2016 at Kingsize Sound Labs, Chicago.
+Mixed and edited by Katie Ernst, James Falzone and John Abbey.
+Mastering by Scott Anthony at Storybook Sound</b>
+<a href="https://allosdocuments.bandcamp.com/album/i-move-you-move" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/wayfaring-i-move-you-move/
 - project: ex->tension "The Kiss"
   artist: ex-&gt;tension
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://ritual-tension.bandcamp.com/album/the-kiss
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://ritual-tension.bandcamp.com/album/the-kiss" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/ex-tension-the-kiss/
 - project: George Taylor & Eric Kivnick "Bach String Drum C Major Cello Suite" by J.S. Bach
   artist: George Taylor &amp; Eric Kivnick
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/george-taylor-eric-kivnick-bach-string-drum-c-major-cello-suite-by-j-s-bach/
 - project: The Cucumbers "The Fake Doom Years (1983-1986)"
   artist: The Cucumbers
   year: 2016
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/the-cucumbers-the-fake-doom-years-1983-1986/
 - project: Allied Chemical "Sword Soup"
   artist: Allied Chemical
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://alliedchemical.bandcamp.com/album/sword-soup
+    target: _blank
+  notes: <b>Produced by Tom Lucas and Allied Chemical
+Recorded and Mixed by Tom Lucas
+Mastered and Joxies by Scott Anthony
+Recorded and Mixed at Laughing Boy Studios, South Orange, NJ
+Mastered at Storybook Sound</b>
+<a href="https://alliedchemical.bandcamp.com/album/sword-soup" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/allied-chemical-sword-soup/
 - project: Monica Passin "Li’l Mo & The Monicats’ Country & Rockabilly Sampler"
   artist: Monica Passin
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://open.spotify.com/album/2TandOusEq7LpAK93HEvCy
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://open.spotify.com/album/2TandOusEq7LpAK93HEvCy" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/monica-passin-lil-mo-the-monicats-country-rockabilly-sampler/
 - project: Various Artists, David Greenberger "7MAY17"
   artist: David Greenberger
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: http://www.davidgreenberger.com/7may17/
+    target: _blank
+  notes: PelPel
+<b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="http://www.davidgreenberger.com/7may17/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/various-artists-david-greenberger-7may17/
 - project: Men & Volts "Honeymoon Luggage"
   artist: Men &amp; Volts
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: Wigwax Records
+<b>4 Album vinyl box set
+Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/men-volts-honeymoon-luggage/
 - project: East Of Venus "Memory Box"
   artist: East Of Venus
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: Omnivore Records
+<b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/east-of-venus-memory-box/
 - project: Jane Lee Hooker "No B!"
   artist: Jane Lee Hooker
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/jane-lee-hooker-no-b/
 - project: Jonas Friddle & The Majority
   artist: Jonas Friddle &amp; The Majority
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/jonas-friddle-the-majority/
 - project: Andy Lamy "The New Blackthorn Stick"
   artist: Andy Lamy
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://open.spotify.com/album/5YPMnhxIt6inscVDyk18aU
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://open.spotify.com/album/5YPMnhxIt6inscVDyk18aU"  target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/andy-lamy-the-new-blackthorn-stick/
 - project: The Feelies "Time For A Witness"
   artist: The Feelies
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/The_Feelies
+    target: _blank
+  notes: Bar/None Records
+<b>Mastered by Scott Anthony at Storybook Sound</b>
+ <a href="https://en.wikipedia.org/wiki/The_Feelies" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/the-feelies-time-for-a-witness/
 - project: The Feelies "Only Life"
   artist: The Feelies
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/The_Feelies
+    target: _blank
+  notes: Bar/None Records
+<b>Mastered by Scott Anthony at Storybook Sound</b>
+ <a href="https://en.wikipedia.org/wiki/The_Feelies" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/the-feelies-only-life/
 - project: Michael Shelley "Jimmy's Corner"
   artist: Michael Shelley
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://michaelshelley.bandcamp.com/album/jimmys-corner
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://michaelshelley.bandcamp.com/album/jimmys-corner" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/michael-shelley-jimmys-corner/
 - project: The Feelies "Uncovered"
   artist: The Feelies
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/The_Feelies
+    target: _blank
+  notes: Bar/None Records
+<b>Mastered by Scott Anthony at Storybook Sound</b>
+ <a href="https://en.wikipedia.org/wiki/The_Feelies" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/the-feelies-uncovered/
 - project: Monica Passin "Monette"
   artist: Monica Passin
   year: 2017
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/monica-passin-monette/
 - project: Elena & Boo "I Wait For The Light"
   artist: Elena &amp; Boo
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://elenaandboo.bandcamp.com/
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://elenaandboo.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/elena-boo-i-wait-for-the-light/
 - project: Allos Musica Ensemble "Gnossienne"
   artist: Allos Musica Ensemble
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://allosdocuments.bandcamp.com/album/gnossienne
+    target: _blank
+  notes: Allos Documents
+<b>James Falzone: clarinet, shruti box, low whistle
+Ronnie Malley: oud, voice, harmonium
+Jeremiah McLane: accordion
+Tim Mulvenna: hand drums and percussion
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://allosdocuments.bandcamp.com/album/gnossienne" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/allos-musica-ensemble-gnossienne/
 - project: Yarn "This Is The Year"
   artist: Yarn
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://open.spotify.com/album/7L928wEKAxaT0qMv2GAWuE
+    target: _blank
+  notes: <b>Mixed by Michael Tocci
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://yarnmusic.net/" target="_blank" rel="noopener">Artist site</a>
+<a href="https://open.spotify.com/album/7L928wEKAxaT0qMv2GAWuE" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/yarn-this-is-the-year/
 - project: Viva DeConcini "Living Well is the Best Revenge"
   artist: Viva DeConcini
   year: 2017
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://vivadeconcini.bandcamp.com/album/living-well-is-the-best-revenge
+    target: _blank
+  notes: <b>Recorded at Figure 8 Studios in Brooklyn, NY
+Tracked by Eli Crews and Phil Weinrobe
+Mixed by Michael Tocci
+Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://vivadeconcini.bandcamp.com/album/living-well-is-the-best-revenge" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/viva-deconcini-living-well-is-the-best-revenge/
 - project: The Feelies "In Between"
   artist: The Feelies
   year: 2016
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/The_Feelies
+    target: _blank
+  notes: Bar/None Records
+<b>Mixed by Dan Francia
+Mastered by Scott Anthony at Storybook Sound </b>
+<a href="https://open.spotify.com/album/3L8hUfol7kKt0W34h44cER" target="_blank" rel="noopener">Artist site</a>
+<a href="https://en.wikipedia.org/wiki/The_Feelies" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/the-feelies-in-between/
 - project: Eugene Chrysler "Hillbilly Fun Park"
   artist: Eugene Chrysler
@@ -2009,136 +2934,205 @@
     - Mastering
     - Mixing
     - Recording
+  project_url: 
+    title: Artist site
+    url: https://eugenechrysler.bandcamp.com/album/hillbilly-fun-park
+    target: _blank
+  notes: <b>Recorded, mixed, and mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://eugenechrysler.bandcamp.com/album/hillbilly-fun-park" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/eugene-chrysler-hillbilly-fun-park/
-- project: Unicorn "One More Tomorrow: Remastered & Expanded Edition"
+- project: Unicorn "One More Tomorrow&#58; Remastered & Expanded Edition"
   artist: Unicorn
   year: 2017
   roles:
     - Mixing
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/David_Gilmour
+    target: _blank
+  notes: Cherry Red Records
+<b>Produced by David Gilmour
+Mixing of <em>"All Crazy People"</em> by Scott Anthony at Storybook Sound
+David Gilmour </b><a href="https://en.wikipedia.org/wiki/David_Gilmour" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/unicorn-one-more-tomorrow-remastered-expanded-edition/
 - project: Dead Cowgirl
   artist: Dead Cowgirl
   roles:
     - What did I do here again?
+  project_url: 
+  notes: by John Langford
   image: https://storybooksound.com/recording_project/dead-cowgirl/
 - project: Girls on Grass "Girls on Grass"
   artist: Girls on Grass
   year: 2015
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wiretroop.bandcamp.com/album/trio-power
+    target: _blank
+  notes: <b>Produced and recorded by Jay Sherman-Godfrey at Able Mobile Recording Lab, Brooklyn, New York
+Mastering by Scott Anthony at Storybook Sound</b>
+<a href="https://wiretroop.bandcamp.com/album/trio-power" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/girls-on-grass-girls-on-grass/
 - project: Glenn Mercer "Incidental Hum"
   artist: Glenn Mercer
   year: 2015
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/glenn-mercer-incidental-hum/
 - project: Dangerous
   artist: Dangerous
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Dangerous Master, Dangerous Compressor, Dangerous Liason
   image: https://storybooksound.com/recording_project/dangerous/
 - project: Ostrich
   artist: Ostrich
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Beekeeper
   image: https://storybooksound.com/recording_project/ostrich/
 - project: Pop Another Cork
   artist: Pop Another Cork
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Bill Dechand
   image: https://storybooksound.com/recording_project/pop-another-cork/
 - project: 2 Nice Girls
   artist: 2 Nice Girls
   year: 2004
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Two Nice Girls
   image: https://storybooksound.com/recording_project/2-nice-girls/
 - project: Jeff Now
   artist: Jeff Now
   year: 2004
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Jeff Keithline
   image: https://storybooksound.com/recording_project/jeff-now/
 - project: Each Day Blues
   artist: Each Day Blues
   year: 1995
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Brian Kelly
   image: https://storybooksound.com/recording_project/each-day-blues/
 - project: Needles
   artist: Needles
   year: 2000
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Robert Scheffler
   image: https://storybooksound.com/recording_project/needles/
 - project: Chris Butler "I Feel A Bit Normal Today"
   artist: Chris Butler
   year: 1997
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chris_Butler_(musician)
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://en.wikipedia.org/wiki/Chris_Butler_(musician)" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/chris-butler-i-feel-a-bit-normal-today/
 - project: John Wolfington
   artist: John Wolfington
   year: 2001
   roles:
     - What did I do here again?
+  project_url: 
+  notes: John Wolfington
   image: https://storybooksound.com/recording_project/john-wolfington/
 - project: Kilopop
   artist: Kilopop
   year: 2001
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Kilopop
   image: https://storybooksound.com/recording_project/kilopop/
 - project: Fable
   artist: Fable
   year: 2002
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Amy Speace
   image: https://storybooksound.com/recording_project/fable/
 - project: Chris Butler "The Museum of Me"
   artist: Chris Butler
   year: 2014
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chris_Butler_(musician)
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
+<a href="https://en.wikipedia.org/wiki/Chris_Butler_(musician)" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/chris-butler-the-museum-of-me/
 - project: Friend or Foe
   artist: Friend or Foe
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Erica Smith
   image: https://storybooksound.com/recording_project/friend-or-foe/
 - project: Famous Recording Artists
   artist: Famous Recording Artists
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Shitbirds
   image: https://storybooksound.com/recording_project/famous-recording-artists/
 - project: End of Smith
   artist: End of Smith
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: John Pinamonti
   image: https://storybooksound.com/recording_project/end-of-smith/
 - project: Live at Sunny's
   artist: Live at Sunny's
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: John Pinamonti
   image: https://storybooksound.com/recording_project/live-at-sunnys/
 - project: Love Lane
   artist: Love Lane
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Jenifer Jackson
   image: https://storybooksound.com/recording_project/love-lane/
 - project: Receding Choir
   artist: Receding Choir
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Brian Kelly
   image: https://storybooksound.com/recording_project/receding-choir/
 - project: Out Of Order "Hey Pussycat!"
   artist: Out Of Order
@@ -2146,580 +3140,802 @@
   roles:
     - Mastering
     - Mixing
+  project_url: 
+  notes: <b>Produced by John Sharples
+Recorded at Wombat by Ross Bonadonna
+Mixed and mastered by Scott Anthony at The Viewing Room</b>
   image: https://storybooksound.com/recording_project/out-of-order-hey-pussycat/
 - project: Anywhere Will Do
   artist: Anywhere Will Do
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Beekeeper
   image: https://storybooksound.com/recording_project/anywhere-will-do/
 - project: Gypsy 83 Soundtrack
   artist: Gypsy 83 Soundtrack
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Various artists
   image: https://storybooksound.com/recording_project/gypsy-83-soundtrack/
 - project: AntiFolk Road Manual
   artist: AntiFolk Road Manual
   year: 2014
   roles:
     - What did I do here again?
+  notes: Mike iLL
   image: https://storybooksound.com/recording_project/antifolk-road-manual/
 - project: Open On Sunday
   artist: Open On Sunday
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Paula Carino
   image: https://storybooksound.com/recording_project/open-on-sunday/
 - project: Holding Back The Years
   artist: Holding Back The Years
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Jimmy Scott
   image: https://storybooksound.com/recording_project/holding-back-the-years/
 - project: The New INTERface Trio
   artist: The New INTERface Trio
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: John Fischer, Mike Richmond, Ben Kilmer
   image: https://storybooksound.com/recording_project/the-new-interface-trio/
 - project: I Love You
   artist: I Love You
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Leif Arntzen
   image: https://storybooksound.com/recording_project/i-love-you/
 - project: The Plunk Brothers
   artist: The Plunk Brothers
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Plunk Brothers
   image: https://storybooksound.com/recording_project/the-plunk-brothers/
 - project: The Art Of Navigation
   artist: The Art Of Navigation
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Regia
   image: https://storybooksound.com/recording_project/the-art-of-navigation/
 - project: Thunk
   artist: Thunk
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Soothing Sounds For Baby
   image: https://storybooksound.com/recording_project/thunk/
 - project: "Superhits Of The Seventies"
   year: 2014
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://wfmu.org/
+    target: _blank
+  notes: <b>
+WFMU DJ Michael Shelley
+Mastered by Scott Anthony</b>
+<a href="https://wfmu.org/" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/superhits-of-the-seventies/
 - project: Chromium Dub
   artist: Chromium Dub
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Illness
   image: https://storybooksound.com/recording_project/chromium-dub/
 - project: You And Me Are We
   artist: You And Me Are We
   year: 2007
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Daniel Cartier
   image: https://storybooksound.com/recording_project/you-and-me-are-we/
 - project: Hocus Pocus
   artist: Hocus Pocus
   year: 2000
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Billy Dechand Band
   image: https://storybooksound.com/recording_project/hocus-pocus/
 - project: Sweet Lizard Illtet "Illtet Live & Rarities"
   artist: Sweet Lizard Illtet
   year: 2011
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/sweet-lizard-illtet-illtet-live-rarities/
 - project: You Are My Flower
   artist: You Are My Flower
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Elizabeth Mitchell
   image: https://storybooksound.com/recording_project/you-are-my-flower/
 - project: Pretty Town
   artist: Pretty Town
   year: 2002
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Robert Scheffler
   image: https://storybooksound.com/recording_project/pretty-town/
 - project: Slowpokes
   artist: Slowpokes
   year: 2010
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Rebecca Turner
   image: https://storybooksound.com/recording_project/slowpokes/
 - project: For You
   artist: For You
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Yooj
   image: https://storybooksound.com/recording_project/for-you/
 - project: Tragico Magico
   artist: Tragico Magico
   year: 1997
   roles:
     - What did I do here again?
+  project_url: 
+  notes: John Pinamonti
   image: https://storybooksound.com/recording_project/tragico-magico/
 - project: Kneel
   artist: Kneel
   year: 1997
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Melissa Sheehan
   image: https://storybooksound.com/recording_project/kneel/
 - project: David Poe
   artist: David Poe
   year: 1997
   roles:
     - What did I do here again?
+  project_url: 
+  notes: David Poe
   image: https://storybooksound.com/recording_project/david-poe/
 - project: Too Many Spirits
   artist: Too Many Spirits
   year: 1999
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Amanda Thorpe
   image: https://storybooksound.com/recording_project/too-many-spirits/
 - project: Charlie the Symbolic Dog
   artist: Charlie the Symbolic Dog
   year: 1995
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Bone Fiction
   image: https://storybooksound.com/recording_project/charlie-the-symbolic-dog/
 - project: Alegria
   artist: Alegria
   year: 2009
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Ioan Harea
   image: https://storybooksound.com/recording_project/alegria/
 - project: Driving You Insane
   artist: Driving You Insane
   year: 1997
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Ann Klein
   image: https://storybooksound.com/recording_project/driving-you-insane/
 - project: Digital Retro
   artist: Digital Retro
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Badge
   image: https://storybooksound.com/recording_project/digital-retro/
 - project: Barefoot Tramps "Wheels On Fire"
   artist: Barefoot Tramps
   year: 2011
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/barefoot-tramps-wheels-on-fire/
 - project: Beastie Boys "Aglio e Olio"
   artist: Beastie Boys
   year: 1996
   roles:
     - Asst. Engineering
+  project_url: 
+  notes: <b>Recorded at Harold Dessau Recording, NYC
+Engineer: Mario Caldato Jr.
+Asst. Engineers: David Lee, Scott Anthony</b>
   image: https://storybooksound.com/recording_project/beastie-boys-aglio-e-olio/
 - project: Beastie Boys "Hello Nasty"
   artist: Beastie Boys
   year: 1998
   roles:
     - Asst. Engineering
+  project_url: 
+  notes: <b>Recorded in part at Harold Dessau Recording, NYC
+Engineer: Mario Caldato Jr.
+Asst. Engineers: David Lee, Scott Anthony</b>
   image: https://storybooksound.com/recording_project/beastie-boys-hello-nasty/
 - project: Blastula
   artist: Blastula
   year: 1996
   roles:
     - What did I do here again?
+  project_url: 
+  notes: John Meyers
   image: https://storybooksound.com/recording_project/blastula/
 - project: In & Out
   artist: In &amp; Out
   year: 1994
   roles:
     - What did I do here again?
+  project_url: 
+  notes: BloodSugar
   image: https://storybooksound.com/recording_project/in-out/
 - project: Bob Evans "Pipeline on WMBR"
   artist: Bob Evans
   year: 2012
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://bobevans.bandcamp.com/album/pipeline-on-wmbr
+    target: _blank
+  notes: <b>guitar & vocal - Dave Gloshinski
+bass - Andrew Kesin
+drums - Brian O'Neill
+
+mastered @ The Viewing Room by Scott Anthony </b>
+<a href="https://bobevans.bandcamp.com/album/pipeline-on-wmbr" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/bob-evans-pipeline-on-wmbr/
 - project: Bridge
   artist: Bridge
   year: 2014
   roles:
     - Mastering
+  project_url: 
+  notes: Jake
+<b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/bridge/
 - project: Improvising
   artist: Improvising
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: OmU
   image: https://storybooksound.com/recording_project/improvising/
 - project: Chris Butler "Easy Life"
   artist: Chris Butler
   year: 2014
   roles:
     - Mastering
+  project_url: 
+    title: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chris_Butler_(musician)
+    target: _blank
+  notes: <b>Mastered by Scott Anthony at Storybook Sound
+Plus: Mixing</b>
+<a href="https://en.wikipedia.org/wiki/Chris_Butler_(musician)" target="_blank" rel="noopener">Wikipedia</a>
   image: https://storybooksound.com/recording_project/chris-butler-easy-life/
 - project: Night Time
   artist: Night Time
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Driver Quartet
   image: https://storybooksound.com/recording_project/night-time/
 - project: What A Beautiful Child
   artist: What A Beautiful Child
   year: 2000
   roles:
     - What did I do here again?
+  project_url: 
+  notes: My Dear Ella
   image: https://storybooksound.com/recording_project/what-a-beautiful-child/
 - project: English 101
   artist: English 101
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Various artists w/ Ron English
   image: https://storybooksound.com/recording_project/english-101/
 - project: We Are The World
   artist: We Are The World
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Family Of God
   image: https://storybooksound.com/recording_project/we-are-the-world/
 - project: Amber Waves
   artist: Amber Waves
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Flint Michigan
   image: https://storybooksound.com/recording_project/amber-waves/
 - project: One Thing Right
   artist: One Thing Right
   year: 2000
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Big Galoots
   image: https://storybooksound.com/recording_project/one-thing-right/
 - project: Creatured
   artist: Creatured
   year: 2009
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Gambees
   image: https://storybooksound.com/recording_project/creatured/
 - project: Another Gay Movie Soundtrack
   artist: Another Gay Movie Soundtrack
   year: 2006
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Various artists
   image: https://storybooksound.com/recording_project/another-gay-movie-soundtrack/
 - project: The Demo Anthology
   artist: The Demo Anthology
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Gefkens
   image: https://storybooksound.com/recording_project/the-demo-anthology/
 - project: Electric Goddess
   artist: Electric Goddess
   year: 2003
   roles:
     - Mastering
+  project_url: 
+  notes: Debra DeSalvo
+<b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/electric-goddess/
 - project: Simply
   artist: Simply
   year: 2003
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Grace Millo
   image: https://storybooksound.com/recording_project/simply/
 - project: Homage - lots of bands doing Descendants songs
   artist: Homage - lots of bands doing Descendants songs
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Various artists
   image: https://storybooksound.com/recording_project/homage-lots-of-bands-doing-descendants-songs/
 - project: Sweet Lizard Illtet "2 Rare"
   artist: Sweet Lizard Illtet
   year: 2014
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/sweet-lizard-illtet-2-rare/
 - project: Shitbirds
   artist: Shitbirds
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Shitbirds
   image: https://storybooksound.com/recording_project/shitbirds/
 - project: The Shitbirds
   artist: The Shitbirds
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Shitbirds
   image: https://storybooksound.com/recording_project/the-shitbirds/
 - project: From Out Of Big Blue
   artist: From Out Of Big Blue
   year: 2010
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Mojo Daddyo
   image: https://storybooksound.com/recording_project/from-out-of-big-blue/
 - project: Jack Brag
   artist: Jack Brag
   year: 2008
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Jack Brag
   image: https://storybooksound.com/recording_project/jack-brag/
 - project: Slowly Bright
   artist: Slowly Bright
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Jenifer Jackson
   image: https://storybooksound.com/recording_project/slowly-bright/
 - project: Together In Time
   artist: Together In Time
   year: 2001
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Jenifer Jackson & Julian Jackson
   image: https://storybooksound.com/recording_project/together-in-time/
 - project: Release
   artist: Release
   year: 2001
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Kate Evans
   image: https://storybooksound.com/recording_project/release/
 - project: Them Keener Boys
   artist: Them Keener Boys
   year: 1997
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Them Keener Boys
   image: https://storybooksound.com/recording_project/them-keener-boys/
 - project: Ecstatic
   artist: Ecstatic
   year: 2001
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Kevin Salem
   image: https://storybooksound.com/recording_project/ecstatic/
 - project: Take Me Home
   artist: Take Me Home
   year: 2003
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Sin & Tonic
   image: https://storybooksound.com/recording_project/take-me-home/
 - project: Semi-Blue
   artist: Semi-Blue
   year: 2003
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Kito Peters
   image: https://storybooksound.com/recording_project/semi-blue/
 - project: Li'l Mo and The Monicats "Whole Lotta Love"
   artist: Li'l Mo and The Monicats
   year: 2012
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/lil-mo-and-the-monicats-whole-lotta-love/
 - project: Live! Live! Live!
   artist: Live! Live! Live!
   year: 1997
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Gefkens
   image: https://storybooksound.com/recording_project/live-live-live/
 - project: Cleaning Out The Ashtrays
   artist: Cleaning Out The Ashtrays
   year: 2009
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Lloyd Cole
   image: https://storybooksound.com/recording_project/cleaning-out-the-ashtrays/
 - project: Marco Ranieri "Heartbroken Radio"
   artist: Marco Ranieri
   year: 2012
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/marco-ranieri-heartbroken-radio/
 - project: The Seduction of Sarah Sahonie
   artist: The Seduction of Sarah Sahonie
   year: 1999
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Mike iLL
   image: https://storybooksound.com/recording_project/the-seduction-of-sarah-sahonie/
 - project: Mimi Cross "Monkey Trap"
   artist: Mimi Cross
   year: 1998
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/mimi-cross-monkey-trap/
 - project: Kiss Me
   artist: Kiss Me
   year: 2010
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Jeff Keithline
   image: https://storybooksound.com/recording_project/kiss-me/
 - project: Luckiest Boy in the World
   artist: Luckiest Boy in the World
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Oren Bloedow
   image: https://storybooksound.com/recording_project/luckiest-boy-in-the-world/
 - project: Pigeons "The Helpless and The Hopeless"
   artist: Pigeons
   year: 2013
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: https://storybooksound.com/recording_project/pigeons-the-helpless-and-the-hopeless/
 - project: JP3
   artist: JP3
   year: 2003
   roles:
     - What did I do here again?
+  project_url: 
+  notes: John Pinamonti
   image: https://storybooksound.com/recording_project/jp3/
 - project: Karen Ramos
   artist: Karen Ramos
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Karen Ramos
   image: https://storybooksound.com/recording_project/karen-ramos/
 - project: Redemption
   artist: Redemption
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: T.J. Swan
   image: https://storybooksound.com/recording_project/redemption/
 - project: Morning Becomes Electric
   artist: Morning Becomes Electric
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Rob Norris
   image: https://storybooksound.com/recording_project/morning-becomes-electric/
 - project: Sinsanity "The Machine"
   artist: Sinsanity
   year: 2014
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/sinsanity-the-machine/
 - project: Skanatra
   artist: Skanatra
   year: 1999
   roles:
     - What did I do here again?
+  notes: Skanatra
   image: https://storybooksound.com/recording_project/skanatra/
 - project: Sodden Psalms
   artist: Sodden Psalms
   year: 2011
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Chris Skel
   image: https://storybooksound.com/recording_project/sodden-psalms/
 - project: Snake Road
   artist: Snake Road
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Jake
   image: https://storybooksound.com/recording_project/snake-road/
 - project: 1943
   artist: 1943
   year: 2011
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Soltero
   image: https://storybooksound.com/recording_project/1943/
 - project: All Secrets Fade
   artist: All Secrets Fade
   year: 2001
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Steve Lee
   image: https://storybooksound.com/recording_project/all-secrets-fade/
 - project: Togetherness
   artist: Togetherness
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Phillips & Driver
   image: https://storybooksound.com/recording_project/togetherness/
 - project: Welcome To The Dollhouse - Soundtrack
   artist: Welcome To The Dollhouse - Soundtrack
   year: 1996
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Various artists
   image: https://storybooksound.com/recording_project/welcome-to-the-dollhouse-soundtrack/
 - project: I Have Some Language
   artist: I Have Some Language
   year: 1998
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Wobblies
   image: https://storybooksound.com/recording_project/i-have-some-language/
 - project: Blue Sky Lullaby
   artist: Blue Sky Lullaby
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Hammond Sisters
   image: https://storybooksound.com/recording_project/blue-sky-lullaby/
 - project: Black Coffee Blues
   artist: Black Coffee Blues
   year: 1997
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Henry Rollins
   image: https://storybooksound.com/recording_project/black-coffee-blues/
 - project: Summer's Going By
   artist: Summer's Going By
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Jeff Cohen
   image: https://storybooksound.com/recording_project/summers-going-by/
 - project: Past & Gone
   artist: Past &amp; Gone
   year: 2001
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Wirebirds
   image: https://storybooksound.com/recording_project/past-gone/
 - project: Beastie Boys "The Sounds Of Science"
   artist: Beastie Boys
   year: 1999
   roles:
     - Asst. Engineering
+  project_url: 
+  notes: <b>Recorded in part at Harold Dessau Recording, NYC
+Engineer: Mario Caldato Jr.
+Asst. Engineers: David Lee, Scott Anthony
+Guest vocal on "Soba Violence": Scott Anthony</b>
   image: https://storybooksound.com/recording_project/beastie-boys-the-sounds-of-science/
 - project: Cities Filled With Lights
   artist: Cities Filled With Lights
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Matt Schickele
   image: https://storybooksound.com/recording_project/cities-filled-with-lights/
 - project: Above The Stinkin' Law!
   artist: Above The Stinkin' Law!
   year: 1992
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Con Artists
   image: https://storybooksound.com/recording_project/above-the-stinkin-law/
 - project: Snowblind
   artist: Snowblind
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Erica Smith and The 99 Cent Dreams
   image: https://storybooksound.com/recording_project/snowblind/
 - project: The Chymical Vegas Wedding
   artist: The Chymical Vegas Wedding
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Joe Cassady and The West End Sound
   image: https://storybooksound.com/recording_project/the-chymical-vegas-wedding/
 - project: Land Of My Baby
   artist: Land Of My Baby
   year: 2005
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Rebecca Turner
   image: https://storybooksound.com/recording_project/land-of-my-baby/
 - project: Andiamo
   artist: Andiamo
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Malarkies
   image: https://storybooksound.com/recording_project/andiamo/
 - project: "Over The Moon"
   year: 2014
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/over-the-moon/
 - project: High Wide and Handsome
   artist: High Wide and Handsome
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: John Pinamonti
   image: https://storybooksound.com/recording_project/high-wide-and-handsome/
 - project: Oh Joy!
   artist: Oh Joy!
   year: 2014
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Shitbirds
   image: https://storybooksound.com/recording_project/oh-joy/
 - project: Randy Noojin "Hard Travelin' With Woody and The Hobos"
   artist: Randy Noojin
@@ -2728,93 +3944,128 @@
     - Mastering
     - Mixing
     - Recording
+  project_url: 
+  notes: <b>Recorded, mixed and mastered by Scott Anthony at The Viewing Room</b>
   image: https://storybooksound.com/recording_project/randy-noojin-hard-travelin-with-woody-and-the-hobos/
 - project: Monstrous
   artist: Monstrous
   year: 2009
   roles:
     - What did I do here again?
+  notes: Brothers Gethway
   image: https://storybooksound.com/recording_project/monstrous/
 - project: Page 18
   artist: Page 18
   year: 1996
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Bush Tetras
   image: https://storybooksound.com/recording_project/page-18/
 - project: Uptown, Alive And Well
   artist: Alive And Well
   year: 2011
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Dirty Water Dogs
   image: https://storybooksound.com/recording_project/uptown-alive-and-well/
 - project: One Dog Town
   artist: One Dog Town
   year: 1999
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Elena Skye & The Demolition String Band
   image: https://storybooksound.com/recording_project/one-dog-town/
 - project: Right Here Right Now
   artist: Right Here Right Now
   year: 2011
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Justin Turk
   image: https://storybooksound.com/recording_project/right-here-right-now/
 - project: Sit Down At The Table
   artist: Sit Down At The Table
   year: 1990
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Professor Louie
   image: https://storybooksound.com/recording_project/sit-down-at-the-table/
 - project: Boz Metzdorf "Green And Blue"
   artist: Boz Metzdorf
   year: 2012
   roles:
     - Mastering
+  project_url: 
+  notes: <b>Mastered by Scott Anthony</b>
   image: https://storybooksound.com/recording_project/boz-metzdorf-green-and-blue/
 - project: Disco Dance Party 2000
   artist: Disco Dance Party 2000
   year: 2010
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Phillips & Driver
   image: https://storybooksound.com/recording_project/disco-dance-party-2000/
 - project: Under A Shady Tree
   artist: Under A Shady Tree
   year: 2002
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Laurie Berkner
   image: https://storybooksound.com/recording_project/under-a-shady-tree/
 - project: Shabbat Shaboom
   artist: Shabbat Shaboom
   year: 2011
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Mama Doni
   image: https://storybooksound.com/recording_project/shabbat-shaboom/
 - project: Stranger Things
   artist: Stranger Things
   year: 2010
   roles:
     - What did I do here again?
+  project_url: 
+  notes: The Swales
   image: https://storybooksound.com/recording_project/stranger-things/
 - project: Illtet "Live C.B.G.B.'S"
   artist: Illtet
   year: 2012
   roles:
     - Mastering
+  project_url: 
+    title: Artist site
+    url: https://illtet.bandcamp.com/album/live-at-cbgbs
+    target: _blank
+  notes: <b>Mastered by Scott Anthony</b>
+<a href="https://illtet.bandcamp.com/album/live-at-cbgbs" target="_blank" rel="noopener">Artist site</a>
   image: https://storybooksound.com/recording_project/illtet-live-c-b-g-b-s/
 - project: Livingrm_left2_Feature
   artist: Livingrm_left2_Feature
   roles:
     - What did I do here again?
+  project_url: 
+  notes: We love all kinds of music without prejudice, and want to make music that sounds great.
   image: https://storybooksound.com/recording_project/livingrm_left2_feature/
 - project: Stained Glass
   artist: Stained Glass
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Stained Glass
   image: https://storybooksound.com/recording_project/stained-glass/
 - project: Mixing Console
   artist: Mixing Console
   roles:
     - What did I do here again?
+  project_url: 
+  notes: Mixing Console
   image: https://storybooksound.com/recording_project/mixing-console/
 - project: Deena Dance "The Night Away b/w Thursday"
   artist: Deena Dance
@@ -2827,6 +4078,7 @@
   year: 2020
   roles:
     - Mastering
+  notes: Video (part II)
   image: https://storybooksound.com/recording_project/jon-fried-confessions-of-a-coronavirus/
 - project: Keith Kenny "A Lifetime Ago"
   artist: Keith Kenny
@@ -2876,6 +4128,7 @@
   roles:
     - Bass
     - Engineer
+  notes: Karl Mansfield, Producer
   image: https://storybooksound.com/recording_project/john-foster/
 - project: Shannon Brown &amp; John Pinamonti "reel"
   artist: Shannon Brown &amp; John Pinamonti
@@ -3251,7 +4504,7 @@
   roles:
     - Mastering
   image: https://storybooksound.com/recording_project/jason-didner-summertime-santa-my-super-power/
-- project: Albert Ayler "Bells &amp; Prophecy: Expanded Edition"
+- project: Albert Ayler "Bells &amp; Prophecy&#58; Expanded Edition"
   artist: Albert Ayler
   year: 2015
   roles:
@@ -3336,7 +4589,7 @@
   roles:
     - Mastering
   image: https://storybooksound.com/recording_project/bevy-e-p/
-- project: Demolition String Band "21: The Best of Demolition String Band"
+- project: Demolition String Band "21&#58; The Best of Demolition String Band"
   artist: Demolition String Band
   year: 2014
   roles:
@@ -3441,12 +4694,14 @@
     - Engineer
     - Mastering
     - Mixing
+  notes: various artist contributions
   image: https://storybooksound.com/recording_project/chris-butler-the-major-glitch/
 - project: Elena &amp; Boo "Sailor Girl​/​Loving Cup (single)"
   artist: Elena &amp; Boo
   year: 2013
   roles:
     - Mastering
+  notes: Eric “Roscoe” Ambel, Producer
   image: https://storybooksound.com/recording_project/elena-boo-sailor-girl%e2%80%8b-%e2%80%8bloving-cup-single/
 - project: Lanes Narrow (with Bob Carr) "4-Way Stop"
   artist: Lanes Narrow (with Bob Carr)
@@ -3519,6 +4774,7 @@
   roles:
     - Engineer
     - Mixing
+  notes: Neill C. Furio, Producer
   image: https://storybooksound.com/recording_project/flutterbox/
 - project: 4th Street Nite Owls ""
   artist: 4th Street Nite Owls
@@ -3545,6 +4801,7 @@
   year: 2009
   roles:
     - Mastering
+  notes: Paul Carbonara, Producer
   image: https://storybooksound.com/recording_project/the-mudlarks-a-tender-age/
 - project: Silverado "Silverado Favorites"
   artist: Silverado
@@ -3579,6 +4836,7 @@
   year: 2006
   roles:
     - Mastering
+  notes: Marty Beller, David Driver, Producers
   image: https://storybooksound.com/recording_project/aveda-industrial/
 - project: Mimi Cross "I Slept"
   artist: Mimi Cross
@@ -3604,6 +4862,7 @@
   year: 2004
   roles:
     - Mixing
+  notes: Neill C. Furio, Producer
   image: https://storybooksound.com/recording_project/marie-frank/
 - project: The Badge "Calling Generation Mojo"
   artist: The Badge
@@ -3706,6 +4965,7 @@
     - Engineer
     - Mastering
     - Mixing
+  notes: Craig Kafton, Producer
   image: https://storybooksound.com/recording_project/those-bleeding-tulips/
 - project: Milla Jovovich "pre-production, unreleased"
   artist: Milla Jovovich
@@ -3714,6 +4974,7 @@
     - Bass
     - Engineer
     - Mixing
+  notes: Jesse Dorsey, Producer
   image: https://storybooksound.com/recording_project/milla-jovovich-pre-production-unreleased/
 - project: Amy Correia "single"
   artist: Amy Correia
@@ -3721,6 +4982,7 @@
   roles:
     - Engineer
     - Mixing
+  notes: Oren Bloedow, Producer
   image: https://storybooksound.com/recording_project/amy-correia-single/
 - project: Seal "pre-production, unreleased"
   artist: Seal
@@ -3762,6 +5024,7 @@
   roles:
     - Engineer
     - Recording
+  notes: Live at St Mark’s Church w/ Lenny Kaye, Lee Ranaldo, Steve Shelley, Marc Ribot, Thurston Moore, Kim Deal
   image: https://storybooksound.com/recording_project/allen-ginsberg-unreleased/
 - project: Chris Butler "The Devil Giltch"
   artist: Chris Butler
@@ -3775,6 +5038,7 @@
   roles:
     - Engineer
     - Mixing
+  notes: Brian Kelly, Producer
   image: https://storybooksound.com/recording_project/grind-film-score/
 - project: Joel Golden "Astronaut"
   artist: Joel Golden
@@ -3788,6 +5052,7 @@
   roles:
     - Engineer
     - Mixing
+  notes: Sim Cain, David Poe, Producers
   image: https://storybooksound.com/recording_project/david-poe-the-glass-suit-e-p/
 - project: Leif Arntzen "Eventide"
   artist: Leif Arntzen
@@ -3892,6 +5157,7 @@
   roles:
     - Engineer
     - Mixing
+  notes: Chris Butler, Producer
   image: https://storybooksound.com/recording_project/the-whatnots-mrs-stanwyck/
 - project: Gimme The Gun "Love American Style"
   artist: Gimme The Gun
@@ -3923,12 +5189,14 @@
   year: 1992
   roles:
     - Recording
+  notes: John Leventhal, Producer
   image: https://storybooksound.com/recording_project/lisa-lowell-and-the-frontier-boys/
 - project: Because, Because, Because "pre-production"
   artist: Because, Because, Because
   year: 1992
   roles:
     - Engineer
+  notes: Matthew Caws, Producer
   image: https://storybooksound.com/recording_project/because-because-because-pre-production/
 - project: The Cost Of Living "Comic Book Page"
   artist: The Cost Of Living
@@ -3936,18 +5204,21 @@
   roles:
     - Engineer
     - Mixing
+  notes: Kent Schuyler, Producer
   image: https://storybooksound.com/recording_project/the-cost-of-living-comic-book-page/
 - project: Sherry Winston "Love Madness"
   artist: Sherry Winston
   year: 1991
   roles:
     - Engineer
+  notes: Kent Schuyler, Producer
   image: https://storybooksound.com/recording_project/sherry-winston-love-madness/
 - project: The Gift "Wasted Time"
   artist: The Gift
   year: 1991
   roles:
     - Mixing
+  notes: Freddie Katz, Producer
   image: https://storybooksound.com/recording_project/the-gift-wasted-time/
 - project: Danny Stevens ""
   artist: Danny Stevens
