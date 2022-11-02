@@ -14,7 +14,7 @@ document.body.appendChild(DIALOG({id: "gallerydlg"}, [
     DIV([BUTTON({id: "prev"}, "previous"), BUTTON({id: "next"}, "next")]),
     BUTTON({type: "button", class: "dialog_cancel"}, 'x')]),
   FIGURE([
-    IMG(),
+    DIV({class: 'gallery-image'}),
     FIGCAPTION()
   ])
 ]));
@@ -25,7 +25,7 @@ fix_dialogs({close_selector: ".dialog_cancel,.dialog_close", click_outside: "for
 function gallery_image(item) {
   if (item.image) return DIV({class: 'gallery-image', style: `background-image: url("${item.image.url}")`, title: item.project + ' ' + item.artist});
   let color = placeholder_colors[Math.floor(Math.random() * 5)];
-  return DIV({class: 'gallery-image ' + color}, [DIV(H1(item.project),H2(item.artist))]);
+  return DIV({class: 'placeholder gallery-image ' + color}, [DIV(H1(item.project),H2(item.artist))]);
 }
 
 set_content("#gallery",
@@ -39,12 +39,7 @@ function display_item(set, idx) {
   selected_item = +idx; // cast as number
   selected_set = +set;
   const item = galleries[sets[set]][idx];
-  // Do we have an image?
-  if (item.image.url) {
-    DOM("#gallerydlg img").src = item.image.url;
-  } else {
-    // TODO
-  }
+  DOM("#gallerydlg .gallery-image").replaceWith(gallery_image(item));
   set_content("#gallerydlg figcaption", [
     item.project && H1(item.project),
     item.artist && H2(item.artist),
