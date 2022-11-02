@@ -11,10 +11,6 @@
   max-width: 90%;
 }
 
-.gallery_set>div {
-  max-width: 10rem;
-}
-
 .gallery_set img {
   max-width: 100%;
   vertical-align: middle;
@@ -43,69 +39,65 @@
 /* Placeholders */
 
 
-.disc-placeholder,
-.disc-placeholder-large {
+.gallery-image {
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-.disc-placeholder {
-  width: 220px;
-  height: 220px;
+#gallery .gallery-image {
+  width: 320px;
+  height: 320px;
   box-shadow: inset 0 0 10px #888;
+  cursor: pointer;
 }
 
-.disc-placeholder-large {
+#gallerydlg .gallery-image {
   width: 420px;
   height: 420px;
   box-shadow: inset 0 0 10px #888;
 }
 
-.disc-placeholder div,
-.disc-placeholder-large div {
+.gallery-image div {
   border: 2px solid #999;
   padding: 2em;
   text-align: center;
 }
 
-.disc-placeholder div {
-  width: 208px;
-  height: 208px;
+#gallery .gallery-image div {
+  width: 308px;
+  height: 308px;
 }
 
-.disc-placeholder-large div {
+#gallerydlg .gallery-image div {
   width: 408px;
   height: 408px;
 }
 
-.disc-placeholder.red,
-.disc-placeholder-large.red {
+.gallery-image.red {
   background-color: #C2756C;
 }
 
-.disc-placeholder.gold,
-.disc-placeholder-large.gold {
+.gallery-image.gold {
   background-color: #C2A947;
 }
 
-.disc-placeholder.teal,
-.disc-placeholder-large.teal {
+.gallery-image.teal {
   background-color: #50AE9F;
 }
 
-.disc-placeholder.green,
-.disc-placeholder-large.green {
+.gallery-image.green {
   background-color: #94C47B;
 }
 
-.disc-placeholder.blue,
-.disc-placeholder-large.blue {
+.gallery-image.blue {
   background-color: #4A9CC4;
 }
 
-.disc-placeholder.azure,
-.disc-placeholder-large.azure {
+.gallery-image.azure {
   background-color: #B2D9F3;
 }

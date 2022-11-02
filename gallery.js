@@ -22,23 +22,22 @@ document.body.appendChild(DIALOG({id: "gallerydlg"}, [
 // Support for older browsers
 fix_dialogs({close_selector: ".dialog_cancel,.dialog_close", click_outside: "formless"});
 
-function image_cover(item) {
-  if (item.image) return IMG({src: item.image.url, title: item.image.title, alt: item.image.title});
+function gallery_image(item) {
+  if (item.image) return DIV({class: 'gallery-image', style: `background-image: url("${item.image.url}")`, title: item.project + ' ' + item.artist});
   let color = placeholder_colors[Math.floor(Math.random() * 5)];
-  return DIV({class: 'disc-placeholder ' + color, style: "min-width:220;min-height:220;"}, [P("coming soon.")]);
+  return DIV({class: 'gallery-image ' + color}, [DIV(H1(item.project),H2(item.artist))]);
 }
 
 set_content("#gallery",
   sets.map((set, idx )=> SECTION({'data-set': idx}, [
     H2(set),
-    DIV({class: "gallery_set"}, galleries[set].map((item, idx) => DIV({"data-idx": idx}, image_cover(item) )))
+    DIV({class: "gallery_set"}, galleries[set].map((item, idx) => DIV({"data-idx": idx}, gallery_image(item) )))
   ]))
 );
 
 function display_item(set, idx) {
   selected_item = +idx; // cast as number
   selected_set = +set;
-  console.log(selected_item, selected_set);
   const item = galleries[sets[set]][idx];
   // Do we have an image?
   if (item.image.url) {
