@@ -1,5 +1,5 @@
 - project: 'Ostrich'
-  artist: Ostrich
+  artist: 'Ostrich'
   year: 1998
   roles:
     - What did I do here again?
@@ -7,10 +7,10 @@
   notes: >-
     Beekeeper
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/beekeeper-ostrich.jpg
+    url: images/discography/1998/beekeeper-ostrich.jpg
     title: 'Ostrich'
 - project: 'Pop Another Cork'
-  artist: Pop Another Cork
+  artist: 'Pop Another Cork'
   year: 1998
   roles:
     - What did I do here again?
@@ -18,10 +18,10 @@
   notes: >-
     Bill Dechand
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/pop.jpg
+    url: images/discography/1998/pop.jpg
     title: 'Pop Another Cork'
 - project: 'You Are My Flower'
-  artist: You Are My Flower
+  artist: 'You Are My Flower'
   year: 1998
   roles:
     - What did I do here again?
@@ -29,10 +29,10 @@
   notes: >-
     Elizabeth Mitchell
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/mitchell.jpeg
+    url: images/discography/1998/mitchell.jpeg
     title: 'You Are My Flower'
 - project: 'Digital Retro'
-  artist: Digital Retro
+  artist: 'Digital Retro'
   year: 1998
   roles:
     - What did I do here again?
@@ -40,10 +40,10 @@
   notes: >-
     The Badge
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/badge.jpg
+    url: images/discography/1998/badge.jpg
     title: 'Digital Retro'
 - project: 'Beastie Boys "Hello Nasty"'
-  artist: Beastie Boys
+  artist: 'Beastie Boys'
   year: 1998
   roles:
     - Asst. Engineering
@@ -53,10 +53,10 @@
     Engineer: Mario Caldato Jr.
     Asst. Engineers: David Lee, Scott Anthony</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/beastieboys_nasty_cover.jpg
+    url: images/discography/1998/beastieboys_nasty_cover.jpg
     title: 'Beastie Boys "Hello Nasty"'
 - project: 'We Are The World'
-  artist: We Are The World
+  artist: 'We Are The World'
   year: 1998
   roles:
     - What did I do here again?
@@ -64,10 +64,10 @@
   notes: >-
     Family Of God
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/family-of-god.jpg
+    url: images/discography/1998/family-of-god.jpg
     title: 'We Are The World'
 - project: 'Amber Waves'
-  artist: Amber Waves
+  artist: 'Amber Waves'
   year: 1998
   roles:
     - What did I do here again?
@@ -75,10 +75,10 @@
   notes: >-
     Flint Michigan
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/flint.jpg
+    url: images/discography/1998/flint.jpg
     title: 'Amber Waves'
 - project: 'Slowly Bright'
-  artist: Slowly Bright
+  artist: 'Slowly Bright'
   year: 1998
   roles:
     - What did I do here again?
@@ -86,10 +86,10 @@
   notes: >-
     Jenifer Jackson
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/jeniferj2.jpg
+    url: images/discography/1998/jeniferj2.jpg
     title: 'Slowly Bright'
 - project: 'Mimi Cross "Monkey Trap"'
-  artist: Mimi Cross
+  artist: 'Mimi Cross'
   year: 1998
   roles:
     - Mastering
@@ -97,10 +97,10 @@
   notes: >-
     <b>Mastered by Scott Anthony</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Monkey-Trap-Cover.jpg
+    url: images/discography/1998/Monkey-Trap-Cover.jpg
     title: 'Mimi Cross "Monkey Trap"'
 - project: 'Luckiest Boy in the World'
-  artist: Luckiest Boy in the World
+  artist: 'Luckiest Boy in the World'
   year: 1998
   roles:
     - What did I do here again?
@@ -108,10 +108,10 @@
   notes: >-
     Oren Bloedow
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/oren.jpg
+    url: images/discography/1998/oren.jpg
     title: 'Luckiest Boy in the World '
 - project: 'Karen Ramos'
-  artist: Karen Ramos
+  artist: 'Karen Ramos'
   year: 1998
   roles:
     - What did I do here again?
@@ -119,10 +119,10 @@
   notes: >-
     Karen Ramos
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/ramos.jpg
+    url: images/discography/1998/ramos.jpg
     title: 'Karen Ramos'
 - project: 'I Have Some Language'
-  artist: I Have Some Language
+  artist: 'I Have Some Language'
   year: 1998
   roles:
     - What did I do here again?
@@ -130,49 +130,49 @@
   notes: >-
     The Wobblies
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/wobblies.jpg
+    url: images/discography/1998/wobblies.jpg
     title: 'I Have Some Language'
 - project: 'Various Artists "Christmas to Remember [Velvel]"'
-  artist: Various Artists
+  artist: 'Various Artists'
   year: 1998
   roles:
     - Engineer
     - Mixing
 - project: 'Reiss "Joying on the Vibe of Life"'
-  artist: Reiss
+  artist: 'Reiss'
   year: 1998
   roles:
     - Engineer
 - project: 'W.A. Atwell III "Elements"'
-  artist: W.A. Atwell III
+  artist: 'W.A. Atwell III'
   year: 1998
   roles:
     - Mastering
 - project: 'W.A. Atwell III "Borganica"'
-  artist: W.A. Atwell III
+  artist: 'W.A. Atwell III'
   year: 1998
   roles:
     - Mastering
 - project: 'Fickle Musheads ""'
-  artist: Fickle Musheads
+  artist: 'Fickle Musheads'
   year: 1998
   roles:
     - Mastering
 - project: 'pbsg "Fail (unreleased)"'
-  artist: pbsg
+  artist: 'pbsg'
   year: 1998
   roles:
     - Engineer
     - Mastering
     - Mixing
 - project: 'Deborah Gibson "My Girlfriend’s Boyfriend, soundtrack"'
-  artist: Deborah Gibson
+  artist: 'Deborah Gibson'
   year: 1998
   roles:
     - Engineer
     - Mixing
 - project: 'Those Bleeding Tulips ""'
-  artist: Those Bleeding Tulips
+  artist: 'Those Bleeding Tulips'
   year: 1998
   roles:
     - Engineer
@@ -181,7 +181,7 @@
   notes: >-
     Craig Kafton, Producer
 - project: 'Milla Jovovich "pre-production, unreleased"'
-  artist: Milla Jovovich
+  artist: 'Milla Jovovich'
   year: 1998
   roles:
     - Bass

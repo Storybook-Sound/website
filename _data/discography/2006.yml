@@ -1,5 +1,5 @@
 - project: 'Another Gay Movie Soundtrack'
-  artist: Another Gay Movie Soundtrack
+  artist: 'Another Gay Movie Soundtrack'
   year: 2006
   roles:
     - What did I do here again?
@@ -7,10 +7,10 @@
   notes: >-
     Various artists
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/gay-movie.jpg
+    url: images/discography/2006/gay-movie.jpg
     title: 'Another Gay Movie Soundtrack'
 - project: 'Aveda "industrial"'
-  artist: Aveda
+  artist: 'Aveda'
   year: 2006
   roles:
     - Mastering

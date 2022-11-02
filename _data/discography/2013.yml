@@ -1,5 +1,5 @@
 - project: 'Jason Didner and the Jungle Gym Jam "Everyone''s Invited"'
-  artist: Jason Didner and the Jungle Gym Jam
+  artist: 'Jason Didner and the Jungle Gym Jam'
   year: 2013
   roles:
     - Mastering
@@ -11,10 +11,10 @@
     <b>Mastered by Scott Anthony at Storybook Sound</b>
     <a href="https://junglegymjam.bandcamp.com/album/everyones-invited" target="_blank" rel="noopener">Artist site</a>
   image: 
-    url: https://storybooksound.com/app/uploads/2017/10/everyones-invited-cover-artwork-300x300.jpg
+    url: images/discography/2013/everyones-invited-cover-artwork-300x300.jpg
     title: 'Jason Didner and the Jungle Gym Jam "Everyone''s Invited"'
 - project: 'Pigeons "The Helpless and The Hopeless"'
-  artist: Pigeons
+  artist: 'Pigeons'
   year: 2013
   roles:
     - Mastering
@@ -22,25 +22,25 @@
   notes: >-
     <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/pigeons.jpg
+    url: images/discography/2013/pigeons.jpg
     title: 'Pigeons "The Helpless and The Hopeless"'
 - project: 'Bob Carr "EP"'
-  artist: Bob Carr
+  artist: 'Bob Carr'
   year: 2013
   roles:
     - Mastering
 - project: 'Chris P. Cauley "El Dorado"'
-  artist: Chris P. Cauley
+  artist: 'Chris P. Cauley'
   year: 2013
   roles:
     - Mastering
 - project: 'Maxwell’s Last Night "feat. The Bongos, The Individuals, “a”, Delicate Steve"'
-  artist: Maxwell’s Last Night
+  artist: 'Maxwell’s Last Night'
   year: 2013
   roles:
     - Engineer
 - project: 'Tri-State "Tri-State"'
-  artist: Tri-State
+  artist: 'Tri-State'
   year: 2013
   roles:
     - Engineer
@@ -48,57 +48,57 @@
     - Mixing
     - Recording
 - project: 'Rebecca Turner "Nobody Sees Me Like You Do (single)"'
-  artist: Rebecca Turner
+  artist: 'Rebecca Turner'
   year: 2013
   roles:
     - Engineer
     - Mixing
     - Recording
 - project: 'The Poor Man’s Opera "We’re All Water (single)"'
-  artist: The Poor Man's Opera
+  artist: 'The Poor Man''s Opera'
   year: 2013
   roles:
     - Engineer
     - Mixing
     - Recording
 - project: 'The Cucumbers "Rent Party (single)"'
-  artist: The Cucumbers
+  artist: 'The Cucumbers'
   year: 2013
   roles:
     - Mastering
 - project: 'Ruby On The Vine "One Track Mind (single)"'
-  artist: Ruby On The Vine
+  artist: 'Ruby On The Vine'
   year: 2013
   roles:
     - Mixing
 - project: 'Bob Cannon "single"'
-  artist: Bob Cannon
+  artist: 'Bob Cannon'
   year: 2013
   roles:
     - Mastering
 - project: 'Small Town Sound "Now Or Never"'
-  artist: Small Town Sound
+  artist: 'Small Town Sound'
   year: 2013
   roles:
     - Mastering
 - project: 'Beast "single"'
-  artist: Beast
+  artist: 'Beast'
   year: 2013
   roles:
     - Mastering
 - project: 'Bear Republic "EP"'
-  artist: Bear Republic
+  artist: 'Bear Republic'
   year: 2013
   roles:
     - Mastering
 - project: 'Saturday Afternoon Song Swap Radio ""'
-  artist: Saturday Afternoon Song Swap Radio
+  artist: 'Saturday Afternoon Song Swap Radio'
   year: 2013
   roles:
     - Engineer
     - Supervising Engineer
 - project: 'Chris Butler "The Major Glitch"'
-  artist: Chris Butler
+  artist: 'Chris Butler'
   year: 2013
   roles:
     - Engineer
@@ -106,8 +106,8 @@
     - Mixing
   notes: >-
     various artist contributions
-- project: 'Elena &amp; Boo "Sailor Girl​/​Loving Cup (single)"'
-  artist: Elena &amp; Boo
+- project: 'Elena & Boo "Sailor Girl​/​Loving Cup (single)"'
+  artist: 'Elena & Boo'
   year: 2013
   roles:
     - Mastering

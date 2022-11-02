@@ -1,5 +1,5 @@
 - project: 'Sit Down At The Table'
-  artist: Sit Down At The Table
+  artist: 'Sit Down At The Table'
   year: 1990
   roles:
     - What did I do here again?
@@ -7,16 +7,16 @@
   notes: >-
     Professor Louie
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Prof-Louie-SitDownAtTheTable-Front_1_1024x1024.jpg
+    url: images/discography/1990/Prof-Louie-SitDownAtTheTable-Front_1_1024x1024.jpg
     title: 'Sit Down At The Table'
 - project: 'Danny Stevens ""'
-  artist: Danny Stevens
+  artist: 'Danny Stevens'
   year: 1990
   roles:
     - Engineer
     - Mixing
 - project: 'Tom Russell ""'
-  artist: Tom Russell
+  artist: 'Tom Russell'
   year: 1990
   roles:
     - Engineer

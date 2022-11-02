@@ -1,5 +1,5 @@
 - project: 'John Wolfington'
-  artist: John Wolfington
+  artist: 'John Wolfington'
   year: 2001
   roles:
     - What did I do here again?
@@ -7,10 +7,10 @@
   notes: >-
     John Wolfington
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/wolfington.jpeg
+    url: images/discography/2001/wolfington.jpeg
     title: 'John Wolfington'
 - project: 'Kilopop'
-  artist: Kilopop
+  artist: 'Kilopop'
   year: 2001
   roles:
     - What did I do here again?
@@ -18,10 +18,10 @@
   notes: >-
     Kilopop
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/kilopop.jpeg
+    url: images/discography/2001/kilopop.jpeg
     title: 'Kilopop'
 - project: 'Together In Time'
-  artist: Together In Time
+  artist: 'Together In Time'
   year: 2001
   roles:
     - What did I do here again?
@@ -29,10 +29,10 @@
   notes: >-
     Jenifer Jackson & Julian Jackson
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/julianjenifer.jpg
+    url: images/discography/2001/julianjenifer.jpg
     title: 'Together In Time'
 - project: 'Release'
-  artist: Release
+  artist: 'Release'
   year: 2001
   roles:
     - What did I do here again?
@@ -40,10 +40,10 @@
   notes: >-
     Kate Evans
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/kate.jpg
+    url: images/discography/2001/kate.jpg
     title: 'Release'
 - project: 'Ecstatic'
-  artist: Ecstatic
+  artist: 'Ecstatic'
   year: 2001
   roles:
     - What did I do here again?
@@ -51,10 +51,10 @@
   notes: >-
     Kevin Salem
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/kevin-salem.jpg
+    url: images/discography/2001/kevin-salem.jpg
     title: 'Ecstatic'
 - project: 'All Secrets Fade'
-  artist: All Secrets Fade
+  artist: 'All Secrets Fade'
   year: 2001
   roles:
     - What did I do here again?
@@ -62,10 +62,10 @@
   notes: >-
     Steve Lee
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/stevelee.jpg
+    url: images/discography/2001/stevelee.jpg
     title: 'All Secrets Fade'
 - project: 'Past & Gone'
-  artist: Past &amp; Gone
+  artist: 'Past & Gone'
   year: 2001
   roles:
     - What did I do here again?
@@ -73,10 +73,10 @@
   notes: >-
     Wirebirds
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/549370_10151312872731527_848402580_n.jpg
+    url: images/discography/2001/549370_10151312872731527_848402580_n.jpg
     title: 'Past & Gone'
 - project: 'Debra DeSalvo "True Nature"'
-  artist: Debra DeSalvo
+  artist: 'Debra DeSalvo'
   year: 2001
   roles:
     - Mastering

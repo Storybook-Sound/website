@@ -1,5 +1,5 @@
 - project: 'Chris Butler "I Feel A Bit Normal Today"'
-  artist: Chris Butler
+  artist: 'Chris Butler'
   year: 1997
   roles:
     - Mastering
@@ -11,10 +11,10 @@
     <b>Mastered by Scott Anthony at Storybook Sound</b>
     <a href="https://en.wikipedia.org/wiki/Chris_Butler_(musician)" target="_blank" rel="noopener">Wikipedia</a>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/cb2.jpeg
+    url: images/discography/1997/cb2.jpeg
     title: 'Chris Butler "I Feel A Bit Normal Today"'
 - project: 'Tragico Magico'
-  artist: Tragico Magico
+  artist: 'Tragico Magico'
   year: 1997
   roles:
     - What did I do here again?
@@ -22,10 +22,10 @@
   notes: >-
     John Pinamonti
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/tragico-magico.jpg
+    url: images/discography/1997/tragico-magico.jpg
     title: 'Tragico Magico'
 - project: 'Kneel'
-  artist: Kneel
+  artist: 'Kneel'
   year: 1997
   roles:
     - What did I do here again?
@@ -33,10 +33,10 @@
   notes: >-
     Melissa Sheehan
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/sheehan_kneel.jpg
+    url: images/discography/1997/sheehan_kneel.jpg
     title: 'Kneel'
 - project: 'David Poe'
-  artist: David Poe
+  artist: 'David Poe'
   year: 1997
   roles:
     - What did I do here again?
@@ -44,10 +44,10 @@
   notes: >-
     David Poe
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/3981858849-1.jpg
+    url: images/discography/1997/3981858849-1.jpg
     title: 'David Poe'
 - project: 'Driving You Insane'
-  artist: Driving You Insane
+  artist: 'Driving You Insane'
   year: 1997
   roles:
     - What did I do here again?
@@ -55,10 +55,10 @@
   notes: >-
     Ann Klein
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/ann-klein.jpg
+    url: images/discography/1997/ann-klein.jpg
     title: 'Driving You Insane'
 - project: 'Them Keener Boys'
-  artist: Them Keener Boys
+  artist: 'Them Keener Boys'
   year: 1997
   roles:
     - What did I do here again?
@@ -66,10 +66,10 @@
   notes: >-
     Them Keener Boys
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/keener.jpg
+    url: images/discography/1997/keener.jpg
     title: 'Them Keener Boys'
 - project: 'Live! Live! Live!'
-  artist: Live! Live! Live!
+  artist: 'Live! Live! Live!'
   year: 1997
   roles:
     - What did I do here again?
@@ -77,10 +77,10 @@
   notes: >-
     The Gefkens
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/live.jpg
+    url: images/discography/1997/live.jpg
     title: 'Live! Live! Live!'
 - project: 'Black Coffee Blues'
-  artist: Black Coffee Blues
+  artist: 'Black Coffee Blues'
   year: 1997
   roles:
     - What did I do here again?
@@ -88,10 +88,10 @@
   notes: >-
     Henry Rollins
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Henry-Rollins.jpg
+    url: images/discography/1997/Henry-Rollins.jpg
     title: 'Black Coffee Blues'
 - project: 'Amy Correia "single"'
-  artist: Amy Correia
+  artist: 'Amy Correia'
   year: 1997
   roles:
     - Engineer
@@ -99,29 +99,29 @@
   notes: >-
     Oren Bloedow, Producer
 - project: 'Seal "pre-production, unreleased"'
-  artist: Seal
+  artist: 'Seal'
   year: 1997
   roles:
     - Engineer
     - Mixing
 - project: 'Fleshtest ""'
-  artist: Fleshtest
+  artist: 'Fleshtest'
   year: 1997
   roles:
     - Mastering
 - project: 'Ted Houghton "Smalltime"'
-  artist: Ted Houghton
+  artist: 'Ted Houghton'
   year: 1997
   roles:
     - Mastering
 - project: 'Big Hug "Blame It On The Years"'
-  artist: Big Hug
+  artist: 'Big Hug'
   year: 1997
   roles:
     - Engineer
     - Mixing
-- project: 'Patrick McGuinn &amp; The Blue Ravens ""'
-  artist: Patrick McGuinn &amp; The Blue Ravens
+- project: 'Patrick McGuinn & The Blue Ravens ""'
+  artist: 'Patrick McGuinn & The Blue Ravens'
   year: 1997
   roles:
     - Engineer

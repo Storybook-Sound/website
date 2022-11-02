@@ -1,5 +1,5 @@
 - project: 'Slowpokes'
-  artist: Slowpokes
+  artist: 'Slowpokes'
   year: 2010
   roles:
     - What did I do here again?
@@ -7,10 +7,10 @@
   notes: >-
     Rebecca Turner
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/slowpokes.jpg
+    url: images/discography/2010/slowpokes.jpg
     title: 'Slowpokes'
 - project: 'From Out Of Big Blue'
-  artist: From Out Of Big Blue
+  artist: 'From Out Of Big Blue'
   year: 2010
   roles:
     - What did I do here again?
@@ -18,10 +18,10 @@
   notes: >-
     Mojo Daddyo
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/image7.jpg
+    url: images/discography/2010/image7.jpg
     title: 'From Out Of Big Blue'
 - project: 'Kiss Me'
-  artist: Kiss Me
+  artist: 'Kiss Me'
   year: 2010
   roles:
     - What did I do here again?
@@ -29,10 +29,10 @@
   notes: >-
     Jeff Keithline
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/mzi.gxrvvieh.170x170-75.jpg
+    url: images/discography/2010/mzi.gxrvvieh.170x170-75.jpg
     title: 'Kiss Me'
 - project: 'Disco Dance Party 2000'
-  artist: Disco Dance Party 2000
+  artist: 'Disco Dance Party 2000'
   year: 2010
   roles:
     - What did I do here again?
@@ -40,10 +40,10 @@
   notes: >-
     Phillips & Driver
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/disco-dance.jpg
+    url: images/discography/2010/disco-dance.jpg
     title: 'Disco Dance Party 2000'
 - project: 'Stranger Things'
-  artist: Stranger Things
+  artist: 'Stranger Things'
   year: 2010
   roles:
     - What did I do here again?
@@ -51,20 +51,20 @@
   notes: >-
     The Swales
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/The-Swales.jpg
+    url: images/discography/2010/The-Swales.jpg
     title: 'Stranger Things'
 - project: 'Brainfood ""'
-  artist: Brainfood
+  artist: 'Brainfood'
   year: 2010
   roles:
     - Mastering
 - project: 'Lance Doss "All I Am Left With"'
-  artist: Lance Doss
+  artist: 'Lance Doss'
   year: 2010
   roles:
     - Mastering
 - project: 'Flutterbox ""'
-  artist: Flutterbox
+  artist: 'Flutterbox'
   year: 2010
   roles:
     - Engineer
@@ -72,18 +72,18 @@
   notes: >-
     Neill C. Furio, Producer
 - project: '4th Street Nite Owls ""'
-  artist: 4th Street Nite Owls
+  artist: '4th Street Nite Owls'
   year: 2010
   roles:
     - Engineer
     - Mixing
 - project: 'The Nu-Sonics ""'
-  artist: The Nu-Sonics
+  artist: 'The Nu-Sonics'
   year: 2010
   roles:
     - Engineer
 - project: 'Brian O’Neill ""'
-  artist: Brian O’Neill
+  artist: 'Brian O’Neill'
   year: 2010
   roles:
     - Bass

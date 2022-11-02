@@ -1,5 +1,5 @@
 - project: 'John Pinamonti "The Usual"'
-  artist: John Pinamonti
+  artist: 'John Pinamonti'
   year: 2015
   roles:
     - Mastering
@@ -7,10 +7,10 @@
   notes: >-
     <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: 
-    url: https://storybooksound.com/app/uploads/2020/02/The-Usual-Cover.jpg
+    url: images/discography/2015/The-Usual-Cover.jpg
     title: 'John Pinamonti "The Usual"'
 - project: 'Tiokasin Ghosthorse "Somewhere In There"'
-  artist: Tiokasin Ghosthorse
+  artist: 'Tiokasin Ghosthorse'
   year: 2015
   roles:
     - Mastering
@@ -19,10 +19,10 @@
     <b>Produced by Alex Alexander
     Mastered by Scott Anthony at Storybook Sound </b>
   image: 
-    url: https://storybooksound.com/app/uploads/2020/02/61GD172QUoL._SS500_.jpg
+    url: images/discography/2015/61GD172QUoL._SS500_.jpg
     title: 'Tiokasin Ghosthorse "Somewhere In There"'
 - project: 'Frank Bango "Christmas in Bed with My Baby"'
-  artist: Frank Bango
+  artist: 'Frank Bango'
   year: 2015
   roles:
     - Mastering
@@ -30,10 +30,10 @@
   notes: >-
     <b>Mastered by Scott Anthony at Storybook Sound </b>
   image: 
-    url: https://storybooksound.com/app/uploads/2020/02/a2996221471_10.jpg
+    url: images/discography/2015/a2996221471_10.jpg
     title: 'Frank Bango "Christmas in Bed with My Baby"'
 - project: 'Emily Duff "Go Tell Your Friends"'
-  artist: Emily Duff
+  artist: 'Emily Duff'
   year: 2015
   roles:
     - Mastering
@@ -47,10 +47,10 @@
     Mastered by Scott Anthony at Storybook Sound</b>
     <a href="https://emilyduff.bandcamp.com/album/go-tell-your-friends" target="_blank" rel="noopener">Artist site</a>
   image: 
-    url: https://storybooksound.com/app/uploads/2017/10/a1603614223_10.jpg
+    url: images/discography/2015/a1603614223_10.jpg
     title: 'Emily Duff "Go Tell Your Friends"'
 - project: 'Hallow Dog "Change In Luck"'
-  artist: Hallow Dog
+  artist: 'Hallow Dog'
   year: 2015
   roles:
     - Mastering
@@ -58,10 +58,10 @@
   notes: >-
     <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2017/10/hallowdog12.jpg
+    url: images/discography/2015/hallowdog12.jpg
     title: 'Hallow Dog "Change In Luck"'
 - project: 'Heather Hardy "Blue Silhouette"'
-  artist: Heather Hardy
+  artist: 'Heather Hardy'
   year: 2015
   roles:
     - Mastering
@@ -75,10 +75,10 @@
     Produced by Heather Hardy Mastered by Scott Anthony at Storybook Sound</b>
     <a href="https://heatherlilmamahardy.bandcamp.com/album/blue-silhouette" target="_blank" rel="noopener">Artist site</a>
   image: 
-    url: https://storybooksound.com/app/uploads/2017/10/cd-cover-for-digital-sales.jpeg.jpg
+    url: images/discography/2015/cd-cover-for-digital-sales.jpeg.jpg
     title: 'Heather Hardy "Blue Silhouette"'
 - project: 'Alice Despard Group "Mosaic"'
-  artist: Alice Despard Group
+  artist: 'Alice Despard Group'
   year: 2015
   roles:
     - Guitar
@@ -96,10 +96,10 @@
     Grahame Davies: engineer/production, guitar Mastered by Scott Anthony at Storybook Sound</b>
     <a href="https://alicedespardgroup.bandcamp.com/album/mosaic-ep" target="_blank" rel="noopener">Artist site</a>
   image: 
-    url: https://storybooksound.com/app/uploads/2017/10/alicedespardgroup_large.jpg
+    url: images/discography/2015/alicedespardgroup_large.jpg
     title: 'Alice Despard Group "Mosaic"'
 - project: 'Brian Kelly "Released"'
-  artist: Brian Kelly
+  artist: 'Brian Kelly'
   year: 2015
   roles:
     - Mastering
@@ -107,10 +107,10 @@
   notes: >-
     <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2017/10/thumbnail.jpg
+    url: images/discography/2015/thumbnail.jpg
     title: 'Brian Kelly "Released"'
 - project: 'Girls on Grass "Girls on Grass"'
-  artist: Girls on Grass
+  artist: 'Girls on Grass'
   year: 2015
   roles:
     - Mastering
@@ -123,10 +123,10 @@
     Mastering by Scott Anthony at Storybook Sound</b>
     <a href="https://wiretroop.bandcamp.com/album/trio-power" target="_blank" rel="noopener">Artist site</a>
   image: 
-    url: https://storybooksound.com/app/uploads/2015/12/GirlsOnGrass.jpg
+    url: images/discography/2015/GirlsOnGrass.jpg
     title: 'Girls on Grass "Girls on Grass"'
 - project: 'Glenn Mercer "Incidental Hum"'
-  artist: Glenn Mercer
+  artist: 'Glenn Mercer'
   year: 2015
   roles:
     - Mastering
@@ -134,63 +134,63 @@
   notes: >-
     <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2015/12/Glenn-Mercer_Incidental-Hum.jpg
+    url: images/discography/2015/Glenn-Mercer_Incidental-Hum.jpg
     title: 'Glenn Mercer "Incidental Hum"'
 - project: 'Andy Westley and Friends "It’s Not About Me"'
-  artist: Andy Westley and Friends
+  artist: 'Andy Westley and Friends'
   year: 2015
   roles:
     - Mastering
 - project: 'Big Mamou "Big Mamou"'
-  artist: Big Mamou
+  artist: 'Big Mamou'
   year: 2015
   roles:
     - Mastering
 - project: 'Rebecca Turner "Idiot"'
-  artist: Rebecca Turner
+  artist: 'Rebecca Turner'
   year: 2015
   roles:
     - Engineer
     - Mastering
     - Mixing
 - project: 'Demolition String Band "Get Waxed – Live At The Thomas Edison Museum"'
-  artist: Demolition String Band
+  artist: 'Demolition String Band'
   year: 2015
   roles:
     - Mastering
 - project: 'Metrodome "Metrodome"'
-  artist: Metrodome
+  artist: 'Metrodome'
   year: 2015
   roles:
     - Mastering
 - project: 'Napoleon "Napoleon"'
-  artist: Napoleon
+  artist: 'Napoleon'
   year: 2015
   roles:
     - Mastering
 - project: 'Lanes Narrow "Runt Of The Litter"'
-  artist: Lanes Narrow
+  artist: 'Lanes Narrow'
   year: 2015
   roles:
     - Mastering
 - project: 'Tri-State "New Minuits / Titanic Bros."'
-  artist: Tri-State
+  artist: 'Tri-State'
   year: 2015
   roles:
     - Mastering
     - Mixing
 - project: 'Jason Didner "Summertime Santa / My Super Power"'
-  artist: Jason Didner
+  artist: 'Jason Didner'
   year: 2015
   roles:
     - Mastering
-- project: 'Albert Ayler "Bells &amp; Prophecy: Expanded Edition"'
-  artist: Albert Ayler
+- project: 'Albert Ayler "Bells & Prophecy: Expanded Edition"'
+  artist: 'Albert Ayler'
   year: 2015
   roles:
     - Mastering
 - project: 'Food On You "Food On You"'
-  artist: Food On You
+  artist: 'Food On You'
   year: 2015
   roles:
     - Mastering

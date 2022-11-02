@@ -1,5 +1,5 @@
 - project: 'You And Me Are We'
-  artist: You And Me Are We
+  artist: 'You And Me Are We'
   year: 2007
   roles:
     - What did I do here again?
@@ -7,10 +7,10 @@
   notes: >-
     Daniel Cartier
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/daniel.jpeg
+    url: images/discography/2007/daniel.jpeg
     title: 'You And Me Are We'
 - project: 'The Nu-Sonics "Eureka"'
-  artist: The Nu-Sonics
+  artist: 'The Nu-Sonics'
   year: 2007
   roles:
     - Bass

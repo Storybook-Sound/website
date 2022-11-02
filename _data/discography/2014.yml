@@ -1,5 +1,5 @@
 - project: 'Peter Hutchison "Empire of Light"'
-  artist: Peter Hutchison
+  artist: 'Peter Hutchison'
   year: 2014
   roles:
     - Mastering
@@ -7,10 +7,10 @@
   notes: >-
     <b>Mastered by Scott Anthony at Storybook Sound</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2017/10/peterhutchison_large.jpg
+    url: images/discography/2014/peterhutchison_large.jpg
     title: 'Peter Hutchison "Empire of Light"'
 - project: 'Emily Hurd "Landmark"'
-  artist: Emily Hurd
+  artist: 'Emily Hurd'
   year: 2014
   roles:
     - Mastering
@@ -19,10 +19,10 @@
     <b>Engineered by John Abbey
     Mastered by Scott Anthony at Storybook Sound </b>
   image: 
-    url: https://storybooksound.com/app/uploads/2017/10/album-cover-new.jpg
+    url: images/discography/2014/album-cover-new.jpg
     title: 'Emily Hurd "Landmark"'
 - project: 'Chris Butler "The Museum of Me"'
-  artist: Chris Butler
+  artist: 'Chris Butler'
   year: 2014
   roles:
     - Mastering
@@ -34,10 +34,10 @@
     <b>Mastered by Scott Anthony at Storybook Sound</b>
     <a href="https://en.wikipedia.org/wiki/Chris_Butler_(musician)" target="_blank" rel="noopener">Wikipedia</a>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/cb.jpeg
+    url: images/discography/2014/cb.jpeg
     title: 'Chris Butler "The Museum of Me"'
 - project: 'Friend or Foe'
-  artist: Friend or Foe
+  artist: 'Friend or Foe'
   year: 2014
   roles:
     - What did I do here again?
@@ -45,10 +45,10 @@
   notes: >-
     Erica Smith
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/erica.jpeg
+    url: images/discography/2014/erica.jpeg
     title: 'Friend or Foe'
 - project: 'Famous Recording Artists'
-  artist: Famous Recording Artists
+  artist: 'Famous Recording Artists'
   year: 2014
   roles:
     - What did I do here again?
@@ -56,10 +56,10 @@
   notes: >-
     The Shitbirds
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/famous.jpeg
+    url: images/discography/2014/famous.jpeg
     title: 'Famous Recording Artists'
 - project: 'End of Smith'
-  artist: End of Smith
+  artist: 'End of Smith'
   year: 2014
   roles:
     - What did I do here again?
@@ -67,10 +67,10 @@
   notes: >-
     John Pinamonti
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/jp-smith.jpeg
+    url: images/discography/2014/jp-smith.jpeg
     title: 'End of Smith'
 - project: 'Live at Sunny''s'
-  artist: Live at Sunny's
+  artist: 'Live at Sunny''s'
   year: 2014
   roles:
     - What did I do here again?
@@ -78,10 +78,10 @@
   notes: >-
     John Pinamonti
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/jp.jpeg
+    url: images/discography/2014/jp.jpeg
     title: 'Live at Sunny''s'
 - project: 'Love Lane'
-  artist: Love Lane
+  artist: 'Love Lane'
   year: 2014
   roles:
     - What did I do here again?
@@ -89,10 +89,10 @@
   notes: >-
     Jenifer Jackson
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/love-lane.jpeg
+    url: images/discography/2014/love-lane.jpeg
     title: 'Love Lane'
 - project: 'Receding Choir'
-  artist: Receding Choir
+  artist: 'Receding Choir'
   year: 2014
   roles:
     - What did I do here again?
@@ -100,10 +100,10 @@
   notes: >-
     Brian Kelly
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/receding.jpeg
+    url: images/discography/2014/receding.jpeg
     title: 'Receding Choir'
 - project: 'Out Of Order "Hey Pussycat!"'
-  artist: Out Of Order
+  artist: 'Out Of Order'
   year: 2014
   roles:
     - Mastering
@@ -114,10 +114,10 @@
     Recorded at Wombat by Ross Bonadonna
     Mixed and mastered by Scott Anthony at The Viewing Room</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/OOO.jpeg
+    url: images/discography/2014/OOO.jpeg
     title: 'Out Of Order "Hey Pussycat!"'
 - project: 'Anywhere Will Do'
-  artist: Anywhere Will Do
+  artist: 'Anywhere Will Do'
   year: 2014
   roles:
     - What did I do here again?
@@ -125,10 +125,10 @@
   notes: >-
     Beekeeper
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/beekeeper.png
+    url: images/discography/2014/beekeeper.png
     title: 'Anywhere Will Do'
 - project: 'Gypsy 83 Soundtrack'
-  artist: Gypsy 83 Soundtrack
+  artist: 'Gypsy 83 Soundtrack'
   year: 2014
   roles:
     - What did I do here again?
@@ -136,20 +136,20 @@
   notes: >-
     Various artists
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Gypsy-83-Soundtrack.jpg
+    url: images/discography/2014/Gypsy-83-Soundtrack.jpg
     title: 'Gypsy 83 Soundtrack'
 - project: 'AntiFolk Road Manual'
-  artist: AntiFolk Road Manual
+  artist: 'AntiFolk Road Manual'
   year: 2014
   roles:
     - What did I do here again?
   notes: >-
     Mike iLL
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/AntiFolk.png
+    url: images/discography/2014/AntiFolk.png
     title: 'AntiFolk Road Manual'
 - project: 'Open On Sunday'
-  artist: Open On Sunday
+  artist: 'Open On Sunday'
   year: 2014
   roles:
     - What did I do here again?
@@ -157,10 +157,10 @@
   notes: >-
     Paula Carino
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/image1.jpg
+    url: images/discography/2014/image1.jpg
     title: 'Open On Sunday'
 - project: 'Holding Back The Years'
-  artist: Holding Back The Years
+  artist: 'Holding Back The Years'
   year: 2014
   roles:
     - What did I do here again?
@@ -168,10 +168,10 @@
   notes: >-
     Jimmy Scott
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Jimmy-Scott1.jpg
+    url: images/discography/2014/Jimmy-Scott1.jpg
     title: 'Holding Back The Years'
 - project: 'The New INTERface Trio'
-  artist: The New INTERface Trio
+  artist: 'The New INTERface Trio'
   year: 2014
   roles:
     - What did I do here again?
@@ -179,10 +179,10 @@
   notes: >-
     John Fischer, Mike Richmond, Ben Kilmer
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/John-Fischer.png
+    url: images/discography/2014/John-Fischer.png
     title: 'The New INTERface Trio'
 - project: 'I Love You'
-  artist: I Love You
+  artist: 'I Love You'
   year: 2014
   roles:
     - What did I do here again?
@@ -190,10 +190,10 @@
   notes: >-
     Leif Arntzen
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Leif2.png
+    url: images/discography/2014/Leif2.png
     title: 'I Love You'
 - project: 'The Plunk Brothers'
-  artist: The Plunk Brothers
+  artist: 'The Plunk Brothers'
   year: 2014
   roles:
     - What did I do here again?
@@ -201,10 +201,10 @@
   notes: >-
     The Plunk Brothers
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Plunk2.png
+    url: images/discography/2014/Plunk2.png
     title: 'The Plunk Brothers'
 - project: 'The Art Of Navigation'
-  artist: The Art Of Navigation
+  artist: 'The Art Of Navigation'
   year: 2014
   roles:
     - What did I do here again?
@@ -212,10 +212,10 @@
   notes: >-
     Regia
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/regia.jpg
+    url: images/discography/2014/regia.jpg
     title: 'The Art Of Navigation'
 - project: 'Thunk'
-  artist: Thunk
+  artist: 'Thunk'
   year: 2014
   roles:
     - What did I do here again?
@@ -223,10 +223,10 @@
   notes: >-
     Soothing Sounds For Baby
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Thunk2.png
+    url: images/discography/2014/Thunk2.png
     title: 'Thunk'
 - project: 'Chromium Dub'
-  artist: Chromium Dub
+  artist: 'Chromium Dub'
   year: 2014
   roles:
     - What did I do here again?
@@ -234,10 +234,10 @@
   notes: >-
     Illness
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/67044_10151202252332912_1798014794_n.jpg
+    url: images/discography/2014/67044_10151202252332912_1798014794_n.jpg
     title: 'Chromium Dub'
 - project: 'For You'
-  artist: For You
+  artist: 'For You'
   year: 2014
   roles:
     - What did I do here again?
@@ -245,10 +245,10 @@
   notes: >-
     Yooj
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Yooj.png
+    url: images/discography/2014/Yooj.png
     title: 'For You'
 - project: 'Bridge'
-  artist: Bridge
+  artist: 'Bridge'
   year: 2014
   roles:
     - Mastering
@@ -257,10 +257,10 @@
     Jake
     <b>Mastered by Scott Anthony</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/bridge-jake-cd-cover-art.jpg
+    url: images/discography/2014/bridge-jake-cd-cover-art.jpg
     title: 'Bridge'
 - project: 'Improvising'
-  artist: Improvising
+  artist: 'Improvising'
   year: 2014
   roles:
     - What did I do here again?
@@ -268,10 +268,10 @@
   notes: >-
     OmU
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/CDOmuImprovising.jpg
+    url: images/discography/2014/CDOmuImprovising.jpg
     title: 'Improvising'
 - project: 'Chris Butler "Easy Life"'
-  artist: Chris Butler
+  artist: 'Chris Butler'
   year: 2014
   roles:
     - Mastering
@@ -284,10 +284,10 @@
     Plus: Mixing</b>
     <a href="https://en.wikipedia.org/wiki/Chris_Butler_(musician)" target="_blank" rel="noopener">Wikipedia</a>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/chrisbutler1.jpg
+    url: images/discography/2014/chrisbutler1.jpg
     title: 'Chris Butler "Easy Life"'
 - project: 'Night Time'
-  artist: Night Time
+  artist: 'Night Time'
   year: 2014
   roles:
     - What did I do here again?
@@ -295,10 +295,10 @@
   notes: >-
     Driver Quartet
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/driver-quartet.jpg
+    url: images/discography/2014/driver-quartet.jpg
     title: 'Night Time'
 - project: 'English 101'
-  artist: English 101
+  artist: 'English 101'
   year: 2014
   roles:
     - What did I do here again?
@@ -306,10 +306,10 @@
   notes: >-
     Various artists w/ Ron English
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/english-101.jpg
+    url: images/discography/2014/english-101.jpg
     title: 'English 101'
 - project: 'The Demo Anthology'
-  artist: The Demo Anthology
+  artist: 'The Demo Anthology'
   year: 2014
   roles:
     - What did I do here again?
@@ -317,10 +317,10 @@
   notes: >-
     The Gefkens
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/gef.jpg
+    url: images/discography/2014/gef.jpg
     title: 'The Demo Anthology'
 - project: 'Homage - lots of bands doing Descendants songs'
-  artist: Homage - lots of bands doing Descendants songs
+  artist: 'Homage - lots of bands doing Descendants songs'
   year: 2014
   roles:
     - What did I do here again?
@@ -328,10 +328,10 @@
   notes: >-
     Various artists
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Homage.jpg
+    url: images/discography/2014/Homage.jpg
     title: 'Homage - lots of bands doing Descendants songs'
 - project: 'Sweet Lizard Illtet "2 Rare"'
-  artist: Sweet Lizard Illtet
+  artist: 'Sweet Lizard Illtet'
   year: 2014
   roles:
     - Mastering
@@ -339,10 +339,10 @@
   notes: >-
     <b>Mastered by Scott Anthony</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/illtet-2-rare.jpg
+    url: images/discography/2014/illtet-2-rare.jpg
     title: 'Sweet Lizard Illtet "2 Rare"'
 - project: 'Shitbirds'
-  artist: Shitbirds
+  artist: 'Shitbirds'
   year: 2014
   roles:
     - What did I do here again?
@@ -350,10 +350,10 @@
   notes: >-
     The Shitbirds
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/image3.jpg
+    url: images/discography/2014/image3.jpg
     title: 'Shitbirds'
 - project: 'The Shitbirds'
-  artist: The Shitbirds
+  artist: 'The Shitbirds'
   year: 2014
   roles:
     - What did I do here again?
@@ -361,10 +361,10 @@
   notes: >-
     The Shitbirds
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/image4.jpg
+    url: images/discography/2014/image4.jpg
     title: 'The Shitbirds'
 - project: 'Redemption'
-  artist: Redemption
+  artist: 'Redemption'
   year: 2014
   roles:
     - What did I do here again?
@@ -372,10 +372,10 @@
   notes: >-
     T.J. Swan
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/redemption-tj-swan-music.jpg
+    url: images/discography/2014/redemption-tj-swan-music.jpg
     title: 'Redemption'
 - project: 'Morning Becomes Electric'
-  artist: Morning Becomes Electric
+  artist: 'Morning Becomes Electric'
   year: 2014
   roles:
     - What did I do here again?
@@ -383,10 +383,10 @@
   notes: >-
     Rob Norris
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/rob-norris.jpg
+    url: images/discography/2014/rob-norris.jpg
     title: 'Morning Becomes Electric'
 - project: 'Sinsanity "The Machine"'
-  artist: Sinsanity
+  artist: 'Sinsanity'
   year: 2014
   roles:
     - Mastering
@@ -394,10 +394,10 @@
   notes: >-
     <b>Mastered by Scott Anthony</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/sinsanity.jpg
+    url: images/discography/2014/sinsanity.jpg
     title: 'Sinsanity "The Machine"'
 - project: 'Snake Road'
-  artist: Snake Road
+  artist: 'Snake Road'
   year: 2014
   roles:
     - What did I do here again?
@@ -405,10 +405,10 @@
   notes: >-
     Jake
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/snake-road.jpg
+    url: images/discography/2014/snake-road.jpg
     title: 'Snake Road'
 - project: 'Togetherness'
-  artist: Togetherness
+  artist: 'Togetherness'
   year: 2014
   roles:
     - What did I do here again?
@@ -416,10 +416,10 @@
   notes: >-
     Phillips & Driver
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/togetherness.jpg
+    url: images/discography/2014/togetherness.jpg
     title: 'Togetherness'
 - project: 'Blue Sky Lullaby'
-  artist: Blue Sky Lullaby
+  artist: 'Blue Sky Lullaby'
   year: 2014
   roles:
     - What did I do here again?
@@ -427,10 +427,10 @@
   notes: >-
     The Hammond Sisters
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/Blue-Sky-Lullaby.jpg
+    url: images/discography/2014/Blue-Sky-Lullaby.jpg
     title: 'Blue Sky Lullaby'
 - project: 'Summer''s Going By'
-  artist: Summer's Going By
+  artist: 'Summer''s Going By'
   year: 2014
   roles:
     - What did I do here again?
@@ -438,10 +438,10 @@
   notes: >-
     Jeff Cohen
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/jeffcohen.jpg
+    url: images/discography/2014/jeffcohen.jpg
     title: 'Summer''s Going By'
 - project: 'Cities Filled With Lights'
-  artist: Cities Filled With Lights
+  artist: 'Cities Filled With Lights'
   year: 2014
   roles:
     - What did I do here again?
@@ -449,10 +449,10 @@
   notes: >-
     Matt Schickele
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/cities_filled_with_lights_import-schickele_matt-3482332-frnt.jpg
+    url: images/discography/2014/cities_filled_with_lights_import-schickele_matt-3482332-frnt.jpg
     title: 'Cities Filled With Lights'
 - project: 'Snowblind'
-  artist: Snowblind
+  artist: 'Snowblind'
   year: 2014
   roles:
     - What did I do here again?
@@ -460,10 +460,10 @@
   notes: >-
     Erica Smith and The 99 Cent Dreams
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/image11.jpg
+    url: images/discography/2014/image11.jpg
     title: 'Snowblind'
 - project: 'The Chymical Vegas Wedding'
-  artist: The Chymical Vegas Wedding
+  artist: 'The Chymical Vegas Wedding'
   year: 2014
   roles:
     - What did I do here again?
@@ -471,10 +471,10 @@
   notes: >-
     Joe Cassady and The West End Sound
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/joe-cassady.jpg
+    url: images/discography/2014/joe-cassady.jpg
     title: 'The Chymical Vegas Wedding'
 - project: 'Andiamo'
-  artist: Andiamo
+  artist: 'Andiamo'
   year: 2014
   roles:
     - What did I do here again?
@@ -482,10 +482,10 @@
   notes: >-
     The Malarkies
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/malarkies.jpg
+    url: images/discography/2014/malarkies.jpg
     title: 'Andiamo'
 - project: 'High Wide and Handsome'
-  artist: High Wide and Handsome
+  artist: 'High Wide and Handsome'
   year: 2014
   roles:
     - What did I do here again?
@@ -493,10 +493,10 @@
   notes: >-
     John Pinamonti
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/pinamonti.jpg
+    url: images/discography/2014/pinamonti.jpg
     title: 'High Wide and Handsome'
 - project: 'Oh Joy!'
-  artist: Oh Joy!
+  artist: 'Oh Joy!'
   year: 2014
   roles:
     - What did I do here again?
@@ -504,10 +504,10 @@
   notes: >-
     The Shitbirds
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/shitbirds.jpg
+    url: images/discography/2014/shitbirds.jpg
     title: 'Oh Joy!'
 - project: 'Randy Noojin "Hard Travelin'' With Woody and The Hobos"'
-  artist: Randy Noojin
+  artist: 'Randy Noojin'
   year: 2014
   roles:
     - Mastering
@@ -517,76 +517,76 @@
   notes: >-
     <b>Recorded, mixed and mastered by Scott Anthony at The Viewing Room</b>
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/woody.jpeg
+    url: images/discography/2014/woody.jpeg
     title: 'Randy Noojin "Hard Travelin'' With Woody and The Hobos"'
 - project: 'The Kuhl Kats "Little RocknRollers"'
-  artist: The Kuhl Kats
+  artist: 'The Kuhl Kats'
   year: 2014
   roles:
     - Mastering
 - project: 'Various Artists "Rent Party 5th Anniversary Collection"'
-  artist: Various Artists
+  artist: 'Various Artists'
   year: 2014
   roles:
     - Mastering
 - project: 'Emily Duff Band "Me I Just Want Some/Maybe In The Morning single"'
-  artist: Emily Duff Band
+  artist: 'Emily Duff Band'
   year: 2014
   roles:
     - Mastering
 - project: 'Rich Kivnik ""'
-  artist: Rich Kivnik
+  artist: 'Rich Kivnik'
   year: 2014
   roles:
     - Mastering
 - project: 'Mama Doni "Bible Stories"'
-  artist: Mama Doni
+  artist: 'Mama Doni'
   year: 2014
   roles:
     - Mastering
 - project: 'Rebecca Turner "Nobody Sees Me Like You Do single"'
-  artist: Rebecca Turner
+  artist: 'Rebecca Turner'
   year: 2014
   roles:
     - Engineer
     - Mixing
 - project: 'Michael Kroll "Clamor"'
-  artist: Michael Kroll
+  artist: 'Michael Kroll'
   year: 2014
   roles:
     - Mastering
 - project: 'Merv Barton "Soundtracks"'
-  artist: Merv Barton
+  artist: 'Merv Barton'
   year: 2014
   roles:
     - Mastering
 - project: 'Living With Elephants "Home"'
-  artist: Living With Elephants
+  artist: 'Living With Elephants'
   year: 2014
   roles:
     - Mastering
 - project: 'Justin Turk "Down To The Bone"'
-  artist: Justin Turk
+  artist: 'Justin Turk'
   year: 2014
   roles:
     - Mastering
 - project: 'Dalilah "E.P."'
-  artist: Dalilah
+  artist: 'Dalilah'
   year: 2014
   roles:
     - Mastering
 - project: 'Bevy "E.P."'
-  artist: Bevy
+  artist: 'Bevy'
   year: 2014
   roles:
     - Mastering
 - project: 'Demolition String Band "21: The Best of Demolition String Band"'
-  artist: Demolition String Band
+  artist: 'Demolition String Band'
   year: 2014
   roles:
     - Mastering
 - project: 'Mama Doni "single"'
-  artist: Mama Doni
+  artist: 'Mama Doni'
   year: 2014
   roles:
     - Mastering

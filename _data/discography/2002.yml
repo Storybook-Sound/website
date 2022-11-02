@@ -1,5 +1,5 @@
 - project: 'Fable'
-  artist: Fable
+  artist: 'Fable'
   year: 2002
   roles:
     - What did I do here again?
@@ -7,10 +7,10 @@
   notes: >-
     Amy Speace
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/speace.jpeg
+    url: images/discography/2002/speace.jpeg
     title: 'Fable'
 - project: 'Pretty Town'
-  artist: Pretty Town
+  artist: 'Pretty Town'
   year: 2002
   roles:
     - What did I do here again?
@@ -18,10 +18,10 @@
   notes: >-
     Robert Scheffler
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/pretty-town.jpeg
+    url: images/discography/2002/pretty-town.jpeg
     title: 'Pretty Town'
 - project: 'Under A Shady Tree'
-  artist: Under A Shady Tree
+  artist: 'Under A Shady Tree'
   year: 2002
   roles:
     - What did I do here again?
@@ -29,10 +29,10 @@
   notes: >-
     Laurie Berkner
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/image8.jpg
+    url: images/discography/2002/image8.jpg
     title: 'Under A Shady Tree'
 - project: 'Skycamefalling To Forever "Embrace the Sun"'
-  artist: Skycamefalling To Forever
+  artist: 'Skycamefalling To Forever'
   year: 2002
   roles:
     - Mastering

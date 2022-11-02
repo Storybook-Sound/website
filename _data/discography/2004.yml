@@ -1,5 +1,5 @@
 - project: '2 Nice Girls'
-  artist: 2 Nice Girls
+  artist: '2 Nice Girls'
   year: 2004
   roles:
     - What did I do here again?
@@ -7,10 +7,10 @@
   notes: >-
     Two Nice Girls
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/two-nice.jpeg
+    url: images/discography/2004/two-nice.jpeg
     title: '2 Nice Girls'
 - project: 'Jeff Now'
-  artist: Jeff Now
+  artist: 'Jeff Now'
   year: 2004
   roles:
     - What did I do here again?
@@ -18,15 +18,15 @@
   notes: >-
     Jeff Keithline
   image: 
-    url: https://storybooksound.com/app/uploads/2014/01/jeff.jpeg
+    url: images/discography/2004/jeff.jpeg
     title: 'Jeff Now'
 - project: 'Jeff Keithline "Jeff Now Is Mr. Positive"'
-  artist: Jeff Keithline
+  artist: 'Jeff Keithline'
   year: 2004
   roles:
     - Mastering
 - project: 'Marie Frank ""'
-  artist: Marie Frank
+  artist: 'Marie Frank'
   year: 2004
   roles:
     - Mixing
