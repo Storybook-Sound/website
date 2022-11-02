@@ -20,4 +20,4 @@ with open("_data/walloffame.yml", "w") as polaroids:
       except urllib.error.HTTPError:
         print("Couldn't fetch ", filename)
     print("- image:", file=polaroids)
-    print("  url: " + filename, file=polaroids)
+    print("    url: " + filename, file=polaroids)

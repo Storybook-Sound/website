@@ -25,7 +25,7 @@ fix_dialogs({close_selector: ".dialog_cancel,.dialog_close", click_outside: "for
 function gallery_image(item) {
   if (item.image) return DIV({class: 'gallery-image', style: `background-image: url("${item.image.url}")`, title: item.project + ' ' + item.artist});
   let color = placeholder_colors[Math.floor(Math.random() * 5)];
-  return DIV({class: 'placeholder gallery-image ' + color}, [DIV(H1(item.project),H2(item.artist))]);
+  return DIV({class: 'placeholder gallery-image ' + color}, DIV([H1(item.project),H2(item.artist)]));
 }
 
 set_content("#gallery",
