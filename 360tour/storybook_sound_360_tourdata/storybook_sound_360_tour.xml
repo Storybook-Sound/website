@@ -65,13 +65,13 @@
   <!-- 6 Groups -->
 
   <!-- Group Group 19 : 1 panoramas -->
-  
+
 
 <!-- **** @PanoName="05_FINAL_Studio_SR_open_Logo" @PanoFile="/Volumes/Rudy Can&#39;t Fail/Storybook 360 Tour/FINALS/05_FINAL_Studio_SR_open_Logo.jpg" **** -->
 <!-- **** Width="5000px" Height="2500px" **** -->
 <scene name="pano18"
        heading="0"
-       thumburl="%FIRSTXML%/_05_final_studio_sr_o_18/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_final_studio_sr_o_18/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -101,34 +101,34 @@
           hlookat="7.536950"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_final_studio_sr_o_18/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/05_final_studio_sr_o_18/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2048" tiledimageheight="2048">
-          <front url="_05_final_studio_sr_o_18/0/1/%v_%u.jpg"/>
-          <right url="_05_final_studio_sr_o_18/1/1/%v_%u.jpg"/>
-          <back  url="_05_final_studio_sr_o_18/2/1/%v_%u.jpg"/>
-          <left  url="_05_final_studio_sr_o_18/3/1/%v_%u.jpg"/>
-          <up    url="_05_final_studio_sr_o_18/4/1/%v_%u.jpg"/>
-          <down  url="_05_final_studio_sr_o_18/5/1/%v_%u.jpg"/>
+          <front url="05_final_studio_sr_o_18/0/1/%v_%u.jpg"/>
+          <right url="05_final_studio_sr_o_18/1/1/%v_%u.jpg"/>
+          <back  url="05_final_studio_sr_o_18/2/1/%v_%u.jpg"/>
+          <left  url="05_final_studio_sr_o_18/3/1/%v_%u.jpg"/>
+          <up    url="05_final_studio_sr_o_18/4/1/%v_%u.jpg"/>
+          <down  url="05_final_studio_sr_o_18/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_05_final_studio_sr_o_18/0/0/%v_%u.jpg"/>
-          <right url="_05_final_studio_sr_o_18/1/0/%v_%u.jpg"/>
-          <back  url="_05_final_studio_sr_o_18/2/0/%v_%u.jpg"/>
-          <left  url="_05_final_studio_sr_o_18/3/0/%v_%u.jpg"/>
-          <up    url="_05_final_studio_sr_o_18/4/0/%v_%u.jpg"/>
-          <down  url="_05_final_studio_sr_o_18/5/0/%v_%u.jpg"/>
+          <front url="05_final_studio_sr_o_18/0/0/%v_%u.jpg"/>
+          <right url="05_final_studio_sr_o_18/1/0/%v_%u.jpg"/>
+          <back  url="05_final_studio_sr_o_18/2/0/%v_%u.jpg"/>
+          <left  url="05_final_studio_sr_o_18/3/0/%v_%u.jpg"/>
+          <up    url="05_final_studio_sr_o_18/4/0/%v_%u.jpg"/>
+          <down  url="05_final_studio_sr_o_18/5/0/%v_%u.jpg"/>
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="_05_final_studio_sr_o_18/mobile/0.jpg"/>
-        <right url="_05_final_studio_sr_o_18/mobile/1.jpg"/>
-        <back  url="_05_final_studio_sr_o_18/mobile/2.jpg"/>
-        <left  url="_05_final_studio_sr_o_18/mobile/3.jpg"/>
-        <up    url="_05_final_studio_sr_o_18/mobile/4.jpg"/>
-        <down  url="_05_final_studio_sr_o_18/mobile/5.jpg"/>
+        <front url="05_final_studio_sr_o_18/mobile/0.jpg"/>
+        <right url="05_final_studio_sr_o_18/mobile/1.jpg"/>
+        <back  url="05_final_studio_sr_o_18/mobile/2.jpg"/>
+        <left  url="05_final_studio_sr_o_18/mobile/3.jpg"/>
+        <up    url="05_final_studio_sr_o_18/mobile/4.jpg"/>
+        <down  url="05_final_studio_sr_o_18/mobile/5.jpg"/>
       </image>
 
 
@@ -229,13 +229,13 @@
 
 
   <!-- Group Group 17 : 1 panoramas -->
-  
+
 
 <!-- **** @PanoName="04_FINAL_Studio_Entrance_4" @PanoFile="/Volumes/Rudy Can&#39;t Fail/Storybook 360 Tour/FINALS/04_FINAL_Studio_Entrance_4.jpg" **** -->
 <!-- **** Width="5000px" Height="2500px" **** -->
 <scene name="pano16"
        heading="0"
-       thumburl="%FIRSTXML%/_04_final_studio_entr_16/thumbnail.jpg"
+       thumburl="%FIRSTXML%/04_final_studio_entr_16/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -265,34 +265,34 @@
           hlookat="-90.221700"
           vlookat="16.403900"/>
 
-    <preview url="%FIRSTXML%/_04_final_studio_entr_16/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/04_final_studio_entr_16/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2048" tiledimageheight="2048">
-          <front url="_04_final_studio_entr_16/0/1/%v_%u.jpg"/>
-          <right url="_04_final_studio_entr_16/1/1/%v_%u.jpg"/>
-          <back  url="_04_final_studio_entr_16/2/1/%v_%u.jpg"/>
-          <left  url="_04_final_studio_entr_16/3/1/%v_%u.jpg"/>
-          <up    url="_04_final_studio_entr_16/4/1/%v_%u.jpg"/>
-          <down  url="_04_final_studio_entr_16/5/1/%v_%u.jpg"/>
+          <front url="04_final_studio_entr_16/0/1/%v_%u.jpg"/>
+          <right url="04_final_studio_entr_16/1/1/%v_%u.jpg"/>
+          <back  url="04_final_studio_entr_16/2/1/%v_%u.jpg"/>
+          <left  url="04_final_studio_entr_16/3/1/%v_%u.jpg"/>
+          <up    url="04_final_studio_entr_16/4/1/%v_%u.jpg"/>
+          <down  url="04_final_studio_entr_16/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_04_final_studio_entr_16/0/0/%v_%u.jpg"/>
-          <right url="_04_final_studio_entr_16/1/0/%v_%u.jpg"/>
-          <back  url="_04_final_studio_entr_16/2/0/%v_%u.jpg"/>
-          <left  url="_04_final_studio_entr_16/3/0/%v_%u.jpg"/>
-          <up    url="_04_final_studio_entr_16/4/0/%v_%u.jpg"/>
-          <down  url="_04_final_studio_entr_16/5/0/%v_%u.jpg"/>
+          <front url="04_final_studio_entr_16/0/0/%v_%u.jpg"/>
+          <right url="04_final_studio_entr_16/1/0/%v_%u.jpg"/>
+          <back  url="04_final_studio_entr_16/2/0/%v_%u.jpg"/>
+          <left  url="04_final_studio_entr_16/3/0/%v_%u.jpg"/>
+          <up    url="04_final_studio_entr_16/4/0/%v_%u.jpg"/>
+          <down  url="04_final_studio_entr_16/5/0/%v_%u.jpg"/>
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="_04_final_studio_entr_16/mobile/0.jpg"/>
-        <right url="_04_final_studio_entr_16/mobile/1.jpg"/>
-        <back  url="_04_final_studio_entr_16/mobile/2.jpg"/>
-        <left  url="_04_final_studio_entr_16/mobile/3.jpg"/>
-        <up    url="_04_final_studio_entr_16/mobile/4.jpg"/>
-        <down  url="_04_final_studio_entr_16/mobile/5.jpg"/>
+        <front url="04_final_studio_entr_16/mobile/0.jpg"/>
+        <right url="04_final_studio_entr_16/mobile/1.jpg"/>
+        <back  url="04_final_studio_entr_16/mobile/2.jpg"/>
+        <left  url="04_final_studio_entr_16/mobile/3.jpg"/>
+        <up    url="04_final_studio_entr_16/mobile/4.jpg"/>
+        <down  url="04_final_studio_entr_16/mobile/5.jpg"/>
       </image>
 
 
@@ -393,13 +393,13 @@
 
 
   <!-- Group Group 21 : 1 panoramas -->
-  
+
 
 <!-- **** @PanoName="06_FINAL_Soundroom" @PanoFile="/Volumes/Rudy Can&#39;t Fail/Storybook 360 Tour/FINALS/06_FINAL_Soundroom-CC1.jpg" **** -->
 <!-- **** Width="5000px" Height="2500px" **** -->
 <scene name="pano20"
        heading="0"
-       thumburl="%FIRSTXML%/_06_final_soundroom_20/thumbnail.jpg"
+       thumburl="%FIRSTXML%/06_final_soundroom_20/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -429,34 +429,34 @@
           hlookat="56.305400"
           vlookat="-0.221675"/>
 
-    <preview url="%FIRSTXML%/_06_final_soundroom_20/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/06_final_soundroom_20/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2048" tiledimageheight="2048">
-          <front url="_06_final_soundroom_20/0/1/%v_%u.jpg"/>
-          <right url="_06_final_soundroom_20/1/1/%v_%u.jpg"/>
-          <back  url="_06_final_soundroom_20/2/1/%v_%u.jpg"/>
-          <left  url="_06_final_soundroom_20/3/1/%v_%u.jpg"/>
-          <up    url="_06_final_soundroom_20/4/1/%v_%u.jpg"/>
-          <down  url="_06_final_soundroom_20/5/1/%v_%u.jpg"/>
+          <front url="06_final_soundroom_20/0/1/%v_%u.jpg"/>
+          <right url="06_final_soundroom_20/1/1/%v_%u.jpg"/>
+          <back  url="06_final_soundroom_20/2/1/%v_%u.jpg"/>
+          <left  url="06_final_soundroom_20/3/1/%v_%u.jpg"/>
+          <up    url="06_final_soundroom_20/4/1/%v_%u.jpg"/>
+          <down  url="06_final_soundroom_20/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_06_final_soundroom_20/0/0/%v_%u.jpg"/>
-          <right url="_06_final_soundroom_20/1/0/%v_%u.jpg"/>
-          <back  url="_06_final_soundroom_20/2/0/%v_%u.jpg"/>
-          <left  url="_06_final_soundroom_20/3/0/%v_%u.jpg"/>
-          <up    url="_06_final_soundroom_20/4/0/%v_%u.jpg"/>
-          <down  url="_06_final_soundroom_20/5/0/%v_%u.jpg"/>
+          <front url="06_final_soundroom_20/0/0/%v_%u.jpg"/>
+          <right url="06_final_soundroom_20/1/0/%v_%u.jpg"/>
+          <back  url="06_final_soundroom_20/2/0/%v_%u.jpg"/>
+          <left  url="06_final_soundroom_20/3/0/%v_%u.jpg"/>
+          <up    url="06_final_soundroom_20/4/0/%v_%u.jpg"/>
+          <down  url="06_final_soundroom_20/5/0/%v_%u.jpg"/>
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="_06_final_soundroom_20/mobile/0.jpg"/>
-        <right url="_06_final_soundroom_20/mobile/1.jpg"/>
-        <back  url="_06_final_soundroom_20/mobile/2.jpg"/>
-        <left  url="_06_final_soundroom_20/mobile/3.jpg"/>
-        <up    url="_06_final_soundroom_20/mobile/4.jpg"/>
-        <down  url="_06_final_soundroom_20/mobile/5.jpg"/>
+        <front url="06_final_soundroom_20/mobile/0.jpg"/>
+        <right url="06_final_soundroom_20/mobile/1.jpg"/>
+        <back  url="06_final_soundroom_20/mobile/2.jpg"/>
+        <left  url="06_final_soundroom_20/mobile/3.jpg"/>
+        <up    url="06_final_soundroom_20/mobile/4.jpg"/>
+        <down  url="06_final_soundroom_20/mobile/5.jpg"/>
       </image>
 
 
@@ -532,13 +532,13 @@
 
 
   <!-- Group Group 13 : 1 panoramas -->
-  
+
 
 <!-- **** @PanoName="02_FINAL_Storybook_Bar" @PanoFile="/Volumes/Rudy Can&#39;t Fail/Storybook 360 Tour/FINALS/02_FINAL_Storybook_Bar.jpg" **** -->
 <!-- **** Width="5000px" Height="2500px" **** -->
 <scene name="pano12"
        heading="0"
-       thumburl="%FIRSTXML%/_02_final_storybook_b_12/thumbnail.jpg"
+       thumburl="%FIRSTXML%/02_final_storybook_b_12/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -568,34 +568,34 @@
           hlookat="68.497500"
           vlookat="5.320200"/>
 
-    <preview url="%FIRSTXML%/_02_final_storybook_b_12/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/02_final_storybook_b_12/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2048" tiledimageheight="2048">
-          <front url="_02_final_storybook_b_12/0/1/%v_%u.jpg"/>
-          <right url="_02_final_storybook_b_12/1/1/%v_%u.jpg"/>
-          <back  url="_02_final_storybook_b_12/2/1/%v_%u.jpg"/>
-          <left  url="_02_final_storybook_b_12/3/1/%v_%u.jpg"/>
-          <up    url="_02_final_storybook_b_12/4/1/%v_%u.jpg"/>
-          <down  url="_02_final_storybook_b_12/5/1/%v_%u.jpg"/>
+          <front url="02_final_storybook_b_12/0/1/%v_%u.jpg"/>
+          <right url="02_final_storybook_b_12/1/1/%v_%u.jpg"/>
+          <back  url="02_final_storybook_b_12/2/1/%v_%u.jpg"/>
+          <left  url="02_final_storybook_b_12/3/1/%v_%u.jpg"/>
+          <up    url="02_final_storybook_b_12/4/1/%v_%u.jpg"/>
+          <down  url="02_final_storybook_b_12/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_02_final_storybook_b_12/0/0/%v_%u.jpg"/>
-          <right url="_02_final_storybook_b_12/1/0/%v_%u.jpg"/>
-          <back  url="_02_final_storybook_b_12/2/0/%v_%u.jpg"/>
-          <left  url="_02_final_storybook_b_12/3/0/%v_%u.jpg"/>
-          <up    url="_02_final_storybook_b_12/4/0/%v_%u.jpg"/>
-          <down  url="_02_final_storybook_b_12/5/0/%v_%u.jpg"/>
+          <front url="02_final_storybook_b_12/0/0/%v_%u.jpg"/>
+          <right url="02_final_storybook_b_12/1/0/%v_%u.jpg"/>
+          <back  url="02_final_storybook_b_12/2/0/%v_%u.jpg"/>
+          <left  url="02_final_storybook_b_12/3/0/%v_%u.jpg"/>
+          <up    url="02_final_storybook_b_12/4/0/%v_%u.jpg"/>
+          <down  url="02_final_storybook_b_12/5/0/%v_%u.jpg"/>
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="_02_final_storybook_b_12/mobile/0.jpg"/>
-        <right url="_02_final_storybook_b_12/mobile/1.jpg"/>
-        <back  url="_02_final_storybook_b_12/mobile/2.jpg"/>
-        <left  url="_02_final_storybook_b_12/mobile/3.jpg"/>
-        <up    url="_02_final_storybook_b_12/mobile/4.jpg"/>
-        <down  url="_02_final_storybook_b_12/mobile/5.jpg"/>
+        <front url="02_final_storybook_b_12/mobile/0.jpg"/>
+        <right url="02_final_storybook_b_12/mobile/1.jpg"/>
+        <back  url="02_final_storybook_b_12/mobile/2.jpg"/>
+        <left  url="02_final_storybook_b_12/mobile/3.jpg"/>
+        <up    url="02_final_storybook_b_12/mobile/4.jpg"/>
+        <down  url="02_final_storybook_b_12/mobile/5.jpg"/>
       </image>
 
 
@@ -721,13 +721,13 @@
 
 
   <!-- Group Group 15 : 1 panoramas -->
-  
+
 
 <!-- **** @PanoName="03_FINAL_Lounge" @PanoFile="/Volumes/Rudy Can&#39;t Fail/Storybook 360 Tour/FINALS/03_FINAL_Lounge_retouch.jpg" **** -->
 <!-- **** Width="5000px" Height="2500px" **** -->
 <scene name="pano14"
        heading="0"
-       thumburl="%FIRSTXML%/_03_final_lounge_14/thumbnail.jpg"
+       thumburl="%FIRSTXML%/03_final_lounge_14/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -757,34 +757,34 @@
           hlookat="-39.679800"
           vlookat="2.278070"/>
 
-    <preview url="%FIRSTXML%/_03_final_lounge_14/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/03_final_lounge_14/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2048" tiledimageheight="2048">
-          <front url="_03_final_lounge_14/0/1/%v_%u.jpg"/>
-          <right url="_03_final_lounge_14/1/1/%v_%u.jpg"/>
-          <back  url="_03_final_lounge_14/2/1/%v_%u.jpg"/>
-          <left  url="_03_final_lounge_14/3/1/%v_%u.jpg"/>
-          <up    url="_03_final_lounge_14/4/1/%v_%u.jpg"/>
-          <down  url="_03_final_lounge_14/5/1/%v_%u.jpg"/>
+          <front url="03_final_lounge_14/0/1/%v_%u.jpg"/>
+          <right url="03_final_lounge_14/1/1/%v_%u.jpg"/>
+          <back  url="03_final_lounge_14/2/1/%v_%u.jpg"/>
+          <left  url="03_final_lounge_14/3/1/%v_%u.jpg"/>
+          <up    url="03_final_lounge_14/4/1/%v_%u.jpg"/>
+          <down  url="03_final_lounge_14/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_03_final_lounge_14/0/0/%v_%u.jpg"/>
-          <right url="_03_final_lounge_14/1/0/%v_%u.jpg"/>
-          <back  url="_03_final_lounge_14/2/0/%v_%u.jpg"/>
-          <left  url="_03_final_lounge_14/3/0/%v_%u.jpg"/>
-          <up    url="_03_final_lounge_14/4/0/%v_%u.jpg"/>
-          <down  url="_03_final_lounge_14/5/0/%v_%u.jpg"/>
+          <front url="03_final_lounge_14/0/0/%v_%u.jpg"/>
+          <right url="03_final_lounge_14/1/0/%v_%u.jpg"/>
+          <back  url="03_final_lounge_14/2/0/%v_%u.jpg"/>
+          <left  url="03_final_lounge_14/3/0/%v_%u.jpg"/>
+          <up    url="03_final_lounge_14/4/0/%v_%u.jpg"/>
+          <down  url="03_final_lounge_14/5/0/%v_%u.jpg"/>
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="_03_final_lounge_14/mobile/0.jpg"/>
-        <right url="_03_final_lounge_14/mobile/1.jpg"/>
-        <back  url="_03_final_lounge_14/mobile/2.jpg"/>
-        <left  url="_03_final_lounge_14/mobile/3.jpg"/>
-        <up    url="_03_final_lounge_14/mobile/4.jpg"/>
-        <down  url="_03_final_lounge_14/mobile/5.jpg"/>
+        <front url="03_final_lounge_14/mobile/0.jpg"/>
+        <right url="03_final_lounge_14/mobile/1.jpg"/>
+        <back  url="03_final_lounge_14/mobile/2.jpg"/>
+        <left  url="03_final_lounge_14/mobile/3.jpg"/>
+        <up    url="03_final_lounge_14/mobile/4.jpg"/>
+        <down  url="03_final_lounge_14/mobile/5.jpg"/>
       </image>
 
 
@@ -860,13 +860,13 @@
 
 
   <!-- Group Group 11 : 1 panoramas -->
-  
+
 
 <!-- **** @PanoName="01_FINAL_Backyard_Door" @PanoFile="/Volumes/Rudy Can&#39;t Fail/Storybook 360 Tour/FINALS/01_FINAL_Backyard_Door.jpg" **** -->
 <!-- **** Width="5000px" Height="2500px" **** -->
 <scene name="pano10"
        heading="0"
-       thumburl="%FIRSTXML%/_01_final_backyard_do_10/thumbnail.jpg"
+       thumburl="%FIRSTXML%/01_final_backyard_do_10/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -896,34 +896,34 @@
           hlookat="1.108370"
           vlookat="6.206900"/>
 
-    <preview url="%FIRSTXML%/_01_final_backyard_do_10/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/01_final_backyard_do_10/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2048" tiledimageheight="2048">
-          <front url="_01_final_backyard_do_10/0/1/%v_%u.jpg"/>
-          <right url="_01_final_backyard_do_10/1/1/%v_%u.jpg"/>
-          <back  url="_01_final_backyard_do_10/2/1/%v_%u.jpg"/>
-          <left  url="_01_final_backyard_do_10/3/1/%v_%u.jpg"/>
-          <up    url="_01_final_backyard_do_10/4/1/%v_%u.jpg"/>
-          <down  url="_01_final_backyard_do_10/5/1/%v_%u.jpg"/>
+          <front url="01_final_backyard_do_10/0/1/%v_%u.jpg"/>
+          <right url="01_final_backyard_do_10/1/1/%v_%u.jpg"/>
+          <back  url="01_final_backyard_do_10/2/1/%v_%u.jpg"/>
+          <left  url="01_final_backyard_do_10/3/1/%v_%u.jpg"/>
+          <up    url="01_final_backyard_do_10/4/1/%v_%u.jpg"/>
+          <down  url="01_final_backyard_do_10/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_01_final_backyard_do_10/0/0/%v_%u.jpg"/>
-          <right url="_01_final_backyard_do_10/1/0/%v_%u.jpg"/>
-          <back  url="_01_final_backyard_do_10/2/0/%v_%u.jpg"/>
-          <left  url="_01_final_backyard_do_10/3/0/%v_%u.jpg"/>
-          <up    url="_01_final_backyard_do_10/4/0/%v_%u.jpg"/>
-          <down  url="_01_final_backyard_do_10/5/0/%v_%u.jpg"/>
+          <front url="01_final_backyard_do_10/0/0/%v_%u.jpg"/>
+          <right url="01_final_backyard_do_10/1/0/%v_%u.jpg"/>
+          <back  url="01_final_backyard_do_10/2/0/%v_%u.jpg"/>
+          <left  url="01_final_backyard_do_10/3/0/%v_%u.jpg"/>
+          <up    url="01_final_backyard_do_10/4/0/%v_%u.jpg"/>
+          <down  url="01_final_backyard_do_10/5/0/%v_%u.jpg"/>
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="_01_final_backyard_do_10/mobile/0.jpg"/>
-        <right url="_01_final_backyard_do_10/mobile/1.jpg"/>
-        <back  url="_01_final_backyard_do_10/mobile/2.jpg"/>
-        <left  url="_01_final_backyard_do_10/mobile/3.jpg"/>
-        <up    url="_01_final_backyard_do_10/mobile/4.jpg"/>
-        <down  url="_01_final_backyard_do_10/mobile/5.jpg"/>
+        <front url="01_final_backyard_do_10/mobile/0.jpg"/>
+        <right url="01_final_backyard_do_10/mobile/1.jpg"/>
+        <back  url="01_final_backyard_do_10/mobile/2.jpg"/>
+        <left  url="01_final_backyard_do_10/mobile/3.jpg"/>
+        <up    url="01_final_backyard_do_10/mobile/4.jpg"/>
+        <down  url="01_final_backyard_do_10/mobile/5.jpg"/>
       </image>
 
 
@@ -1003,4 +1003,3 @@
 
 
 </krpano>
-
