@@ -6,9 +6,8 @@
 h1,
 h2,
 h3 {
-  margin: auto;
+  margin: 0.7em auto;
   text-align: center;
-  margin-top: 0.7em;
 }
 
 /* Gallery Styling */

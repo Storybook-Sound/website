@@ -1,4 +1,4 @@
-# Hello, music.
+# Discography
 <script src="gallery.js" type=module></script>
 <link rel="stylesheet" href="styles/gallery.css">
 
