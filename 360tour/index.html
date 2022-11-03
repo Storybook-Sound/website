@@ -91,7 +91,6 @@
 	</style>
 
 	<script type="text/javascript">
-		console.log(1);
 		function loadPlayer(isWebVr) {
 			if (isWebVr) {
 				embedpano({
@@ -126,16 +125,8 @@
 				kpanotour.Focus.applyFocus();
 			}
 		}
-		function isVRModeRequested() {
-			var querystr = window.location.search.substring(1);
-			var params = querystr.split('&');
-			for (var i = 0; i < params.length; i++) {
-				if (params[i].toLowerCase() == "vr") {
-					return true;
-				}
-			}
-			return false;
-		}
+		// This could, apparently support VR, but would need hardware to test.
+		// Way to do it is, loadPlayer(true)
 		setTimeout(loadPlayer, 100);
 	</script>
 </head>
