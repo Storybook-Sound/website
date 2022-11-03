@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap');
+
+body {
+  font-family: "Spline Sans Mono", monospace;
+}
+
+/* Header */
+.brand {
+  margin: auto;
+  max-width: 500px;
+}
+
+.site-description {
+  text-align: center;
+}
+
+.site-logo svg {
+  margin: auto;
+}
+
+nav {
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  gap: 1em;
+  justify-content: space-around;
+}
+
+/* Main */
+main {
+  max-width: 90%;
+  margin: 0.5em 1em;
+}
+
+/* Global */
+img[src$=".svg"] {
+  max-width: 100%;
+}
+
+blockquote {
+  max-width: 700px;
+  margin: auto;
+}
