@@ -42,6 +42,11 @@ nav ul {
   padding: 0;
 }
 
+/* Footer */
+footer P {
+  text-align: center;
+}
+
 
 /* Main */
 main {
