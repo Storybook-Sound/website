@@ -4,8 +4,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap');
 
+/* Typography */
 body {
   font-family: "Spline Sans Mono", monospace;
+}
+
+p {
+  max-width: 50em;
+  margin: 1.4em auto;
 }
 
 /* Header */
@@ -14,8 +20,10 @@ body {
   max-width: 500px;
 }
 
-.site-description {
+header h2,
+header h3 {
   text-align: center;
+  margin: 0;
 }
 
 .site-logo svg {
@@ -31,7 +39,9 @@ nav ul {
   list-style-type: none;
   gap: 1em;
   justify-content: space-around;
+  padding: 0;
 }
+
 
 /* Main */
 main {
