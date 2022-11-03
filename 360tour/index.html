@@ -1,136 +1,152 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Storybook Sound</title>
 
-		<meta name="keywords" content="Storybook Sound" /> <!-- as of 9/1/17 -->
-		<meta name="medium" content="mult" />
-		<meta name="video_height" content="480"></meta>
-		<meta name="video_width" content="640"></meta>
-		<link rel="image_src" href="storybook_sound_360_tourdata/thumbnail.jpg" />
-		<!-- <meta name="directory" content="PATH/"></meta> -->
-		<!-- <link rel="target_url" href="storybook_sound_360_tour.html" /> -->
+<head>
+	<meta charset="utf-8" />
+	<title>Storybook Sound</title>
+
+	<meta name="keywords" content="Storybook Sound" /> <!-- as of 9/1/17 -->
+	<meta name="medium" content="mult" />
+	<meta name="video_height" content="480">
+	</meta>
+	<meta name="video_width" content="640">
+	</meta>
+	<link rel="image_src" href="storybook_sound_360_tourdata/thumbnail.jpg" />
 
 
-		<meta name="author" content="Storybook Sound" />
+	<meta name="author" content="Storybook Sound" />
 
-		<meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"/>
-		<meta name="apple-mobile-web-app-capable" content="yes"/>
-		<meta name="apple-mobile-web-app-status-bar-style" content="default">
-		<style type="text/css">
-			@-ms-viewport { width: device-width; }
-			@media only screen and (min-device-width: 800px) { html { overflow:hidden; } }
-			* { padding: 0; margin: 0; }
-			html { height: 100%; }
-			body { height: 100%; overflow:hidden; }
-			div#container { height: 100%; min-height: 100%; width: 100%; margin: 0 auto; }
-			div#tourDIV {
-				height:100%;
-				position:relative;
-				overflow:hidden;
+	<meta name="viewport"
+		content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="default">
+	<style type="text/css">
+		@-ms-viewport {
+			width: device-width;
+		}
+
+		@media only screen and (min-device-width: 800px) {
+			html {
+				overflow: hidden;
 			}
-			div#panoDIV {
-				height:100%;
-				position:relative;
-				overflow:hidden;
-				-webkit-user-select: none;
-				-khtml-user-select: none;
-				-moz-user-select: none;
-				-o-user-select: none;
-				user-select: none;
+		}
+
+		* {
+			padding: 0;
+			margin: 0;
+		}
+
+		html {
+			height: 100%;
+		}
+
+		body {
+			height: 100%;
+			overflow: hidden;
+		}
+
+		div#container {
+			height: 100%;
+			min-height: 100%;
+			width: 100%;
+			margin: 0 auto;
+		}
+
+		div#tourDIV {
+			height: 100%;
+			position: relative;
+			overflow: hidden;
+		}
+
+		div#panoDIV {
+			height: 100%;
+			position: relative;
+			overflow: hidden;
+			-webkit-user-select: none;
+			-khtml-user-select: none;
+			-moz-user-select: none;
+			-o-user-select: none;
+			user-select: none;
+		}
+
+	</style>
+
+	<style type="text/css">
+		div#panoDIV.cursorMoveMode {
+			cursor: move;
+			cursor: url(storybook_sound_360_tourdata/graphics/cursors_move_html5.cur), move;
+		}
+
+		div#panoDIV.cursorDragMode {
+			cursor: grab;
+			cursor: -moz-grab;
+			cursor: -webkit-grab;
+			cursor: url(storybook_sound_360_tourdata/graphics/cursors_drag_html5.cur), default;
+		}
+
+	</style>
+
+	<script type="text/javascript">
+		console.log(1);
+		function loadPlayer(isWebVr) {
+			if (isWebVr) {
+				embedpano({
+					id: "krpanoSWFObject"
+					, xml: "storybook_sound_360_tourdata/storybook_sound_360_tour_vr.xml"
+					, target: "panoDIV"
+					, passQueryParameters: true
+					, bgcolor: "#000000"
+					, html5: "only+webgl"
+					, focus: false
+					, vars: {skipintro: true, norotation: true}
+				});
+			} else {
+
+				var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent);
+				embedpano({
+					id: "krpanoSWFObject"
+
+					, swf: "storybook_sound_360_tourdata/storybook_sound_360_tour.swf" // Doesn't actually exist, but param necessary
+
+					, target: "panoDIV"
+					, passQueryParameters: true
+					, bgcolor: "#000000"
+					, focus: false
+					, html5: isBot ? "always" : "prefer"
+					, vars: {}
+
+				});
 			}
-
-
-		</style>
-		<script type="text/javascript" src="storybook_sound_360_tourdata/lib/jquery-2.1.1.min.js"></script>
-
-		<style type="text/css">
-			div#panoDIV.cursorMoveMode {
-				cursor: move;
-				cursor: url(storybook_sound_360_tourdata/graphics/cursors_move_html5.cur), move;
+			//apply focus on the visit if not embedded into an iframe
+			if (top.location === self.location) {
+				kpanotour.Focus.applyFocus();
 			}
-			div#panoDIV.cursorDragMode {
-				cursor: grab;
-				cursor: -moz-grab;
-				cursor: -webkit-grab;
-				cursor: url(storybook_sound_360_tourdata/graphics/cursors_drag_html5.cur), default;
-			}
-		</style>
-
-		<script type="text/javascript">
-
-			function accessWebVr(curScene){
-				unloadPlayer();
-
-				setTimeout(function(){ loadPlayer(true, curScene); }, 100);
-			}
-			function accessStdVr(curScene){
-				unloadPlayer();
-
-				setTimeout(function(){ loadPlayer(false, curScene); }, 100);
-			}
-			function loadPlayer(isWebVr, curScene) {
-				if (isWebVr) {
-					embedpano({
-						id:"krpanoSWFObject"
-						,xml:"storybook_sound_360_tourdata/storybook_sound_360_tour_vr.xml"
-						,target:"panoDIV"
-						,passQueryParameters:true
-						,bgcolor:"#000000"
-						,html5:"only+webgl"
-						,focus: false
-						,vars:{skipintro:true,norotation:true,startscene:curScene}
-					});
-				} else {
-
-					var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent);
-					embedpano({
-						id:"krpanoSWFObject"
-
-						,swf:"storybook_sound_360_tourdata/storybook_sound_360_tour.swf"
-
-						,target:"panoDIV"
-						,passQueryParameters:true
-						,bgcolor:"#000000"
-						,focus: false
-						,html5:isBot ? "always" : "prefer"
-						,vars:{startscene:curScene}
-
-					});
+		}
+		function isVRModeRequested() {
+			var querystr = window.location.search.substring(1);
+			var params = querystr.split('&');
+			for (var i = 0; i < params.length; i++) {
+				if (params[i].toLowerCase() == "vr") {
+					return true;
 				}
-				//apply focus on the visit if not embedded into an iframe
-				if(top.location === self.location){
-					kpanotour.Focus.applyFocus();
-				}
 			}
-			function unloadPlayer(){
-				if(jQuery('#krpanoSWFObject')){
-					removepano('krpanoSWFObject');
-				}
-			}
-		    function isVRModeRequested() {
-				var querystr = window.location.search.substring(1);
-				var params = querystr.split('&');
-				for (var i=0; i<params.length; i++){
-					if (params[i].toLowerCase() == "vr"){
-						return true;
-					}
-				}
-				return false;
-			}
-		</script>
-	</head>
-	<body>
-		<div id="container">
+			return false;
+		}
+		setTimeout(loadPlayer, 100);
+	</script>
+</head>
 
-			<div id="tourDIV">
-				<div id="panoDIV">
+<body>
+	<div id="container">
 
-				</div>
+		<div id="tourDIV">
+			<div id="panoDIV">
 
-				<script type="text/javascript" src="storybook_sound_360_tourdata/storybook_sound_360_tour.js"></script>
 			</div>
+
+			<script type="text/javascript" src="storybook_sound_360_tourdata/storybook_sound_360_tour.js"></script>
 		</div>
-	</body>
+	</div>
+</body>
+
 </html>
