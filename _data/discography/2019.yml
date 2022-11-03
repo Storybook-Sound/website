@@ -4,12 +4,11 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://lizzieandthemakers1.bandcamp.com/
-    target: _blank
+    title: Artist site
   notes: >-
-    <b>Mastered by Scott Anthony at Storybook Sound </b>
-    <a href="https://lizzieandthemakers1.bandcamp.com/" target="_blank" rel="noopener">Artist site</a>
+    
+    
   image: 
     url: images/discography/2019/a2773344258_10.jpg
     title: 'Lizzie & The Makers "Meanwhile..."'
@@ -19,19 +18,18 @@
   roles:
     - Mastering
   project_url: 
-    title: Label Wikipedia
     url: https://en.wikipedia.org/wiki/ESP-Disk
-    target: _blank
+    title: Label Wikipedia
   notes: >-
     ESP-Disk'
     <b>Thollem McDonas, keyboards
-    Nels Cline, electric guitars <a href="https://en.wikipedia.org/wiki/Nels_Cline" target="_blank" rel="noopener">Wikipedia</a>
+    Nels Cline, electric guitars <a href="https://en.wikipedia.org/wiki/Nels_Cline" rel="noopener" target="_blank">Wikipedia</a>
     Michael Wimberly, drums
     Recorded by Justin Frye at Pioneer Works, Brooklyn, NY Sept. 13, 2017
     Mastered by Scott Anthony at Storybook Sound </b>
-    <a href="https://open.spotify.com/album/3cCvzR9uxaBOStsuI6SNy0" target="_blank" rel="noopener">Artist site</a>
-    <a href="https://en.wikipedia.org/wiki/Thollem_McDonas" target="_blank" rel="noopener">Artist Wikipedia</a>
-    <a href="https://en.wikipedia.org/wiki/ESP-Disk" target="_blank" rel="noopener">Label Wikipedia</a>
+    <a href="https://open.spotify.com/album/3cCvzR9uxaBOStsuI6SNy0" rel="noopener" target="_blank">Artist site</a>
+    <a href="https://en.wikipedia.org/wiki/Thollem_McDonas" rel="noopener" target="_blank">Artist Wikipedia</a>
+    
   image: 
     url: images/discography/2019/ESP5035-front-small-750x750.jpg
     title: 'Radical Empathy Trio "Reality And Other Imaginary Places"'
@@ -40,9 +38,8 @@
   year: 2019
   roles:
     - Mastering
-  project_url: 
   notes: >-
-    <b>Mastered by Scott Anthony at Storybook Sound </b>
+    
   image: 
     url: images/discography/2019/a3761727695_10.jpg
     title: 'Sad About Girls (single)'
@@ -52,15 +49,14 @@
   roles:
     - Recording
   project_url: 
-    title: Artist site
     url: https://luketuchscherer.bandcamp.com/album/carousel
-    target: _blank
+    title: Artist site
   notes: >-
     Clubhouse Records
     <b>Produced by Luke Tuchscherer
     Recorded by Scott Anthony at Storybook Sound, Maplewood, NJ
     Mixed and mastered by Chris Corney </b>
-    <a href="https://luketuchscherer.bandcamp.com/album/carousel" target="_blank" rel="noopener">Artist site</a>
+    
   image: 
     url: images/discography/2019/a3598181515_10.jpg
     title: 'Luke Tuchscherer "Carousel"'
@@ -70,12 +66,11 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://dirtnappers.bandcamp.com/album/the-things-you-left-behind"
-    target: _blank
+    title: Artist site
   notes: >-
-    <b>Mastered by Scott Anthony at Storybook Sound </b>
-    <a href=https://dirtnappers.bandcamp.com/album/the-things-you-left-behind" target="_blank" rel="noopener">Artist site</a>
+    
+    
   image: 
     url: images/discography/2019/a4201811960_10.jpg
     title: 'Frank Migliorelli & The Dirt Nappers "The Things You Left Behind"'
@@ -85,12 +80,11 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://tomshape.bandcamp.com/releases
-    target: _blank
+    title: Artist site
   notes: >-
-    <b>Mastered by Scott Anthony at Storybook Sound </b>
-    <a href="https://tomshape.bandcamp.com/releases" target="_blank" rel="noopener">Artist site</a>
+    
+    
   image: 
     url: images/discography/2019/a1886271816_10.jpg
     title: 'Tom Shape "Tom Shape"'
@@ -102,13 +96,12 @@
     - Mixing
     - Recording
   project_url: 
-    title: Artist site
     url: https://open.spotify.com/album/77UhFPqD5uAtrwfS1x2DMf
-    target: _blank
+    title: Artist site
   notes: >-
     <b>Produced by Mark Moran
     Recorded, mixed, and mastered by Scott Anthony at Storybook Sound</b>
-    <a href="https://open.spotify.com/album/77UhFPqD5uAtrwfS1x2DMf" target="_blank" rel="noopener">Artist site</a>
+    
   image: 
     url: images/discography/2019/52287144_2227745563950010_7141804583386349568_o.jpg
     title: 'The Poor Man''s Opera "Barstool Confessional"'
@@ -117,9 +110,8 @@
   year: 2019
   roles:
     - Mastering
-  project_url: 
   notes: >-
-    <b>Mastered by Scott Anthony at Storybook Sound </b>
+    
   image: 
     url: images/discography/2019/lpalb01696115_large.jpg
     title: 'The Second Take "Just Let It Happen"'
@@ -129,12 +121,11 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://wiretroop.bandcamp.com/album/trio-power
-    target: _blank
+    title: Artist site
   notes: >-
-    <b>Mastered by Scott Anthony at Storybook Sound </b>
-    <a href="https://wiretroop.bandcamp.com/album/trio-power" target="_blank" rel="noopener">Artist site</a>
+    
+    
   image: 
     url: images/discography/2019/a0172694111_10.jpg
     title: 'Wire Troop "Trio Power"'
@@ -143,7 +134,6 @@
   year: 2019
   roles:
     - Mastering
-  project_url: 
   notes: >-
     Confidential Recordings
     <b>Chris Geddes - Mellotron, Synthesizer
@@ -161,13 +151,12 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://karendahlstrom.bandcamp.com/album/no-mans-land
-    target: _blank
+    title: Artist site
   notes: >-
     <b>Engineered and mixed by Rich Bennett at Acme Hall Studios, Brooklyn, NY
     Mastered by Scott Anthony at Storybook Sound</b>
-    <a href="https://karendahlstrom.bandcamp.com/album/no-mans-land" target="_blank" rel="noopener">Artist site</a>
+    
   image: 
     url: images/discography/2019/a1698171087_10.jpg
     title: 'Karen Dahlstrom "No Man''s Land"'
@@ -177,18 +166,17 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://bobtownmusic.bandcamp.com/album/chasing-the-sun
-    target: _blank
+    title: Artist site
   notes: >-
     <b>Produced by Katherine Etzel
     Tracking Engineers:
     Rich Bennett, Acme Music Studios, Brooklyn
     Kieran Kelly, The Buddy Project, Queens
     Damon Whittemore, Flux Studio, NYC
-    Mixed by Katherine Etzel at Bell & Bear, Brookyn
+    Mixed by Katherine Etzel at Bell &amp; Bear, Brookyn
     Mastered by Scott Anthony at Storybook Sound</b>
-    <a href="https://bobtownmusic.bandcamp.com/album/chasing-the-sun" target="_blank" rel="noopener">Artist site</a>
+    
   image: 
     url: images/discography/2019/a1585712335_10.jpg
     title: 'Bobtown "Chasing The Sun"'
@@ -198,14 +186,13 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://ryanherrick.bandcamp.com/album/heal-your-bones"
-    target: _blank
+    title: Artist site
   notes: >-
-    <b>Produced & Engineered by John Abbey at Kingsize Soundlabs in Chicago, IL (Tracks 1,3,4)
-    "Wild Mountain Thyme" Engineered & Mixed by Joel Mongeon at Woolen Mills in Clinton, MA.
+    <b>Produced &amp; Engineered by John Abbey at Kingsize Soundlabs in Chicago, IL (Tracks 1,3,4)
+    "Wild Mountain Thyme" Engineered &amp; Mixed by Joel Mongeon at Woolen Mills in Clinton, MA.
     Mastered by Scott Anthony at Storybook Sound </b>
-    <a href=https://ryanherrick.bandcamp.com/album/heal-your-bones" target="_blank" rel="noopener">Artist site</a>
+    
   image: 
     url: images/discography/2019/l1alb01781235_large.jpg
     title: 'Ryan Herrick "Heal Your Bones"'
@@ -215,13 +202,12 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://alliedchemical.bandcamp.com/album/so-sudden
-    target: _blank
+    title: Artist site
   notes: >-
     <b>Recorded and Mixed by Tom Lucas at Laughing Boy Studios, South Orange, NJ
     Mastered by Scott Anthony at Storybook Sound</b>
-    <a href="https://alliedchemical.bandcamp.com/album/so-sudden" target="_blank" rel="noopener">Artist site</a>
+    
   image: 
     url: images/discography/2019/a2428527589_10.jpg
     title: 'Allied Chemical "So Sudden"'
@@ -231,20 +217,19 @@
   roles:
     - Mastering
   project_url: 
-    title: Label Wikipedia
     url: https://en.wikipedia.org/wiki/ESP-Disk
-    target: _blank
+    title: Label Wikipedia
   notes: >-
     ESP-Disk'
-    <b>William Parker, bass <a href="https://en.wikipedia.org/wiki/William_Parker_(musician)" target="_blank" rel="noopener">Wikipedia</a>
-    Nels Cline, electric guitar/effects <a href="https://en.wikipedia.org/wiki/Nels_Cline" target="_blank" rel="noopener">Wikipedia</a>
+    <b>William Parker, bass <a href="https://en.wikipedia.org/wiki/William_Parker_(musician)" rel="noopener" target="_blank">Wikipedia</a>
+    Nels Cline, electric guitar/effects <a href="https://en.wikipedia.org/wiki/Nels_Cline" rel="noopener" target="_blank">Wikipedia</a>
     Thollem McDonas, piano
     All compositions by Thollem McDonas, William Parker, Nels Cline
     Recorded January 3, 2012 at Peter Karl Studios, Gowanus Arts Building, Brooklyn, NY
     Mastering by Scott Anthony at Storybook Sound</b>
-    <a href="https://thollemparkercline.bandcamp.com/album/gowanus-sessions-ii" target="_blank" rel="noopener">Artist site</a>
-    <a href="https://en.wikipedia.org/wiki/Thollem_McDonas" target="_blank" rel="noopener">Artist Wikipedia</a>
-    <a href="https://en.wikipedia.org/wiki/ESP-Disk" target="_blank" rel="noopener">Label Wikipedia</a>
+    <a href="https://thollemparkercline.bandcamp.com/album/gowanus-sessions-ii" rel="noopener" target="_blank">Artist site</a>
+    <a href="https://en.wikipedia.org/wiki/Thollem_McDonas" rel="noopener" target="_blank">Artist Wikipedia</a>
+    
   image: 
     url: images/discography/2019/ESPDISK5038LP_CU.jpg
     title: 'Thollem/Parker/Cline "Gowanus Sessions II"'
@@ -254,13 +239,12 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://stephanieseymour.bandcamp.com/releases
-    target: _blank
+    title: Artist site
   notes: >-
     <b>Mastered by Scott Anthony at Storybook Sound
     Plus: Engineer
-     </b><a href="https://stephanieseymour.bandcamp.com/releases"  target="_blank" rel="noopener">Artist site</a>
+     </b>
   image: 
     url: images/discography/2019/a1242019964_10.jpg
     title: 'Stephanie Seymour "There Are Birds"'
@@ -271,9 +255,8 @@
     - Mastering
     - Mixing
   project_url: 
-    title: Artist site
     url: https://higgsongs.bandcamp.com/album/yestermorrow
-    target: _blank
+    title: Artist site
   notes: >-
     <b>Engineered and pre-mixed by Chris Gefken at
     Think Tank Studio - Hoboken, NJ
@@ -287,7 +270,7 @@
     Storybook Sound, Maplewood, NJ
     
     Additional mix engineer: Max Solomon</b>
-    <a href="https://higgsongs.bandcamp.com/album/yestermorrow" target="_blank" rel="noopener">Artist site</a>
+    
     
     "SCOTT ANTHONY (The Shitbirds, Nu-Sonics, Fond Farewells, Rebecca Turner) - When Scott’s not busy being amazing, he spends his off-hours being awesome. He converted his basement into a world-class mixing and mastering studio (www.storybooksound.com) and artists far and wide have called on his considerable skills for years now. It’s one of my favorite rooms ever and I got to spend a lot of time there watching Scott work his magic. He is an expert at his craft, mad fun to hang with, and I could not be more honored or excited that this record wound up in his capable hands for mixing and mastering. We go back a long way. He is a delightful human being and I am so thankful to have worked with him once again. Scott turned me on to the famous Sloppy Joe’s served at the Town Hall Deli in South Orange, NJ. I’m a few pounds heavier now, but forever grateful. Hashtag YUM! He also teaches yoga classes because it’s just so him." -- Jim Higgins
   image: 
@@ -299,17 +282,16 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://rcrrm.bandcamp.com/album/the-collection
-    target: _blank
+    title: Artist site
   notes: >-
     <b>Roger C. Reale, lead vocals, bass
-    G.E Smith, guitar <a href="https://en.wikipedia.org/wiki/G._E._Smith" target="_blank" rel="noopener">Wikipedia</a>
-    Mick Ronson, guitar <a href="https://en.wikipedia.org/wiki/Mick_Ronson" target="_blank" rel="noopener">Wikipedia</a>
+    G.E Smith, guitar <a href="https://en.wikipedia.org/wiki/G._E._Smith" rel="noopener" target="_blank">Wikipedia</a>
+    Mick Ronson, guitar <a href="https://en.wikipedia.org/wiki/Mick_Ronson" rel="noopener" target="_blank">Wikipedia</a>
     Jimmy McAllister. guitar, vocals
     Hilly Michaels, drums, vocals
     Mastered by Scott Anthony at Storybook Sound</b>
-    <a href="https://rcrrm.bandcamp.com/album/the-collection" target="_blank" rel="noopener">Artist site</a>
+    
   image: 
     url: images/discography/2019/Roger-C.-Reale-The-Collection.jpg
     title: 'Roger C. Reale "The Collection"'
@@ -319,9 +301,8 @@
   roles:
     - Production
   project_url: 
-    title: Artist site
     url: https://rebeccaturner.bandcamp.com/album/the-new-wrong-way
-    target: _blank
+    title: Artist site
   notes: >-
     Fred Records
     <b>Produced by Rebecca Turner and Scott Anthony
@@ -329,7 +310,7 @@
     and by Mike Wilson at Ardent Studios, Memphis, TN
     Mixed and mastered by Scott at Storybook Sound
     Vinyl cut by Jeff Powell, Take Out Vinyl, Memphis, TN</b>
-    <a href="https://rebeccaturner.bandcamp.com/album/the-new-wrong-way" target="_blank" rel="noopener">Artist site</a>
+    
   image: 
     url: images/discography/2019/Rebecca-Turner-The-New-Wrong-Way.jpg
     title: 'Rebecca Turner "The New Wrong Way"'

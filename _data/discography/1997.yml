@@ -4,12 +4,11 @@
   roles:
     - Mastering
   project_url: 
-    title: Wikipedia
     url: https://en.wikipedia.org/wiki/Chris_Butler_(musician)
-    target: _blank
+    title: Wikipedia
   notes: >-
-    <b>Mastered by Scott Anthony at Storybook Sound</b>
-    <a href="https://en.wikipedia.org/wiki/Chris_Butler_(musician)" target="_blank" rel="noopener">Wikipedia</a>
+    
+    
   image: 
     url: images/discography/1997/cb2.jpeg
     title: 'Chris Butler "I Feel A Bit Normal Today"'
@@ -18,7 +17,6 @@
   year: 1997
   roles:
     - What did I do here again?
-  project_url: 
   notes: >-
     John Pinamonti
   image: 
@@ -29,7 +27,6 @@
   year: 1997
   roles:
     - What did I do here again?
-  project_url: 
   notes: >-
     Melissa Sheehan
   image: 
@@ -40,7 +37,6 @@
   year: 1997
   roles:
     - What did I do here again?
-  project_url: 
   notes: >-
     David Poe
   image: 
@@ -51,7 +47,6 @@
   year: 1997
   roles:
     - What did I do here again?
-  project_url: 
   notes: >-
     Ann Klein
   image: 
@@ -62,7 +57,6 @@
   year: 1997
   roles:
     - What did I do here again?
-  project_url: 
   notes: >-
     Them Keener Boys
   image: 
@@ -73,7 +67,6 @@
   year: 1997
   roles:
     - What did I do here again?
-  project_url: 
   notes: >-
     The Gefkens
   image: 
@@ -84,7 +77,6 @@
   year: 1997
   roles:
     - What did I do here again?
-  project_url: 
   notes: >-
     Henry Rollins
   image: 

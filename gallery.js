@@ -46,7 +46,8 @@ function display_item(set, idx) {
     item.roles && P(item.roles.join(", ")),
     item.notes && item.notes.split("\n\n").map(p => P({".innerHTML": p})),
     // Using .innerHTML is a cheat that Choc Factory makes "work".
-    // TODO LINK
+    // TODO LINK,
+    item.project_url && A({href: item.project_url.url, target: "_blank"}, item.project_url.title)
   ]);
 }
 

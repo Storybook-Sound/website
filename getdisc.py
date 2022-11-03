@@ -42,12 +42,26 @@ for item in soup.find_all("item"):
     print('    - ' + role.text, file=disco)
   if not item.find_all('category', {"domain": "project_role"}):
     print('    - ' + "What did I do here again?", file=disco)
+  project_link = ""
   if project_url := metadata.get('project_url'):
-    print('  project_url: ', file=disco)
     urlparts = phpserialize.loads(project_url.encode())
-    for k,v in urlparts.items():
-      print('    ' + k.decode() + ': ' + v.decode(), file=disco )
+    if b"url" in urlparts and b"title" in urlparts:
+      print('  project_url: ', file=disco)
+      project_link = urlparts[b'url'].decode()
+      print('    url: ' + project_link, file=disco )
+      print('    title: ' + urlparts[b'title'].decode(), file=disco )
   if notes := metadata.get('additional_notes'):
+    notesoup = BeautifulSoup("<body>" + notes, "html5lib")
+    for r in notesoup.find_all("b", text="Mastered by Scott Anthony at Storybook Sound"):
+      r.replace_with("")
+    for r in notesoup.find_all("b", text="Mastered by Scott Anthony at Storybook Sound "):
+      r.replace_with("")
+    for r in notesoup.find_all("b", text="Mastered by Scott Anthony"):
+      r.replace_with("")
+    if (project_link):
+      for link in notesoup.find_all("a", {"href": project_link}):
+        link.replace_with("")
+    notes = notesoup.body.decode_contents()
     print('  notes: >-', file=disco)
     print('    ' + notes.replace("\n", "\n    "), file=disco)
   if (set := item.find('guid', {"isPermaLink": "false"})):

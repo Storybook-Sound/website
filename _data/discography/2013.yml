@@ -4,12 +4,11 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://junglegymjam.bandcamp.com/album/everyones-invited
-    target: _blank
+    title: Artist site
   notes: >-
-    <b>Mastered by Scott Anthony at Storybook Sound</b>
-    <a href="https://junglegymjam.bandcamp.com/album/everyones-invited" target="_blank" rel="noopener">Artist site</a>
+    
+    
   image: 
     url: images/discography/2013/everyones-invited-cover-artwork-300x300.jpg
     title: 'Jason Didner and the Jungle Gym Jam "Everyone''s Invited"'
@@ -18,9 +17,8 @@
   year: 2013
   roles:
     - Mastering
-  project_url: 
   notes: >-
-    <b>Mastered by Scott Anthony at Storybook Sound</b>
+    
   image: 
     url: images/discography/2013/pigeons.jpg
     title: 'Pigeons "The Helpless and The Hopeless"'

@@ -4,16 +4,15 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://bobevans.bandcamp.com/album/pipeline-on-wmbr
-    target: _blank
+    title: Artist site
   notes: >-
-    <b>guitar & vocal - Dave Gloshinski
+    <b>guitar &amp; vocal - Dave Gloshinski
     bass - Andrew Kesin
     drums - Brian O'Neill
     
     mastered @ The Viewing Room by Scott Anthony </b>
-    <a href="https://bobevans.bandcamp.com/album/pipeline-on-wmbr" target="_blank" rel="noopener">Artist site</a>
+    
   image: 
     url: images/discography/2012/bob.jpg
     title: 'Bob Evans "Pipeline on WMBR"'
@@ -22,9 +21,8 @@
   year: 2012
   roles:
     - Mastering
-  project_url: 
   notes: >-
-    <b>Mastered by Scott Anthony</b>
+    
   image: 
     url: images/discography/2012/lil-mo.jpg
     title: 'Li''l Mo and The Monicats "Whole Lotta Love"'
@@ -33,9 +31,8 @@
   year: 2012
   roles:
     - Mastering
-  project_url: 
   notes: >-
-    <b>Mastered by Scott Anthony</b>
+    
   image: 
     url: images/discography/2012/marco.jpg
     title: 'Marco Ranieri "Heartbroken Radio"'
@@ -44,9 +41,8 @@
   year: 2012
   roles:
     - Mastering
-  project_url: 
   notes: >-
-    <b>Mastered by Scott Anthony</b>
+    
   image: 
     url: images/discography/2012/cdcover_5_greenandblue.jpg
     title: 'Boz Metzdorf "Green And Blue"'
@@ -56,12 +52,11 @@
   roles:
     - Mastering
   project_url: 
-    title: Artist site
     url: https://illtet.bandcamp.com/album/live-at-cbgbs
-    target: _blank
+    title: Artist site
   notes: >-
-    <b>Mastered by Scott Anthony</b>
-    <a href="https://illtet.bandcamp.com/album/live-at-cbgbs" target="_blank" rel="noopener">Artist site</a>
+    
+    
   image: 
     url: images/discography/2012/Front1.jpg
     title: 'Illtet "Live C.B.G.B.''S"'
