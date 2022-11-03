@@ -7,5 +7,5 @@ Scott took instant photos of almost every visitor to the studio during our first
 <script src="gallery.js" type=module></script>
 <link rel="stylesheet" href="styles/gallery.css">
 
-<script>const galleries = {"Wall of Fame": {{ site.data.walloffame | jsonify }}};</script>
+<script>const galleries = {"Wall of Instant Fame": {{ site.data.walloffame | jsonify }}};</script>
 <div id=gallery></div>
