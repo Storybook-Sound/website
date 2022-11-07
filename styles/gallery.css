@@ -97,27 +97,3 @@ figcaption {
   width: 648px;
   height: 648px;
 }
-
-.gallery-image.red {
-  background-color: #C2756C;
-}
-
-.gallery-image.gold {
-  background-color: #C2A947;
-}
-
-.gallery-image.teal {
-  background-color: #50AE9F;
-}
-
-.gallery-image.green {
-  background-color: #94C47B;
-}
-
-.gallery-image.blue {
-  background-color: #4A9CC4;
-}
-
-.gallery-image.azure {
-  background-color: #B2D9F3;
-}

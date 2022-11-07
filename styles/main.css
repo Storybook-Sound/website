@@ -9,6 +9,90 @@ h3 {
   text-align: center;
 }
 
+/* Colors */
+:root {
+  --earth: #C2756C;
+  --water: #50AE9F;
+  --sky: #4A9CC4;
+  --air: #B2D9F3;
+  --fire: #C2A947;
+  --plant: #94C47B;
+  --black: #222;
+  --dark: #444;
+  --white: #eee;
+  --light: #bbb;
+}
+
+
+.red {
+  background-color: var(--earth);
+}
+
+.gold {
+  background-color: var(--fire);
+}
+
+.teal {
+  background-color: var(--water);
+}
+
+.green {
+  background-color: var(--plant);
+}
+
+.blue {
+  background-color: var(--sky);
+}
+
+.azure {
+  background-color: var(--air);
+}
+
+.card.red {
+  border: 2px solid var(--earth);
+}
+
+.card.gold {
+  border: 2px solid var(--fire);
+}
+
+.card.teal {
+  border: 2px solid var(--water);
+}
+
+.card.green {
+  border: 2px solid var(--plant);
+}
+
+.card.blue {
+  border: 2px solid var(--sky);
+}
+
+.card.azure {
+  border: 2px solid var(--air);
+}
+
+.white {
+  background-color: var(--white);
+}
+
+.light {
+  background-color: var(--white);
+}
+
+header,
+footer {
+  background-color: var(--fire);
+}
+
+a {
+  color: var(--black);
+}
+
+a:hover {
+  color: var(--dark);
+}
+
 /* Typography */
 
 @import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap');
@@ -23,6 +107,17 @@ p {
 }
 
 /* Header */
+header {
+  padding-bottom: 0.5em;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  width: 100%;
+}
+
 .brand {
   margin: auto;
   max-width: 500px;
@@ -82,9 +177,9 @@ blockquote {
 
 #hero blockquote {
   font-size: 2em;
-  background-color: #00000060;
+  background-color: #C2756Ccc;
   padding: 2em;
-  color: #ddf;
+  color: var(--black);
 }
 
 .frontpage {
@@ -107,11 +202,17 @@ section {
 
 .col {
   min-width: 400px;
+  max-width: 33%;
+  /* Can specify additional sizes if needed */
 }
 
 .card {
-  padding: 1em;
   margin: 1em;
-  border: #ddd 1px solid;
   border-radius: 10px;
+  padding-bottom: 1em;
+}
+
+.card .body {
+  width: 100%;
+  padding: 1em;
 }
