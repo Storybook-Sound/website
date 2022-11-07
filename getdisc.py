@@ -34,7 +34,13 @@ for item in soup.find_all("item"):
   if not set: continue
   year = set.text
   disco = years[year]
-  print('- project: ' + quote_str(item.title.text), file=disco)
+  # if we have a quoted "project" _within_ the title, just use that
+  titleparts = item.title.text.split('"')
+  if len(titleparts) >= 3:
+    title = titleparts[1]
+  else:
+    title = item.title.text
+  print('- project: ' + quote_str(title), file=disco)
   print('  artist: ' + quote_str(item.find('category', {"domain": "artist"}).text), file=disco)
   print('  year: ' + year, file=disco)
   print('  roles:', file=disco)
