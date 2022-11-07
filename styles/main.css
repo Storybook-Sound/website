@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body {
+  margin: 0;
+}
+
 h1,
 h2,
 h3 {
@@ -116,6 +120,8 @@ footer {
   justify-content: center;
   height: 60px;
   width: 100%;
+  position: sticky;
+  bottom: 0;
 }
 
 .brand {
