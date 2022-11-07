@@ -2,8 +2,6 @@
   box-sizing: border-box;
 }
 
-
-
 h1,
 h2,
 h3 {
@@ -72,4 +70,14 @@ img[src$=".svg"] {
 blockquote {
   max-width: 700px;
   margin: auto;
+}
+
+/* Hero */
+#hero {
+  margin: 0;
+  height: 500px;
+}
+
+.frontpage {
+  background: #999999 url("../images/Studio-Pano-noise-removed-scaled.jpg") no-repeat center center / cover;
 }
