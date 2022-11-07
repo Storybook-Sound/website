@@ -76,8 +76,42 @@ blockquote {
 #hero {
   margin: 0;
   height: 500px;
+  display: flex;
+  justify-content: center;
+}
+
+#hero blockquote {
+  font-size: 2em;
+  background-color: #00000060;
+  padding: 2em;
+  color: #ddf;
 }
 
 .frontpage {
   background: #999999 url("../images/Studio-Pano-noise-removed-scaled.jpg") no-repeat center center / cover;
+}
+
+/* Responsive Grid */
+
+section {
+  border: #999 1px solid 0;
+  width: 90%;
+  margin: 1em auto;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.col {
+  min-width: 400px;
+}
+
+.card {
+  padding: 1em;
+  margin: 1em;
+  border: #ddd 1px solid;
+  border-radius: 10px;
 }
