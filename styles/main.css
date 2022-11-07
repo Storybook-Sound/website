@@ -110,6 +110,10 @@ p {
   margin: 1.4em auto;
 }
 
+main {
+  min-height: 500px;
+}
+
 /* Header */
 header {
   padding-bottom: 0.5em;
@@ -120,8 +124,6 @@ footer {
   justify-content: center;
   height: 60px;
   width: 100%;
-  position: sticky;
-  bottom: 0;
 }
 
 .brand {
