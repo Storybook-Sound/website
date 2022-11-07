@@ -1,4 +1,4 @@
-- project: 'Chris Butler "I Feel A Bit Normal Today"'
+- project: 'I Feel A Bit Normal Today'
   artist: 'Chris Butler'
   year: 1997
   roles:
@@ -82,7 +82,7 @@
   image: 
     url: images/discography/1997/Henry-Rollins.jpg
     title: 'Black Coffee Blues'
-- project: 'Amy Correia "single"'
+- project: 'single'
   artist: 'Amy Correia'
   year: 1997
   roles:
@@ -90,29 +90,29 @@
     - Mixing
   notes: >-
     Oren Bloedow, Producer
-- project: 'Seal "pre-production, unreleased"'
+- project: 'pre-production, unreleased'
   artist: 'Seal'
   year: 1997
   roles:
     - Engineer
     - Mixing
-- project: 'Fleshtest ""'
+- project: ''
   artist: 'Fleshtest'
   year: 1997
   roles:
     - Mastering
-- project: 'Ted Houghton "Smalltime"'
+- project: 'Smalltime'
   artist: 'Ted Houghton'
   year: 1997
   roles:
     - Mastering
-- project: 'Big Hug "Blame It On The Years"'
+- project: 'Blame It On The Years'
   artist: 'Big Hug'
   year: 1997
   roles:
     - Engineer
     - Mixing
-- project: 'Patrick McGuinn & The Blue Ravens ""'
+- project: ''
   artist: 'Patrick McGuinn & The Blue Ravens'
   year: 1997
   roles:

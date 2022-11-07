@@ -48,17 +48,17 @@
   image: 
     url: images/discography/2010/The-Swales.jpg
     title: 'Stranger Things'
-- project: 'Brainfood ""'
+- project: ''
   artist: 'Brainfood'
   year: 2010
   roles:
     - Mastering
-- project: 'Lance Doss "All I Am Left With"'
+- project: 'All I Am Left With'
   artist: 'Lance Doss'
   year: 2010
   roles:
     - Mastering
-- project: 'Flutterbox ""'
+- project: ''
   artist: 'Flutterbox'
   year: 2010
   roles:
@@ -66,18 +66,18 @@
     - Mixing
   notes: >-
     Neill C. Furio, Producer
-- project: '4th Street Nite Owls ""'
+- project: ''
   artist: '4th Street Nite Owls'
   year: 2010
   roles:
     - Engineer
     - Mixing
-- project: 'The Nu-Sonics ""'
+- project: ''
   artist: 'The Nu-Sonics'
   year: 2010
   roles:
     - Engineer
-- project: 'Brian O’Neill ""'
+- project: ''
   artist: 'Brian O’Neill'
   year: 2010
   roles:

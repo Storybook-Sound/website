@@ -1,4 +1,4 @@
-- project: 'The Cost Of Living "Comic Book Page"'
+- project: 'Comic Book Page'
   artist: 'The Cost Of Living'
   year: 1991
   roles:
@@ -6,14 +6,14 @@
     - Mixing
   notes: >-
     Kent Schuyler, Producer
-- project: 'Sherry Winston "Love Madness"'
+- project: 'Love Madness'
   artist: 'Sherry Winston'
   year: 1991
   roles:
     - Engineer
   notes: >-
     Kent Schuyler, Producer
-- project: 'The Gift "Wasted Time"'
+- project: 'Wasted Time'
   artist: 'The Gift'
   year: 1991
   roles:

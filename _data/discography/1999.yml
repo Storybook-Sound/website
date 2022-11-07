@@ -28,7 +28,7 @@
   image: 
     url: images/discography/1999/skanatra.jpg
     title: 'Skanatra'
-- project: 'Beastie Boys "The Sounds Of Science"'
+- project: 'The Sounds Of Science'
   artist: 'Beastie Boys'
   year: 1999
   roles:
@@ -51,12 +51,12 @@
   image: 
     url: images/discography/1999/Elena.png
     title: 'One Dog Town'
-- project: 'Greg Ribot & Cumbia del Norte "International Conspiracy"'
+- project: 'International Conspiracy'
   artist: 'Greg Ribot & Cumbia del Norte'
   year: 1999
   roles:
     - Engineer
-- project: 'Lloyd Cole ""'
+- project: ''
   artist: 'Lloyd Cole'
   year: 1999
   roles:

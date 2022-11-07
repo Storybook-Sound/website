@@ -1,4 +1,4 @@
-- project: 'Jason Didner and the Jungle Gym Jam "Everyone''s Invited"'
+- project: 'Everyone''s Invited'
   artist: 'Jason Didner and the Jungle Gym Jam'
   year: 2013
   roles:
@@ -12,7 +12,7 @@
   image: 
     url: images/discography/2013/everyones-invited-cover-artwork-300x300.jpg
     title: 'Jason Didner and the Jungle Gym Jam "Everyone''s Invited"'
-- project: 'Pigeons "The Helpless and The Hopeless"'
+- project: 'The Helpless and The Hopeless'
   artist: 'Pigeons'
   year: 2013
   roles:
@@ -22,22 +22,22 @@
   image: 
     url: images/discography/2013/pigeons.jpg
     title: 'Pigeons "The Helpless and The Hopeless"'
-- project: 'Bob Carr "EP"'
+- project: 'EP'
   artist: 'Bob Carr'
   year: 2013
   roles:
     - Mastering
-- project: 'Chris P. Cauley "El Dorado"'
+- project: 'El Dorado'
   artist: 'Chris P. Cauley'
   year: 2013
   roles:
     - Mastering
-- project: 'Maxwell’s Last Night "feat. The Bongos, The Individuals, “a”, Delicate Steve"'
+- project: 'feat. The Bongos, The Individuals, “a”, Delicate Steve'
   artist: 'Maxwell’s Last Night'
   year: 2013
   roles:
     - Engineer
-- project: 'Tri-State "Tri-State"'
+- project: 'Tri-State'
   artist: 'Tri-State'
   year: 2013
   roles:
@@ -45,57 +45,57 @@
     - Mastering
     - Mixing
     - Recording
-- project: 'Rebecca Turner "Nobody Sees Me Like You Do (single)"'
+- project: 'Nobody Sees Me Like You Do (single)'
   artist: 'Rebecca Turner'
   year: 2013
   roles:
     - Engineer
     - Mixing
     - Recording
-- project: 'The Poor Man’s Opera "We’re All Water (single)"'
+- project: 'We’re All Water (single)'
   artist: 'The Poor Man''s Opera'
   year: 2013
   roles:
     - Engineer
     - Mixing
     - Recording
-- project: 'The Cucumbers "Rent Party (single)"'
+- project: 'Rent Party (single)'
   artist: 'The Cucumbers'
   year: 2013
   roles:
     - Mastering
-- project: 'Ruby On The Vine "One Track Mind (single)"'
+- project: 'One Track Mind (single)'
   artist: 'Ruby On The Vine'
   year: 2013
   roles:
     - Mixing
-- project: 'Bob Cannon "single"'
+- project: 'single'
   artist: 'Bob Cannon'
   year: 2013
   roles:
     - Mastering
-- project: 'Small Town Sound "Now Or Never"'
+- project: 'Now Or Never'
   artist: 'Small Town Sound'
   year: 2013
   roles:
     - Mastering
-- project: 'Beast "single"'
+- project: 'single'
   artist: 'Beast'
   year: 2013
   roles:
     - Mastering
-- project: 'Bear Republic "EP"'
+- project: 'EP'
   artist: 'Bear Republic'
   year: 2013
   roles:
     - Mastering
-- project: 'Saturday Afternoon Song Swap Radio ""'
+- project: ''
   artist: 'Saturday Afternoon Song Swap Radio'
   year: 2013
   roles:
     - Engineer
     - Supervising Engineer
-- project: 'Chris Butler "The Major Glitch"'
+- project: 'The Major Glitch'
   artist: 'Chris Butler'
   year: 2013
   roles:
@@ -104,7 +104,7 @@
     - Mixing
   notes: >-
     various artist contributions
-- project: 'Elena & Boo "Sailor Girl​/​Loving Cup (single)"'
+- project: 'Sailor Girl​/​Loving Cup (single)'
   artist: 'Elena & Boo'
   year: 2013
   roles:

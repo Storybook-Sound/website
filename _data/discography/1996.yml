@@ -1,4 +1,4 @@
-- project: 'Beastie Boys "Aglio e Olio"'
+- project: 'Aglio e Olio'
   artist: 'Beastie Boys'
   year: 1996
   roles:
@@ -40,7 +40,7 @@
   image: 
     url: images/discography/1996/Bush-Tetras-Page-18.jpg
     title: 'Page 18'
-- project: 'Allen Ginsberg "unreleased"'
+- project: 'unreleased'
   artist: 'Allen Ginsberg'
   year: 1996
   roles:
@@ -48,12 +48,12 @@
     - Recording
   notes: >-
     Live at St Mark’s Church w/ Lenny Kaye, Lee Ranaldo, Steve Shelley, Marc Ribot, Thurston Moore, Kim Deal
-- project: 'Chris Butler "The Devil Giltch"'
+- project: 'The Devil Giltch'
   artist: 'Chris Butler'
   year: 1996
   roles:
     - Engineer
-- project: 'Grind "film score"'
+- project: 'film score'
   artist: 'Grind'
   year: 1996
   roles:
@@ -61,12 +61,12 @@
     - Mixing
   notes: >-
     Brian Kelly, Producer
-- project: 'Joel Golden "Astronaut"'
+- project: 'Astronaut'
   artist: 'Joel Golden'
   year: 1996
   roles:
     - Mastering
-- project: 'David Poe "The Glass Suit E.P."'
+- project: 'The Glass Suit E.P.'
   artist: 'David Poe'
   year: 1996
   roles:
@@ -74,23 +74,23 @@
     - Mixing
   notes: >-
     Sim Cain, David Poe, Producers
-- project: 'Leif Arntzen "Eventide"'
+- project: 'Eventide'
   artist: 'Leif Arntzen'
   year: 1996
   roles:
     - Engineer
     - Mixing
-- project: 'Buffalo Daughter ""'
+- project: ''
   artist: 'Buffalo Daughter'
   year: 1996
   roles:
     - Digital Editing
-- project: 'Nancy Boy ""'
+- project: ''
   artist: 'Nancy Boy'
   year: 1996
   roles:
     - Digital Editing
-- project: 'Black Rain "Anarchy"'
+- project: 'Anarchy'
   artist: 'Black Rain'
   year: 1996
   roles:

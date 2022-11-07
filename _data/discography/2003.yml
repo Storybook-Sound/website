@@ -49,12 +49,12 @@
   image: 
     url: images/discography/2003/pinamonti2.jpg
     title: 'JP3'
-- project: 'The Badge "Calling Generation Mojo"'
+- project: 'Calling Generation Mojo'
   artist: 'The Badge'
   year: 2003
   roles:
     - Engineer
-- project: 'Burn Barrell ""'
+- project: ''
   artist: 'Burn Barrell'
   year: 2003
   roles:

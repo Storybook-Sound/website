@@ -38,12 +38,12 @@
   image: 
     url: images/discography/2000/galoots.jpg
     title: 'One Thing Right'
-- project: 'Tim Beattie ""'
+- project: ''
   artist: 'Tim Beattie'
   year: 2000
   roles:
     - Mastering
-- project: 'The Whatnots "Snug (unreleased)"'
+- project: 'Snug (unreleased)'
   artist: 'The Whatnots'
   year: 2000
   roles:

@@ -1,4 +1,4 @@
-- project: 'Michael J. Miles "A-sides"'
+- project: 'A-sides'
   artist: 'Michael J. Miles'
   year: 2016
   roles:
@@ -12,7 +12,7 @@
   image: 
     url: images/discography/2016/michaeljmiles16_large.jpg
     title: 'Michael J. Miles "A-sides"'
-- project: 'Dada Paradox "Mobile Flight"'
+- project: 'Mobile Flight'
   artist: 'Dada Paradox'
   year: 2016
   roles:
@@ -37,7 +37,7 @@
   image: 
     url: images/discography/2016/a3929898019_10.jpg
     title: 'Mike Daly and The Planets (single)'
-- project: 'Miss Nina & The Jumping Jacks "Every Day''s Your Birthday"'
+- project: 'Every Day''s Your Birthday'
   artist: 'Miss Nina & The Jumping Jacks'
   year: 2016
   roles:
@@ -47,7 +47,7 @@
   image: 
     url: images/discography/2016/61y7MAv8lPL._SY355_.jpg
     title: 'Miss Nina & The Jumping Jacks "Every Day''s Your Birthday"'
-- project: 'Bhujanga Sangha "Naad Your Heart"'
+- project: 'Naad Your Heart'
   artist: 'Bhujanga Sangha'
   year: 2016
   roles:
@@ -62,7 +62,7 @@
   image: 
     url: images/discography/2016/naadyourheartcover.jpg
     title: 'Bhujanga Sangha "Naad Your Heart"'
-- project: 'Jeff Slate "Secret Poetry"'
+- project: 'Secret Poetry'
   artist: 'Jeff Slate'
   year: 2016
   roles:
@@ -72,7 +72,7 @@
   image: 
     url: images/discography/2016/910Wvnne22L._SL1500_.jpg
     title: 'Jeff Slate "Secret Poetry"'
-- project: 'The Dayhikers "Don''t Want To"'
+- project: 'Don''t Want To'
   artist: 'The Dayhikers'
   year: 2016
   roles:
@@ -82,7 +82,7 @@
   image: 
     url: images/discography/2016/49186abcb7c40f72e7d2e6c190a1e1a86e92d848.jpg
     title: 'The Dayhikers "Don''t Want To"'
-- project: 'Aliah Rosenthal "Slick Bowery Sell Out"'
+- project: 'Slick Bowery Sell Out'
   artist: 'Aliah Rosenthal'
   year: 2016
   roles:
@@ -100,7 +100,7 @@
   image: 
     url: images/discography/2016/aliahrosenthal.jpg
     title: 'Aliah Rosenthal "Slick Bowery Sell Out"'
-- project: 'Terry McCarthy "Go Fourth"'
+- project: 'Go Fourth'
   artist: 'Terry McCarthy'
   year: 2016
   roles:
@@ -110,7 +110,7 @@
   image: 
     url: images/discography/2016/terrymccarthy2.jpg
     title: 'Terry McCarthy "Go Fourth"'
-- project: 'Jason Didner and the Jungle Gym Jam "Lollipop Motel"'
+- project: 'Lollipop Motel'
   artist: 'Jason Didner and the Jungle Gym Jam'
   year: 2016
   roles:
@@ -124,7 +124,7 @@
   image: 
     url: images/discography/2016/maxresdefault.jpg
     title: 'Jason Didner and the Jungle Gym Jam "Lollipop Motel"'
-- project: 'Cartoon Spirits "Crustacean EP"'
+- project: 'Crustacean EP'
   artist: 'Cartoon Spirits'
   year: 2016
   roles:
@@ -138,7 +138,7 @@
   image: 
     url: images/discography/2016/0006983216_10.jpg
     title: 'Cartoon Spirits "Crustacean EP"'
-- project: 'Buddy Toth "Sodium Flares"'
+- project: 'Sodium Flares'
   artist: 'Buddy Toth'
   year: 2016
   roles:
@@ -155,7 +155,7 @@
   image: 
     url: images/discography/2016/a4133106848_10.jpg
     title: 'Buddy Toth "Sodium Flares"'
-- project: 'Michael Kroll "Clamorous"'
+- project: 'Clamorous'
   artist: 'Michael Kroll'
   year: 2016
   roles:
@@ -165,7 +165,7 @@
   image: 
     url: images/discography/2016/clamorous300.png
     title: 'Michael Kroll "Clamorous"'
-- project: 'Eric Kivnick "Music For Martha"'
+- project: 'Music For Martha'
   artist: 'Eric Kivnick'
   year: 2016
   roles:
@@ -175,7 +175,7 @@
   image: 
     url: images/discography/2016/original.jpeg.jpg
     title: 'Eric Kivnick "Music For Martha"'
-- project: 'The Cucumbers "The Fake Doom Years (1983-1986)"'
+- project: 'The Fake Doom Years (1983-1986)'
   artist: 'The Cucumbers'
   year: 2016
   roles:
@@ -185,7 +185,7 @@
   image: 
     url: images/discography/2016/Fake-Doom-Years-cover-art.jpg
     title: 'The Cucumbers "The Fake Doom Years (1983-1986)"'
-- project: 'Elena & Boo "I Wait For The Light"'
+- project: 'I Wait For The Light'
   artist: 'Elena & Boo'
   year: 2016
   roles:
@@ -199,7 +199,7 @@
   image: 
     url: images/discography/2016/a3436751216_10.jpg
     title: 'Elena & Boo "I Wait For The Light"'
-- project: 'Yarn "This Is The Year"'
+- project: 'This Is The Year'
   artist: 'Yarn'
   year: 2016
   roles:
@@ -215,7 +215,7 @@
   image: 
     url: images/discography/2016/album-cover-tity.jpg
     title: 'Yarn "This Is The Year"'
-- project: 'The Feelies "In Between"'
+- project: 'In Between'
   artist: 'The Feelies'
   year: 2016
   roles:
@@ -232,58 +232,58 @@
   image: 
     url: images/discography/2016/The-Feelies-In-Between.jpg
     title: 'The Feelies "In Between"'
-- project: 'The Cucumbers "The Fake Doom Years (1983-1986) Instrumentals"'
+- project: 'The Fake Doom Years (1983-1986) Instrumentals'
   artist: 'The Cucumbers'
   year: 2016
   roles:
     - Mastering
     - Mixing
-- project: 'Sesame Studios "We Say Night Night"'
+- project: 'We Say Night Night'
   artist: 'Sesame Studios'
   year: 2016
   roles:
     - Engineer
-- project: 'The Marconis "Monster In Me"'
+- project: 'Monster In Me'
   artist: 'The Marconis'
   year: 2016
   roles:
     - Mastering
-- project: 'Songs of Winter Hours "Live @ CDC Theater"'
+- project: 'Live @ CDC Theater'
   artist: 'Songs of Winter Hours'
   year: 2016
   roles:
     - Mastering
-- project: 'EJS "Double Single"'
+- project: 'Double Single'
   artist: 'EJS'
   year: 2016
   roles:
     - Mastering
-- project: 'Campfire Flies "We Can See America From Here"'
+- project: 'We Can See America From Here'
   artist: 'Campfire Flies'
   year: 2016
   roles:
     - Mastering
-- project: 'Soltero "Wisterians / I Want To Have A Baby"'
+- project: 'Wisterians / I Want To Have A Baby'
   artist: 'Soltero'
   year: 2016
   roles:
     - Mastering
-- project: 'Dave Lippman "Hands Up"'
+- project: 'Hands Up'
   artist: 'Dave Lippman'
   year: 2016
   roles:
     - Mastering
-- project: 'Sad About Girls "Can’t Break A Heart"'
+- project: 'Can’t Break A Heart'
   artist: 'Sad About Girls'
   year: 2016
   roles:
     - Mastering
-- project: 'Rebecca Farnham and Kat De Bari "String or Thread"'
+- project: 'String or Thread'
   artist: 'Rebecca Farnham and Kat De Bari'
   year: 2016
   roles:
     - Mastering
-- project: 'Various Artists "Children’s Tumor Foundation"'
+- project: 'Children’s Tumor Foundation'
   artist: 'Various Artists'
   year: 2016
   roles:

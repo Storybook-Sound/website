@@ -38,14 +38,14 @@
   image: 
     url: images/discography/2009/Brothers-Gethway.jpg
     title: 'Monstrous'
-- project: 'The Mudlarks "A Tender Age"'
+- project: 'A Tender Age'
   artist: 'The Mudlarks'
   year: 2009
   roles:
     - Mastering
   notes: >-
     Paul Carbonara, Producer
-- project: 'Silverado "Silverado Favorites"'
+- project: 'Silverado Favorites'
   artist: 'Silverado'
   year: 2009
   roles:

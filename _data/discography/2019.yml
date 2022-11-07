@@ -1,4 +1,4 @@
-- project: 'Lizzie & The Makers "Meanwhile..."'
+- project: 'Meanwhile...'
   artist: 'Lizzie & The Makers'
   year: 2019
   roles:
@@ -12,7 +12,7 @@
   image: 
     url: images/discography/2019/a2773344258_10.jpg
     title: 'Lizzie & The Makers "Meanwhile..."'
-- project: 'Radical Empathy Trio "Reality And Other Imaginary Places"'
+- project: 'Reality And Other Imaginary Places'
   artist: 'Radical Empathy Trio'
   year: 2019
   roles:
@@ -43,7 +43,7 @@
   image: 
     url: images/discography/2019/a3761727695_10.jpg
     title: 'Sad About Girls (single)'
-- project: 'Luke Tuchscherer "Carousel"'
+- project: 'Carousel'
   artist: 'Luke Tuchscherer'
   year: 2019
   roles:
@@ -60,7 +60,7 @@
   image: 
     url: images/discography/2019/a3598181515_10.jpg
     title: 'Luke Tuchscherer "Carousel"'
-- project: 'Frank Migliorelli & The Dirt Nappers "The Things You Left Behind"'
+- project: 'The Things You Left Behind'
   artist: 'Frank Migliorelli & The Dirt Nappers'
   year: 2019
   roles:
@@ -74,7 +74,7 @@
   image: 
     url: images/discography/2019/a4201811960_10.jpg
     title: 'Frank Migliorelli & The Dirt Nappers "The Things You Left Behind"'
-- project: 'Tom Shape "Tom Shape"'
+- project: 'Tom Shape'
   artist: 'Tom Shape'
   year: 2019
   roles:
@@ -88,7 +88,7 @@
   image: 
     url: images/discography/2019/a1886271816_10.jpg
     title: 'Tom Shape "Tom Shape"'
-- project: 'The Poor Man''s Opera "Barstool Confessional"'
+- project: 'Barstool Confessional'
   artist: 'The Poor Man''s Opera'
   year: 2019
   roles:
@@ -105,7 +105,7 @@
   image: 
     url: images/discography/2019/52287144_2227745563950010_7141804583386349568_o.jpg
     title: 'The Poor Man''s Opera "Barstool Confessional"'
-- project: 'The Second Take "Just Let It Happen"'
+- project: 'Just Let It Happen'
   artist: 'The Second Take'
   year: 2019
   roles:
@@ -115,7 +115,7 @@
   image: 
     url: images/discography/2019/lpalb01696115_large.jpg
     title: 'The Second Take "Just Let It Happen"'
-- project: 'Wire Troop "Trio Power"'
+- project: 'Trio Power'
   artist: 'Wire Troop'
   year: 2019
   roles:
@@ -129,7 +129,7 @@
   image: 
     url: images/discography/2019/a0172694111_10.jpg
     title: 'Wire Troop "Trio Power"'
-- project: 'Juniper "Boys! Boys! Boys!" single'
+- project: 'Boys! Boys! Boys!'
   artist: 'Juniper'
   year: 2019
   roles:
@@ -145,7 +145,7 @@
   image: 
     url: images/discography/2019/index.png
     title: 'Juniper "Boys! Boys! Boys!" single'
-- project: 'Karen Dahlstrom "No Man''s Land"'
+- project: 'No Man''s Land'
   artist: 'Karen Dahlstrom'
   year: 2019
   roles:
@@ -160,7 +160,7 @@
   image: 
     url: images/discography/2019/a1698171087_10.jpg
     title: 'Karen Dahlstrom "No Man''s Land"'
-- project: 'Bobtown "Chasing The Sun"'
+- project: 'Chasing The Sun'
   artist: 'Bobtown'
   year: 2019
   roles:
@@ -180,7 +180,7 @@
   image: 
     url: images/discography/2019/a1585712335_10.jpg
     title: 'Bobtown "Chasing The Sun"'
-- project: 'Ryan Herrick "Heal Your Bones"'
+- project: 'Heal Your Bones'
   artist: 'Ryan Herrick'
   year: 2019
   roles:
@@ -196,7 +196,7 @@
   image: 
     url: images/discography/2019/l1alb01781235_large.jpg
     title: 'Ryan Herrick "Heal Your Bones"'
-- project: 'Allied Chemical "So Sudden"'
+- project: 'So Sudden'
   artist: 'Allied Chemical'
   year: 2019
   roles:
@@ -211,7 +211,7 @@
   image: 
     url: images/discography/2019/a2428527589_10.jpg
     title: 'Allied Chemical "So Sudden"'
-- project: 'Thollem/Parker/Cline "Gowanus Sessions II"'
+- project: 'Gowanus Sessions II'
   artist: 'Thollem/Parker/Cline'
   year: 2019
   roles:
@@ -233,7 +233,7 @@
   image: 
     url: images/discography/2019/ESPDISK5038LP_CU.jpg
     title: 'Thollem/Parker/Cline "Gowanus Sessions II"'
-- project: 'Stephanie Seymour "There Are Birds"'
+- project: 'There Are Birds'
   artist: 'Stephanie Seymour'
   year: 2019
   roles:
@@ -248,7 +248,7 @@
   image: 
     url: images/discography/2019/a1242019964_10.jpg
     title: 'Stephanie Seymour "There Are Birds"'
-- project: 'Jim Higgins "Yestermorrow"'
+- project: 'Yestermorrow'
   artist: 'Jim Higgins'
   year: 2019
   roles:
@@ -276,7 +276,7 @@
   image: 
     url: images/discography/2019/a2302804362_10.jpg
     title: 'Jim Higgins "Yestermorrow"'
-- project: 'Roger C. Reale "The Collection"'
+- project: 'The Collection'
   artist: 'Roger C. Reale'
   year: 2019
   roles:
@@ -295,7 +295,7 @@
   image: 
     url: images/discography/2019/Roger-C.-Reale-The-Collection.jpg
     title: 'Roger C. Reale "The Collection"'
-- project: 'Rebecca Turner "The New Wrong Way"'
+- project: 'The New Wrong Way'
   artist: 'Rebecca Turner'
   year: 2019
   roles:
@@ -314,108 +314,108 @@
   image: 
     url: images/discography/2019/Rebecca-Turner-The-New-Wrong-Way.jpg
     title: 'Rebecca Turner "The New Wrong Way"'
-- project: 'Jamie Fried Sextet "Welcome"'
+- project: 'Welcome'
   artist: 'Jamie Fried Sextet'
   year: 2019
   roles:
     - Mastering
-- project: 'No Accidents "You Created The Problem, You Solve It Vol. 1"'
+- project: 'You Created The Problem, You Solve It Vol. 1'
   artist: 'No Accidents'
   year: 2019
   roles:
     - Mastering
-- project: 'Mark and the Message "Where we go"'
+- project: 'Where we go'
   artist: 'Mark and the Message'
   year: 2019
   roles:
     - Mastering
-- project: 'Deena "Sisters"'
+- project: 'Sisters'
   artist: 'Deena'
   year: 2019
   roles:
     - Mastering
-- project: 'Goodness Gracious "Awful"'
+- project: 'Awful'
   artist: 'Goodness Gracious'
   year: 2019
   roles:
     - Mastering
-- project: 'a "Live In the Basement – Summer ’78"'
+- project: 'Live In the Basement – Summer ’78'
   artist: 'a'
   year: 2019
   roles:
     - Mastering
-- project: 'The Cucumbers "Love and Joy"'
+- project: 'Love and Joy'
   artist: 'The Cucumbers'
   year: 2019
   roles:
     - Engineer
     - Mastering
-- project: 'Mark and the Message "Residue Effect"'
+- project: 'Residue Effect'
   artist: 'Mark and the Message'
   year: 2019
   roles:
     - Mastering
-- project: 'Chel Hill "Classic Love Story"'
+- project: 'Classic Love Story'
   artist: 'Chel Hill'
   year: 2019
   roles:
     - Mastering
-- project: 'Joey Ray "Break Us"'
+- project: 'Break Us'
   artist: 'Joey Ray'
   year: 2019
   roles:
     - Mastering
-- project: 'Joey Ray "Break Us Away"'
+- project: 'Break Us Away'
   artist: 'Joey Ray'
   year: 2019
   roles:
     - Mastering
-- project: 'Deena "The Meuller Report"'
+- project: 'The Meuller Report'
   artist: 'Deena'
   year: 2019
   roles:
     - Mastering
-- project: 'Dirty Harry "3 Singles"'
+- project: '3 Singles'
   artist: 'Dirty Harry'
   year: 2019
   roles:
     - Mastering
-- project: 'John Sharples "The Reality Of The Situation"'
+- project: 'The Reality Of The Situation'
   artist: 'John Sharples'
   year: 2019
   roles:
     - Mastering
-- project: 'Deena "Skating On Melting Ice"'
+- project: 'Skating On Melting Ice'
   artist: 'Deena'
   year: 2019
   roles:
     - Mastering
-- project: 'Cartoon Spirits "Clark Gable"'
+- project: 'Clark Gable'
   artist: 'Cartoon Spirits'
   year: 2019
   roles:
     - Mastering
-- project: 'Peter Lerner Quintet "Son of Local Colour"'
+- project: 'Son of Local Colour'
   artist: 'Peter Lerner Quintet'
   year: 2019
   roles:
     - Mastering
-- project: 'Andy Lamy "Al Cneasu Creachtai"'
+- project: 'Al Cneasu Creachtai'
   artist: 'Andy Lamy'
   year: 2019
   roles:
     - Mastering
-- project: 'Various Artists "New Improvised Music From Buenos Aires"'
+- project: 'New Improvised Music From Buenos Aires'
   artist: 'Various Artists'
   year: 2019
   roles:
     - Mastering
-- project: 'John Paris "Baby"'
+- project: 'Baby'
   artist: 'John Paris'
   year: 2019
   roles:
     - Mastering
-- project: '4th Street NiteOwls "Holiday single"'
+- project: 'Holiday single'
   artist: '4th Street NiteOwls'
   year: 2019
   roles:

@@ -8,29 +8,29 @@
   image: 
     url: images/discography/1994/bloodsugar.jpg
     title: 'In & Out'
-- project: 'Preston Smith ""'
+- project: ''
   artist: 'Preston Smith'
   year: 1994
   roles:
     - Engineer
-- project: 'The Whatnots "Heat Meiser (single)"'
+- project: 'Heat Meiser (single)'
   artist: 'The Whatnots'
   year: 1994
   roles:
     - Engineer
     - Mixing
-- project: 'Dog’s Eye View "Happy Nowhere (pre-production, unreleased)"'
+- project: 'Happy Nowhere (pre-production, unreleased)'
   artist: 'Dog’s Eye View'
   year: 1994
   roles:
     - Engineer
     - Mixing
-- project: 'Ron English "English 101"'
+- project: 'English 101'
   artist: 'Ron English'
   year: 1994
   roles:
     - Engineer
-- project: 'Jason Rabe ""'
+- project: ''
   artist: 'Jason Rabe'
   year: 1994
   roles:

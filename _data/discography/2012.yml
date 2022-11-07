@@ -1,4 +1,4 @@
-- project: 'Bob Evans "Pipeline on WMBR"'
+- project: 'Pipeline on WMBR'
   artist: 'Bob Evans'
   year: 2012
   roles:
@@ -16,7 +16,7 @@
   image: 
     url: images/discography/2012/bob.jpg
     title: 'Bob Evans "Pipeline on WMBR"'
-- project: 'Li''l Mo and The Monicats "Whole Lotta Love"'
+- project: 'Whole Lotta Love'
   artist: 'Li''l Mo and The Monicats'
   year: 2012
   roles:
@@ -26,7 +26,7 @@
   image: 
     url: images/discography/2012/lil-mo.jpg
     title: 'Li''l Mo and The Monicats "Whole Lotta Love"'
-- project: 'Marco Ranieri "Heartbroken Radio"'
+- project: 'Heartbroken Radio'
   artist: 'Marco Ranieri'
   year: 2012
   roles:
@@ -36,7 +36,7 @@
   image: 
     url: images/discography/2012/marco.jpg
     title: 'Marco Ranieri "Heartbroken Radio"'
-- project: 'Boz Metzdorf "Green And Blue"'
+- project: 'Green And Blue'
   artist: 'Boz Metzdorf'
   year: 2012
   roles:
@@ -46,7 +46,7 @@
   image: 
     url: images/discography/2012/cdcover_5_greenandblue.jpg
     title: 'Boz Metzdorf "Green And Blue"'
-- project: 'Illtet "Live C.B.G.B.''S"'
+- project: 'Live C.B.G.B.''S'
   artist: 'Illtet'
   year: 2012
   roles:
@@ -60,24 +60,24 @@
   image: 
     url: images/discography/2012/Front1.jpg
     title: 'Illtet "Live C.B.G.B.''S"'
-- project: 'Lanes Narrow (with Bob Carr) "4-Way Stop"'
+- project: '4-Way Stop'
   artist: 'Lanes Narrow (with Bob Carr)'
   year: 2012
   roles:
     - Mastering
-- project: 'Erica Smith And The 99 Cent "Dreams One for My Baby"'
+- project: 'Dreams One for My Baby'
   artist: 'Erica Smith And The 99 Cent'
   year: 2012
   roles:
     - Engineer
     - Mastering
     - Mixing
-- project: 'Boz Metzdorf "Tin Pan Alley"'
+- project: 'Tin Pan Alley'
   artist: 'Boz Metzdorf'
   year: 2012
   roles:
     - Mastering
-- project: 'Jason Didner "Jackals On The Prowl"'
+- project: 'Jackals On The Prowl'
   artist: 'Jason Didner'
   year: 2012
   roles:

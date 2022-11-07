@@ -1,4 +1,4 @@
-- project: 'Sweet Lizard Illtet "Illtet Live & Rarities"'
+- project: 'Illtet Live & Rarities'
   artist: 'Sweet Lizard Illtet'
   year: 2011
   roles:
@@ -8,7 +8,7 @@
   image: 
     url: images/discography/2011/illtet-live.png
     title: 'Sweet Lizard Illtet "Illtet Live & Rarities"'
-- project: 'Barefoot Tramps "Wheels On Fire"'
+- project: 'Wheels On Fire'
   artist: 'Barefoot Tramps'
   year: 2011
   roles:
@@ -68,23 +68,23 @@
   image: 
     url: images/discography/2011/image9.jpg
     title: 'Shabbat Shaboom'
-- project: 'Bob Carr "Scarabs For Arabs (single)"'
+- project: 'Scarabs For Arabs (single)'
   artist: 'Bob Carr'
   year: 2011
   roles:
     - Mastering
     - Mixing
-- project: 'Josh Herman "Life’s a Long Road"'
+- project: 'Life’s a Long Road'
   artist: 'Josh Herman'
   year: 2011
   roles:
     - Mastering
-- project: 'Chris Skel "You Ruined Christmas (single)"'
+- project: 'You Ruined Christmas (single)'
   artist: 'Chris Skel'
   year: 2011
   roles:
     - Mastering
-- project: 'CBI String Band "Mizmor Shir L’Yom HaShabbat"'
+- project: 'Mizmor Shir L’Yom HaShabbat'
   artist: 'CBI String Band'
   year: 2011
   roles:

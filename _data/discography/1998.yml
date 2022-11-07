@@ -38,7 +38,7 @@
   image: 
     url: images/discography/1998/badge.jpg
     title: 'Digital Retro'
-- project: 'Beastie Boys "Hello Nasty"'
+- project: 'Hello Nasty'
   artist: 'Beastie Boys'
   year: 1998
   roles:
@@ -80,7 +80,7 @@
   image: 
     url: images/discography/1998/jeniferj2.jpg
     title: 'Slowly Bright'
-- project: 'Mimi Cross "Monkey Trap"'
+- project: 'Monkey Trap'
   artist: 'Mimi Cross'
   year: 1998
   roles:
@@ -120,46 +120,46 @@
   image: 
     url: images/discography/1998/wobblies.jpg
     title: 'I Have Some Language'
-- project: 'Various Artists "Christmas to Remember [Velvel]"'
+- project: 'Christmas to Remember [Velvel]'
   artist: 'Various Artists'
   year: 1998
   roles:
     - Engineer
     - Mixing
-- project: 'Reiss "Joying on the Vibe of Life"'
+- project: 'Joying on the Vibe of Life'
   artist: 'Reiss'
   year: 1998
   roles:
     - Engineer
-- project: 'W.A. Atwell III "Elements"'
+- project: 'Elements'
   artist: 'W.A. Atwell III'
   year: 1998
   roles:
     - Mastering
-- project: 'W.A. Atwell III "Borganica"'
+- project: 'Borganica'
   artist: 'W.A. Atwell III'
   year: 1998
   roles:
     - Mastering
-- project: 'Fickle Musheads ""'
+- project: ''
   artist: 'Fickle Musheads'
   year: 1998
   roles:
     - Mastering
-- project: 'pbsg "Fail (unreleased)"'
+- project: 'Fail (unreleased)'
   artist: 'pbsg'
   year: 1998
   roles:
     - Engineer
     - Mastering
     - Mixing
-- project: 'Deborah Gibson "My Girlfriend’s Boyfriend, soundtrack"'
+- project: 'My Girlfriend’s Boyfriend, soundtrack'
   artist: 'Deborah Gibson'
   year: 1998
   roles:
     - Engineer
     - Mixing
-- project: 'Those Bleeding Tulips ""'
+- project: ''
   artist: 'Those Bleeding Tulips'
   year: 1998
   roles:
@@ -168,7 +168,7 @@
     - Mixing
   notes: >-
     Craig Kafton, Producer
-- project: 'Milla Jovovich "pre-production, unreleased"'
+- project: 'pre-production, unreleased'
   artist: 'Milla Jovovich'
   year: 1998
   roles:

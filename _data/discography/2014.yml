@@ -1,4 +1,4 @@
-- project: 'Peter Hutchison "Empire of Light"'
+- project: 'Empire of Light'
   artist: 'Peter Hutchison'
   year: 2014
   roles:
@@ -8,7 +8,7 @@
   image: 
     url: images/discography/2014/peterhutchison_large.jpg
     title: 'Peter Hutchison "Empire of Light"'
-- project: 'Emily Hurd "Landmark"'
+- project: 'Landmark'
   artist: 'Emily Hurd'
   year: 2014
   roles:
@@ -19,7 +19,7 @@
   image: 
     url: images/discography/2014/album-cover-new.jpg
     title: 'Emily Hurd "Landmark"'
-- project: 'Chris Butler "The Museum of Me"'
+- project: 'The Museum of Me'
   artist: 'Chris Butler'
   year: 2014
   roles:
@@ -93,7 +93,7 @@
   image: 
     url: images/discography/2014/receding.jpeg
     title: 'Receding Choir'
-- project: 'Out Of Order "Hey Pussycat!"'
+- project: 'Hey Pussycat!'
   artist: 'Out Of Order'
   year: 2014
   roles:
@@ -247,7 +247,7 @@
   image: 
     url: images/discography/2014/CDOmuImprovising.jpg
     title: 'Improvising'
-- project: 'Chris Butler "Easy Life"'
+- project: 'Easy Life'
   artist: 'Chris Butler'
   year: 2014
   roles:
@@ -302,7 +302,7 @@
   image: 
     url: images/discography/2014/Homage.jpg
     title: 'Homage - lots of bands doing Descendants songs'
-- project: 'Sweet Lizard Illtet "2 Rare"'
+- project: '2 Rare'
   artist: 'Sweet Lizard Illtet'
   year: 2014
   roles:
@@ -352,7 +352,7 @@
   image: 
     url: images/discography/2014/rob-norris.jpg
     title: 'Morning Becomes Electric'
-- project: 'Sinsanity "The Machine"'
+- project: 'The Machine'
   artist: 'Sinsanity'
   year: 2014
   roles:
@@ -462,7 +462,7 @@
   image: 
     url: images/discography/2014/shitbirds.jpg
     title: 'Oh Joy!'
-- project: 'Randy Noojin "Hard Travelin'' With Woody and The Hobos"'
+- project: 'Hard Travelin'' With Woody and The Hobos'
   artist: 'Randy Noojin'
   year: 2014
   roles:
@@ -474,73 +474,73 @@
   image: 
     url: images/discography/2014/woody.jpeg
     title: 'Randy Noojin "Hard Travelin'' With Woody and The Hobos"'
-- project: 'The Kuhl Kats "Little RocknRollers"'
+- project: 'Little RocknRollers'
   artist: 'The Kuhl Kats'
   year: 2014
   roles:
     - Mastering
-- project: 'Various Artists "Rent Party 5th Anniversary Collection"'
+- project: 'Rent Party 5th Anniversary Collection'
   artist: 'Various Artists'
   year: 2014
   roles:
     - Mastering
-- project: 'Emily Duff Band "Me I Just Want Some/Maybe In The Morning single"'
+- project: 'Me I Just Want Some/Maybe In The Morning single'
   artist: 'Emily Duff Band'
   year: 2014
   roles:
     - Mastering
-- project: 'Rich Kivnik ""'
+- project: ''
   artist: 'Rich Kivnik'
   year: 2014
   roles:
     - Mastering
-- project: 'Mama Doni "Bible Stories"'
+- project: 'Bible Stories'
   artist: 'Mama Doni'
   year: 2014
   roles:
     - Mastering
-- project: 'Rebecca Turner "Nobody Sees Me Like You Do single"'
+- project: 'Nobody Sees Me Like You Do single'
   artist: 'Rebecca Turner'
   year: 2014
   roles:
     - Engineer
     - Mixing
-- project: 'Michael Kroll "Clamor"'
+- project: 'Clamor'
   artist: 'Michael Kroll'
   year: 2014
   roles:
     - Mastering
-- project: 'Merv Barton "Soundtracks"'
+- project: 'Soundtracks'
   artist: 'Merv Barton'
   year: 2014
   roles:
     - Mastering
-- project: 'Living With Elephants "Home"'
+- project: 'Home'
   artist: 'Living With Elephants'
   year: 2014
   roles:
     - Mastering
-- project: 'Justin Turk "Down To The Bone"'
+- project: 'Down To The Bone'
   artist: 'Justin Turk'
   year: 2014
   roles:
     - Mastering
-- project: 'Dalilah "E.P."'
+- project: 'E.P.'
   artist: 'Dalilah'
   year: 2014
   roles:
     - Mastering
-- project: 'Bevy "E.P."'
+- project: 'E.P.'
   artist: 'Bevy'
   year: 2014
   roles:
     - Mastering
-- project: 'Demolition String Band "21: The Best of Demolition String Band"'
+- project: '21: The Best of Demolition String Band'
   artist: 'Demolition String Band'
   year: 2014
   roles:
     - Mastering
-- project: 'Mama Doni "single"'
+- project: 'single'
   artist: 'Mama Doni'
   year: 2014
   roles:
