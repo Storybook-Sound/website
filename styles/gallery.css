@@ -3,13 +3,6 @@
   box-sizing: border-box;
 }
 
-h1,
-h2,
-h3 {
-  margin: 0.7em auto;
-  text-align: center;
-}
-
 /* Gallery Styling */
 
 #gallery {
@@ -79,6 +72,14 @@ figcaption {
 
 #gallerydlg .gallery-image.placeholder {
   box-shadow: inset 0 0 10px #888;
+}
+
+.placeholder h1 {
+  font-size: 1.4em;
+}
+
+.placeholder h2 {
+  font-size: 1em;
 }
 
 .gallery-image div {

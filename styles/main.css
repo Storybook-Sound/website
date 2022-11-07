@@ -2,9 +2,19 @@
   box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap');
+
+
+h1,
+h2,
+h3 {
+  margin: 0.7em auto;
+  text-align: center;
+}
 
 /* Typography */
+
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap');
+
 body {
   font-family: "Spline Sans Mono", monospace;
 }
