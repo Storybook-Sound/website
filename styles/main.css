@@ -105,14 +105,7 @@ body {
   font-family: "Spline Sans Mono", monospace;
 }
 
-p {
-  max-width: 50em;
-  margin: 1.4em auto;
-}
 
-main {
-  min-height: 500px;
-}
 
 /* Header */
 header {
@@ -161,8 +154,13 @@ footer P {
 
 /* Main */
 main {
-  max-width: 90%;
   margin: 0.5em auto;
+  min-height: 500px;
+}
+
+.standard main {
+  max-width: 55em;
+  margin: 1.4em auto;
 }
 
 /* Global */
