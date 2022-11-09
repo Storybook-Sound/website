@@ -1,6 +1,6 @@
 // --------------------- Created By InCoder ---------------------
 import {choc, set_content, on, DOM, fix_dialogs} from "https://rosuav.github.io/choc/factory.js";
-const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P, SECTION, UL, LI, H4} = choc; //autoimport
+const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P, SECTION, UL, LI, H4, SPAN} = choc; //autoimport
 
 let selected_item = 0;
 let selected_set = 0;
@@ -50,7 +50,10 @@ function gallery_image(item) {
 if (window.client_listing === true) {
   set_content("#gallery", UL(
     sets.map((set, idx) => LI({'data-set': idx},
-          [set, galleries[set].map((item, idx) => [" ", A({href: "#", "data-idx": idx, class: "gallery_entry"}, item.project || item.year)])]
+      [set, SPAN([
+        " (",
+          galleries[set].map((item, idx) => [idx && ", ", A({href: "#", "data-idx": idx, class: "gallery_entry"}, item.project || item.year)]),
+        ")"])]
         )
       )
     )
