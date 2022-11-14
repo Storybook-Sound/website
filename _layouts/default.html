@@ -25,6 +25,7 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@StorybookSound">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script type="application/ld+json">
     {
       "@context":"https://schema.org",
@@ -131,21 +132,30 @@
       <h3>Maplewood, NJ</h3>
     </div>
     <nav>
-      <ul>
+      <ul class="menu">
         <li>
-          <a href="about">About Us</a>
+          <a class="menuItem" href="about">About Us</a>
         </li>
         <li>
-          <a href="contact">Contact</a>
+          <a class="menuItem" href="contact">Contact</a>
         </li>
         <li>
-          <a href="discography">Discography</a>
+          <a class="menuItem" href="booking">Rates & Booking</a>
         </li>
         <li>
-          <a href="studio">Studio</a>
+          <a class="menuItem" href="discography">Discography</a>
+        </li>
+        <li>
+          <a class="menuItem" href="studio">Studio</a>
         </li>
       </ul>
     </nav>
+
+    <button class="hamburger">
+      <!-- material icons https://material.io/resources/icons/ -->
+      <i class="menuIcon material-icons" style="color:white">menu</i>
+      <i class="closeIcon material-icons" style="color:white">close</i>
+    </button>
   </header>
   <main>
     {{ content }}
@@ -156,6 +166,33 @@
         href="mailto:info@storybooksound.com" title="https://storybooksound.com">info@storybooksound.com</a>
     </p>
   </footer>
+  <script>
+    const menu = document.querySelector("nav .menu");
+    const menuItems = document.querySelectorAll(".menuItem");
+    const hamburger = document.querySelector(".hamburger");
+    const closeIcon = document.querySelector(".closeIcon");
+    const menuIcon = document.querySelector(".menuIcon");
+
+    function toggleMenu() {
+      if (menu.classList.contains("showMenu")) {
+        menu.classList.remove("showMenu");
+        closeIcon.style.display = "none";
+        menuIcon.style.display = "block";
+      } else {
+        menu.classList.add("showMenu");
+        closeIcon.style.display = "block";
+        menuIcon.style.display = "none";
+      }
+    }
+
+    hamburger.addEventListener("click", toggleMenu);
+
+    menuItems.forEach(
+      function (menuItem) {
+        menuItem.addEventListener("click", toggleMenu);
+      }
+    )
+  </script>
 </body>
 
 </html>

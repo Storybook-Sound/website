@@ -52,6 +52,14 @@ h3 {
   background-color: var(--air);
 }
 
+.white {
+  background-color: var(--white);
+}
+
+.light {
+  background-color: var(--light);
+}
+
 .card.red {
   border: 2px solid var(--earth);
 }
@@ -76,12 +84,8 @@ h3 {
   border: 2px solid var(--air);
 }
 
-.white {
-  background-color: var(--white);
-}
-
-.light {
-  background-color: var(--white);
+.card.light {
+  border: 2px solid var(--light);
 }
 
 header,
@@ -108,14 +112,20 @@ body {
 
 
 /* Header */
-header {
-  padding-bottom: 0.5em;
+header,
+footer,
+main {
+  padding: 0.5em;
+}
+
+main {
+  padding-top: 0;
 }
 
 footer {
   display: flex;
   justify-content: center;
-  height: 60px;
+  min-height: 60px;
   width: 100%;
 }
 
@@ -134,16 +144,55 @@ header h3 {
   margin: auto;
 }
 
-nav {
-  width: 100%;
+/* Nav */
+
+.menuItem {
+  display: block;
+  margin: 2rem 4rem;
+  font-size: 1.8rem;
+  text-decoration: none;
 }
 
-nav ul {
-  display: flex;
-  list-style-type: none;
-  gap: 1em;
-  justify-content: space-around;
-  padding: 0;
+.menuItem:hover {
+  text-decoration: underline;
+}
+
+.hamburger {
+  position: absolute;
+  z-index: 100;
+  top: 1rem;
+  right: 1rem;
+  padding: 4px;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+i.closeIcon {
+  display: none;
+}
+
+.menu {
+  position: fixed;
+  transform: translateY(-100%);
+  transition: transform 0.2s;
+  top: -10px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 99;
+  background: var(--light);
+  color: white;
+  list-style: none;
+  padding-top: 4rem;
+}
+
+.showMenu {
+  transform: translateY(0);
+}
+
+nav {
+  width: 100%;
 }
 
 /* Footer */
@@ -220,4 +269,32 @@ section {
 .card .body {
   width: 100%;
   padding: 1em;
+}
+
+/* Media Queries */
+@media only screen and (min-width: 600px) {
+  nav .menu {
+    display: flex;
+    list-style-type: none;
+    gap: 1em;
+    justify-content: space-around;
+    padding: 0;
+    position: relative;
+    transform: none;
+    transition: none;
+    z-index: 0;
+    background: none;
+    list-style: none;
+    padding-top: 0;
+  }
+
+  nav .menuItem {
+    display: inline-block;
+    margin: 0;
+    font-size: 1.2rem;
+  }
+
+  .hamburger {
+    display: none;
+  }
 }

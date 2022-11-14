@@ -8,13 +8,13 @@
   }
 </style>
 <div id=hero class="frontpage">
-  <blockquote>I'll meet you at the intersection of story, space and sound. <cite>–Scott Anthony</cite></blockquote>
+  <blockquote>Let's meet at the intersection of story, space and sound.</blockquote>
 </div>
 
 <section>
   <div class="row">
     <div class="col">
-      <div class="card red">
+      <div class="card light">
         <h2>Hello My Name Is</h2>
         <div class="body white">Rebecca & Scott</div>
       </div>
