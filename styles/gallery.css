@@ -133,6 +133,10 @@
   height: 648px;
 }
 
+.wall-of-instant-fame .gallery-image {
+  margin-bottom: 1em;
+}
+
 @media (min-width: 700px) {
   #gallerydlg figure {
     display: flex;

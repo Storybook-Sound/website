@@ -209,15 +209,44 @@ main {
   min-height: 500px;
 }
 
-.standard main {
+.standard main,
+.full-width main p,
+.full-width main .narrow {
   max-width: 55em;
   margin: 1.4em auto;
 }
+
 
 /* Global */
 img[src$=".svg"] {
   max-width: 100%;
 }
+
+p img {
+  margin: 0 1em;
+}
+
+.circular--portrait {
+  position: relative;
+  width: 220px;
+  height: 220px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+}
+
+.portraits figcaption {
+  text-align: center;
+}
+
+.portraits .circular--portrait {
+  margin: auto;
+}
+
 
 blockquote {
   max-width: 700px;
@@ -288,6 +317,9 @@ section {
     background: none;
     list-style: none;
     padding-top: 0;
+    top: 0;
+    margin-top: 1.5em;
+    margin-bottom: 0.2em;
   }
 
   nav .menuItem {

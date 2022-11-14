@@ -1,3 +1,6 @@
+---
+category: full-width
+---
 <style>
   body {
     margin: auto 0;
