@@ -1,6 +1,6 @@
 // --------------------- Created By InCoder ---------------------
 import {choc, set_content, on, DOM, fix_dialogs} from "https://rosuav.github.io/choc/factory.js";
-const {DIV, IMG, H1, H2, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P, SECTION, UL, LI, H4, SPAN} = choc; //autoimport
+const {DIV, IMG, H1, H2, H3, H4, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P, SECTION, UL, LI, SPAN} = choc; //autoimport
 
 let selected_item = 0;
 let selected_set = 0;
@@ -75,13 +75,13 @@ function display_item(set, idx) {
   DOM("#gallerydlg .gallery-image").replaceWith(gallery_image(item));
   set_content("#gallerydlg figcaption", [
     item.project && H1(item.project),
-    item.year && H4(item.year),
     item.artist && H2(item.artist),
-    item.roles && P(item.roles.join(", ")),
+    item.roles && H4(item.roles.join(", ")),
     item.notes && item.notes.split("\n\n").map(p => P({".innerHTML": p})),
     // Using .innerHTML is a cheat that Choc Factory makes "work".
     // TODO LINK,
-    item.project_url && A({href: item.project_url.url, target: "_blank"}, item.project_url.title)
+    item.project_url && A({class: "artist-link", href: item.project_url.url, target: "_blank"}, item.project_url.title),
+    item.year && H3(item.year),
   ]);
 }
 
