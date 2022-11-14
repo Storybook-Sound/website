@@ -133,6 +133,10 @@
   height: 648px;
 }
 
+#gallerydlg figcaption {
+  text-align: left;
+}
+
 .wall-of-instant-fame .gallery-image {
   margin-bottom: 1em;
 }
