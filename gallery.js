@@ -1,4 +1,3 @@
-// --------------------- Created By InCoder ---------------------
 import {choc, set_content, on, DOM, fix_dialogs} from "https://rosuav.github.io/choc/factory.js";
 const {DIV, IMG, H1, H2, H3, H4, A, DIALOG, FIGURE, FIGCAPTION, BUTTON, P, SECTION, UL, LI, SPAN} = choc; //autoimport
 
