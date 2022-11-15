@@ -107,6 +107,7 @@
 
 #gallerydlg .gallery-image.placeholder {
   box-shadow: inset 0 0 10px #888;
+  display: none;
 }
 
 .placeholder h1 {
@@ -127,6 +128,7 @@
   width: 308px;
   height: 308px;
 }
+
 
 #gallerydlg .gallery-image div {
   width: 648px;
