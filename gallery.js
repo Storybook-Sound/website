@@ -81,7 +81,8 @@ function display_item(set, idx) {
   DOM("#gallerydlg .gallery-image").replaceWith(gallery_image(item));
   set_content("#gallerydlg figcaption", [
     item.project && H1(item.project),
-    item.artist && H2(item.artist),
+    item.artist && H2(item.artist),,
+    item.image.caption && P({style: "width:100%"}, item.image.caption),
     item.roles && H4(item.roles.join(", ")),
     item.notes && item.notes.split("\n\n").map(p => P({".innerHTML": p})),
     // Using .innerHTML is a cheat that Choc Factory makes "work".
