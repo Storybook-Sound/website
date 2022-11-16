@@ -11,7 +11,7 @@ A walk through of our facilities and gear. For information about our services, b
 
 ## Facilities
 
-For a visual 360&deg; tour, <a href=360tour>click here</a>. Below is a gallery-style overview.
+Below is a gallery-style overview of the Storybook Sound facilities. We also highly recommend the <a href=360tour>360&deg; visual tour</a>.
 
 <script>const galleries = {"": {{ site.data.facilities | jsonify }}};</script>
 <style>
