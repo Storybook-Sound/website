@@ -11,9 +11,24 @@ A walk through of our facilities and gear. For information about our services, b
 
 ## Facilities
 
-For a visual 360&deg; tour, click here.
+For a visual 360&deg; tour, <a href=360tour>click here</a>. Below is a gallery-style overview.
 
 <script>const galleries = {"": {{ site.data.facilities | jsonify }}};</script>
+<style>
+  .facilities figure {
+    border: 1px solid #999;
+    padding: 1em 0.4em;
+  }
+  .facilities .gallery-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0.6em auto;
+  }
+</style>
 <div class="facilities" id=gallery></div>
 
 ## Services

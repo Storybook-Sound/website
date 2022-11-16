@@ -1,30 +1,33 @@
 - image:
-    url: images/studio/rooms/Band-rm-1.jpg
-    caption: "Some words coming soon."
+    url: images/studio/facilities/Storybook-Shingle-Natural.jpg
+    caption: "Yep. This is our place."
 - image:
-    url: images/studio/history/Storybook-1955.jpg
-    caption: "Some words coming soon."
-- image:
-    url: images/studio/rooms/Band-Rm-1.jpg
-    caption: "Some words coming soon."
-- image:
-    url: images/studio/rooms/Bar.jpg
-    caption: "Some words coming soon."
-- image:
-    url: images/studio/rooms/Bar2.jpg
-    caption: "Some words coming soon."
+    url: images/studio/rooms/Studio-Pano-flat-1.jpg
+    caption: "The beloved laboratory."
 - image:
     url: images/studio/rooms/Booth-Closed.jpg
-    caption: "Some words coming soon."
+    caption: "The lab is loungy."
 - image:
     url: images/studio/rooms/Booth-Window-Open-3.jpg
-    caption: "Some words coming soon."
+    caption: "That's the window to our little live room."
+- image:
+    url: images/studio/rooms/Band-Rm-1.jpg
+    caption: "Sometimes we record bands."
 - image:
     url: images/studio/rooms/From-Drums-2.jpg
-    caption: "Some words coming soon."
+    caption: "Renown drummers love it here."
 - image:
-    url: images/studio/rooms/Livingrm_left2_Feature.jpg
-    caption: "Some words coming soon."
+    url: images/studio/rooms/Bar.jpg
+    caption: "We even have a bar."
+- image:
+    url: images/studio/rooms/Bar2.jpg
+    caption: "The bar is even stocked."
 - image:
     url: images/studio/rooms/Lounge-L.jpg
-    caption: "Some words coming soon."
+    caption: "The other end of the bar."
+- image:
+    url: images/studio/rooms/Livingrm_left2_Feature.jpg
+    caption: "Occasionally we move upstairs."
+- image:
+    url: images/studio/history/Storybook-1955.jpg
+    caption: "One day in 1955."

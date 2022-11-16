@@ -38,7 +38,11 @@ document.body.appendChild(DIALOG({id: "gallerydlg"}, [
 fix_dialogs({close_selector: ".dialog_cancel,.dialog_close", click_outside: "formless"});
 
 function gallery_image(item) {
-  return DIV({class: 'gallery-image', style: `background-image: url("${item.image.url}")`, title: item.project + ' ' + item.artist});
+  let title = "";
+  if (item.project) title += item.project + " ";
+  if (item.artist) title += item.artist + " ";
+  if (item.image.caption) title += item.image.caption + " ";
+  return DIV({class: 'gallery-image', style: `background-image: url("${item.image.url}")`, title: title});
 }
 
 
@@ -62,7 +66,11 @@ if (window.client_listing === true) {
   set_content("#gallery",
     sets.map((set, idx )=> SECTION({'data-set': idx}, [
       H2(set),
-      DIV({class: "gallery_set"}, galleries[set].map((item, idx) => item.image && DIV({"data-idx": idx, class: "gallery_entry"}, gallery_image(item)))),
+      DIV({class: "gallery_set"}, galleries[set].map((item, idx) => item.image &&
+        DIV(
+          {"data-idx": idx, class: "gallery_entry"},
+          item.image.caption ? FIGURE([gallery_image(item), FIGCAPTION(item.image.caption)]) : gallery_image(item)
+        ))), // what if we want a caption, like on the Studio page?
       P(UL(galleries[set].map((item, idx) => !item.image &&
         LI([
           item.artist, ", ", item.project,
@@ -82,7 +90,7 @@ function display_item(set, idx) {
   set_content("#gallerydlg figcaption", [
     item.project && H1(item.project),
     item.artist && H2(item.artist),,
-    item.image.caption && P({style: "width:100%"}, item.image.caption),
+    item.image.caption && P(item.image.caption),
     item.roles && H4(item.roles.join(", ")),
     item.notes && item.notes.split("\n\n").map(p => P({".innerHTML": p})),
     // Using .innerHTML is a cheat that Choc Factory makes "work".
