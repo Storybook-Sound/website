@@ -1,9 +1,16 @@
 # Studio
 
+<script src="gallery.js" type=module></script>
+<link rel="stylesheet" href="styles/gallery.css">
+
+A walk through of our facilities and gear. For information about our services, booking and process, please visit the <a href=booking>rates &amp; booking</a> page.
+
 ## Facilities
 
-What the place looks like, photos, 360 tour. Descriptions (cats)
-How many rooms. Sizes of rooms. Relevant with getting away from recording?
+For a visual 360&deg; tour, click here.
+
+<script>const galleries = {"": {{ site.data.facilities | jsonify }}};</script>
+<div class="facilities" id=gallery></div>
 
 ## Process
 

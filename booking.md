@@ -22,7 +22,7 @@ Physical production master CDs are available (usually only needed these days for
 
 ## Booking
 
-Please send an email to info@storybooksound.com and include how many songs or tracks your project includes, a rough estimate of the running time of the entire project, and plans for the master (streaming, vinyl, etc.).
+Please send an email to <a href="mailto:info@storybooksound.com">info@storybooksound.com</a> and include how many songs or tracks your project includes, a rough estimate of the running time of the entire project, and plans for the master (streaming, vinyl, etc.).
 
 We’ll let you known if we have any more questions, and then send you a quote. If you’d rather call, please let us know. We can accept PayPal, Venmo, credit cards, or a check in the mail.
 
