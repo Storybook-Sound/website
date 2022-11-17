@@ -312,6 +312,18 @@ section {
   padding: 1em;
 }
 
+.owlonly.owlonly {
+  height: auto;
+  width: 30%;
+  max-width: 160px;
+}
+
+.catonly.catonly {
+  height: auto;
+  width: 30%;
+  max-width: 220px;
+}
+
 /* Media Queries */
 @media only screen and (min-width: 600px) {
   nav .menu {

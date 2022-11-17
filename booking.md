@@ -2,7 +2,7 @@
 
 ## Rates
 
-![Sockwell Owl Sketch Excerpt](images/OwlOnly.svg){:height="auto" width="30%"}Mastering is offered at $90 an hour, but for most projects we recommend a flat rate; 10 song albums are usually $780, singles are $100.
+![Felix Sockwell Cat Sketch Excerpt](images/CatOnly.svg){:.alignright .catonly} Mastering is offered at $90 an hour, but for most projects we recommend a flat rate; 10 song albums are usually $780, singles are $100.
 
 The completed master will be downloadable, and include:
 - DDP Image: A zip folder with mastered audio and master text.
@@ -30,7 +30,7 @@ We’ll let you known if we have any more questions, and then send you a quote. 
 
 For digital masters, please send a single stereo wav or aif file per track that is the same sample rate (same kHz) as the original recording/mix session, at least at 24-bit depth (most common), preferably 32-bit.
 
-Of course, any format you’ve got will work…reels of tape (no matter how ugly), 16-bit wav files, MP3s, or cassette tapes.
+![Felix Sockwell Owl Sketch Excerpt](images/OwlOnly.svg){:.alignleft .owlonly}Of course, any format you’ve got will work…reels of tape (no matter how ugly), 16-bit wav files, MP3s, or cassette tapes.
 
 Please upload your audio files enclosed in a .zip folder via WeTransfer or Dropbox. Using a .zip folder protects your audio when transferring it online. Audio may also be sent via analog tape, FTP, YouSendIt, burned to a CD, carrier pigeon, etc. (please email to discuss.)
 
