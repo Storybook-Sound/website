@@ -72,7 +72,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla n
 
 ## Equipment
 
-Any studio is the sum of its parts, including great rooms and an experienced engineer.
+<figure markdown=1>
+
+  ![Main Console Detail](images/studio/gear/MainConsole.jpg){:width="100%" height="auto"}
+
+  <figcaption style="font-style:italic;margin-top:0.5em;">Any studio is the sum of its parts, including great rooms and an experienced engineer.</figcaption>
+
+</figure>
 
 <div markdown=1 class=narrow>
 
