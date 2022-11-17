@@ -34,7 +34,6 @@ Below is a gallery-style overview of the Storybook Sound facilities. We also hig
   body.image-captions #gallerydlg .gallery-image {
     width: 100%;
     height: 50vh;
-    background-position: center;
   }
 </style>
 <div class="facilities" id=gallery></div>

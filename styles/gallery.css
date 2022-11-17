@@ -80,8 +80,6 @@
   padding-right: 1em;
 }
 
-/* Placeholders */
-
 .gallery-image {
   display: flex;
   align-items: center;
@@ -89,6 +87,7 @@
   text-align: center;
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 #gallery .gallery-image {
