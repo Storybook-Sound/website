@@ -1,33 +1,44 @@
 - image:
     url: images/studio/facilities/Storybook-Shingle-Natural.jpg
-    caption: "Yep. This is our place."
+  caption: "Yep. This is our place."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/rooms/Studio-Pano-flat-1.jpg
-    caption: "The beloved laboratory."
+  caption: "The beloved laboratory."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/rooms/Booth-Closed.jpg
-    caption: "The lab is loungy."
+  caption: "The lab is loungy."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/rooms/Booth-Window-Open-3.jpg
-    caption: "That's the window to our little live room."
+  caption: "That's the window to our little live room."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/rooms/Band-Rm-1.jpg
-    caption: "Sometimes we record bands."
+  caption: "Sometimes we record bands."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/rooms/From-Drums-2.jpg
-    caption: "Renown drummers love it here."
+  caption: "Renown drummers love it here."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/rooms/Bar.jpg
-    caption: "There's even a bar."
+  caption: "There's even a bar."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/rooms/Bar2.jpg
-    caption: "The bar is even stocked."
+  caption: "The bar is even stocked."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/rooms/Lounge-L.jpg
-    caption: "The other end of the bar."
+  caption: "The other end of the bar."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/rooms/Livingrm_left2_Feature.jpg
-    caption: "Occasionally we move upstairs."
+  caption: "Occasionally we move upstairs."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."
 - image:
     url: images/studio/history/Storybook-1955.jpg
-    caption: "One day in 1955."
+  caption: "One day in 1955."
+  notes: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis."

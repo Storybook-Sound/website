@@ -1,5 +1,5 @@
 ---
-category: full-width
+category: full-width image-captions
 ---
 # Studio
 
@@ -27,6 +27,14 @@ Below is a gallery-style overview of the Storybook Sound facilities. We also hig
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0.6em auto;
+  }
+  body.image-captions #gallerydlg figure {
+    flex-direction: column;
+  }
+  body.image-captions #gallerydlg .gallery-image {
+    width: 100%;
+    height: 50vh;
+    background-position: center;
   }
 </style>
 <div class="facilities" id=gallery></div>

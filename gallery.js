@@ -41,7 +41,7 @@ function gallery_image(item) {
   let title = "";
   if (item.project) title += item.project + " ";
   if (item.artist) title += item.artist + " ";
-  if (item.image.caption) title += item.image.caption + " ";
+  if (item.caption) title += item.caption + " ";
   return DIV({class: 'gallery-image', style: `background-image: url("${item.image.url}")`, title: title});
 }
 
@@ -69,7 +69,7 @@ if (window.client_listing === true) {
       DIV({class: "gallery_set"}, galleries[set].map((item, idx) => item.image &&
         DIV(
           {"data-idx": idx, class: "gallery_entry"},
-          item.image.caption ? FIGURE([gallery_image(item), FIGCAPTION(item.image.caption)]) : gallery_image(item)
+          item.caption ? FIGURE([gallery_image(item), FIGCAPTION(item.caption)]) : gallery_image(item)
         ))), // what if we want a caption, like on the Studio page?
       P(UL(galleries[set].map((item, idx) => !item.image &&
         LI([
@@ -86,11 +86,12 @@ function display_item(set, idx) {
   selected_item = +idx; // cast as number
   selected_set = +set;
   const item = galleries[sets[set]][idx];
+  console.log(item);
   DOM("#gallerydlg .gallery-image").replaceWith(gallery_image(item));
   set_content("#gallerydlg figcaption", [
     item.project && H1(item.project),
     item.artist && H2(item.artist),,
-    item.image.caption && P(item.image.caption),
+    item.caption && H2(item.caption),
     item.roles && H4(item.roles.join(", ")),
     item.notes && item.notes.split("\n\n").map(p => P({".innerHTML": p})),
     // Using .innerHTML is a cheat that Choc Factory makes "work".
