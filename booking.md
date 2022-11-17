@@ -2,7 +2,7 @@
 
 ## Rates
 
-Mastering is offered at $90 an hour, but for most projects we recommend a flat rate; 10 song albums are usually $780, singles are $100.
+![Sockwell Owl Sketch Excerpt](images/OwlOnly.svg){:height="auto" width="30%"}Mastering is offered at $90 an hour, but for most projects we recommend a flat rate; 10 song albums are usually $780, singles are $100.
 
 The completed master will be downloadable, and include:
 - DDP Image: A zip folder with mastered audio and master text.
