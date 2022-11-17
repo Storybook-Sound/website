@@ -11,14 +11,14 @@ category: full-width
   }
 </style>
 <div id=hero class="frontpage">
-  <blockquote>Let's meet at the intersection of story, space and sound.</blockquote>
+  <blockquote style="color:white">But what shall we do for a ring?</blockquote>
 </div>
 
 <section>
   <div class="row">
     <div class="col">
       <div class="card light">
-        <h2>Hello My Name Is</h2>
+        <h2>Let's meet at the intersection of story, space and sound.</h2>
         <div class="body white">Rebecca & Scott</div>
       </div>
     </div>

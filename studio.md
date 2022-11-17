@@ -36,9 +36,6 @@ Below is a gallery-style overview of the Storybook Sound facilities. We also hig
     width: 100%;
     height: 50vh;
   }
-  h3 {
-    text-align: left;
-  }
 </style>
 <div class="facilities" id=gallery></div>
 
@@ -129,5 +126,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla n
 - RME Fireface UC
 - Panasonic 3700 DAT
 - Plextor CD burners with PlexTools
+
+### Recording
+
+Occasionally there are projects which for one reason or another make sense to record here. The gear we have on hand for that is listed on the [recording page](recording).
 
 </div>
