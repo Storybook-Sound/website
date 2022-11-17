@@ -4,14 +4,14 @@
 
   ![Main Console Detail](images/studio/rooms/Band-Rm-1.jpg){:width="100%" height="auto"}
 
-  <figcaption style="font-style:italic;margin-top:0.5em;">Sometimes we record bands and other living things.</figcaption>
+  <figcaption style="font-style:italic;margin-top:-1em;">Sometimes we record bands and other living things.</figcaption>
 
 </figure>
 
 
 ## Recording equipment
 
-For years we’ve been building a collection of instruments, mics, and outboard equipment to cover any sonic desire while recording or mixing…from raunchy to pristine. Here's a relatively up to date listing. In case you missed it, the mixing and mastering gear listing is on the [main studio page](studio#equipment).
+For years we’ve been building a collection of instruments, mics, and outboard equipment to cover any sonic desire while recording or mixing…from raunchy to pristine. Here's a relatively up to date listing.
 
 ### Multitrack, consoles, and outboard
 
@@ -97,3 +97,5 @@ For years we’ve been building a collection of instruments, mics, and outboard 
 - Wilfer upright bass
 - Knabe upright piano
 - Wurlitzer Funmaker electric organ
+
+In case you missed it, the mixing and mastering gear listing is on the [main studio page](studio#equipment).
