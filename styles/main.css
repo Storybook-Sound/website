@@ -211,9 +211,24 @@ main {
 
 .standard main,
 .full-width main p,
-.full-width main .narrow {
-  max-width: 55em;
+.full-width main .narrow,
+.full-width main h1,
+.full-width main h2,
+.full-width main h3,
+.full-width main h4 {
+  max-width: 55rem;
   margin: 1.4em auto;
+}
+
+.full-width main h3 {
+  margin-top: 1.4em;
+  margin-bottom: -0.4em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main ul {
+  margin-top: 1.5em;
 }
 
 
