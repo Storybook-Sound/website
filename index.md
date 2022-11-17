@@ -21,7 +21,7 @@ category: full-width
         <h2 style="text-align: left; margin-left: 0.5em;">Let's meet at the intersection of story, space and sound.</h2>
         <div class="body white">
         <blockquote><p>After decades of professional nerdiness, we took some honey, and plenty of money and built this incredible space.</p>
-        <p>It is an honor and pleasure to apply our expertise toward the realization of creative, communicative endeavors.</p> <cite>–Rebecca & Scott</cite>
+        <p>It is an honor and pleasure to <a href=about>apply our expertise</a> toward the realization of creative, communicative endeavors.</p> <cite>–Rebecca & Scott</cite>
         </blockquote>
         </div>
       </div>
