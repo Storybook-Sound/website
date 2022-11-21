@@ -8,15 +8,15 @@ category: full-width image-captions
 
 Storybook was designed by lifetime Grammy recipient <a href="http://www.aes.org/events/141/presenters/?ID=5280" target="_blank">George Augspurger</a>, an audio and acoustical engineer who has been active in studio design for many years, receiving a Technical Grammy Award in 2019 for his amazing work. One of his favorite rooms he has designed is the <a href="http://www.sunsetsound.com/studios/" target="_blank">Studio 1</a> control room at Sunset Sound.
 
-A walk through of our facilities and gear. For information about our services, booking and process, please visit the <a href=booking>rates &amp; booking</a> page.
-
-## Facilities
-
-Below is a gallery-style overview of the Storybook Sound facilities. We also highly recommend the <a href=360tour>360&deg; visual tour</a>. Further down this page you can read about our [services](#services): [mastering](#mastering), [mixing](#mixing), [Dolby Atmos (Spatial)](#dolby-atmos), [recording](#recording) and [producing](#producing).
+For information about our booking and process, please visit the <a href=booking>working with us</a> page. Further down this page you can read about our [services](#services): [mastering](#mastering), [mixing](#mixing), [Dolby Atmos (Spatial)](#dolby-atmos), [recording](#recording) and [producing](#producing).
 
 The [mastering equipment](#equipment) is listed below that, compartmentalized into [monitoring](#monitoring), [processing](#processing), [formats](#formats) and [software](#software).
 
-The recording gear listing gets it's [own page](/recording).
+Recording gear listing gets it's [own page](/recording).
+
+## Facilities
+
+Below is a gallery-style overview of the Storybook Sound facilities. We also highly recommend the <a href=360tour>360&deg; visual tour</a>.
 
 <script>const galleries = {"": {{ site.data.facilities | jsonify }}};</script>
 <style>
