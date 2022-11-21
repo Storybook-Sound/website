@@ -1,4 +1,4 @@
-# Rates and Booking
+# Working With Us
 
 ## Rates
 

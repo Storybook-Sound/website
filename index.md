@@ -11,7 +11,7 @@ category: full-width
   }
 </style>
 <div id=hero class="frontpage">
-  <blockquote style="color:white">But what shall we do for a ring?</blockquote>
+  <blockquote style="color:white">Maybe remove this? Or Bec will compose.</blockquote>
 </div>
 
 <section>
@@ -30,7 +30,7 @@ category: full-width
       <div class="card teal">
         <h2>Spatial</h2>
         <div class="body white">
-        <p>Where surround technology places the listener in 360&deg; space, Apple Spacial and Dolby Atmos expand to a spherical dimension.</p>
+        <p>Where surround technology places the listener in 360&deg; space, Apple Spatial and Dolby Atmos expand to a spherical dimension.</p>
         <p>This effect doesn't require large, fancy listening environments and can be achieved through ear pods and headphones.</p>
         <p>Sonic elements are finely tuned to mimic the way the ear delivers "directional" details to the brain.</p>
         <p>It's brilliant, and an effective way to get your music into some new, popular playlists.</p>
