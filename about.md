@@ -1,5 +1,5 @@
 ---
-category: full-width
+category: full-width image-captions
 ---
 # About
 
@@ -33,7 +33,29 @@ category: full-width
     </figure>
   </div>
 </div>
-
+<style>
+  .wall-of-instant-fame figure {
+    border: 1px solid #999;
+    padding: 1em 0.4em;
+  }
+  .wall-of-instant-fame .gallery-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0.6em auto;
+  }
+  body.image-captions #gallerydlg figure {
+    flex-direction: column;
+  }
+  body.image-captions #gallerydlg .gallery-image {
+    width: 100%;
+    height: 50vh;
+    min-width: 90vw;
+  }
+</style>
 <script src="gallery.js" type=module></script>
 <link rel="stylesheet" href="styles/gallery.css">
 <h2>Wall of Instant Fame</h2>
