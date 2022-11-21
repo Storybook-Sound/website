@@ -12,7 +12,11 @@ A walk through of our facilities and gear. For information about our services, b
 
 ## Facilities
 
-Below is a gallery-style overview of the Storybook Sound facilities. We also highly recommend the <a href=360tour>360&deg; visual tour</a>.
+Below is a gallery-style overview of the Storybook Sound facilities. We also highly recommend the <a href=360tour>360&deg; visual tour</a>. Further down this page you can read about our [services](#services): [mastering](#mastering), [mixing](#mixing), [Dolby Atmos (Spatial)](#dolby-atmos), [recording](#recording) and [producing](#producing).
+
+The [mastering equipment](#equipment) is listed below that, compartmentalized into [monitoring](#monitoring), [processing](#processing), [formats](#formats) and [software](#software).
+
+The recording gear listing gets it's [own page](/recording).
 
 <script>const galleries = {"": {{ site.data.facilities | jsonify }}};</script>
 <style>
