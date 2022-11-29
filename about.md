@@ -14,7 +14,7 @@ category: full-width image-captions
 
 <p>Scott occasionally becomes involved in non-mastering projects… recording, mixing, and producing music. If you’re interested in something like this, let us know.</p>
 
-<p>Upstairs in the house live Bella and Tito, who will be happy to meet you if you're interested. Below you can see what they look like and also check out the Storybook Wall of Instant Fame. For featured news and items of note, <a href=news>click here</a>.<p>
+<p>Upstairs in the house live Bella and Tito, who will be happy to meet you if you're interested. Below you can see what they look like and also check out the Storybook Wall of Instant Fame. For featured news and items of note, <a href=#news>click here</a>.<p>
 
 <div class="narrow row portraits">
   <div class="col">
@@ -63,3 +63,18 @@ category: full-width image-captions
 <blockquote>Scott took instant photos of almost every visitor to the studio during our first year. While more and more folks send projects to us via the internet, we wanted to show how much we actually do love it when guests stop by. He did forget to pull the camera out a few times, and this instant snapshot project did continue past the first year, right up until we ran outta film in early 2020.<cite>–Rebecca Turner</cite></blockquote>
 <script>const galleries = {"": {{ site.data.walloffame | jsonify }}};</script>
 <div class="wall-of-instant-fame" id=gallery></div>
+
+<div class="narrow" markdown=1>
+# News
+
+- A <a href="https://tapeop.com" target="_blank">TapeOp</a> article by Scott and Rebecca: <a href="https://tapeop.com/interviews/138/david-gilmour/" target="_blank">David Gilmour: The Artist as Producer: Unicorn and Kate Bush</a>.
+
+- An interview with Scott by <a href="https://nugenaudio.com/scott-anthony/" target="_blank">Nugen Audio</a> about using their surround mixing tools for a Richard Thompson documentary.
+
+- <a href="https://www.youtube.com/channel/UCAY0zkFuk2dYSZZ3Qesh94A/featured" target="_blank" rel="noopener">Omniana</a> is a homestream, fundraiser variety show produced at Storybook, featuring many of our dear, talented friends.
+
+- <a href="https://infiniteglitch.net/" target="_blank" rel="noopener">Infinite Glitch</a> – The World’s Longest Pop Song. The original Major Glitch was mixed in 1996 by Scott with Chris Butler, and then featured in the Guinness Book of World Records. The Infinite Glitch is the Major Glitch re-homed from a finite compact disc to the wide-open internet. Musical contributions from Scott are here (recorded and performed 100% by virtual instruments and voices), and <a href="https://infiniteglitch.net/view_artist/Oblique%20Orchestra" target="_blank" rel="noopener">here</a> (a re-imagining of Brian Eno and Peter Schmidt’s <a href="https://en.wikipedia.org/wiki/Oblique_Strategies" target="_blank" rel="noopener">Oblique Strategies</a> as 19 minutes of verses).
+
+- Scott spent much of 2020 <a href="art-design" rel="noopener">designing public art</a>. Thank you, George Harrison.
+
+</div>
