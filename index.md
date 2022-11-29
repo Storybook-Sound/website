@@ -11,17 +11,18 @@ category: full-width
   }
 </style>
 <div id=hero class="frontpage">
-  <blockquote style="color:white">Maybe remove this? Or Bec will compose.</blockquote>
+  <blockquote style="color:white">Where story, sound, and space converge.</blockquote>
 </div>
 
 <section>
   <div class="row">
     <div class="col">
       <div class="card light">
-        <h2 style="text-align: left; margin-left: 0.5em;">Let's meet at the intersection of story, space and sound.</h2>
+        <h2>Welcome to Storybook! </h2>
         <div class="body white">
-        <blockquote><p>After decades of professional nerdiness, we took some honey, and plenty of money and built this incredible space.</p>
-        <p>It is an honor and pleasure to <a href=about>apply our expertise</a> toward the realization of creative, communicative endeavors.</p> <cite>–Rebecca & Scott</cite>
+        <blockquote><p>We love sound in all its forms… music, voice, theater, books, podcasts… and whatever the future of
+recorded audio holds in store.</p>
+        <p>It is an honor and pleasure to <a href=about>apply our expertise</a> toward the realization of creative and communicative endeavors.</p> <cite>–Scott</cite>
         </blockquote>
         </div>
       </div>
@@ -30,9 +31,8 @@ category: full-width
       <div class="card teal">
         <h2>Spatial Audio</h2>
         <div class="body white">
-        <p>What's this spatial audio you've been hearing more and more about lately? Apple Spatial and Dolby Atmos take what we know of as surround sound, and expand it to a spherical dimension. They place the listener in the middle of the sound.
-
-It doesn't require large, fancy listening environments and can be achieved through ear pods and headphones. It's brilliant, and an effective way to get your music into some new, popular playlists. We can help you do it!</p>
+        <p>What's this spatial audio you've been hearing more and more about lately? Apple Spatial and Dolby Atmos take what we know of as surround sound, and expand it to a spherical dimension. They place the listener in the middle of the sound.</p>
+        <p>It doesn't require large, fancy listening environments and can be achieved through ear pods and headphones. It's brilliant, and an effective way to get your music into some new, popular playlists. We can help you do it!</p>
         </div>
       </div>
     </div>

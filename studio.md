@@ -46,32 +46,23 @@ Below is a gallery-style overview of the Storybook Sound facilities. We also hig
 
 ## Services
 
-While mastering is our main services and Scott's major area of expertise, 
+While mastering is our main services and Scott's major area of expertise,
 we offer a full range of audio services.
 
 ### Mastering
 
-Audio mastering is the first step of manufacturing, and the final creative step of recording. You can master one song, or a whole album. Mastering might adjust the relative loudness of a group of songs, or equalize a song that might be more "boom-y" or more compressed than the others. The timing between tracks and  fade-outs, as well as the names of the songs as they'll appear on the radio or a streaming service, are finalized. We'll then decide on the overall volume of the album for vinyl, CD, or streaming . 
+Audio mastering is the first step of manufacturing, and the final creative step of recording. You can master one song, or a whole album. Mastering might adjust the relative loudness of a group of songs, or equalize a song that might be more "boom-y" or more compressed than the others. The timing between tracks and  fade-outs, as well as the names of the songs as they'll appear on the radio or a streaming service, are finalized. We'll then decide on the overall volume of the album for vinyl, CD, or streaming .
 
-Mastering also might require preserving or restoring audio or helping an artist find something different or new to hear. A common consideration in mastering is how the audio might sound when  heard in different environments (car speakers, in a theater, turntable,  earbuds, etc.). In any given project, the music itself will dictate the necessary  steps to a complete master, which will be expanded on and refined by our  discussions. Before 2020, we encouraged clients to be present for the session. But attendance was never a requirement! We’ve always done the lion’s share  of our projects corresponding online.
-
-### Mixing
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis. Quisque sodales ligula neque, nec aliquet tortor malesuada venenatis.
+Mastering also might require preserving or restoring audio or helping an artist find something different or new to hear. A common consideration in mastering is how the audio might sound when  heard in different environments (car speakers, in a theater, turntable, earbuds, etc.). In any given project, the music itself will dictate the necessary  steps to a complete master, which will be expanded on and refined by our  discussions. Before 2020, we encouraged clients to be present for the session. But attendance was never a requirement! We’ve always done the lion’s share  of our projects corresponding online.
 
 ### Dolby Atmos
 
-Most people are offering Atmos mixing, but here, we… hottest  playlists… quick and easy Atmos generation… more affordable… end thought  value add. Send us the stems for your single and be eligible to the hottest  playlists… promote it in a modern fashion.
+<p>What's this spatial audio you've been hearing more and more about lately? Apple Spatial and Dolby Atmos take what we know of as surround sound, and expand it to a spherical dimension. They place the listener in the middle of the sound.</p>
+<p>It doesn't require large, fancy listening environments and can be achieved through ear pods and headphones. It's brilliant, and an effective way to get your music into some new, popular playlists. We can help you do it!</p>
 
-### Recording
+### Producing, Recording & Mixing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis. Quisque sodales ligula neque, nec aliquet tortor malesuada venenatis.
-
-### Producing
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis. Quisque sodales ligula neque, nec aliquet tortor malesuada venenatis.
-
-## Equipment
+For inspiring people and projects, we offer a Pro Tools foundation, hybridizing a robust collection of analog and digital tools in a cozy, classy environment.
 
 <figure markdown=1>
 
