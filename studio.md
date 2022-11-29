@@ -62,7 +62,7 @@ Mastering also might require preserving or restoring audio or helping an artist 
 
 ### Producing, Recording & Mixing
 
-For inspiring people and projects, we offer a Pro Tools foundation, hybridizing a robust collection of analog and digital tools in a cozy, classy environment.
+For inspiring people and projects, we offer a Pro Tools foundation, hybridizing a <a href=recording>robust collection of analog and digital tools</a> in a cozy, classy environment.
 
 ## Mastering Equipment
 
