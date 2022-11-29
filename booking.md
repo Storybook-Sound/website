@@ -14,7 +14,7 @@ Work beyond a second revision is at the hourly rate.
 
 Mixing is $75 an hour, or a flat rate of $750 per song…but super-negotiable.
 
-A vinyl master is most often prepared as a single, high resolution wav file for each side; this audio file is called a side split. Vinyl masters are prepared at an hourly rate, usually $135 for two LP-length side splits (one album) and a timing log (to be used by the cutting engineer).
+A vinyl master is most often prepared as a single, high resolution wav file for each side; this audio file is called a side split. Vinyl masters are prepared at an hourly rate, usually $180 for two LP-length side splits (one album) and a timing log (to be used by the cutting engineer).
 
 Another option is to have your vinyl master delivered on analog tape. If you’re interested, we should discuss how this impacts your plans for analog and digital distribution before quoting.
 
