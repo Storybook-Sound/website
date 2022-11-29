@@ -11,7 +11,7 @@ category: full-width
   }
 </style>
 <div id=hero class="frontpage">
-  <blockquote style="color:white">Where story, sound, and space converge.</blockquote>
+  <blockquote style="color:white">Where story, sound & space converge.</blockquote>
 </div>
 
 <section>
