@@ -46,12 +46,14 @@ Below is a gallery-style overview of the Storybook Sound facilities. We also hig
 
 ## Services
 
-Storybook/Scott skills and abilities mixed with top level listing of what services
-you provide.
+While mastering is our main services and Scott's major area of expertise, 
+we offer a full range of audio services.
 
 ### Mastering
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla nisl. Curabitur ex turpis, pellentesque at viverra non, tempor ut turpis. Etiam id vehicula metus, eu porttitor magna. Vivamus non malesuada felis. Quisque sodales ligula neque, nec aliquet tortor malesuada venenatis.
+Audio mastering is the first step of manufacturing, and the final creative step of recording. You can master one song, or a whole album. Mastering might adjust the relative loudness of a group of songs, or equalize a song that might be more "boom-y" or more compressed than the others. The timing between tracks and  fade-outs, as well as the names of the songs as they'll appear on the radio or a streaming service, are finalized. We'll then decide on the overall volume of the album for vinyl, CD, or streaming . 
+
+Mastering also might require preserving or restoring audio or helping an artist find something different or new to hear. A common consideration in mastering is how the audio might sound when  heard in different environments (car speakers, in a theater, turntable,  earbuds, etc.). In any given project, the music itself will dictate the necessary  steps to a complete master, which will be expanded on and refined by our  discussions. Before 2020, we encouraged clients to be present for the session. But attendance was never a requirement! We’ve always done the lion’s share  of our projects corresponding online.
 
 ### Mixing
 
@@ -59,10 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non fringilla n
 
 ### Dolby Atmos
 
-Most people are offering Atmos mixing, but here, we... hottest playlists... quick and easy atmos generation... more affordable... end thought value add.
-Send us the stems for your single and be elegible to the hottest playlists... promote it in a modern fashion.
-
-What makes us a unique choice for that.
+Most people are offering Atmos mixing, but here, we… hottest  playlists… quick and easy Atmos generation… more affordable… end thought  value add. Send us the stems for your single and be eligible to the hottest  playlists… promote it in a modern fashion.
 
 ### Recording
 
