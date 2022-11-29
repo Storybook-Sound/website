@@ -64,6 +64,8 @@ Mastering also might require preserving or restoring audio or helping an artist 
 
 For inspiring people and projects, we offer a Pro Tools foundation, hybridizing a robust collection of analog and digital tools in a cozy, classy environment.
 
+## Equipment
+
 <figure markdown=1>
 
   ![Main Console Detail](images/studio/gear/MainConsole.jpg){:width="100%" height="auto"}
