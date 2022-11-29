@@ -22,7 +22,7 @@ category: full-width
         <div class="body white">
         <blockquote><p>We love sound in all its forms… music, voice, theater, books, podcasts… and whatever the future of
 recorded audio holds in store.</p>
-        <p>It is an honor and pleasure to <a href=about>apply our expertise</a> toward the realization of creative and communicative endeavors.</p> <cite>–Scott</cite>
+        <p>It is an honor and pleasure to <a href=about>apply our expertise</a> toward the realization of creative and communicative endeavors.</p> <cite>Scott</cite>
         </blockquote>
         </div>
       </div>
