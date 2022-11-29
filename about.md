@@ -14,7 +14,7 @@ category: full-width image-captions
 
 <p>Scott occasionally becomes involved in non-mastering projects… recording, mixing, and producing music. If you’re interested in something like this, let us know.</p>
 
-<p>Upstairs in the house live Bella and Tito, who will be happy to meet you if you're interested. Below you can see what they look like and also check out the Storybook Wall of Instant Fame. For featured news and items of note, <a href=#news>click here</a>.<p>
+<p>Upstairs in the house live Bella and Tito, who will be happy to meet you if you're interested. Below you can see what they look like and also check out the Storybook Wall of Instant Fame. For featured news and items of note, <a href="#news">click here</a>.<p>
 
 <div class="narrow row portraits">
   <div class="col">
