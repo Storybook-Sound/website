@@ -1,7 +1,7 @@
 - image:
     url: images/wall_of_fame/IMG_0956.jpg
   caption: "David Greenberger"
-  notes: ""
+  notes: 
 - image:
     url: images/wall_of_fame/IMG_0957.jpg
   caption: "Lizzie Edwards"
@@ -87,4 +87,4 @@
   notes: "Nice having old and new friends Billy Martin aka illy-b, Mike iLL and Emilio China aka Zef Noi$e to record basics for Rivka and Mike's Promise recordings."
 - image:
     url: images/wall_of_fame/IMG_0990.jpg
-  caption: "David Gold, Jane Scarpantoni, Mark Moran"
+  caption: "David Gold, Jane Scarpantoni & Mark Moran"
