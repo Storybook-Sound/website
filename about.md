@@ -67,6 +67,8 @@ category: full-width image-captions
 <div class="narrow" markdown=1>
 # News
 
+- Dolby Labs added us to their [Atmos-enabled music studios listing](https://professional.dolby.com/music/dolby-atmos-music-studios){:target="_blank" rel="noopener"}.
+
 - A <a href="https://tapeop.com" target="_blank">TapeOp</a> article by Scott and Rebecca: <a href="https://tapeop.com/interviews/138/david-gilmour/" target="_blank">David Gilmour: The Artist as Producer: Unicorn and Kate Bush</a>.
 
 - An interview with Scott by <a href="https://nugenaudio.com/scott-anthony/" target="_blank">Nugen Audio</a> about using their surround mixing tools for a Richard Thompson documentary.
