@@ -2,7 +2,7 @@
 
 
 
-<p><img src="images/news/george_harrison_and_flowers.jpg" alt="George Harrison" width="200" height="300" class="alignleft">We’re very honored that Scott Anthony’s public art project “An Experience of Monism based on ‘Within You Without You'” was awarded as a finalist design for the upcoming <u><a href="https://www.thebeatles.com/news/george-harrison-woodland-walk-be-opened-liverpool" target="_blank" rel="noopener”">George Harrison Woodland Walk</a></u>, a memorial nature preserve being presented by the City of Liverpool and the Estate of George Harrison.</p>
+<p><img src="images/news/george_harrison_and_flowers.jpg" alt="George Harrison" width="200" height="300" class="alignleft">We’re very honored that Scott Anthony’s public art project “An Experience of Monism based on ‘Within You Without You'” was awarded as a finalist design for the upcoming <u><a href="https://www.thebeatles.com/george-harrison-woodland-walk-be-opened-liverpool" target="_blank" rel="noopener”">George Harrison Woodland Walk</a></u>, a memorial nature preserve being presented by the City of Liverpool and the Estate of George Harrison.</p>
 
 <p>Developed with art project manager Brian Kelly and architect Camilla Flannery (both of whom helped build the Storybook studio as well), this piece ties together Scott’s passions of recording, meditation, and art; designed not just as public art, but also as a meditation center and performance space dedicated to one of his most important musical as well as spiritual influences.</p>
 

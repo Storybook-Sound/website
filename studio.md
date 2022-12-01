@@ -16,9 +16,9 @@ Recording gear listing gets it's [own page](/recording).
 
 ## Facilities
 
-Click the following image to enjoy a 360&deg; virtual tour of the studio.
+Click on the following image to enjoy a [360&deg; virtual tour](/360tour) of the studio.
 
-<a href=360tour style="width: 100%"><img src="images/360tourScreenShot.jpg" style="max-width: 80%; margin: auto; height: auto; display: block"/></a>
+<a href=360tour style="width: 100%"><img src="images/360TourScreen.png" style="max-width: 80%; height: auto; display: block; border-radius: 10px; margin: 1em auto;"/></a>
 
 The following captioned walkthrough tells a little more of the story. We know that historic arched doorway is inviting, but please join us in coming and going via the back door, by the lovely porch and trellis.
 

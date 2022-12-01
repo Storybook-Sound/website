@@ -7,7 +7,7 @@ let galleries = {{ site.data.discography | jsonify }};
 window.client_listing = true;
 </script>
 
-<p>Click on any project below for details and gallery view or for a full visual discography, <a href=discography>click here</a>.</p>
+<p>Click on any project below for details and gallery view or for a full visual discography, <a href="discography.html">click here</a>.</p>
 
 <div id=gallery></div>
 
