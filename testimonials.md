@@ -35,7 +35,7 @@
 
 
 
-<blockquote>"Scott Anthony has a great sounding studio and a fantastic set of ears to go with it. Scott mixed and mastered 20 tracks that had been recorded on 1" 8 track tape, in and around 1974/75, by David Gilmour in his home studio. I was producing in Shalford, Surrey, UK and Scott mixed and mastered at his Storybook Sound Studios in New Jersey. USA. Scott became like a member of the band and worked wonders on those tracks which became the Omnivore Recordings album release ' Laughing Up Your Sleeve' by Unicorn."
+<blockquote>"Scott Anthony has a great sounding studio and a fantastic set of ears to go with it. Scott mixed and mastered 20 tracks that had been recorded on 1" 8 track tape, in and around 1974/75, by David Gilmour in his home studio. I was producing in Shalford, Surrey, UK and Scott mixed and mastered at his Storybook Sound Studios in New Jersey. USA. Scott became like a member of the band and worked wonders on those tracks which became the Omnivore Recordings album release 'Laughing Up Your Sleeve' by Unicorn."
 
 <cite>Patrick Martin</cite>
 </blockquote>
