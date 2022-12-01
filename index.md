@@ -51,6 +51,7 @@ recorded audio holds in store.</p>
           <blockquote>"Scott is generous with his extensive knowledge and approaches each project I bring to Storybook with care and enthusiasm. Storybook Sound is more than a place to master your music, it's a relationship."
             <cite>Bob Perry</cite>
           </blockquote>
+          <a href="testimonials.html" style="float: right; display: block;">and more</a>
         </div>
       </div>
     </div>
