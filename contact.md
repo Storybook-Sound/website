@@ -1,3 +1,7 @@
+---
+category: full-width image-captions
+---
+<a id=contact></a>
 # Contact
 
 Our studio is located in the city of Maplewood, in northern New Jersey.
