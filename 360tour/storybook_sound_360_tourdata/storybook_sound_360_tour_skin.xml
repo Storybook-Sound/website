@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <krpano version="1.19">
 
-    
+
   <!-- Spot Style - Default Point Spot Style -->
   <style name="IconDefaultPointSpotStyle"
          url="%FIRSTXML%/spots/hotspot_animated_user_defaultpoint0.png"
@@ -74,7 +74,7 @@ resumeautorotation(forcehotspot);
 			tooltip="logotooltipText"
 			onhover="showTooltip('plugin');"
 			onout="hideTooltip();"
-         url="%FIRSTXML%/graphics/logo/storybook-logo_200x263.png" 
+         url="%FIRSTXML%/graphics/logo/storybook-logo_200x263.png"
          onclick="
 getmessage(urltoopen,logowebsiteurl);openurl(get(urltoopen),_self);
 "
@@ -84,7 +84,7 @@ getmessage(urltoopen,logowebsiteurl);openurl(get(urltoopen),_self);
 
          />
 
-  <events name="logoevents" 
+  <events name="logoevents"
     onTourStart="showlogo();"
     hidetourcontrols="hidelogo();"
     showtourcontrols="showlogo();"

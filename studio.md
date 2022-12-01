@@ -18,7 +18,7 @@ Recording gear listing gets it's [own page](/recording).
 
 Click on the following image to enjoy a [360&deg; virtual tour](/360tour) of the studio.
 
-<a href=360tour style="width: 100%"><img src="images/360TourScreen.png" style="max-width: 80%; height: auto; display: block; border-radius: 10px; margin: 1em auto;"/></a>
+<a href="360tour.html" style="width: 100%"><img src="images/360TourScreen.png" style="max-width: 80%; height: auto; display: block; border-radius: 10px; margin: 1em auto;"/></a>
 
 The following captioned walkthrough tells a little more of the story. We know that historic arched doorway is inviting, but please join us in coming and going via the back door, by the lovely porch and trellis.
 
@@ -66,7 +66,7 @@ Mastering also might require preserving or restoring audio or helping an artist 
 
 ### Producing, Recording & Mixing
 
-For inspiring people and projects, we offer a Pro Tools foundation, hybridizing a <a href=recording>robust collection of analog and digital tools</a> in a cozy, classy environment.
+For inspiring people and projects, we offer a Pro Tools foundation, hybridizing a <a href="recording.html">robust collection of analog and digital tools</a> in a cozy, classy environment.
 
 ## Mastering Equipment
 
