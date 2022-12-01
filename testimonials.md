@@ -8,7 +8,7 @@
 
 <hr>
 
-<blockquote>God blesses me with songs. I'll return the favor by sending them to Scott for mastering.
+<blockquote>"God blesses me with songs. I'll return the favor by sending them to Scott for mastering."
   <cite>Mike iLL</cite>
 </blockquote>
 
