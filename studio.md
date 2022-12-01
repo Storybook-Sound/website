@@ -12,7 +12,7 @@ For information about our booking and process, please visit the <a href="booking
 
 The [mastering equipment](#equipment) is listed below that, compartmentalized into [monitoring](#monitoring), [processing](#processing), [formats](#formats) and [software](#software).
 
-Recording gear listing gets it's [own page](/recording).
+Recording gear listing gets it's [own page](/recording.html).
 
 ## Facilities
 
