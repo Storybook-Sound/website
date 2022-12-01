@@ -1,7 +1,3 @@
----
-category: full-width image-captions
----
-<a id=Booking></a>
 # Rates & Booking
 
 ## Rates
