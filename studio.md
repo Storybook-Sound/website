@@ -130,6 +130,6 @@ For inspiring people and projects, we offer a Pro Tools foundation, hybridizing 
 
 ### Recording
 
-Occasionally there are projects which for one reason or another make sense to record here. The gear we have on hand for that is listed on the [recording page](recording).
+Occasionally there are projects which for one reason or another make sense to record here. The gear we have on hand for that is listed on the [recording page](recording.html).
 
 </div>
