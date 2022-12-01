@@ -98,4 +98,4 @@ For years we’ve been building a collection of instruments, mics, and outboard 
 - Knabe upright piano
 - Wurlitzer Funmaker electric organ
 
-In case you missed it, the mixing and mastering gear listing is on the [main studio page](studio#equipment).
+In case you missed it, the mixing and mastering gear listing is on the [main studio page](studio.html#equipment).
