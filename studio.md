@@ -8,7 +8,7 @@ category: full-width image-captions
 
 Storybook was designed by lifetime Grammy recipient <a href="http://www.aes.org/events/141/presenters/?ID=5280" target="_blank">George Augspurger</a>, an audio and acoustical engineer who has been active in studio design for many years, receiving a Technical Grammy Award in 2019 for his amazing work. One of his favorite rooms he has designed is the <a href="http://www.sunsetsound.com/studios/" target="_blank">Studio 1</a> control room at Sunset Sound.
 
-For information about our booking and process, please visit the <a href=booking>working with us</a> page. Further down this page you can read about our [services](#services): [mastering](#mastering), [mixing](#mixing), [Dolby Atmos (Spatial)](#dolby-atmos), [recording](#recording) and [producing](#producing).
+For information about our booking and process, please visit the <a href="booking.html">working with us</a> page. Further down this page you can read about our [services](#services): [mastering](#mastering), [mixing](#mixing), [Dolby Atmos (Spatial)](#dolby-atmos), [recording](#recording) and [producing](#producing).
 
 The [mastering equipment](#equipment) is listed below that, compartmentalized into [monitoring](#monitoring), [processing](#processing), [formats](#formats) and [software](#software).
 
