@@ -1,15 +1,158 @@
-- project: 'OPTO S “Human Indictive/Live”'
-  artist: 'OPTO S'
-  year: 2020
+- project: 'Alex Chilton “Feudalist Tarts”'
+  artist: 'Alex Chilton'
+  year: 2021
   roles:
     - Mastering
   project_url: 
-    url: https://en.wikipedia.org/wiki/ESP-Disk
-    title: Label Wikipedia
+    url: https://alexchilton.bandcamp.com/album/feudalist-tarts
+    title: Bandcamp
   notes: >-
-    ESP-Disk
-    
+    Bar/None Records
     
   image: 
-    url: images/discography/2020/ED53DFA4-33E6-41D5-820E-42E15A55690D.jpeg
-    title: 'OPTO S “Human Indictive/Live”'
+    url: images/discography/2021/AlexChilton-FuedalistTarts.jpg
+    title: 'Alex Chilton “Feudalist Tarts”'
+
+
+- project: 'Alex Chilton “High Priest”'
+  artist: 'Alex Chilton'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://alexchilton.bandcamp.com/album/high-priest
+    title: Bandcamp
+  notes: >-
+    Bar/None Records
+    
+  image: 
+    url: images/discography/2021/AlexChilton-HighPriest.jpg
+    title: 'Alex Chilton “High Priest”'
+    
+    
+    
+- project: 'Rogue Oliphant “Highlights of the Low Life”'
+  artist: 'Rogue Oliphant'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://rogueoliphant.bandcamp.com/album/highlights-of-the-low-life
+    title: Bandcamp
+  notes: >-
+     This album features 26 songs with lyrics by Pultizer Prize-winning poet Paul Muldoon and music by Chris Harford, Ray Kubian, David Mansfield, Cáit O'Riordan, and Warren Zanes. Special Guests include Reed Black, Dana Colley, Eric Jacobsen, and Alexis Moon.
+     Soul Selects
+    
+  image: 
+    url: images/discography/2021/RogueOliphant.jpg
+    title: 'Rogue Oliphant “Highlights of the Low Life”'
+    
+    
+
+- project: 'Versus “Let's Electrify!”'
+  artist: 'Versus'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://versusny.bandcamp.com/album/lets-electrify
+    title: Bandcamp
+  notes: >-
+    Teen Beat Records
+    
+  image: 
+    url: images/discography/2021/Versus-LetsElectrify.jpg
+    title: 'Versus “Let's Electrify!”'
+    
+    
+    
+- project: 'Solid Bronze “Mt. Fuji”'
+  artist: 'Solid Bronze'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://solidbronzesolidbronze.bandcamp.com/album/mt-fuji
+    title: Bandcamp
+  notes: >-
+    Soul Selects
+    
+  image: 
+    url: images/discography/2021/SolidBronze-MtFuji.jpg
+    title: 'Solid Bronze “Mt. Fuji”'
+    
+    
+  - project: 'The Cucumbers “The Desk Drawer Tapes”'
+  artist: 'The Cucumbers'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://deena.bandcamp.com/album/the-desk-drawer-tapes
+    title: Bandcamp
+  notes: >-
+    
+  image: 
+    url: images/discography/2021/TheCucumbers-DeskDrawerTapes.jpg
+    title: 'The Cucumbers “The Desk Drawer Tapes”'
+    
+    
+  - project: 'Yarn “Appetite For Destruction”'
+  artist: 'Yarn'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://stores.portmerch.com/yarn/featured-products/appetite-for-destruction.html
+    title: Online store
+  notes: >-
+    
+  image: 
+    url: images/discography/2021/Yarn-AppetiteForDestruction.jpg
+    title: 'Yarn “Appetite For Destruction”'
+    
+    
+  - project: 'Bob Perry “A World Like This”'
+  artist: 'Bob Perry'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://bobperry.bandcamp.com/album/a-world-like-this
+    title: Bandcamp
+  notes: >-
+    
+  image: 
+    url: images/discography/2021/BobPerry-AWorldLikeThis.jpg
+    title: 'Bob Perry “A World Like This”'
+    
+    
+  - project: 'Random Joe and the Strillards “Before we die...”'
+  artist: 'Random Joe and the Strillards'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://www.qobuz.com/gb-en/interpreter/random-joe--the-strillards/14003898
+    title: Qobuz
+  notes: >-
+    Soul Selects
+    
+  image: 
+    url: images/discography/2021/RandomJoe.jpg
+    title: 'Random Joe and the Strillards “Before we die...”'
+    
+    
+  - project: 'Stephanie Seymour “There Was A Time”'
+  artist: 'Stephanie Seymour'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://stephanieseymour.bandcamp.com/track/there-was-a-time
+    title: Bandcamp
+  notes: >-
+    
+  image: 
+    url: images/discography/2021/StephanieSeymour-ThereWasATime.jpg
+    title: 'Stephanie Seymour “There Was A Time”'
