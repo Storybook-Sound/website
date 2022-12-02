@@ -1,15 +1,14 @@
-- project: 'OPTO S “Human Indictive/Live”'
-  artist: 'OPTO S'
-  year: 2020
+- project: 'James Falzone “So Far Still”'
+  artist: 'James Falzone'
+  year: 2022
   roles:
     - Mastering
   project_url: 
-    url: https://en.wikipedia.org/wiki/ESP-Disk
-    title: Label Wikipedia
+    url: https://allosdocuments.bandcamp.com/album/so-far-still
+    title: Bandcamp
   notes: >-
-    ESP-Disk
-    
+    Allos Documents
     
   image: 
-    url: images/discography/2020/ED53DFA4-33E6-41D5-820E-42E15A55690D.jpeg
-    title: 'OPTO S “Human Indictive/Live”'
+    url: images/discography/2022/JamesFalzone-SoFarStill.jpeg
+    title: 'James Falzone “So Far Still”'
