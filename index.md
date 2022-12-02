@@ -44,7 +44,7 @@ recorded audio holds in store.</p>
             <cite>Patrick Martin</cite>
           </blockquote>
           <hr>
-          <blockquote>"For brand new projects or restoring and remastering vintage tapes  the knowledge, art and sensitivity to detail Scott  brings to his work is awe-inspiring and reassuring."
+          <blockquote>"For brand new projects or restoring and remastering vintage tapes the knowledge, art and sensitivity to detail Scott brings to his work is awe-inspiring and reassuring."
             <cite>Deena Shoshkes</cite>
           </blockquote>
           <hr>
