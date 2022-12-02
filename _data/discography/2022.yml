@@ -1,135 +1,133 @@
-- project: 'James Falzone “So Far Still”'
+- project: 'James Falzone "So Far Still"'
   artist: 'James Falzone'
   year: 2022
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://allosdocuments.bandcamp.com/album/so-far-still
     title: Bandcamp
   notes: >-
     Allos Documents
-    
-  image: 
+
+  image:
     url: images/discography/2022/JamesFalzone-SoFarStill.jpg
-    title: 'James Falzone “So Far Still”'
+    title: 'James Falzone "So Far Still"'
 
-
-- project: 'Men & Volts “Amber Supreme”'
+- project: 'Men & Volts "Amber Supreme"'
   artist: 'Men & Volts'
   year: 2022
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://menandvolts.bandcamp.com/album/amber-supreme
     title: Bandcamp
   notes: >-
-      
-  image: 
+
+  image:
     url: images/discography/2022/MenVolts-AmberSupreme.jpg
-    title: 'Men & Volts “Amber Supreme”'
-    
-    
-- project: 'Emily Hurd “Underkill”'
+    title: 'Men & Volts "Amber Supreme"'
+
+- project: Emily Hurd "Underkill"
   artist: 'Emily Hurd'
   year: 2022
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://www.emilyhurd.com/music
     title: Online store
   notes: >-
       Produced by John Abbey
-  image: 
-    url: images/discography/2022/EmilyHurd-Underkill.jpg
-    title: 'Emily Hurd “Underkill”'
-    
-    
-  - project: 'Chris Harford “Looking Out For Number 6”'
+  image:
+    url: images/discography/2022/EmilyHurd-Underkill.webp
+    title: 'Emily Hurd "Underkill"'
+
+
+- project: 'Chris Harford "Looking Out For Number 6"'
   artist: 'Chris Harford'
   year: 2022
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://chrisharford.bandcamp.com/album/looking-out-for-number-6?label=2914117867&tab=music
     title: Online store
   notes: >-
       Soul Selects
-  image: 
+  image:
     url: images/discography/2022/ChrisHarford-LookingOutForNumber6.jpg
-    title: 'Chris Harford “Looking Out For Number 6”'
-    
-    
-  - project: 'The Color Purple Audio Experience”'
+    title: 'Chris Harford "Looking Out For Number 6"'
+
+
+- project: 'The Color Purple Audio Experience"'
   artist: 'Chris Harford'
   year: 2022
   roles:
     - Mastering
     - Mixing
-  project_url: 
+  project_url:
     url: https://www.imdb.com/title/tt16740848/
     title: IMDB
   notes: >-
       Audio musical podcast series
-  image: 
+  image:
     url: images/discography/2022/TCPAX.jpg
-    title: 'The Color Purple Audio Experience”'
-    
-    
-  - project: 'Blanc Du Blanc “Wind Of Change”'
+    title: 'The Color Purple Audio Experience"'
+
+
+- project: 'Blanc Du Blanc "Wind Of Change"'
   artist: 'Blanc Du Blanc'
   year: 2022
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://blancdublanc.bandcamp.com/album/wind-of-change-ep
     title: Bandcamp
   notes: >-
       Soul Selects
-  image: 
+  image:
     url: images/discography/2022/BlancDuBlanc-WindOfChange.jpg
-    title: 'Blanc Du Blanc “Wind Of Change”'
-    
-    
-  - project: 'Blanc Du Blanc “Reggatta du Blanc du Blanc”'
+    title: 'Blanc Du Blanc "Wind Of Change"'
+
+
+- project: 'Blanc Du Blanc "Reggatta du Blanc du Blanc"'
   artist: 'Blanc Du Blanc'
   year: 2022
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://blancdublanc.bandcamp.com/album/reggatta-du-blanc-du-blanc
     title: Bandcamp
   notes: >-
       Soul Selects
-  image: 
+  image:
     url: images/discography/2022/BlancDuBlanc-Reggatta.jpg
-    title: 'Blanc Du Blanc “Reggatta du Blanc du Blanc”'
-    
-    
-  - project: 'Ivan Nahem “Crawling Through Grass”'
+    title: 'Blanc Du Blanc "Reggatta du Blanc du Blanc"'
+
+
+- project: 'Ivan Nahem "Crawling Through Grass"'
   artist: 'Ivan Nahem'
   year: 2022
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://ivan-nahem.bandcamp.com/album/crawling-through-grass
     title: Bandcamp
   notes: >-
-      
-  image: 
+
+  image:
     url: images/discography/2022/IvanNahem-Crawling.jpg
-    title: 'Ivan Nahem “Crawling Through Grass”'
-    
-    
-  - project: 'Luther Black and the Cold Hard Facts “Moment of Truth”'
+    title: 'Ivan Nahem "Crawling Through Grass"'
+
+
+- project: 'Luther Black and the Cold Hard Facts "Moment of Truth"'
   artist: 'Luther Black and the Cold Hard Facts'
   year: 2022
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://lutherblackandthecoldhardfacts.bandcamp.com/album/moment-of-truth
     title: Bandcamp
   notes: >-
-      
-  image: 
+
+  image:
     url: images/discography/2022/LutherBlack-Moment.jpg
-    title: 'Luther Black and the Cold Hard Facts “Moment of Truth”'
+    title: 'Luther Black and the Cold Hard Facts "Moment of Truth"'
