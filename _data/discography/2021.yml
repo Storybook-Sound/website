@@ -156,3 +156,65 @@
   image: 
     url: images/discography/2021/StephanieSeymour-ThereWasATime.jpg
     title: 'Stephanie Seymour “There Was A Time”'
+    
+    
+    - project: 'Evan Hause “Jade”'
+  artist: 'Evan Hause'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://hausemusic.bandcamp.com/album/jade
+    title: Bandcamp
+  notes: >-
+    
+  image: 
+    url: images/discography/2021/Evan-Hause-Jade.jpg
+    title: 'Evan Hause “Jade”'
+    
+    
+    - project: 'Dave Keener “PTO”'
+  artist: 'Dave Keener'
+  year: 2021
+  roles:
+    - Mastering
+  project_url: 
+    url: https://davekeener.bandcamp.com/album/pto
+    title: Bandcamp
+  notes: >-
+    
+  image: 
+    url: images/discography/2021/DaveKeener-PTO.jpg
+    title: 'Dave Keener “PTO”'
+    
+    
+    - project: 'Not Now'
+  artist: 'Loretta Hagen'
+  year: 2021
+  roles:
+    - Mastering
+    - project: 'Glare Junkie'
+  artist: 'Slew'
+  year: 2021
+  roles:
+    - Mastering
+    - project: 'Point Nemo/Summer in France'
+  artist: 'Sad About Girls'
+  year: 2021
+  roles:
+    - Mastering
+    - project: '2000 EP'
+  artist: 'Rebecca Turner'
+  year: 2021
+  roles:
+    - Mastering
+    - project: 'Clout EP'
+  artist: 'Roger C. Reale'
+  year: 2021
+  roles:
+    - Mastering
+    - project: 'Covid-19 in 2020'
+  artist: 'Six Feet Apart'
+  year: 2021
+  roles:
+    - Mastering
