@@ -50,14 +50,14 @@ The following captioned walkthrough tells a little more of the story. We know th
 
 ## Services
 
-While mastering is our main services and Scott's major area of expertise,
-we offer a full range of audio services.
-
 ### Mastering
 
 Audio mastering is the first step of manufacturing, and the final creative step of recording. You can master one song, or a whole album. Mastering might adjust the relative loudness of a group of songs, or equalize a song that might be more "boom-y" or more compressed than the others. The timing between tracks and  fade-outs, as well as the names of the songs as they'll appear on the radio or a streaming service, are finalized. We'll then decide on the overall volume of the album for vinyl, CD, or streaming .
 
 Mastering also might require preserving or restoring audio or helping an artist find something different or new to hear. A common consideration in mastering is how the audio might sound when  heard in different environments (car speakers, in a theater, turntable, earbuds, etc.). In any given project, the music itself will dictate the necessary  steps to a complete master, which will be expanded on and refined by our  discussions. Before 2020, we encouraged clients to be present for the session. But attendance was never a requirement! We’ve always done the lion’s share  of our projects corresponding online.
+
+While mastering is our main services and Scott's major area of expertise,
+we offer a full range of audio services.
 
 ### Dolby Atmos
 
