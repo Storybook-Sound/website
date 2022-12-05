@@ -67,6 +67,8 @@ category: full-width image-captions
 <div class="narrow" markdown=1>
 # News
 
+- Donny Levit wrote a profile of Rebecca and Scott for local print journal <a href="http://mattersmagazineissues.com/Holiday2022/?page=12" target="_blank">Matters Magazine</a>.
+
 - Dolby Labs added us to their [Atmos-enabled music studios listing](https://professional.dolby.com/music/dolby-atmos-music-studios){:target="_blank" rel="noopener"}.
 
 - A <a href="https://tapeop.com" target="_blank">TapeOp</a> article by Scott and Rebecca: <a href="https://tapeop.com/interviews/138/david-gilmour/" target="_blank">David Gilmour: The Artist as Producer: Unicorn and Kate Bush</a>.
