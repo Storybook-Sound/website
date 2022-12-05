@@ -56,7 +56,7 @@ Audio mastering is the first step of manufacturing, and the final creative step 
 
 Mastering also might require preserving or restoring audio or helping an artist find something different or new to hear. A common consideration in mastering is how the audio might sound when  heard in different environments (car speakers, in a theater, turntable, earbuds, etc.). In any given project, the music itself will dictate the necessary  steps to a complete master, which will be expanded on and refined by our  discussions. Before 2020, we encouraged clients to be present for the session. But attendance was never a requirement! We’ve always done the lion’s share  of our projects corresponding online.
 
-While mastering is our main services and Scott's major area of expertise,
+While mastering is our main service and Scott's major area of expertise,
 we offer a full range of audio services.
 
 ### Dolby Atmos
