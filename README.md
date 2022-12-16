@@ -21,6 +21,7 @@ It should auto-detect changes to Markdown or layout files.
 
 1. `git pull` to get latest updates from remote
 2. `git add <file path>` to add a new file (like an image)
+ - `git add images` will add all new images in one stroke. Still need to commit, though.
 3. `git commit -a` to commit all changes.
 4. `git commit <file path>` to commit just one file (or multiple)
 5. `git push` to push to remote and deploy to Github Pages
