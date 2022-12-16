@@ -101,6 +101,15 @@ function display_item(set, idx) {
   ]);
 }
 
+const urlParams = new URLSearchParams(window.location.search);
+const set = urlParams.get('set');
+const entry = urlParams.get('entry');
+
+if (set && entry) {
+  display_item(set, entry);
+  DOM("#gallerydlg").showModal();
+}
+
 on("click", ".gallery_entry", e => {
   e.preventDefault();
   display_item(e.match.closest("[data-set]").dataset.set, e.match.closest("[data-idx]").dataset.idx);
