@@ -29,3 +29,11 @@ It should auto-detect changes to Markdown or layout files.
 7. `git checkout main` to work with main branch
 8. `git merge dev` from main to merge in changes made in dev
 9. `git merge main` from dev to merge in changes made in main
+
+## Discography
+
+To automatically open a specific gallery item, you can specify the "set" and "entry" by number in the URL:
+
+https://storybooksound.com/discography.html?set=0&entry=0
+
+Where `set=0` is the first/top set on the page. Entries for each set also begin at zero. You can use dev tools in the browser to inspect HTML if in doubt about which set and entry to specify.
