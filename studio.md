@@ -8,7 +8,7 @@ category: full-width image-captions
 
 Storybook was designed by lifetime Grammy recipient <a href="http://www.aes.org/events/141/presenters/?ID=5280" target="_blank">George Augspurger</a>, an audio and acoustical engineer who has been active in studio design for many years, receiving a Technical Grammy Award in 2019 for his amazing work. One of his favorite rooms he has designed is the <a href="http://www.sunsetsound.com/studios/" target="_blank">Studio 1</a> control room at Sunset Sound.
 
-For information about our booking and process, please visit the <a href="booking.html">working with us</a> page. Further down this page you can read about our [services](#services): [mastering](#mastering), [mixing](#mixing), [Dolby Atmos (Spatial)](#dolby-atmos), [recording](#recording) and [producing](#producing).
+For information about our booking and process, please visit the <a href="booking.html">rates and booking</a> page. Further down this page you can read about our [services](#services): [mastering](#mastering), [Dolby Atmos (spatial/immersive/3D audio)](#dolby-atmos), [recording](#recording), [mixing](#mixing) and [producing](#producing).
 
 The [mastering equipment](#equipment) is listed below that, compartmentalized into [monitoring](#monitoring), [processing](#processing), [formats](#formats) and [software](#software).
 
@@ -50,14 +50,14 @@ The following captioned walkthrough tells a little more of the story. We know th
 
 ## Services
 
-While mastering is our main services and Scott's major area of expertise,
-we offer a full range of audio services.
-
 ### Mastering
 
 Audio mastering is the first step of manufacturing, and the final creative step of recording. You can master one song, or a whole album. Mastering might adjust the relative loudness of a group of songs, or equalize a song that might be more "boom-y" or more compressed than the others. The timing between tracks and  fade-outs, as well as the names of the songs as they'll appear on the radio or a streaming service, are finalized. We'll then decide on the overall volume of the album for vinyl, CD, or streaming .
 
 Mastering also might require preserving or restoring audio or helping an artist find something different or new to hear. A common consideration in mastering is how the audio might sound when  heard in different environments (car speakers, in a theater, turntable, earbuds, etc.). In any given project, the music itself will dictate the necessary  steps to a complete master, which will be expanded on and refined by our  discussions. Before 2020, we encouraged clients to be present for the session. But attendance was never a requirement! We’ve always done the lion’s share  of our projects corresponding online.
+
+While mastering is our main service and Scott's major area of expertise,
+we offer a full range of audio services.
 
 ### Dolby Atmos
 
@@ -67,6 +67,7 @@ Mastering also might require preserving or restoring audio or helping an artist 
 ### Producing, Recording & Mixing
 
 For inspiring people and projects, we offer a Pro Tools foundation, hybridizing a <a href="recording.html">robust collection of analog and digital tools</a> in a cozy, classy environment.
+
 
 ## Mastering Equipment
 
