@@ -1,5 +1,5 @@
-- project: 'Wire Troop and Friends'
-  artist: 'Wire Troop and Friends'
+- project: 'Wire Troop & Friends Play Your Country Music Favorites (and More)'
+  artist: 'Wire Troop'
   year: 2023
   roles:
     - Mastering
@@ -10,4 +10,109 @@
 
   image:
     url: images/discography/2023/Wire-Troop-and-Friends.jpg
-    title: 'Wire Troop and Friends'
+    title: 'Wire Troop & Friends Play Your Country Music Favorites (and More)'
+
+- project: 'InfInIte Bach'
+  artist: 'Maya Beiser'
+  year: 2023
+  roles:
+    - Mastering
+    - Immersive Mix
+  project_url:
+    url: https://islandiamusicshop.com/products/maya-beiser-infinite-bach
+    title: Islandia Music
+  notes: >-
+
+  image:
+    url: images/discography/2023/Maya-Beiser-Infinite-Bach.webp
+    title: 'InfInIte Bach'
+
+- project: 'Some Kinda Love'
+  artist: 'The Feelies'
+  year: 2023
+  roles:
+    - Mastering
+    - Mixing
+    - Recording
+  project_url:
+    url: https://thefeelies.bandcamp.com/album/some-kinda-love-performing-the-music-of-the-velvet-underground
+    title: Bandcamp
+  notes: >-
+
+  image:
+    url: images/discography/2023/Feelies_VU.jpg
+    title: 'Some Kinda Love'
+
+- project: 'Laura Cantrell Anniversary Sessions'
+  artist: 'Laura Cantrell'
+  year: 2023
+  roles:
+    - Mastering
+  project_url:
+    url: https://lauracantrell.bandcamp.com/album/just-like-a-rose-the-anniversary-sessions
+    title: Bandcamp
+  notes: >-
+
+  image:
+    url: images/discography/2023/Laura-Cantrell-Anniversary-Sessions.jpg
+    title: 'Laura Cantrell Anniversary Sessions'
+
+- project: 'Caught Between a Love and a Love Affair (single)'
+  artist: 'Teddy Thompson and Jenni Muldaur'
+  year: 2023
+  roles:
+    - Immersive Mixing
+  project_url:
+    url: https://sunrecords.com/releases/once-more-teddy-thompson-jenni-muldaur-sing-the-great-country-duets/
+    title: Web store
+  notes: >-
+    Sun Records
+  image:
+    url: images/discography/2023/TeddyJenni_cover.jpg
+    title: 'Caught Between a Love and a Love Affair (single)'
+
+- project: "I Don't Like New Songs (single)"
+  artist: 'Scott Anthony'
+  year: 2023
+  roles:
+    - Mastering
+    - Mixing
+    - Recording
+    - Vocals, Bass, Author
+  project_url:
+    url: https://soulselects.bandcamp.com/music
+    title: Bandcamp
+  notes: >-
+    Soul Selects
+  image:
+    url: images/discography/2023/Scott-Anthony-I-Dont-Like-New-Songs.jpg
+    title: "I Don't Like New Songs (single)"
+
+- project: 'Adventures of Freddy'
+  artist: 'Evan Hause'
+  year: 2023
+  roles:
+    - Mastering
+    - Immersive Mixing
+  project_url:
+    url: https://hausemusic.bandcamp.com/album/adventures-of-freddy-2023-remix
+    title: Bandcamp
+  notes: >-
+    
+  image:
+    url: images/discography/2023/Evan-Hause_adventures.jpg
+    title: 'Adventures of Freddy'
+
+- project: 'Old Shoes'
+  artist: 'The Cucumbers'
+  year: 2023
+  roles:
+    - Mastering
+  project_url:
+    url: https://deena.bandcamp.com/album/old-shoes
+    title: Bandcamp
+  notes: >-
+    
+  image:
+    url: images/discography/2023/Cucumbers-Old-Shoes.jpg
+    title: 'Old Shoes'
