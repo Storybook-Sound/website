@@ -49,10 +49,14 @@ Masters can be delivered as any of the following formats, to suit your needs:
 - MP3, AAC, or other digital audio formats – for reference or internet delivery
 - PQ Sheet – to reference CD-Text, ISRC codes, etc.
 
-  <figure>
-    <img src="images/ADM-Plural-Album-Large-en_US_sm.png" style="margin:auto;display block" alt="Apple Digital Masters" />
-    <figcaption>Storybook is a provider of Apple Digital Masters</figcaption>
-  </figure>
+<figure style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+">
+<img src="/images/ADM-Plural-Album-Large-en_US_sm.png" alt="Main Console Detail" margin="auto"/>
+  <figcaption style="font-style:italic;margin-top:0.5em;">Storybook is a provider of Apple Digital Masters</figcaption>
+</figure>
 
 If you’re not sure what formats you need, let us know, and we can help you figure it out.
 
