@@ -200,3 +200,18 @@
   image:
     url: images/discography/2023/Racket-Squad.jpg
     title: 'Laura Lee / Goodbye (single)'
+
+- project: 'Throwing International'
+  artist: 'Michael Hugh Kilmer'
+  year: 2023
+  roles:
+    - Mastering
+    - Immersive Mixing
+  project_url:
+    url: https://mikeill.bandcamp.com/track/key-throwing-hardcode-international-funk
+    title: Bandcamp
+  notes: >-
+    
+  image:
+    url: images/discography/2023/Michael_Hugh_Kilmer_throwing.jpg
+    title: 'Throwing International'
