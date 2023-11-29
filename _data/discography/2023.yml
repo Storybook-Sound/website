@@ -116,3 +116,87 @@
   image:
     url: images/discography/2023/Cucumbers-Old-Shoes.jpg
     title: 'Old Shoes'
+
+- project: 'The Truth Fox'
+  artist: 'Frank Bango'
+  year: 2023
+  roles:
+    - Mastering
+  project_url:
+    url: https://alwaysbango.bandcamp.com/album/the-truth-fox
+    title: Bandcamp
+  notes: >-
+    
+  image:
+    url: images/discography/2023/Frank-Bango-Truth-Fox.jpg
+    title: 'The Truth Fox'
+
+- project: 'Jug Band Happy Hour'
+  artist: 'Jonas Friddle'
+  year: 2023
+  roles:
+    - Mastering
+  project_url:
+    url: https://jonasfriddle1.bandcamp.com/album/jug-band-happy-hour
+    title: Bandcamp
+  notes: >-
+    
+  image:
+    url: images/discography/2023/Jonas-Friddle-Jug-Band.jpg
+    title: 'Jug Band Happy Hour'
+
+- project: 'Princess Telephone'
+  artist: 'Sugar Fight'
+  year: 2023
+  roles:
+    - Mastering
+  project_url:
+    url: https://sugarfight.bandcamp.com/album/princess-telephone
+    title: Bandcamp
+  notes: >-
+    
+  image:
+    url: images/discography/2023/Sugar-Fight.jpg
+    title: 'Princess Telephone'
+
+- project: 'Megan Reilly (EP)'
+  artist: 'Megan Reilly'
+  year: 2023
+  roles:
+    - Mastering
+  project_url:
+    url: https://meganreilly.bandcamp.com/album/megan-reilly
+    title: Bandcamp
+  notes: >-
+    
+  image:
+    url: images/discography/2023/Megan-Reilly-EP.jpg
+    title: 'Megan Reilly (EP)'
+
+- project: 'Three Colors'
+  artist: 'Three Colors'
+  year: 2023
+  roles:
+    - Mastering
+  project_url:
+    url: https://threecolors.bandcamp.com/album/three-colors?label=2914117867&tab=music
+    title: Bandcamp
+  notes: >-
+    
+  image:
+    url: images/discography/2023/Three-Colors.jpg
+    title: 'Three Colors'
+
+- project: 'Laura Lee / Goodbye (single)'
+  artist: 'Racket Squad'
+  year: 2023
+  roles:
+    - Mastering
+  project_url:
+    url: https://racketsquad.bandcamp.com/
+    title: Bandcamp
+  notes: >-
+    
+  image:
+    url: images/discography/2023/Racket-Squad.jpg
+    title: 'Laura Lee / Goodbye (single)'
