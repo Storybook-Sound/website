@@ -125,7 +125,10 @@
   project_url:
     url: https://alwaysbango.bandcamp.com/album/the-truth-fox
     title: Bandcamp
-  notes: >-
+  notes: >- Produced Frank Bango & Danny Blume
+Recorded by Danny Blume at at Hidden Quarry Studios. Woodstock, NY.
+and Frank Bango at Sincerity Incorporated High Falls, NY.
+Mixed by Bryce Goggin at Trout recorders NYC 
     
   image:
     url: images/discography/2023/Frank-Bango-Truth-Fox.jpg
@@ -139,7 +142,7 @@
   project_url:
     url: https://jonasfriddle1.bandcamp.com/album/jug-band-happy-hour
     title: Bandcamp
-  notes: >-
+  notes: >- John Abbey - Recording Engineer
     
   image:
     url: images/discography/2023/Jonas-Friddle-Jug-Band.jpg
@@ -167,7 +170,7 @@
   project_url:
     url: https://meganreilly.bandcamp.com/album/megan-reilly
     title: Bandcamp
-  notes: >-
+  notes: >- Magic Door Records
     
   image:
     url: images/discography/2023/Megan-Reilly-EP.jpg
@@ -181,7 +184,7 @@
   project_url:
     url: https://threecolors.bandcamp.com/album/three-colors?label=2914117867&tab=music
     title: Bandcamp
-  notes: >-
+  notes: >- Soul Selects
     
   image:
     url: images/discography/2023/Three-Colors.jpg
@@ -195,13 +198,13 @@
   project_url:
     url: https://racketsquad.bandcamp.com/
     title: Bandcamp
-  notes: >-
+  notes: >- Recorded by Jack Dawson at Touch of Turquoise, Brooklyn NY
     
   image:
     url: images/discography/2023/Racket-Squad.jpg
     title: 'Laura Lee / Goodbye (single)'
 
-- project: 'Throwing International'
+- project: 'Key Throwing Hardcode International Funk'
   artist: 'Michael Hugh Kilmer'
   year: 2023
   roles:
@@ -214,4 +217,4 @@
     
   image:
     url: images/discography/2023/Michael_Hugh_Kilmer_throwing.jpg
-    title: 'Throwing International'
+    title: 'Key Throwing Hardcode International Funk'
