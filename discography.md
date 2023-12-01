@@ -7,5 +7,5 @@ category: full-width
 <script>const galleries = {{ site.data.discography | jsonify }};</script>
 # Discography
 
-<p>Click on any project below for details and gallery view, categorized by year. To view simple, text-based client listing, <a href="clients.html">click here</a>.</p>
+<p>Click on any project below for details and gallery view, categorized by year. To view a simple, text-based client listing, <a href="clients.html">click here</a>.</p>
 <div id=gallery></div>

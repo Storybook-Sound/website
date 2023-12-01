@@ -67,6 +67,8 @@ category: full-width image-captions
 <div class="narrow" markdown=1>
 # News
 
+- Storybook Sound is now a provider of Apple Digital Masters. Their ADM program allows Apple to present your music at the highest quality. Here's an article about ADM on <a href="https://www.theverge.com/2019/8/7/20758633/apple-digital-masters-itunes-rebrand-music-quality" target="_blank">The Verge</a>.
+
 - Donny Levit contributed a very cool feature story about Rebecca and Scott to our local print journal, <a href="http://mattersmagazineissues.com/Holiday2022/?page=12" target="_blank">Matters Magazine</a>.
 
 - Dolby Labs added us to their [Atmos-enabled music studios listing](https://professional.dolby.com/music/dolby-atmos-music-studios){:target="_blank" rel="noopener"}.
