@@ -190,6 +190,7 @@
   year: 2023
   roles:
     - Mastering
+    - Immmersive Mixing
   project_url:
     url: https://threecolors.bandcamp.com/album/three-colors?label=2914117867&tab=music
     title: Bandcamp
@@ -229,3 +230,19 @@
   image:
     url: images/discography/2023/Michael_Hugh_Kilmer_throwing.jpg
     title: 'Key Throwing Hardcode International Funk'
+
+    - project: 'Mariners Apartment Complex'
+  artist: 'Chris Harford'
+  year: 2023
+  roles:
+    - Mastering
+    - Immmersive Mixing
+  project_url:
+    url: https://music.apple.com/us/album/mariners-apartment-complex-single/1714388511
+    title: Apple Music
+  notes: >- 
+    Soul Selects
+    
+  image:
+    url: images/discography/2023/Harford-Mariners.jpg
+    title: 'Mariners Apartment Complex'
