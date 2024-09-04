@@ -15,7 +15,7 @@ for arg in sys.argv:
   print(arg)
 
 if (len(sys.argv) < 2):
-  print("Usage: python scrapebc.py filename.csv")
+  print("Usage: python scrapebc.py discimports/filename.csv")
   sys.exit(1)
 
 with open(sys.argv[1], newline='') as l:
