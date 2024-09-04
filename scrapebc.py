@@ -31,7 +31,7 @@ with open('latest.csv', newline='') as l:
     print("Artist: ", artist)
 
     trackTitle = soup.findAll('h2', {'class': 'trackTitle'})[0].get_text()
-    with open('_data/discography/%s.yml' % row["year"], 'a+') as f:
+    with open('_data/discography/%s.yml' % row["year"].strip(), 'a+') as f:
       f.write("\n- project: '%s'\n" % trackTitle.strip())
       f.write("\t  artist: '%s'" % artist.strip())
 
