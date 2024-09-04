@@ -1,4 +1,5 @@
 import re
+import sys
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -10,7 +11,14 @@ urls = [
     "https://chrisharford.bandcamp.com/album/looking-out-for-number-6?label=2914117867&tab=music"
 ]
 
-with open('latest.csv', newline='') as l:
+for arg in sys.argv:
+  print(arg)
+
+if (len(sys.argv) < 2):
+  print("Usage: python scrapebc.py filename.csv")
+  sys.exit(1)
+
+with open(sys.argv[1], newline='') as l:
   reader = csv.DictReader(l, delimiter='	')
   for row in reader:
     print(row["url"], row["year"], row["roles"], row["notes"])
