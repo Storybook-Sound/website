@@ -1,7 +1,7 @@
 import re
 import requests
 from bs4 import BeautifulSoup
-
+import csv
 from urllib.parse import urljoin
 
 
@@ -10,8 +10,12 @@ urls = [
     "https://chrisharford.bandcamp.com/album/looking-out-for-number-6?label=2914117867&tab=music"
 ]
 
-for url in urls:
-    r = requests.get(url)
+with open('latest.csv', newline='') as l:
+  reader = csv.DictReader(l)
+  for row in reader:
+    print(row["url"], row["year"], row["roles"], row["notes"])
+
+    r = requests.get(row["url"])
     soup = BeautifulSoup(r.content, "html.parser")
 
     namesection = soup.findAll('div', {'id':'name-section'})[0]
@@ -27,6 +31,9 @@ for url in urls:
     print("Artist: ", artist)
 
     trackTitle = soup.findAll('h2', {'class': 'trackTitle'})[0].get_text()
+    """ with open('_data/discography/2025.yml', 'a+') as f:
+      f.write("- project: 'Nan Sings, Live From The Portland Regency'")
+      f.write("\t  artist: 'Nan Warnock'") """
 
     """ album_links = []
     for album in soup.find_all('a', href=re.compile(r"\/album/.+")):
