@@ -13,3 +13,19 @@
   image:
     url: 'https://f4.bcbits.com/img/a2379154967_16.jpg'
     title: 'Roderick Hohl "Back Home"'
+
+- project: 'Paper Jays'
+  artist: 'Paper Jays'
+  year: 2024
+  roles:
+    - "mastering"
+  project_url:
+    url: 'https://paperjaysesp.bandcamp.com/album/paper-jays'
+    title: 'Artist Site'
+  notes: >-
+    <b>ESP Disk</b>
+
+  image:
+    url: 'https://f4.bcbits.com/img/a2358457010_16.jpg'
+    title: 'Paper Jays "Paper Jays"'
+
