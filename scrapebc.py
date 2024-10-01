@@ -41,9 +41,10 @@ with open(sys.argv[1], newline='') as l:
     trackTitle = soup.findAll('h2', {'class': 'trackTitle'})[0].get_text().strip()
     print("Track Title: ", trackTitle)
     year = row["year"].strip()
+    notes = row["notes"] if row["notes"] else ""
     roles = [r.strip() for r in row["roles"].split(',')]
     with open('_data/discography/%s.yml' % year, 'a+') as f:
-      f.write("- project: '%s'\n" % trackTitle.strip())
+      f.write("\n- project: '%s'\n" % trackTitle.strip())
       f.write("  artist: '%s'\n" % artist.strip())
       f.write("  year: %s\n" % year)
       f.write("  roles:\n")
@@ -53,7 +54,7 @@ with open(sys.argv[1], newline='') as l:
       f.write("    url: '%s'\n" % row["url"].strip())
       f.write("    title: '%s'\n" % "Artist Site")
       f.write("  notes: >-\n")
-      f.write("    <b>%s</b>\n\n" % row["notes"].strip())
+      f.write("    <b>%s</b>\n\n" % notes.strip())
       f.write("  image:\n")
       f.write("    url: '%s'\n" % albumart)
       f.write("    title: '%s %s'\n\n" % (artist.strip(), '"'+trackTitle.strip()+'"'))
