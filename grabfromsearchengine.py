@@ -22,7 +22,15 @@ urls = [
 r = requests.get(urls[2])
 soup = BeautifulSoup(r.content, "html.parser")
 
-results = soup.findAll('div', {'id':'search'})
+results = soup.findAll("div", {"class": "kCrYT"})
+p2 = url + "&dpr=2"
+page2 = requests.get(p2)
+moresoup = BeautifulSoup(page2.content, "html.parser")
+results2 = moresoup.findAll("div", {"class": "kCrYT"})
+len(results2)
+
+link = results[2].find("a")
+link.attrs.get("href")
 
 def extract_href(href):
     url = urlparse(href)
