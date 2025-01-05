@@ -7,22 +7,38 @@ from urllib.parse import urljoin
 # from rich import print
 from urllib.parse import urlparse
 from urllib.parse import parse_qs
+from pprint import pprint
 # https://dev.to/webscraping/extract-google-search-results-using-python-and-beautifulsoup-16ig
 
-""" query = "Python programming"
-url = f"https://www.google.com/search?q={query}" """
 
-urls = [
-    "https://www.google.com/search?q=%22Storybook+Sound%22+site%3Abandcamp.com",
-    "https://www.google.com/search?q=%22Storybook+Sound%22+site:bandcamp.com&sca_esv=8eafa2c7f6cb903b&ei=K79wZ730ErbjwN4P0ufayQU&start=10&sa=N&sstk=ATObxK5trltjAFMFeoSYPVUSYKa8URRt7t6cbkWrWXQtE5YWZxZVGcj4glwZDFcsA1dNZdnDwmRp_Mn6gTwn9JIv5mNoh658f6Fy-g&ved=2ahUKEwj9tYqIgsyKAxW2MdAFHdKzNlkQ8tMDegQICRAE&biw=1476&bih=973&dpr=2",
-    "https://www.google.com/search?q=%22Storybook+Sound%22+site:bandcamp.com&sca_esv=8eafa2c7f6cb903b&ei=Qr9wZ4PuKdb-p84Po8T_wAs&start=20&sa=N&sstk=ATObxK5L0rktb1cOTNu8UTJhdYH_q66lG-hyaFWeI6g3pRcayMQVJXiuM3SsMgwUbttt80q7wTYPvqFIB_WmOPHOGAVT2LXiJz0gaS2mAAgloTXWTSlp-m5KcgnGgtJ9xbwN&ved=2ahUKEwiDl52TgsyKAxVW_8kDHSPiH7g4ChDy0wN6BAgJEAc&biw=1476&bih=973&dpr=2"
-]
+url = "https://www.google.com/search?q=%22Storybook+Sound%22+site%3Abandcamp.com"
 
 
-r = requests.get(urls[2])
+r = requests.get(url)
 soup = BeautifulSoup(r.content, "html.parser")
 
-results = soup.findAll("div", {"class": "kCrYT"})
+main = soup.select_one("#main")
+results = main.findAll("div", {"class": "kCrYT"})
+for result in results:
+    link = result.find("a")
+    try:
+      url = link.attrs.get("href")
+      print(url)
+      # get the subdomain using regex
+      subdomain = re.search(r"/(?:url?q=http:\/\/)?(?:([^.]+)\.)?bandcamp\.com/", url).group(1)
+      # get the urlpath using regex
+      urlpath = re.search(r"/(?:url?q=http:\/\/)?(?:([^.]+)\.)?bandcamp\.com/", url).group(1)
+    except AttributeError:
+      subdomain = None
+      urlpath = None
+    print(subdomain)
+    print(urlpath)
+
+    divs = result.findAll("div")
+    for div in divs:
+        print(div.text)
+
+
 p2 = url + "&dpr=2"
 page2 = requests.get(p2)
 moresoup = BeautifulSoup(page2.content, "html.parser")
