@@ -8,6 +8,7 @@ from urllib.parse import urljoin
 from urllib.parse import urlparse
 from urllib.parse import parse_qs
 from pprint import pprint
+from pickle import dump, load
 # https://dev.to/webscraping/extract-google-search-results-using-python-and-beautifulsoup-16ig
 
 
@@ -37,44 +38,28 @@ for result in results:
     divs = result.findAll("div")
     for div in divs:
         print(div.text)
-
-
-p2 = url + "&dpr=2"
-page2 = requests.get(p2)
-moresoup = BeautifulSoup(page2.content, "html.parser")
-results2 = moresoup.findAll("div", {"class": "kCrYT"})
-len(results2)
-
-link = results[2].find("a")
-link.attrs.get("href")
-
-def extract_href(href):
-    url = urlparse(href)
-    query = parse_qs(url.query)
-    if not ('q' in query and query['q'] and len(query['q']) > 0):
-        return None
-    return query['q'][0]
-
-def extract_section(gdiv):
-    # Getting our elements
-    title = gdiv.select_one('h3')
-    link = gdiv.select_one('a')
-    description = gdiv.find('.BNeawe')
-    return {
-        # Extract title's text only if text is found
-        'title': title.text if title else None,
-
-        'link': link['href'] if link else None,
-        'description': description.text if description else None
-    }
-
-def extract_results(soup):
+url = "https://www.google.com/search?q=%22Storybook+Sound%22+site%3Abandcamp.com"
+tenpages = []
+for page in range(1, 150):
+    url = f"https://www.google.com/search?q=%22Storybook+Sound%22+site%3Abandcamp.com&start={page}"
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, "html.parser")
     main = soup.select_one("#main")
+    results = main.findAll("div", {"class": "kCrYT"})
+    tenpages.append(results[:])
 
-    res = []
-    for gdiv in main.select('.g, .fP1Qef'):
-        res.append(extract_section(gdiv))
-    return res
+bandsmapping = {}
 
-results = extract_results(soup)
-print(results)
+for page in tenpages:
+    for result in page:
+        link = result.find("a")
+        try:
+            url = link.attrs.get("href")
+            artist = re.search(r"/(?:url\?q=http[s]?:\/\/)?(?:([^.]+)\.)?bandcamp\.com\/", url).group(1)
+            print(f"subdomain: {subdomain}")
+            pagetype = re.search(r"/(?:url\?q=http[s]?:\/\/)?(?:[^.]+\.)?bandcamp\.com\/(track|album)?", url).group(1)
+        except AttributeError:
+            artist = None
+            pagetype = None
+        # @TODO add the pagetype and page to collection for this subdomain
+        bandsmapping[artist] = "COMING SOON"
