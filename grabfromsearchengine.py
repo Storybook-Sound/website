@@ -8,11 +8,14 @@ from urllib.parse import urljoin
 from urllib.parse import urlparse
 from urllib.parse import parse_qs
 from pprint import pprint
+import time
+import random
 
 resultspages = []
-for page in range(1, 150):
-    url = f"https://www.google.com/search?q=%22Storybook+Sound%22+2024+site%3Abandcamp.com&start={page}"
+for page in range(1, 80):
+    url = f"https://www.google.com/search?q=%22Storybook+Sound%22+site%3Abandcamp.com&start={page}"
     r = requests.get(url)
+    time.sleep(random.randrange(1,5))
     soup = BeautifulSoup(r.content, "html.parser")
     main = soup.select_one("#main")
     results = main.findAll("div", {"class": "kCrYT"})
