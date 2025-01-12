@@ -1,3 +1,33 @@
+- project: 'Woodstock'
+  artist: 'Birdfeeder'
+  year: 2024
+  roles:
+    - mastering
+  project_url:
+    url: 'https://birdfeeder-woodstock.bandcamp.com/album/woodstock'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'https://f4.bcbits.com/img/a2307214349_16.jpg'
+    title: 'Birdfeeder "Woodstock"'
+
+
+- project: 'Pleiades'
+  artist: 'Evan Hause'
+  year: 2024
+  roles:
+    - mastering
+  project_url:
+    url: 'https://hausemusic.bandcamp.com/track/pleiades'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'https://f4.bcbits.com/img/a0131566780_16.jpg'
+    title: 'Evan Hause "Pleiades"'
 
 - project: 'Back Home'
   artist: 'Roderick Hohl'
@@ -28,4 +58,3 @@
   image:
     url: 'https://f4.bcbits.com/img/a2358457010_16.jpg'
     title: 'Paper Jays "Paper Jays"'
-
