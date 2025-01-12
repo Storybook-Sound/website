@@ -1,0 +1,33 @@
+
+- project: 'Gnossienne'
+  artist: 'Allos Musica Ensemble'
+  year: 2016
+  roles:
+    - Mastering by Scott Anthony at Storybook Sound, Maplewood, NJ
+    - My heartfelt thanks to Ronnie, Tim, and Jeremiah, for their incredible musicianship, humanism, and shared vision. Thanks to John Abbey for great work in the studio and scintillating political discussions while waiting for tracks to process. Further thanks to the production team of Dan Mohr, Scott Anthony, and the good folks at Groove House. Additional thanks to Jason Finkelman for hosting Allos Musica Ensemble at a fantastic residency at University of Illinois in November 2015 when much of this music materialized.
+  project_url:
+    url: 'https://allosdocuments.bandcamp.com/album/gnossienne'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'https://f4.bcbits.com/img/a2725715381_16.jpg'
+    title: 'Allos Musica Ensemble "Gnossienne"'
+
+
+- project: 'No B!'
+  artist: 'Jane Lee Hooker'
+  year: 2016
+  roles:
+    - Mastered by Scott Anthony at Storybook Sound, Maplewood, NJ
+  project_url:
+    url: 'https://janeleehooker.bandcamp.com/album/no-b'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'https://f4.bcbits.com/img/a3425033172_16.jpg'
+    title: 'Jane Lee Hooker "No B!"'
+
