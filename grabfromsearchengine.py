@@ -43,8 +43,14 @@ for band in bandsmapping.keys():
   print(f"Fetching details info for {band}...")
   for pagetype in bandsmapping[band].keys():
     for url in bandsmapping[band][pagetype]:
+      if band == "maxgreene1":
+        print(f"Here's max {url}...")
+        url = "https://maxgreene1.bandcamp.com/album/back-home"
       print(f"Fetching {url}...")
       r = requests.get(url)
+      if r.status_code != 200:
+        print(f"Failed to fetch {url}...")
+        continue
       soup = BeautifulSoup(r.content, "html.parser")
       namesection = soup.findAll('div', {'id':'name-section'})[0]
       albumart = soup.findAll('div', {'id':'tralbumArt'})[0].find('img').get('src')
@@ -54,7 +60,7 @@ for band in bandsmapping.keys():
       albumCredits = soup.findAll('div', {'class': 'tralbumData tralbum-credits'})[0].get_text()
       year = re.search(r"(\d{4})", albumCredits).group(1) if re.search(r"(\d{4})", albumCredits) else "UNKNOWN"
       # Anything related to Scott Anthony
-      roles = [r.strip() for r in albumCredits.split('\n') if re.search(r"Scott Anthony", r)] if re.search(r"Scott Anthony", albumCredits) else ["mastering probably"]
+      roles = [r.strip() for r in albumCredits.split('\n') if re.search(r"Scott Anthony", r)] if re.search(r"Scott Anthony", albumCredits) else ["Mastering"]
       with open('test/%s.yml' % year, 'a+') as f:
         f.write("\n- project: '%s'\n" % trackTitle.strip())
         f.write("  artist: '%s'\n" % artist.strip())
@@ -66,7 +72,7 @@ for band in bandsmapping.keys():
         f.write("    url: '%s'\n" % url)
         f.write("    title: '%s'\n" % "Artist Site")
         f.write("  notes: >-\n")
-        f.write("    <b>%s</b>\n\n" % ', '.join([role.strip() for role in roles]))
+        f.write("    <b></b>\n\n")
         f.write("  image:\n")
         f.write("    url: '%s'\n" % albumart)
         f.write("    title: '%s %s'\n\n" % (artist.strip(), '"'+trackTitle.strip()+'"'))
