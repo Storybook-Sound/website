@@ -246,33 +246,3 @@
   image:
     url: images/discography/2023/Harford-Mariners.jpg
     title: 'Mariners Apartment Complex'
-
-- project: 'Looking Out For Number 6'
-  artist: 'Chris Harford'
-  year: 2023
-  roles:
-    - "mastering"
-  project_url:
-    url: 'https://chrisharford.bandcamp.com/album/looking-out-for-number-6'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: 'https://f4.bcbits.com/img/a0740724154_16.jpg'
-    title: 'Chris Harford "Looking Out For Number 6"'
-
-- project: 'Cool Fires: Songs of L​.​A. Art at Midcentury'
-  artist: 'Eljin Marbles'
-  year: 2023
-  roles:
-    - "mastering"
-  project_url:
-    url: 'https://eljinmarbles.bandcamp.com/album/cool-fires-songs-of-l-a-art-at-midcentury'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: 'https://f4.bcbits.com/img/a3096119504_16.jpg'
-    title: 'Eljin Marbles "Cool Fires: Songs of L​.​A. Art at Midcentury"'
