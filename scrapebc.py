@@ -49,7 +49,7 @@ with open(sys.argv[1], newline='') as l:
     notes = row["notes"] if row["notes"] else ""
     roles = [r.strip() for r in re.split(r',|, ', row["roles"])]
     with open('_data/discography/%s.yml' % year, 'a+') as f:
-      f.write("\n- project: '%s'\n" % trackTitle.strip())
+      f.write("\n- project: '%s'\n" % trackTitle.strip().replace("'", "&#39;"))
       f.write("  artist: '%s'\n" % artist.strip())
       f.write("  year: %s\n" % year)
       f.write("  roles:\n")
@@ -62,4 +62,4 @@ with open(sys.argv[1], newline='') as l:
       f.write("    <b>%s</b>\n\n" % notes.strip())
       f.write("  image:\n")
       f.write(f"    url: images/discography/{year}/{quote_plus(trackTitle.strip())}\n")
-      f.write("    title: '%s %s'\n\n" % (artist.strip(), '"'+trackTitle.strip()+'"'))
+      f.write("    title: '%s %s'\n\n" % (artist.strip().replace("'", "&#39;"), '"'+trackTitle.strip().replace("'", "&#39;")+'"'))
