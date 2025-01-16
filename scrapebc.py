@@ -42,12 +42,12 @@ with open(sys.argv[1], newline='') as l:
     print("Track Title: ", trackTitle)
     year = row["year"].strip()
     # save the album art locally
-    albumart = f"images/discography/{year}/{trackTitle.strip()}.jpg"
+    albumart = f"images/discography/{year}/{trackTitle.strip().replace(' ', '_').replace('/', '_')}.jpg"
     with open(albumart, 'wb') as f:
       f.write(requests.get(albumarturl).content)
 
     notes = row["notes"] if row["notes"] else ""
-    roles = [r.strip() for r in row["roles"].split(',')]
+    roles = [r.strip() for r in re.split(r',|, ', row["roles"])]
     with open('_data/discography/%s.yml' % year, 'a+') as f:
       f.write("\n- project: '%s'\n" % trackTitle.strip())
       f.write("  artist: '%s'\n" % artist.strip())
