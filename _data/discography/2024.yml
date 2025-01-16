@@ -190,23 +190,6 @@
     url: 'images%2Fdiscography%2F2024%2FMy_Autobiography_Vol._1.jpg'
     title: 'David Greenberger & Tyson Rogers "My Autobiography Vol. 1"'
 
-
-- project: 'Don't Do It, Davy'
-  artist: 'Dave Keener'
-  year: 2024
-  roles:
-    - "Mastering"
-  project_url:
-    url: 'https://davekeener.bandcamp.com/album/dont-do-it-davy'
-    title: 'Artist Site'
-  notes: >-
-    <b>"Mastered by Scott Anthony & Ben Davis at Storybook Sound, Maplewood, NJ"</b>
-
-  image:
-    url: 'images%2Fdiscography%2F2024%2FDon%27t_Do_It%2C_Davy.jpg'
-    title: 'Dave Keener "Don't Do It, Davy"'
-
-
 - project: 'Back Home'
   artist: 'Roderick Hohl'
   year: 2024
@@ -415,7 +398,7 @@
     title: 'David Greenberger & Tyson Rogers "My Autobiography Vol. 1"'
 
 
-- project: 'Don't Do It, Davy'
+- project: 'Don&quot;t Do It, Davy'
   artist: 'Dave Keener'
   year: 2024
   roles:
@@ -428,7 +411,7 @@
 
   image:
     url: images/discography/2024/Don%27t+Do+It%2C+Davy
-    title: 'Dave Keener "Don't Do It, Davy"'
+    title: 'Dave Keener "Don&quot;t Do It, Davy"'
 
 
 - project: 'Back Home'
@@ -445,4 +428,3 @@
   image:
     url: images/discography/2024/Back+Home
     title: 'Roderick Hohl "Back Home"'
-
