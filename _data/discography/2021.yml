@@ -226,3 +226,116 @@
   year: 2021
   roles:
     - Mastering
+
+- project: 'Thunder & Snow'
+  artist: 'Before & After Silence'
+  year: 2021
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://speedtheplough1.bandcamp.com/track/thunder-snow-2'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'images/discography/2021/Thunder_&_Snow.jpg'
+    title: 'Before & After Silence "Thunder & Snow"'
+
+
+- project: 'What Happens Next'
+  artist: 'Speed the Plough'
+  year: 2021
+  roles:
+    - "Mastering
+    - Bass"
+  project_url:
+    url: 'https://speedtheplough1.bandcamp.com/track/what-happens-next'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'images/discography/2021/What_Happens_Next.jpg'
+    title: 'Speed the Plough "What Happens Next"'
+
+
+- project: 'Broken Glass'
+  artist: 'Speed the Plough'
+  year: 2021
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://dromedaryrecords.bandcamp.com/album/broken-glass'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'images/discography/2021/Broken_Glass.jpg'
+    title: 'Speed the Plough "Broken Glass"'
+
+
+- project: 'Soul to Keep'
+  artist: 'Speed the Plough'
+  year: 2021
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://speedtheplough1.bandcamp.com/track/soul-to-keep'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'images/discography/2021/Soul_to_Keep.jpg'
+    title: 'Speed the Plough "Soul to Keep"'
+
+
+- project: 'Days of Confusion'
+  artist: 'Speed the Plough'
+  year: 2021
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://speedtheplough1.bandcamp.com/track/days-of-confusion'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'images/discography/2021/Days_of_Confusion.jpg'
+    title: 'Speed the Plough "Days of Confusion"'
+
+
+- project: 'Here In My Arms'
+  artist: 'Speed the Plough'
+  year: 2021
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://speedtheplough1.bandcamp.com/track/here-in-my-arms'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'images/discography/2021/Here_In_My_Arms.jpg'
+    title: 'Speed the Plough "Here In My Arms"'
+
+
+- project: 'Before & After Silence'
+  artist: 'Speed the Plough'
+  year: 2021
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://speedtheplough1.bandcamp.com/album/before-after-silence'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: 'images/discography/2021/Before_&_After_Silence.jpg'
+    title: 'Speed the Plough "Before & After Silence"'
+
