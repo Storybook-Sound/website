@@ -41,16 +41,17 @@ with open(sys.argv[1], newline='') as l:
     trackTitle = soup.findAll('h2', {'class': 'trackTitle'})[0].get_text().strip()
     print("Track Title: ", trackTitle)
     year = row["year"].strip()
-    # save the album art locally
-    albumart = f"images/discography/{year}/{trackTitle.strip().replace(' ', '_').replace('/', '_')}.jpg"
-    with open(albumart, 'wb') as f:
+    image_extension = albumarturl.split('.')[-1]
+    image_basename = f"{trackTitle.strip().replace(' ', '_').replace('/', '_')}"
+    imagepath = f"images/discography/{year}/"
+    with open(f"{image_basename}.{image_extension}", 'wb') as f:
       f.write(requests.get(albumarturl).content)
 
     notes = row["notes"] if row["notes"] else ""
     roles = [r.strip() for r in re.split(r',|, ', row["roles"])]
     with open('_data/discography/%s.yml' % year, 'a+') as f:
       f.write("\n- project: '%s'\n" % trackTitle.strip().replace("'", "&#39;"))
-      f.write("  artist: '%s'\n" % artist.strip())
+      f.write("  artist: '%s'\n" % artist.strip().replace("'", "&#39;"))
       f.write("  year: %s\n" % year)
       f.write("  roles:\n")
       for role in roles:
@@ -61,5 +62,5 @@ with open(sys.argv[1], newline='') as l:
       f.write("  notes: >-\n")
       f.write("    <b>%s</b>\n\n" % notes.strip())
       f.write("  image:\n")
-      f.write(f"    url: images/discography/{year}/{quote_plus(trackTitle.strip())}\n")
+      f.write(f"    url: images/discography/{year}/{quote_plus(image_basename)}.{image_extension}\n")
       f.write("    title: '%s %s'\n\n" % (artist.strip().replace("'", "&#39;"), '"'+trackTitle.strip().replace("'", "&#39;")+'"'))
