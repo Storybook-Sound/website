@@ -26,8 +26,11 @@ with open(sys.argv[1], newline='') as l:
     r = requests.get(row["url"])
     soup = BeautifulSoup(r.content, "html.parser")
 
-    namesection = soup.findAll('div', {'id':'name-section'})[0]
-    #print(namesection)
+    try:
+      namesection = soup.findAll('div', {'id':'name-section'})[0]
+    except IndexError:
+      print(f"No name section found for {row['url']}")
+      continue
 
     albumarturl = soup.findAll('div', {'id':'tralbumArt'})[0].find('img').get('src')
     #print(albumart)
@@ -44,7 +47,7 @@ with open(sys.argv[1], newline='') as l:
     image_extension = albumarturl.split('.')[-1]
     image_basename = f"{trackTitle.strip().replace(' ', '_').replace('/', '_')}"
     imagepath = f"images/discography/{year}/"
-    with open(f"{image_basename}.{image_extension}", 'wb') as f:
+    with open(f"{imagepath}{image_basename}.{image_extension}", 'wb') as f:
       f.write(requests.get(albumarturl).content)
 
     notes = row["notes"] if row["notes"] else ""

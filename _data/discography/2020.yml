@@ -436,3 +436,67 @@
   roles:
     - Bass
     - Writing
+
+- project: 'Open Door'
+  artist: 'Speed the Plough'
+  year: 2020
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://speedtheplough1.bandcamp.com/track/open-door'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2020/Open_Door.jpg
+    title: 'Speed the Plough "Open Door"'
+
+
+- project: 'The Blanc Album'
+  artist: 'Blanc Du Blanc'
+  year: 2020
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://blancdublanc.bandcamp.com/album/the-blanc-album'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2020/The_Blanc_Album.jpg
+    title: 'Blanc Du Blanc "The Blanc Album"'
+
+
+- project: 'Who&#39;s Gonna Cry'
+  artist: 'Spill Your Guts b​/​w Who&#39;s Gonna Cry'
+  year: 2020
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://girlsongrass.bandcamp.com/track/whos-gonna-cry'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2020/Who%27s_Gonna_Cry.jpg
+    title: 'Spill Your Guts b​/​w Who&#39;s Gonna Cry "Who&#39;s Gonna Cry"'
+
+
+- project: 'Some Days (feat. The Poor Man&#39;s Opera)'
+  artist: 'Deena'
+  year: 2020
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://deena.bandcamp.com/album/some-days-feat-the-poor-mans-opera'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2020/Some_Days_%28feat._The_Poor_Man%27s_Opera%29.jpg
+    title: 'Deena "Some Days (feat. The Poor Man&#39;s Opera)"'
+

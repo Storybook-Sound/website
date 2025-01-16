@@ -545,3 +545,19 @@
   year: 2014
   roles:
     - Mastering
+
+- project: 'For Lou Reed/ Super Hot Lovers'
+  artist: 'Adam Bernstein'
+  year: 2014
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://adambernstein.bandcamp.com/album/for-lou-reed-super-hot-lovers'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2014/For_Lou_Reed__Super_Hot_Lovers.jpg
+    title: 'Adam Bernstein "For Lou Reed/ Super Hot Lovers"'
+

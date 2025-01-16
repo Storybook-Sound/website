@@ -339,3 +339,35 @@
     url: 'images/discography/2021/Before_&_After_Silence.jpg'
     title: 'Speed the Plough "Before & After Silence"'
 
+
+- project: 'The Other Side'
+  artist: 'Speed the Plough'
+  year: 2021
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://speedtheplough1.bandcamp.com/track/the-other-side'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2021/The_Other_Side.jpg
+    title: 'Speed the Plough "The Other Side"'
+
+
+- project: 'Buzz​-​O​-​Ramma'
+  artist: 'Elextraluxx'
+  year: 2021
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://rumbarrecords.bandcamp.com/album/buzz-o-ramma'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2021/Buzz%E2%80%8B-%E2%80%8BO%E2%80%8B-%E2%80%8BRamma.jpg
+    title: 'Elextraluxx "Buzz​-​O​-​Ramma"'
+
