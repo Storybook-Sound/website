@@ -31,7 +31,7 @@ for year in years:
               # Full path
               f = open(f"_data/discography/{fname}", 'r')
 
-              if project.lower() in f.read().lower():
+              if project.lower().replace("'", "&#39;") in f.read().lower():
                   print('\t \033[46;1m(found %s in file %s)\033[0m' % (project, fname))
                   found = True
                   break
