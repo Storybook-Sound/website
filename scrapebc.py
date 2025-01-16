@@ -3,7 +3,7 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 import csv
-from urllib.parse import urljoin
+from urllib.parse import urljoin, quote_plus
 
 
 urls = [
@@ -61,5 +61,5 @@ with open(sys.argv[1], newline='') as l:
       f.write("  notes: >-\n")
       f.write("    <b>%s</b>\n\n" % notes.strip())
       f.write("  image:\n")
-      f.write("    url: '%s'\n" % albumart)
+      f.write(f"    url: images/discography/{year}/{quote_plus(trackTitle.strip())}\n")
       f.write("    title: '%s %s'\n\n" % (artist.strip(), '"'+trackTitle.strip()+'"'))
