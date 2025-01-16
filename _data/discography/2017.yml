@@ -639,3 +639,19 @@
   year: 2017
   roles:
     - Mastering
+
+- project: 'Western Medicine Blues'
+  artist: 'Soltero'
+  year: 2017
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://soltero.bandcamp.com/album/western-medicine-blues'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2017/Western_Medicine_Blues.jpg
+    title: 'Soltero "Western Medicine Blues"'
+

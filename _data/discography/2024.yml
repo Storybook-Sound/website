@@ -252,3 +252,19 @@
   image:
     url: images/discography/2024/Don't_Do_It,_Davy.jpg
     title: 'Dave Keener "Don&#39;t Do It, Davy"'
+
+- project: 'Bent by the Weather'
+  artist: 'Life in a Blender'
+  year: 2024
+  roles:
+    - "Mastering"
+  project_url:
+    url: 'https://lifeinablender.bandcamp.com/album/bent-by-the-weather'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2024/Bent_by_the_Weather.jpg
+    title: 'Life in a Blender "Bent by the Weather"'
+
