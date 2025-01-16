@@ -29,7 +29,7 @@ with open(sys.argv[1], newline='') as l:
     namesection = soup.findAll('div', {'id':'name-section'})[0]
     #print(namesection)
 
-    albumart = soup.findAll('div', {'id':'tralbumArt'})[0].find('img').get('src')
+    albumarturl = soup.findAll('div', {'id':'tralbumArt'})[0].find('img').get('src')
     #print(albumart)
 
     artist_with_by = soup.findAll('h3')[0].get_text()
@@ -41,6 +41,11 @@ with open(sys.argv[1], newline='') as l:
     trackTitle = soup.findAll('h2', {'class': 'trackTitle'})[0].get_text().strip()
     print("Track Title: ", trackTitle)
     year = row["year"].strip()
+    # save the album art locally
+    albumart = f"images/discography/{year}/{trackTitle.strip()}.jpg"
+    with open(albumart, 'wb') as f:
+      f.write(requests.get(albumarturl).content)
+
     notes = row["notes"] if row["notes"] else ""
     roles = [r.strip() for r in row["roles"].split(',')]
     with open('_data/discography/%s.yml' % year, 'a+') as f:

@@ -1,2 +1,5 @@
-Use Google Search API Instead
+* Use Google Search API Instead
 [docs](https://developers.google.com/custom-search/v1/overview)
+* Replace single quotes with html entities or otherwise escape them.
+* "Mastered by Scott Anthony at Storybook Sound", etc... parsed to line items (eg mastering, bass, etc...)
+* Grab the images from BC and store locally.
