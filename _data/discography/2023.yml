@@ -280,10 +280,10 @@
 
 
 - project: 'I Was Thinking About You'
-  artist: 'I Was Thinking About You (digital single)'
+  artist: 'Juniper'
   year: 2023
   roles:
-    - "Mastering"
+    - "Recording"
   project_url:
     url: 'https://juniperssongs.bandcamp.com/track/i-was-thinking-about-you'
     title: 'Artist Site'
@@ -292,7 +292,7 @@
 
   image:
     url: images/discography/2023/I_Was_Thinking_About_You.jpg
-    title: 'I Was Thinking About You (digital single) "I Was Thinking About You"'
+    title: 'Juniper "I Was Thinking About You"'
 
 - project: 'Three Colors'
   artist: 'Three Colors'
@@ -308,4 +308,3 @@
   image:
     url: images/discography/2023/Three_Colors.jpg
     title: 'Three Colors "Three Colors"'
-
