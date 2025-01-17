@@ -29,7 +29,7 @@ for link in links:
     r = requests.get(link)
     soup = BeautifulSoup(r.content, "html.parser")
     albumCredits = soup.findAll('div', {'class': 'tralbumData tralbum-credits'})[0].get_text()
-    roles = [r.strip() for r in albumCredits.split('\n') if re.search(r"Scott Anthony|Storybook Sound", r)] if re.search(r"Scott Anthony|Storybook Sound", albumCredits) else ["Undefined"]
+    roles = [r.strip() for r in albumCredits.split('\n') if re.search(r"Scott Anthony|Storybook Sound", r, re.IGNORECASE)] if re.search(r"Scott Anthony|Storybook Sound", albumCredits, re.IGNORECASE) else ["Undefined"]
     if roles == ["Undefined"]:
         print(f"\033[31;1m!!!DID NOT FIND: Scott Anthony or Storybook Sound in {link} \033[0m \n")
         # make this one yellow
