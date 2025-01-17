@@ -3,3 +3,5 @@ __pycache__
 _site
 Gemfile.lock
 .bundle
+discupdate/configs.py
+client_secret.json

@@ -63,7 +63,10 @@ for band in bandsmapping.keys():
       albumCredits = soup.findAll('div', {'class': 'tralbumData tralbum-credits'})[0].get_text()
       year = re.search(r"(\d{4})", albumCredits).group(1) if re.search(r"(\d{4})", albumCredits) else "UNKNOWN"
       # Anything related to Scott Anthony
-      roles = [r.strip() for r in albumCredits.split('\n') if re.search(r"Scott Anthony", r)] if re.search(r"Scott Anthony", albumCredits) else ["Mastering"]
+      roles = [r.strip() for r in albumCredits.split('\n') if re.search(r"Scott Anthony", r)] if re.search(r"Scott Anthony", albumCredits) else ["Undefined"]
+      if roles == ["Undefined"]:
+        print(f"Check role for {url}...")
+      continue
       with open('test/%s.yml' % year, 'a+') as f:
         f.write("\n- project: '%s'\n" % trackTitle.strip())
         f.write("  artist: '%s'\n" % artist.strip())

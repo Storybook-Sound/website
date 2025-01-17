@@ -37,3 +37,7 @@ To automatically open a specific gallery item, you can specify the "set" and "en
 https://storybooksound.com/discography.html?set=0&entry=0
 
 Where `set=0` is the first/top set on the page. Entries for each set also begin at zero. You can use dev tools in the browser to inspect HTML if in doubt about which set and entry to specify.
+
+## Update Discography
+There are the beginnings of some Python helpers for updating discography.
+`python -m discupdate`
