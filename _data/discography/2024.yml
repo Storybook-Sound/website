@@ -283,3 +283,19 @@
   image:
     url: images/discography/2024/Back_Home.jpg
     title: 'Roderick Hohl "Back Home"'
+
+- project: 'Promise'
+  artist: 'Giggle Out Loud'
+  year: 2024
+  roles:
+    - "Recording"
+  project_url:
+    url: 'https://mzoo.bandcamp.com/album/promise'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2024/Promise.jpg
+    title: 'Giggle Out Loud "Promise"'
+
