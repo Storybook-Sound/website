@@ -1,5 +1,6 @@
 from googleapiclient.discovery import build
 from pprint import pprint
+import os
 import re
 import sys
 import requests
@@ -13,6 +14,14 @@ from datetime import datetime
 # https://stackoverflow.com/a/37084643/2223106
 
 links = set()
+
+def checkpresence(url):
+  for f in os.listdir('../_data/discography'):
+    if f.endswith('.yml'):
+      with open(f"../_data/discography/{f}", "r") as f:
+        if url in f.read():
+          return f.name
+  return None
 
 def google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
