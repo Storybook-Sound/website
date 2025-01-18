@@ -84,7 +84,7 @@ for link in links:
       with open(f"{imagepath}{image_basename}.{image_extension}", 'wb') as f:
         f.write(requests.get(albumarturl).content)
       with open('_data/discography/%s.yml' % year, 'a+') as f:
-        f.write("\n- project: '%s'\n" % trackTitle.replace("'", '&#39;'))
+        f.write("\n\n- project: '%s'\n" % trackTitle.replace("'", '&#39;'))
         f.write("  artist: '%s'\n" % artist.strip())
         f.write("  year: %s\n" % year)
         f.write("  roles:\n")
