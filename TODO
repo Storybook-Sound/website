@@ -1,5 +1,52 @@
-* Use Google Search API Instead
-[docs](https://developers.google.com/custom-search/v1/overview)
-* Replace single quotes with html entities or otherwise escape them.
-* "Mastered by Scott Anthony at Storybook Sound", etc... parsed to line items (eg mastering, bass, etc...)
-* Grab the images from BC and store locally.
+Handle "track" items from BC when image duplicate of the "album" image
+[like this one](https://emilyduff.bandcamp.com/track/the-remedy)
+Also the Artist and Album end up getting mixed up here.
+DIG:
+
+```html
+<div id="name-section">
+    <h2 class="trackTitle">
+        The Remedy
+    </h2>
+    <h3 class="albumTitle">
+        from <span>
+            <a href="/album/go-tell-your-friends"><span class="fromAlbum">Go Tell Your Friends</span></a></span> by
+        <span>
+        <a href="https://emilyduff.bandcamp.com">Emily Duff</a>
+        </span>
+    </h3>
+</div>
+```
+```yaml
+- project: 'The Remedy'
+  artist: 'Go Tell Your Friends'
+  year: 2015
+  roles:
+    - Mastering
+  project_url:
+    url: 'https://emilyduff.bandcamp.com/track/the-remedy'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2015/The_Remedy.jpg
+    title: 'Go Tell Your Friends "The Remedy"'
+```
+
+Also are we missing project urls for a bunch of the imported ones:
+
+```yaml
+
+- project: 'Do The Needful'
+  artist: 'Evergreen'
+  year: 2018
+  roles:
+    - Mastering
+  notes: >-
+
+  image:
+    url: images/discography/2018/a1957058005_10.jpg
+    title: 'Evergreen "Do The Needful"'
+```
+Perhaps these were ones we had added manually. May need to be checking for presence of project by project name and artist name.

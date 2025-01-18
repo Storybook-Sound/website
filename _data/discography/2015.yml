@@ -29,6 +29,7 @@
   image:
     url: images/discography/2015/a2996221471_10.jpg
     title: 'Frank Bango "Christmas in Bed with My Baby"'
+
 - project: 'Go Tell Your Friends'
   artist: 'Emily Duff'
   year: 2015
@@ -45,6 +46,7 @@
   image:
     url: images/discography/2015/a1603614223_10.jpg
     title: 'Emily Duff "Go Tell Your Friends"'
+
 - project: 'Change In Luck'
   artist: 'Hallow Dog'
   year: 2015
@@ -185,37 +187,6 @@
   roles:
     - Mastering
 
-- project: 'The Remedy'
-  artist: 'Go Tell Your Friends'
-  year: 2015
-  roles:
-    - Mastering
-  project_url:
-    url: 'https://emilyduff.bandcamp.com/track/the-remedy'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: images/discography/2015/The_Remedy.jpg
-    title: 'Go Tell Your Friends "The Remedy"'
-
-
-- project: 'My Daddy'
-  artist: 'Go Tell Your Friends'
-  year: 2015
-  roles:
-    - Mastering
-  project_url:
-    url: 'https://emilyduff.bandcamp.com/track/my-daddy'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: images/discography/2015/My_Daddy.jpg
-    title: 'Go Tell Your Friends "My Daddy"'
-
 
 - project: 'Summertime Santa'
   artist: 'Jason Didner and the Jungle Gym Jam'
@@ -263,19 +234,3 @@
   image:
     url: images/discography/2015/El_Dorado.jpg
     title: 'Chris P Cauley "El Dorado"'
-
-
-- project: 'Blind and Numb'
-  artist: 'Go Tell Your Friends'
-  year: 2015
-  roles:
-    - Mastering
-  project_url:
-    url: 'https://emilyduff.bandcamp.com/track/blind-and-numb'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: images/discography/2015/Blind_and_Numb.jpg
-    title: 'Go Tell Your Friends "Blind and Numb"'

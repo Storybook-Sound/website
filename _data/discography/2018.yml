@@ -34,16 +34,7 @@
   image:
     url: images/discography/2018/71dRyXzXGqL._SS500_.jpg
     title: 'Saturday Afternoon Song Swap "Swap Thing: Part 1"'
-- project: 'Do The Needful'
-  artist: 'Evergreen'
-  year: 2018
-  roles:
-    - Mastering
-  notes: >-
 
-  image:
-    url: images/discography/2018/a1957058005_10.jpg
-    title: 'Evergreen "Do The Needful"'
 - project: 'Telling Stories'
   artist: 'Caroline De Schryver'
   year: 2018
@@ -54,6 +45,7 @@
   image:
     url: images/discography/2018/910YpzybbzL._SS500_.jpg
     title: 'Caroline De Schryver "Telling Stories"'
+
 - project: 'A Place Where Nobody Goes'
   artist: 'June Cleaver and the Steak Knives'
   year: 2018
@@ -373,69 +365,6 @@
   year: 2018
   roles:
     - Engineer
-
-- project: 'Mere Sapno Ki Rani'
-  artist: 'Evergreen'
-  year: 2018
-  roles:
-    - Mastered by Scott Anthony at Storybook Sound, Maplewood, NJ.
-  project_url:
-    url: 'https://dotheneedful.bandcamp.com/track/mere-sapno-ki-rani'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: images/discography/2018/Mere_Sapno_Ki_Rani.jpg
-    title: 'Evergreen "Mere Sapno Ki Rani"'
-
-
-- project: 'Kya Hua Tera Wada'
-  artist: 'Evergreen'
-  year: 2018
-  roles:
-    - Mastered by Scott Anthony at Storybook Sound, Maplewood, NJ.
-  project_url:
-    url: 'https://dotheneedful.bandcamp.com/track/kya-hua-tera-wada'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: images/discography/2018/Kya_Hua_Tera_Wada.jpg
-    title: 'Evergreen "Kya Hua Tera Wada"'
-
-
-- project: 'Jan Pehechaan Ho'
-  artist: 'Evergreen'
-  year: 2018
-  roles:
-    - Mastered by Scott Anthony at Storybook Sound, Maplewood, NJ.
-  project_url:
-    url: 'https://dotheneedful.bandcamp.com/track/jan-pehechaan-ho'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: images/discography/2018/Jan_Pehechaan_Ho.jpg
-    title: 'Evergreen "Jan Pehechaan Ho"'
-
-
-- project: 'Na Ja Kahin Ab Na Ja'
-  artist: 'Evergreen'
-  year: 2018
-  roles:
-    - Mastered by Scott Anthony at Storybook Sound, Maplewood, NJ.
-  project_url:
-    url: 'https://dotheneedful.bandcamp.com/track/na-ja-kahin-ab-na-ja'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: images/discography/2018/Na_Ja_Kahin_Ab_Na_Ja.jpg
-    title: 'Evergreen "Na Ja Kahin Ab Na Ja"'
 
 
 - project: 'Evergreen'
