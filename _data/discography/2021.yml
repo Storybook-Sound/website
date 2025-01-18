@@ -29,8 +29,6 @@
     url: images/discography/2021/AlexChilton-HighPriest.jpg
     title: 'Alex Chilton "High Priest"'
 
-
-
 - project: 'Rogue Oliphant "Highlights of the Low Life"'
   artist: 'Rogue Oliphant'
   year: 2021
@@ -371,19 +369,11 @@
     url: images/discography/2021/Buzz%E2%80%8B-%E2%80%8BO%E2%80%8B-%E2%80%8BRamma.jpg
     title: 'Elextraluxx "Buzz​-​O​-​Ramma"'
 
-
-- project: 'Human Indictive / Live'
-  artist: 'OPTO S'
-  year: 2021
-  roles:
-    - Mastered by Scott Anthony at Storybook Sound in Maplewood, NJ
-  project_url:
-
 - project: 'Covid 19 in 2020'
   artist: '6FEET         APART'
   year: 2021
   roles:
-    - Mastering by Scott Anthony, Storybook Sound
+    - Mastering
   project_url:
     url: 'https://6feetapart2020.bandcamp.com/'
     title: 'Artist Site'
@@ -477,21 +467,30 @@
     title: 'Speed the Plough "Broken Glass"'
 
 
+
 - project: 'Human Indictive / Live'
   artist: 'OPTO S'
   year: 2021
   roles:
-    - Mastered by Scott Anthony at Storybook Sound in Maplewood, NJ
+    - Mastering
   project_url:
     url: 'https://optosesp.bandcamp.com/album/human-indictive-live'
     title: 'Artist Site'
   notes: >-
-    <b></b>
+     <b>
+     David Greenberger: monologue
+     Tyson Rogers: music
+
+     An installment from "Everybody's Home"
+
+     Text based on a conversation with Scott Anthony.
+
+     Cover image uses a detail from "Fecundity 179" by Barbara Price, 2020 (pencil, ink, and collage on book page)
+     </b>
 
   image:
     url: images/discography/2021/Human_Indictive___Live.jpg
     title: 'OPTO S "Human Indictive / Live"'
-
 
 - project: 'Hani Zaccarelli'
   artist: 'Hani Zaccarelli'
