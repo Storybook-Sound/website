@@ -294,21 +294,6 @@
     url: images/discography/2023/I_Was_Thinking_About_You.jpg
     title: 'Juniper "I Was Thinking About You"'
 
-- project: 'Three Colors'
-  artist: 'Three Colors'
-  year: 2023
-  roles:
-    - "Mastering"
-  project_url:
-    url: 'https://threecolors.bandcamp.com/album/three-colors'
-    title: 'Artist Site'
-  notes: >-
-    <b></b>
-
-  image:
-    url: images/discography/2023/Three_Colors.jpg
-    title: 'Three Colors "Three Colors"'
-
 - project: 'Laura Lee'
   artist: 'Racket Squad'
   year: 2023
