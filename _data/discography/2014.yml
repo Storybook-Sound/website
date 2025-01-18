@@ -4,8 +4,8 @@
   roles:
     - Mastering
   notes: >-
-    
-  image: 
+
+  image:
     url: images/discography/2014/peterhutchison_large.jpg
     title: 'Peter Hutchison "Empire of Light"'
 - project: 'Landmark'
@@ -16,7 +16,7 @@
   notes: >-
     <b>Engineered by John Abbey
     Mastered by Scott Anthony at Storybook Sound </b>
-  image: 
+  image:
     url: images/discography/2014/album-cover-new.jpg
     title: 'Emily Hurd "Landmark"'
 - project: 'The Museum of Me'
@@ -24,13 +24,13 @@
   year: 2014
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://en.wikipedia.org/wiki/Chris_Butler_(musician)
     title: Wikipedia
   notes: >-
-    
-    
-  image: 
+
+
+  image:
     url: images/discography/2014/cb.jpeg
     title: 'Chris Butler "The Museum of Me"'
 - project: 'Friend or Foe'
@@ -40,7 +40,7 @@
     - What did I do here again?
   notes: >-
     Erica Smith
-  image: 
+  image:
     url: images/discography/2014/erica.jpeg
     title: 'Friend or Foe'
 - project: 'Famous Recording Artists'
@@ -50,7 +50,7 @@
     - What did I do here again?
   notes: >-
     The Shitbirds
-  image: 
+  image:
     url: images/discography/2014/famous.jpeg
     title: 'Famous Recording Artists'
 - project: 'End of Smith'
@@ -60,7 +60,7 @@
     - What did I do here again?
   notes: >-
     John Pinamonti
-  image: 
+  image:
     url: images/discography/2014/jp-smith.jpeg
     title: 'End of Smith'
 - project: 'Live at Sunny''s'
@@ -70,7 +70,7 @@
     - What did I do here again?
   notes: >-
     John Pinamonti
-  image: 
+  image:
     url: images/discography/2014/jp.jpeg
     title: 'Live at Sunny''s'
 - project: 'Love Lane'
@@ -80,7 +80,7 @@
     - What did I do here again?
   notes: >-
     Jenifer Jackson
-  image: 
+  image:
     url: images/discography/2014/love-lane.jpeg
     title: 'Love Lane'
 - project: 'Receding Choir'
@@ -90,7 +90,7 @@
     - What did I do here again?
   notes: >-
     Brian Kelly
-  image: 
+  image:
     url: images/discography/2014/receding.jpeg
     title: 'Receding Choir'
 - project: 'Hey Pussycat!'
@@ -103,7 +103,7 @@
     <b>Produced by John Sharples
     Recorded at Wombat by Ross Bonadonna
     Mixed and mastered by Scott Anthony at The Viewing Room</b>
-  image: 
+  image:
     url: images/discography/2014/OOO.jpeg
     title: 'Out Of Order "Hey Pussycat!"'
 - project: 'Anywhere Will Do'
@@ -113,7 +113,7 @@
     - What did I do here again?
   notes: >-
     Beekeeper
-  image: 
+  image:
     url: images/discography/2014/beekeeper.png
     title: 'Anywhere Will Do'
 - project: 'Gypsy 83 Soundtrack'
@@ -123,7 +123,7 @@
     - What did I do here again?
   notes: >-
     Various artists
-  image: 
+  image:
     url: images/discography/2014/Gypsy-83-Soundtrack.jpg
     title: 'Gypsy 83 Soundtrack'
 - project: 'AntiFolk Road Manual'
@@ -133,7 +133,7 @@
     - What did I do here again?
   notes: >-
     Mike iLL
-  image: 
+  image:
     url: images/discography/2014/AntiFolk.png
     title: 'AntiFolk Road Manual'
 - project: 'Open On Sunday'
@@ -143,7 +143,7 @@
     - What did I do here again?
   notes: >-
     Paula Carino
-  image: 
+  image:
     url: images/discography/2014/image1.jpg
     title: 'Open On Sunday'
 - project: 'Holding Back The Years'
@@ -153,7 +153,7 @@
     - What did I do here again?
   notes: >-
     Jimmy Scott
-  image: 
+  image:
     url: images/discography/2014/Jimmy-Scott1.jpg
     title: 'Holding Back The Years'
 - project: 'The New INTERface Trio'
@@ -163,7 +163,7 @@
     - What did I do here again?
   notes: >-
     John Fischer, Mike Richmond, Ben Kilmer
-  image: 
+  image:
     url: images/discography/2014/John-Fischer.png
     title: 'The New INTERface Trio'
 - project: 'I Love You'
@@ -173,7 +173,7 @@
     - What did I do here again?
   notes: >-
     Leif Arntzen
-  image: 
+  image:
     url: images/discography/2014/Leif2.png
     title: 'I Love You'
 - project: 'The Plunk Brothers'
@@ -183,7 +183,7 @@
     - What did I do here again?
   notes: >-
     The Plunk Brothers
-  image: 
+  image:
     url: images/discography/2014/Plunk2.png
     title: 'The Plunk Brothers'
 - project: 'The Art Of Navigation'
@@ -193,7 +193,7 @@
     - What did I do here again?
   notes: >-
     Regia
-  image: 
+  image:
     url: images/discography/2014/regia.jpg
     title: 'The Art Of Navigation'
 - project: 'Thunk'
@@ -203,7 +203,7 @@
     - What did I do here again?
   notes: >-
     Soothing Sounds For Baby
-  image: 
+  image:
     url: images/discography/2014/Thunk2.png
     title: 'Thunk'
 - project: 'Chromium Dub'
@@ -213,7 +213,7 @@
     - What did I do here again?
   notes: >-
     Illness
-  image: 
+  image:
     url: images/discography/2014/67044_10151202252332912_1798014794_n.jpg
     title: 'Chromium Dub'
 - project: 'For You'
@@ -223,7 +223,7 @@
     - What did I do here again?
   notes: >-
     Yooj
-  image: 
+  image:
     url: images/discography/2014/Yooj.png
     title: 'For You'
 - project: 'Bridge'
@@ -233,8 +233,8 @@
     - Mastering
   notes: >-
     Jake
-    
-  image: 
+
+  image:
     url: images/discography/2014/bridge-jake-cd-cover-art.jpg
     title: 'Bridge'
 - project: 'Improvising'
@@ -244,7 +244,7 @@
     - What did I do here again?
   notes: >-
     OmU
-  image: 
+  image:
     url: images/discography/2014/CDOmuImprovising.jpg
     title: 'Improvising'
 - project: 'Easy Life'
@@ -252,14 +252,14 @@
   year: 2014
   roles:
     - Mastering
-  project_url: 
+  project_url:
     url: https://en.wikipedia.org/wiki/Chris_Butler_(musician)
     title: Wikipedia
   notes: >-
     <b>Mastered by Scott Anthony at Storybook Sound
     Plus: Mixing</b>
-    
-  image: 
+
+  image:
     url: images/discography/2014/chrisbutler1.jpg
     title: 'Chris Butler "Easy Life"'
 - project: 'Night Time'
@@ -269,7 +269,7 @@
     - What did I do here again?
   notes: >-
     Driver Quartet
-  image: 
+  image:
     url: images/discography/2014/driver-quartet.jpg
     title: 'Night Time'
 - project: 'English 101'
@@ -279,7 +279,7 @@
     - What did I do here again?
   notes: >-
     Various artists w/ Ron English
-  image: 
+  image:
     url: images/discography/2014/english-101.jpg
     title: 'English 101'
 - project: 'The Demo Anthology'
@@ -289,7 +289,7 @@
     - What did I do here again?
   notes: >-
     The Gefkens
-  image: 
+  image:
     url: images/discography/2014/gef.jpg
     title: 'The Demo Anthology'
 - project: 'Homage - lots of bands doing Descendants songs'
@@ -299,7 +299,7 @@
     - What did I do here again?
   notes: >-
     Various artists
-  image: 
+  image:
     url: images/discography/2014/Homage.jpg
     title: 'Homage - lots of bands doing Descendants songs'
 - project: '2 Rare'
@@ -308,8 +308,8 @@
   roles:
     - Mastering
   notes: >-
-    
-  image: 
+
+  image:
     url: images/discography/2014/illtet-2-rare.jpg
     title: 'Sweet Lizard Illtet "2 Rare"'
 - project: 'Shitbirds'
@@ -319,7 +319,7 @@
     - What did I do here again?
   notes: >-
     The Shitbirds
-  image: 
+  image:
     url: images/discography/2014/image3.jpg
     title: 'Shitbirds'
 - project: 'The Shitbirds'
@@ -329,7 +329,7 @@
     - What did I do here again?
   notes: >-
     The Shitbirds
-  image: 
+  image:
     url: images/discography/2014/image4.jpg
     title: 'The Shitbirds'
 - project: 'Redemption'
@@ -339,7 +339,7 @@
     - What did I do here again?
   notes: >-
     T.J. Swan
-  image: 
+  image:
     url: images/discography/2014/redemption-tj-swan-music.jpg
     title: 'Redemption'
 - project: 'Morning Becomes Electric'
@@ -349,7 +349,7 @@
     - What did I do here again?
   notes: >-
     Rob Norris
-  image: 
+  image:
     url: images/discography/2014/rob-norris.jpg
     title: 'Morning Becomes Electric'
 - project: 'The Machine'
@@ -358,8 +358,8 @@
   roles:
     - Mastering
   notes: >-
-    
-  image: 
+
+  image:
     url: images/discography/2014/sinsanity.jpg
     title: 'Sinsanity "The Machine"'
 - project: 'Snake Road'
@@ -369,7 +369,7 @@
     - What did I do here again?
   notes: >-
     Jake
-  image: 
+  image:
     url: images/discography/2014/snake-road.jpg
     title: 'Snake Road'
 - project: 'Togetherness'
@@ -379,7 +379,7 @@
     - What did I do here again?
   notes: >-
     Phillips &amp; Driver
-  image: 
+  image:
     url: images/discography/2014/togetherness.jpg
     title: 'Togetherness'
 - project: 'Blue Sky Lullaby'
@@ -389,7 +389,7 @@
     - What did I do here again?
   notes: >-
     The Hammond Sisters
-  image: 
+  image:
     url: images/discography/2014/Blue-Sky-Lullaby.jpg
     title: 'Blue Sky Lullaby'
 - project: 'Summer''s Going By'
@@ -399,7 +399,7 @@
     - What did I do here again?
   notes: >-
     Jeff Cohen
-  image: 
+  image:
     url: images/discography/2014/jeffcohen.jpg
     title: 'Summer''s Going By'
 - project: 'Cities Filled With Lights'
@@ -409,7 +409,7 @@
     - What did I do here again?
   notes: >-
     Matt Schickele
-  image: 
+  image:
     url: images/discography/2014/cities_filled_with_lights_import-schickele_matt-3482332-frnt.jpg
     title: 'Cities Filled With Lights'
 - project: 'Snowblind'
@@ -419,7 +419,7 @@
     - What did I do here again?
   notes: >-
     Erica Smith and The 99 Cent Dreams
-  image: 
+  image:
     url: images/discography/2014/image11.jpg
     title: 'Snowblind'
 - project: 'The Chymical Vegas Wedding'
@@ -429,7 +429,7 @@
     - What did I do here again?
   notes: >-
     Joe Cassady and The West End Sound
-  image: 
+  image:
     url: images/discography/2014/joe-cassady.jpg
     title: 'The Chymical Vegas Wedding'
 - project: 'Andiamo'
@@ -439,7 +439,7 @@
     - What did I do here again?
   notes: >-
     The Malarkies
-  image: 
+  image:
     url: images/discography/2014/malarkies.jpg
     title: 'Andiamo'
 - project: 'High Wide and Handsome'
@@ -449,7 +449,7 @@
     - What did I do here again?
   notes: >-
     John Pinamonti
-  image: 
+  image:
     url: images/discography/2014/pinamonti.jpg
     title: 'High Wide and Handsome'
 - project: 'Oh Joy!'
@@ -459,7 +459,7 @@
     - What did I do here again?
   notes: >-
     The Shitbirds
-  image: 
+  image:
     url: images/discography/2014/shitbirds.jpg
     title: 'Oh Joy!'
 - project: 'Hard Travelin'' With Woody and The Hobos'
@@ -471,7 +471,7 @@
     - Recording
   notes: >-
     <b>Recorded, mixed and mastered by Scott Anthony at The Viewing Room</b>
-  image: 
+  image:
     url: images/discography/2014/woody.jpeg
     title: 'Randy Noojin "Hard Travelin'' With Woody and The Hobos"'
 - project: 'Little RocknRollers'
@@ -561,3 +561,66 @@
     url: images/discography/2014/For_Lou_Reed__Super_Hot_Lovers.jpg
     title: 'Adam Bernstein "For Lou Reed/ Super Hot Lovers"'
 
+
+- project: 'Obsessed'
+  artist: 'We Loved Each Other Up/ Obsessed'
+  year: 2014
+  roles:
+    - Undefined
+  project_url:
+    url: 'https://adambernstein.bandcamp.com/track/obsessed'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2014/Obsessed.jpg
+    title: 'We Loved Each Other Up/ Obsessed "Obsessed"'
+
+
+- project: 'Finally Alone'
+  artist: 'Finally Alone​/​High'
+  year: 2014
+  roles:
+    - Mastered by Scott Anthony @ Storybook Sound
+  project_url:
+    url: 'https://adambernstein.bandcamp.com/track/finally-alone'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2014/Finally_Alone.jpg
+    title: 'Finally Alone​/​High "Finally Alone"'
+
+
+- project: 'ME I JUST WANT SOME'
+  artist: 'Emily Duff'
+  year: 2014
+  roles:
+    - Undefined
+  project_url:
+    url: 'https://emilyduff.bandcamp.com/track/me-i-just-want-some'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2014/ME_I_JUST_WANT_SOME.jpg
+    title: 'Emily Duff "ME I JUST WANT SOME"'
+
+
+- project: 'I Love You Like the Stars Love the Universe'
+  artist: 'Adam Bernstein'
+  year: 2014
+  roles:
+    - Undefined
+  project_url:
+    url: 'https://adambernstein.bandcamp.com/album/i-love-you-like-the-stars-love-the-universe'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2014/I_Love_You_Like_the_Stars_Love_the_Universe.jpg
+    title: 'Adam Bernstein "I Love You Like the Stars Love the Universe"'

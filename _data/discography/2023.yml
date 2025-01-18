@@ -308,3 +308,50 @@
   image:
     url: images/discography/2023/Three_Colors.jpg
     title: 'Three Colors "Three Colors"'
+
+- project: 'Laura Lee'
+  artist: 'Racket Squad'
+  year: 2023
+  roles:
+    - Mastered by Scott Anthony at Storybook Sound
+  project_url:
+    url: 'https://racketsquad.bandcamp.com/track/laura-lee'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2023/Laura_Lee.jpg
+    title: 'Racket Squad "Laura Lee"'
+
+
+- project: 'tricycle (remastered / expanded edition)'
+  artist: 'WILD CARNATION'
+  year: 2023
+  roles:
+    - Undefined
+  project_url:
+    url: 'https://delmorerecordings.bandcamp.com/album/tricycle-remastered-expanded-edition'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2023/tricycle_%28remastered___expanded_edition%29.jpg
+    title: 'WILD CARNATION "tricycle (remastered / expanded edition)"'
+
+
+- project: 'Bad News (feat. Cliff Westfall)'
+  artist: 'Wire Troop & Friends Play Your Country Music Favorites (and More)'
+  year: 2023
+  roles:
+    - Mastered by Scott Anthony at Storybook Sound, Maplewood, NJ
+  project_url:
+    url: 'https://wiretroop.bandcamp.com/track/bad-news-feat-cliff-westfall'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2023/Bad_News_%28feat._Cliff_Westfall%29.jpg
+    title: 'Wire Troop & Friends Play Your Country Music Favorites (and More) "Bad News (feat. Cliff Westfall)"'

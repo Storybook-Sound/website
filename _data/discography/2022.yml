@@ -131,3 +131,34 @@
   image:
     url: images/discography/2022/LutherBlack-Moment.jpg
     title: 'Luther Black and the Cold Hard Facts "Moment of Truth"'
+
+- project: 'The Dad Tapes'
+  artist: 'Rebecca Turner & Friends'
+  year: 2022
+  roles:
+    - Undefined
+  project_url:
+    url: 'https://rebeccaturner.bandcamp.com/album/the-dad-tapes'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2022/The_Dad_Tapes.jpg
+    title: 'Rebecca Turner & Friends "The Dad Tapes"'
+
+
+- project: 'Monette'
+  artist: 'Monica Passin'
+  year: 2022
+  roles:
+    - Mastered by Scott Anthony at Storybook Sound, Maplewood, NJ
+  project_url:
+    url: 'https://monicats.bandcamp.com/album/monette'
+    title: 'Artist Site'
+  notes: >-
+    <b></b>
+
+  image:
+    url: images/discography/2022/Monette.jpg
+    title: 'Monica Passin "Monette"'
